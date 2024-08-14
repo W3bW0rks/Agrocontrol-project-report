@@ -1,21 +1,35 @@
----
+# <center>COURSE PROJECT</center>
 
----
----
-# UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN WX55
-Profesor: Angel Augusto Velasquez Nuñez
-# Informe de TF
-"Startup"
-"Producto"
-### Integrantes:
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-- Nombre
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
+    <br>INFORME DEL TRABAJO FINAL
+    <br> 2024 - 2
+</p>
+
+<center>
+
+#### Startup: **--**
+#### Product: **--**
+
+</center>
+
+# Team  Members:
+<center>
+
+| Member                           | Code       |
+|----------------------------------|------------|
+|   |  |
+|        |  |
+|       |  |
+|  |  |
+|              |  |
+|          |  |
+</center> 
+
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
@@ -25,6 +39,12 @@ Profesor: Angel Augusto Velasquez Nuñez
 [URL del repositorio](https://www.example.com)
 
 (Imagenes de los commits cada entrega)
+
+# Student Outcome
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-|-|-|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 
 # Contenido
 
@@ -162,12 +182,6 @@ Profesor: Alex Humberto Sánchez Ponce
 
 (Imagenes de los commits cada entrega)
 
-
-# Student Outcome
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
