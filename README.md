@@ -155,33 +155,6 @@
 [Bibliografía](#bibliografía)  
 [Anexos](#anexos)  
 
-
----
-# UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
-Profesor: Alex Humberto Sánchez Ponce
-# Informe de TB1
-"TechConnect Solutions"
-"OfficeTech"
-### Integrantes:
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-19/03/2024
----
-# Registro de Versiones del Informe
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
-
-# Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
-
-(Imagenes de los commits cada entrega)
-
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
