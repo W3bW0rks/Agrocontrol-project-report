@@ -1,431 +1,402 @@
-# Capítulo I: Introducción
-## 1.1. Startup Profile
-Sección donde presentamos al Startup y a los miembros que la conforman.
-### 1.1.1. Descripción de la Startup
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+
+1. **-:**
+   cambiar
+<div style="text-align: center;">
+                <img src="?raw=true" alt="-" style="max-width: 400px; width: 25%;">
+</div>
+
+2. **-:**
+cambiar
+
+<div style="text-align: center;">
+                <img src="?raw=true" alt="-" style="max-width: 400px; width: 25%;">
+</div>
+
+3. **- :**
+cambiar
+<div style="text-align: center;">
+                <img src="?raw=true" alt="-" style="max-width: 400px; width: 25%;">
+</div>
+
+### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        AgroControl
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="?raw=true" alt="AgroControl" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Competidor1
+    <div style="text-align: center; margin-top: 60px;">
+                <img src="?raw=true" alt="Competidor1" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Competidor2
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="?raw=true" alt="Competidor2" width="60px">
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Competidor3
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="?raw=true" alt="Competidor3" width="60px">
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">-</td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+Nuestro enfoque principal como startup se basa en las siguientes estrategias y tácticas clave:
+
+- **Diferenciación de la plataforma:** -
+
+- **Marketing dirigido:** Utilizaremos estrategias de marketing digital dirigidas para llegar a tu público objetivo, como publicidad en redes sociales, colaboraciones con influencers y participación en eventos relevantes.
+
+- **Monetización creativa:** Exploraremos diferentes modelos de monetización, como distintos tipos de suscripciones premium, micropagos, publicidad no intrusiva y patrocinios, para diversificar los fuentes de ingresos y ofrecer opciones flexibles a tus usuarios.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+**Preguntas Segmento 1: --**
 
 
-### Misión
+**Preguntas Segmento 2: --**
 
-### Visión
 
-### 1.1.2. Perfiles de los integrantes del equipo
-<table border="1" width="70%" style="text-align:center;">
-    <tr align="center">
-        <td rowspan="3">
-            <img src="https://github.com/W3bW0rks/Project-Report/blob/1387b57f0bf4a86fc34d9d0a688142d5ad6aaf95/assets/Johan-Principe.png?raw=true" alt="" style="margin-bottom: 5px;" width="400"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Johan Principe Godoy
+
+### 2.2.2 Registro de entrevistas.
+
+**Segmento escritor:**
+
+**Entrevista 1:**
+
+Nombres: --
+
+Apellidos: --
+
+Edad: -- años
+
+Lugar de residencia: --
+
+Evidencia de la entrevista:
+
+<img src="?raw=true" alt="-">
+
+Enlace de entrevista: --
+
+Resumen de la entrevista:
+
+--
+
+
+
+### 2.2.3 Análisis de entrevistas.
+<TABLE BORDER>
+	<TR>
+		<TD COLSPAN = 2 align=center>
+
+**Características**</TD>
+
+<TD align=center>
+
+**-**</TD>
+
+<TD align=center>
+
+**-**</TD>
+
+
+   </TR>
+	<TR>
+		<TD ROWSPAN = 4>
+
+**Objetivas**
+</TD>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+<TR>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+<TR>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+<TR>
+<TD >-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+
+   <TR>
+		<TD ROWSPAN = 4>
+
+**Subjetivas**
+</TD>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+<TR>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+<TR>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+<TR>
+<TD>-</TD>
+<TD>-</TD>
+<TD>-</TD>
+</TR>
+</TABLE>
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+**Segmento escritor:**
+
+<img src="?raw=true" alt="Segmento 1 user persona">
+
+**Segmento ilustrador:**
+
+<img src="?raw=true" alt="Segmento 2 user persona">
+
+
+### 2.3.2. User Task Matrix
+
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
         </td>
     </tr>
     <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+        <td></td>
+        <td colspan=2>
+            <b>-</b> </br>Segmento Objetivo: -
         </td>
     </tr>
     <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-		   Soy un estudiante de Ingeniería de Software con conocimientos en lenguajes de programación como C#, Python, JavaScript, entre otros. Me apasiona la tecnología y el desarrollo de software, y estoy interesado en seguir aprendiendo más y desarrollar mis habilidades como programador. Además, soy responsable, proactivo y me gusta trabajar en equipo para lograr los objetivos propuestos.
+        <td>
+            <b>Task</b>
         </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-            <img src="https://github.com/W3bW0rks/Project-Report/blob/1387b57f0bf4a86fc34d9d0a688142d5ad6aaf95/assets/Johan-Principe.png?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
+        <td>
+            <b>Frequency</b>
         </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Cambiar
+        <td>
+            <b>Importance</b>
         </td>
     </tr>
     <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+        <td>
+            -
         </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-            Cambiar
+        <td>
+            -
         </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-            <img src="?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Cambiar
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Cambiar
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-            <img src="?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Cambiar
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-      Cambiar
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>   
-            Cambiar
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Cambiar
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-                        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>   
-            Cambiar
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Cambiar
+        <td>
+            -
         </td>
     </tr>
 </table>
 
-## 1.2. Solution Profile
-Se encuentra compuesta por 2 secciones: 
-- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto.
- 
-- Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio. 
+</br></br>
 
-### 1.2.1. Antecedentes y problemática
-### Antecedentes:
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>-</b> </br>Segmento Objetivo: -
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+</table>
 
+</br></br>
 
 
-### Problemática (5Ws y 2Hs)
-### What/Qué
-#### ¿Cuál es el problema?
 
+### 2.3.3. User Journey Mapping
 
-### Where / Dónde
-#### ¿Dónde está el usuario cuando usa el producto?
+A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
 
-#### ¿Dónde surge el problema?
+**Segmento :**
 
-### Why / Por Qué
-#### ¿Cuál es la causa del problema?
+<img src="?raw=true" alt="Segmento ">
 
+**Segmento :**
 
-### When / Cuándo
-#### ¿Cuándo sucede el problema?
+<img src="?raw=true" alt="Segmento ">
 
-### Who / Quién
-#### ¿Quiénes están involucrados?
+### 2.3.4. Empathy Mapping
 
-#### ¿A quién le sucede el problema?
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 
-#### ¿Quién lo utilizará?
+**Segmento :**
 
-### How / Cómo
-#### ¿En qué condiciones los usuarios usan nuestro producto?
+<img src="?raw=true" alt="Segmento ">
 
-#### ¿Cómo nos conocieron los usuarios?
-Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
+**Segmento :**
 
-- Boca a boca: La recomendación de amigos, familiares o colegas que ya han utilizado la plataforma y han tenido experiencias positivas.
-- Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
-- Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
-- Eventos y ferias de libros: Participación en eventos del sector donde se presenta la plataforma y se interactúa directamente con el público objetivo.
-- Campañas de marketing digital: Anuncios en línea y estrategias de SEO que ayudan a aumentar la visibilidad en motores de búsqueda y sitios web relacionados.
+<img src="?raw=true" alt="Segmento ">
 
-Estas estrategias de divulgación están diseñadas para alcanzar a un público amplio y diverso, asegurando que los usuarios descubran nuestra plataforma y se sientan motivados a explorarla.
+### 2.3.5. As-is Scenario Mapping
 
-#### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
+A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
 
-### How much / Cuánto
+**Segmento :**
 
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem statements
+<img src="?raw=true" alt="Segmento ">
 
+**Segmento :**
 
-#### 1.2.2.2. Lean UX Assumptions
-#### Features
+<img src="?raw=true" alt="Segmento ">
 
+Enlace de Miro: -
 
-#### Business Outcomes
-
-
-#### Users
-
-
-#### User Outcomes & Benefits
-
-
-#### User assumptions
-#### ¿Quién es el usuario?
-
-#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
-
-#### ¿Qué problema resuelve nuestro producto?
-
-
-#### ¿Cuándo y cómo es usado nuestro producto?
-
-
-#### ¿Qué características son importantes?
-
-
-#### ¿Cómo debería verse y comportarse nuestro producto?
-
-
-
-#### Business Assumptions
-1. **Creemos que nuestros clientes necesitan** 
-2. **Estas necesidades se pueden resolver con una** 
-3. **El valor #1 que mi cliente quiere de mi servicio**
-4. **El cliente también puede obtener beneficios adicionales como** 
-5. **Voy a adquirir la mayoría de mis clientes** 
-6. **Haré dinero a través de** 
-7. **Mi competencia principal en el mercado** 
-8. **Los venceremos debido a la simplicidad** 
-9. **El mayor riesgo es que** 
-10. **Resolveremos esto a través de**
-    
-#### 1.2.2.4. Lean UX Hypothesis Statements
-### Hipótesis 1:
-***Creemos que*** . 
-**Sabremos que** hemos tenido éxito **cuando** *
-
-### Hipótesis 2:
-***Creemos*** * 
-**Sabremos que** hemos tenido éxito **cuando** *
-
-### Hipótesis 3:
-***Creemos que*** *
-**Sabremos que** hemos tenido éxito **cuando** *
-
-### Hipótesis 4:
-***Creemos que*** *
-**Sabremos que** hemos tenido éxito **cuando** *
-
-### Hipótesis 5:
-***Creemos que*** *
-**Sabremos que** hemos tenido éxito **cuando** *
-
-#### 1.2.2.4. Lean UX Canvas
-<TABLE BORDER>
-	<TR>
-		<TD ROWSPAN=2>
-
-**Lean UX Canvas**
-</TD>
-	    	<TD ROWSPAN=2></TD> <TD>
-
-**Fecha:** 
-
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-
-**Iteración 1**
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN>
-        
-**1. Problema de negocios:**
-        
---
-</TD>
-	    	<TD ROWSPAN=2>
-
-**5. Ideas de solución:**
---
-</TD> <TD ROWSPAN=2>
-
-**2. Resultados comerciales:**
-
---
-</TD> 
-	</TR>
-	<TR>
-		<TD >
-        
-**3. Usuarios y Clientes:**
---
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN=2>
-
-**6. Hipótesis**
-        
-***Creemos que*** *al simplificar el proceso de registro en nuestra plataforma, aumentaremos la tasa de conversión de nuevos usuarios. 
-**Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.*
-
-***Creemos que*** *-
-**Sabremos que** hemos tenido éxito **cuando** -*
-
-***Creemos que*** *-
-**Sabremos que** hemos tenido éxito **cuando** -*
-
-***Creemos que*** *-
-**Sabremos que** hemos tenido éxito **cuando** -*
-
-***Creemos que*** *al incorporar un sistema de suscripción premium, aumentaremos la retención de usuarios y generaremos ingresos sostenibles.
-**Sabremos que** hemos tenido éxito **cuando** observemos un aumento en las suscripciones premium y una mayor participación activa de los usuarios.*</TD>
-
-<TD ROWSPAN=2>
-
-**7. ¿Qué es lo más importante que debemos aprender primero?**
--
-Conocer a fondo a los usuarios potenciales. Entender sus objetivos, preferencias, comportamientos y los dispositivos móviles que utilizan, para que de ese modo la aplicación sea atractiva y útil para ellos.
-
-Definir claramente el modelo de negocio, incluyendo cómo se generará ingresos (por ejemplo, mediante publicidad, suscripciones, etc.) y cómo te diferenciarás de la competencia.
--
-</TD> 
-
-<TD>
-
-**4. Beneficios del usuario:**
-
---
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-        
-**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
-
-- Soporte al Usuario:
-
-Responder rápidamente a las preguntas y consultas de los usuarios. Esto garantiza una buena experiencia y retención de usuarios.
-- Investigación de Competidores:
-
-Realizar un análisis rápido de las aplicaciones similares en el mercado. Esto nos ayudará a comprender las mejores prácticas y las oportunidades de mejora.
-- Validación de Idea:
-
-Crear prototipos o pruebas de concepto para validar nuestra idea antes de invertir en un desarrollo completo.
-- Plan de Marketing Básico:
-
-Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede incluir estrategias de redes sociales y relaciones públicas.
-</TD> 
-	</TR>
-</TABLE>
-
-## 1.3. Segmentos Objetivo
-<TABLE BORDER>
-	<TR>
-		<TD>
-
-**Tipo de usuario**</TD> <TD>
-
-**Geográfico** </TD> <TD>
-
-**Psicográfico**</TD> <TD>
-
-**Demográfico**</TD>
-</TR>
-	<TR>
-		<TD>--</TD> <TD>--</TD> 
-        <TD>
-
----
-</TD> 
-<TD>
-- Edad: ---. 
-- Educación: -- 
-</TD>
-	</TR>
-    <TR>
-		<TD>--</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
-        <TD>
-
---
-</TD>
-
-<TD>
-- Edad: -- 
-- Educación: --
-</TD>
-	</TR>
-    <TR>
-		<TD>-- </TD> <TD>--</TD> 
-        <TD>
-        
---
-</TD> <TD>
-
-- Edad:---
-- Educación: --
-</TD>
-	</TR>
-</TABLE>
-
----
+## 2.4. Ubiquitous Language
