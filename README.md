@@ -12,12 +12,12 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
 <table border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="?raw=true" alt="" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/W3bW0rks/Project-Report/blob/1387b57f0bf4a86fc34d9d0a688142d5ad6aaf95/assets/Johan-Principe.png?raw=true" alt="" style="margin-bottom: 5px;" width="400"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Cambiar
+            Johan Principe Godoy
         </td>
     </tr>
     <tr>
@@ -31,12 +31,12 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       Cambiar
+		   Soy un estudiante de Ingeniería de Software con conocimientos en lenguajes de programación como C#, Python, JavaScript, entre otros. Me apasiona la tecnología y el desarrollo de software, y estoy interesado en seguir aprendiendo más y desarrollar mis habilidades como programador. Además, soy responsable, proactivo y me gusta trabajar en equipo para lograr los objetivos propuestos.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/W3bW0rks/Project-Report/blob/1387b57f0bf4a86fc34d9d0a688142d5ad6aaf95/assets/Johan-Principe.png?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -399,7 +399,6 @@ Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede
 ---
 </TD> 
 <TD>
-
 - Edad: ---. 
 - Educación: -- 
 </TD>
@@ -409,8 +408,9 @@ Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede
         <TD>
 
 --
-</TD> <TD>
+</TD>
 
+<TD>
 - Edad: -- 
 - Educación: --
 </TD>
