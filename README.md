@@ -170,54 +170,76 @@ Se encuentra compuesta por 2 secciones:
 
 ### 1.2.1. Antecedentes y problemática
 ### Antecedentes:
-
-
+En la última década, el sector agrícola ha enfrentado desafíos significativos debido a la creciente demanda de alimentos y la necesidad de sostenibilidad en los procesos productivos. La falta de tecnología en la gestión de las etapas del ciclo agrícola ha generado ineficiencias y pérdidas considerables para agricultores y distribuidores. Tradicionalmente, muchas de estas actividades se han manejado de forma manual o con herramientas aisladas, lo que complica la coordinación y seguimiento integral del proceso productivo. Ante esta situación, surge la necesidad de un sistema que integre y optimice todas las fases del ciclo agrícola, desde la siembra hasta la distribución.
 
 ### Problemática (5Ws y 2Hs)
 ### What/Qué
 #### ¿Cuál es el problema?
-
+La falta de un sistema integrado para gestionar eficientemente el ciclo agrícola, abarcando desde la siembra hasta la distribución.
 
 ### Where / Dónde
-#### ¿Dónde está el usuario cuando usa el producto?
-
 #### ¿Dónde surge el problema?
+En entornos rurales y agrícolas donde se desarrollan actividades de producción y distribución de productos agrícolas.
 
 ### Why / Por Qué
 #### ¿Cuál es la causa del problema?
-
+Las actividades agrícolas tradicionalmente se manejan de forma manual o con herramientas aisladas, lo que genera ineficiencias, falta de coordinación y pérdidas económicas.
 
 ### When / Cuándo
 #### ¿Cuándo sucede el problema?
+Durante todo el ciclo productivo, desde la planificación de la siembra hasta la distribución final de los productos.
 
 ### Who / Quién
 #### ¿Quiénes están involucrados?
-
-#### ¿A quién le sucede el problema?
-
-#### ¿Quién lo utilizará?
+Los agricultores y distribuidores que participan en las diferentes etapas del ciclo agrícola.
 
 ### How / Cómo
-#### ¿En qué condiciones los usuarios usan nuestro producto?
 
 #### ¿Cómo nos conocieron los usuarios?
-Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
-
-- Boca a boca: La recomendación de amigos, familiares o colegas que ya han utilizado la plataforma y han tenido experiencias positivas.
-- Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
-- Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
-- Eventos y ferias de libros: Participación en eventos del sector donde se presenta la plataforma y se interactúa directamente con el público objetivo.
-- Campañas de marketing digital: Anuncios en línea y estrategias de SEO que ayudan a aumentar la visibilidad en motores de búsqueda y sitios web relacionados.
-
-Estas estrategias de divulgación están diseñadas para alcanzar a un público amplio y diverso, asegurando que los usuarios descubran nuestra plataforma y se sientan motivados a explorarla.
+Los usuarios nos conocen principalmente por el asesoramiento agrícola, donde un tema recurrente es la necesidad de soluciones técnicas eficientes para gestionar los ciclos de producción. Además, conocen nuestro sistema a través de la comunicación en ferias agrícolas, publicidad en medios especializados y plataformas digitales orientadas a la innovación en el sector agrícola. 
 
 #### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
+Los usuarios prefieren acceder a nuestro servicio a través de una aplicación móvil para gestión en tiempo real desde el campo y una interfaz web para planificación detallada desde la oficina. Valoran la accesibilidad offline para trabajar en áreas con conectividad limitada.
 
 ### How much / Cuánto
+El costo de la ineficiencia en la gestión agrícola puede resultar en pérdidas económicas significativas debido a la falta de optimización en los procesos y toma de decisiones informadas.
 
 ### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem statements
+Aquí se aplica Lean UX Process y abarca la visión del modelo de negocio que será soportado por el producto de software, incluyendo Problem Statements (incluyendo
+aspectos como domain, customer segments, pain points, gap, visión/strategy, e initial segment), Assumptions e Hypothesis Statements según Lean UX Process.
+Finalizando esta sección se incluye el Lean UX Canvas.
 
+#### 1.2.2.1. Lean UX Problem statements
+##### Domain    
+El dominio de este proyecto es la gestión del ciclo agrícola, abarcando todas las etapas desde la siembra hasta la distribución de productos agrícolas, incluyendo la coordinación de actividades, registro de operaciones, gestión de recursos e información financiera.
+
+##### Customer Segments
+* Agricultores:  
+Entidades encargadas de la siembra, cultivo, riego, fumigación y recolección de productos agrícolas. Necesitan herramientas para gestionar sus actividades diarias mejorando la eficiencia de sus operaciones.  
+
+* Distribuidores:  
+Entidades que se encargan de la logística de distribución de los productos agrícolas desde los campos hasta los mercados. Necesitan sistemas para gestionar inventarios, planificar rutas y controlar la distribución.
+
+##### Pain Points
+* Registro Ineficiente:   
+Problemas para registrar de manera precisa y oportuna las actividades agrícolas, lo que dificulta el seguimiento y control.
+* Falta de Coordinación:   
+Dificultades en la sincronización de las distintas etapas del ciclo agrícola, resultando en ineficiencias y pérdida de tiempo.
+* Transparencia y Reportes:   
+Falta de visibilidad en tiempo real sobre el estado de las operaciones y la capacidad para generar reportes detallados, dificultando la toma de decisiones informadas.
+* Optimización de Recursos:   
+Dificultad para planificar y utilizar eficientemente los recursos como agua, fertilizantes y pesticidas, lo que puede llevar a desperdicios y costos innecesarios.
+* Gestión Financiera Deficiente:   
+Falta de herramientas para gestionar y controlar la información financiera asociada con las operaciones agrícolas, lo que puede afectar la rentabilidad.
+
+##### Gap
+Actualmente, los agricultores y distribuidores carecen de soluciones integrales que cubran todas las etapas del ciclo agrícola desde el cultivo hasta la distribución. Los sistemas existentes suelen estar fragmentados, lo que genera ineficiencias y problemas de coordinación. Además, no había herramientas suficientes para garantizar una gestión eficaz de los recursos y una visión clara de la situación financiera.
+
+##### Visión/Strategy
+Desarrollar una plataforma de gestión del ciclo agrícola que permita a agricultores y distribuidores coordinar diferentes etapas del proceso, registrar y controlar actividades, gestionar información financiera, optimizar el uso de recursos y preparar informes detallados, proporcionando una solución que integre estas capacidades en una única plataforma, facilitando así una gestión más efectiva y eficiente del ciclo agrícola.
+
+##### Initial Segment
+La parte inicial de la implementación de la solución estará formada por un grupo seleccionado de agricultores y distribuidores de una región específica y será responsable de validar la solución, personalizar la funcionalidad según sus necesidades, recopilando comentarios valiosos antes de una implementación más amplia.
 
 #### 1.2.2.2. Lean UX Assumptions
 #### Features
