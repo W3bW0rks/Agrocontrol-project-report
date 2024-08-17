@@ -1,23 +1,22 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-
-1. **-:**
-   cambiar
+Después de realizar una investigación de mercado, hemos identificado tres plataformas que ofrecen características similares a las de nuestra aplicación AgroControl para la gestión del ciclo agrícola. Estas plataformas son:
+1. **FarmLogs:**
+   FarmLogs es una plataforma que permite a los agricultores gestionar y optimizar sus operaciones agrícolas mediante el seguimiento del clima, monitoreo de rendimiento de cultivos y análisis de datos históricos. Es utilizada principalmente por agricultores que buscan mejorar la eficiencia en sus campos a través de herramientas digitales que les ayuden en la toma de decisiones informadas.
 <div style="text-align: center;">
-                <img src="?raw=true" alt="-" style="max-width: 400px; width: 25%;">
+    <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
 </div>
 
-2. **-:**
-cambiar
-
+2. ** Trimble Ag Software:**
+Trimble Ag Software ofrece una solución integral para la gestión agrícola, que incluye la planificación de cultivos, seguimiento de insumos, gestión de inventarios y análisis de datos. La plataforma es conocida por su integración con maquinaria agrícola, lo que permite una precisión y optimización superior en las operaciones diarias.
 <div style="text-align: center;">
-                <img src="?raw=true" alt="-" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/trimble-logo.png?raw=true" alt="-" style="max-width: 400px; width: 25%;">
 </div>
 
-3. **- :**
-cambiar
+3. **Agroptima:**
+Agroptima es una aplicación diseñada para facilitar la gestión de las actividades agrícolas, permitiendo a los agricultores registrar todas las operaciones de sus campos, generar informes detallados y gestionar sus finanzas de manera eficiente. Es reconocida por su accesibilidad y facilidad de uso, siendo ideal para pequeños y medianos agricultores.
 <div style="text-align: center;">
-                <img src="?raw=true" alt="-" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/agroptima-logo.png?raw=true" alt="-" style="max-width: 400px; width: 25%;">
 </div>
 
 ### 2.1.1. Análisis competitivo
