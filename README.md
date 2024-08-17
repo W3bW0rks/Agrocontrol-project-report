@@ -36,7 +36,7 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/W3bW0rks/Project-Report/blob/1387b57f0bf4a86fc34d9d0a688142d5ad6aaf95/assets/Johan-Principe.png?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://raw.githubusercontent.com/W3bW0rks/Project-Report/develop/assets/profileImages/GonzaloQuedena.png" alt="" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
