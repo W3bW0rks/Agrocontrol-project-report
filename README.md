@@ -41,7 +41,7 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Cambiar
+            Gonzalo Andre Zavala Quedena
         </td>
     </tr>
     <tr>
@@ -55,7 +55,13 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
         <td align="left">
         <b>Acerca de:</b>
         <br>
-            Cambiar
+            Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.
+            <b>Habilidades Técnicas:</b>
+            <ul>
+                <li><b>Lenguajes de Programación:</b> C, C++, Python, C#, JavaScript, TypeScript.</li>
+                <li><b>Desarrollo Web:</b> HTML, CSS, Bootstrap, Angular.</li>
+                <li><b>Base de Datos</b> MySQL.</li>
+            </ul>
         </td>
     </tr>
     <tr align="center">
