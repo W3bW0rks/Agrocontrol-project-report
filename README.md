@@ -7,7 +7,7 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
     <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
 </div>
 
-2. ** Trimble Ag Software:**
+2. **Trimble Ag Software:**
 Trimble Ag Software ofrece una solución integral para la gestión agrícola, que incluye la planificación de cultivos, seguimiento de insumos, gestión de inventarios y análisis de datos. La plataforma es conocida por su integración con maquinaria agrícola, lo que permite una precisión y optimización superior en las operaciones diarias.
 <div style="text-align: center;">
                 <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/trimble-logo.png?raw=true" alt="-" style="max-width: 400px; width: 25%;">
@@ -37,24 +37,24 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
         AgroControl
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="?raw=true" alt="AgroControl" width="60px">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png?raw=true" alt="AgroControl" width="80px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
-    Competidor1
+    FarmLogs
     <div style="text-align: center; margin-top: 60px;">
-                <img src="?raw=true" alt="Competidor1" width="60px">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png?raw=true" alt="FarmLogs" width="80px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-      Competidor2
+      Trimble Ag Software
       <div style="text-align: center; margin-top: 10px;">
-                <img src="?raw=true" alt="Competidor2" width="60px">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/trimble-logo.png?raw=true" alt="Trimble Ag Software" width="100px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
-      Competidor3
+      Agroptima
       <div style="text-align: center; margin-top: 10px;">
-                <img src="?raw=true" alt="Competidor3" width="60px">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/agroptima-logo.png?raw=true" alt="Agroptima" width="100px">
             </div>
     </td>
   </tr>
