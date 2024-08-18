@@ -1,8 +1,8 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 Después de realizar una investigación de mercado, hemos identificado tres plataformas que ofrecen características similares a las de nuestra aplicación AgroControl para la gestión del ciclo agrícola. Estas plataformas son:
-1. **FarmLogs:**
-   FarmLogs es una plataforma que permite a los agricultores gestionar y optimizar sus operaciones agrícolas mediante el seguimiento del clima, monitoreo de rendimiento de cultivos y análisis de datos históricos. Es utilizada principalmente por agricultores que buscan mejorar la eficiencia en sus campos a través de herramientas digitales que les ayuden en la toma de decisiones informadas.
+1. **Bushel Farm:**
+   Bushel Farm es una plataforma que permite a los agricultores gestionar y optimizar sus operaciones agrícolas mediante el seguimiento del clima, monitoreo de rendimiento de cultivos y análisis de datos históricos. Es utilizada principalmente por agricultores que buscan mejorar la eficiencia en sus campos a través de herramientas digitales que les ayuden en la toma de decisiones informadas.
 <div style="text-align: center;">
     <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
 </div>
@@ -40,9 +40,9 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
                 <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png?raw=true" alt="AgroControl" width="80px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
-    FarmLogs
+    Bushel Farm
     <div style="text-align: center; margin-top: 60px;">
-                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png?raw=true" alt="FarmLogs" width="80px">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png?raw=true" alt="Bushel Farm" width="80px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
@@ -61,48 +61,61 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil</p></td>
     <td colspan="2">Overview</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Aplicación integral para la gestión del ciclo agrícola, que optimiza procesos clave como el sembrío, riego y cosecha, adaptándose a las necesidades de agricultores y distribuidores.</td>
+    <td colspan="1" valign="top">Plataforma que permite a los agricultores gestionar sus operaciones agrícolas mediante el seguimiento del clima, rendimiento de cultivos y análisis de datos históricos.</td>
+    <td colspan="1" valign="top">Solución integral que combina la planificación agrícola y la gestión de inventarios con la integración de maquinaria, optimizando las operaciones diarias.</td>
+    <td colspan="1" valign="top">Aplicación que facilita la gestión de actividades agrícolas, permitiendo registrar operaciones, generar informes y manejar finanzas, especialmente diseñada para pequeños y medianos agricultores.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">AgroControl proporciona una solución completa para la gestión agrícola, abarcando desde el sembrío hasta el reparto. Su ventaja competitiva radica en ofrecer una plataforma unificada que optimiza todos los procesos agrícolas. Se adapta a las necesidades de agricultores y distribuidores con una interfaz intuitiva y funcionalidades específicas para el control de inventario, añadiendo un valor significativo en comparación con otras soluciones disponibles.</td>
+    <td colspan="1" valign="top">Bushel Farm destaca por su capacidad para integrar datos climáticos, rendimiento de cultivos y análisis históricos en una sola plataforma. Su ventaja radica en la mejora de la eficiencia mediante el análisis de datos detallados y la toma de decisiones informadas basadas en información en tiempo real.</td>
+    <td colspan="1" valign="top">Trimble Ag Software proporciona una solución completa que abarca desde la planificación de cultivos hasta la gestión de inventarios, con una integración destacada con maquinaria agrícola. Esto permite una optimización superior en las operaciones diarias y una precisión que mejora la eficacia de las tareas agrícolas.</td>
+    <td colspan="1" valign="top">Agroptima se enfoca en la simplicidad y accesibilidad para pequeños y medianos agricultores. Su ventaja es la facilidad de uso para registrar operaciones, generar informes y gestionar finanzas, lo que permite a los usuarios manejar sus actividades agrícolas de manera más eficiente y con menor complejidad.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
     <td colspan="2">Mercado objetivo</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Agricultores que buscan optimizar sus operaciones mediante el seguimiento del clima, rendimiento de cultivos y análisis de datos históricos.</td>
+    <td colspan="1" valign="top">Agricultores que necesitan una solución integral para la planificación de cultivos, gestión de insumos e integración con maquinaria agrícola</td>
+    <td colspan="1" valign="top">Agricultores pequeños y medianos que desean gestionar sus operaciones, generar informes y manejar finanzas de manera accesible.</td>
+    <td colspan="1" valign="top">Agricultores y distribuidores que buscan una solución completa para la gestión del ciclo agrícola, incluyendo sembrío, riego, fumigación, cosecha y reparto.</td>
   </tr>
   <tr>
     <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Campañas de marketing digital dirigidas a agricultores y distribuidores, participación en ferias agrícolas y eventos del sector, y presencia en redes sociales.</td>
+    <td colspan="1" valign="top">Participación en eventos agrícolas y presencia en redes sociales.</td>
+    <td colspan="1" valign="top">Participación en eventos del sector, publicidad en revistas especializadas y presencia en redes sociales</td>
+    <td colspan="1" valign="top">Publicidad en redes sociales, colaboraciones con influencers del sector agrícola, y eventos locales.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
     <td colspan="2">Productos & Servicios</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Plataforma integral para la gestión del ciclo agrícola que incluye funcionalidades para sembrío, riego, fumigación, cosecha y reparto. Ofrece herramientas específicas para agricultores y distribuidores, incluyendo la gestión de inventarios y la optimización de procesos agrícolas en una sola plataforma.</td>
+    <td colspan="1" valign="top">Plataforma digital para la gestión agrícola que permite a los agricultores optimizar sus operaciones mediante el seguimiento del clima, monitoreo del rendimiento de cultivos y análisis de datos históricos.</td>
+    <td colspan="1" valign="top">Solución integral que combina planificación agrícola, gestión de inventarios, seguimiento de insumos y análisis de datos. Destaca por su integración con maquinaria agrícola para una optimización precisa de las operaciones diarias.</td>
+    <td colspan="1" valign="top">Aplicación para la gestión de actividades agrícolas, que facilita el registro de operaciones, la generación de informes y la gestión de finanzas. Diseñada para pequeños y medianos agricultores, ofrece una interfaz accesible y herramientas específicas para la administración de campos.</td>
   </tr>
-  <tr>
+ <tr>
     <td colspan="2">Precios & Costos</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-  </tr>
+    <td colspan="1" valign="top">
+        <strong>Agricultores:</strong><br>
+        <strong>Plan Básico:</strong> $20 al mes. Permite la gestión de un solo campo de cultivo. Incluye funcionalidades esenciales para sembrío, riego y cosecha.<br>
+        <strong>Plan Premium:</strong> $90 al mes. Permite la gestión de dos o más campos de cultivo. Incluye todas las funcionalidades del Plan Básico más herramientas avanzadas para fumigación, cosecha y reparto, análisis de datos avanzados y soporte prioritario.<br><br>
+        <strong>Distribuidores:</strong><br>
+        <strong>Plan de Gestión Avanzada:</strong> $100 al mes. Incluye funcionalidades completas para el control del inventario, análisis de ventas, y herramientas específicas para la gestión y optimización de la cadena de suministro.
+    </td>
+    <td colspan="1" valign="top">
+	<strong>Plan Gratuito:</strong>Funcionalidades básicas limitadas<br>
+        <strong>Planes de Suscripción:</strong>Rango de $25 a $100 al mes, dependiendo de las funcionalidades adicionales y el tamaño de la operación.<br><br>
+       </td>
+    <td colspan="1" valign="top">Planes Personalizados: Los precios varían según el tamaño de la operación y las funcionalidades requeridas. Generalmente oscilan entre $200 y $500 al mes.</td>
+    <td colspan="1" valign="top">
+	<strong>Plan Básico:</strong>$30 al mes. Incluye funcionalidades básicas para la gestión de un solo campo.<br>
+        <strong>Plan Avanzado:</strong>$80 al mes. Incluye funcionalidades adicionales para la gestión de múltiples campos, finanzas y generación de informes detallados.<br><br>
+    </td>
+</tr>
+
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
     <td colspan="1" valign="top">-</td>
