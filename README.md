@@ -4,7 +4,7 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
 1. **Bushel Farm:**
    Bushel Farm es una plataforma que permite a los agricultores gestionar y optimizar sus operaciones agrícolas mediante el seguimiento del clima, monitoreo de rendimiento de cultivos y análisis de datos históricos. Es utilizada principalmente por agricultores que buscan mejorar la eficiencia en sus campos a través de herramientas digitales que les ayuden en la toma de decisiones informadas.
 <div style="text-align: center;">
-    <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
+    <img src="https://github.com/W3bW0rks/Project-Report/blob/419210a93357f33740f115b3fe0a6cb0ae90462f/assets/chapter-2-images/bushel-farm-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Trimble Ag Software:**
@@ -42,7 +42,7 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
     <td colspan="1" valign="top" style="font-weight: bold;">
     Bushel Farm
     <div style="text-align: center; margin-top: 60px;">
-                <img src="https://github.com/W3bW0rks/Project-Report/blob/c7b47c1837192646aba39f2af376fdb42e2be7b9/assets/chapter-2-images/farmlogs-logo.png?raw=true" alt="Bushel Farm" width="80px">
+                <img src="https://github.com/W3bW0rks/Project-Report/blob/419210a93357f33740f115b3fe0a6cb0ae90462f/assets/chapter-2-images/bushel-farm-logo.png" alt="Bushel Farm" width="80px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
@@ -118,10 +118,10 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
 
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Canal de distribución digital web.</td>
+    <td colspan="1" valign="top">Accesible vía Web y a través de aplicaciones móviles</td>
+    <td colspan="1" valign="top">Ofrece acceso tanto a través de la Web como en dispositivos móviles</td>
+    <td colspan="1" valign="top">Disponible en plataformas Web y móvil</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
@@ -129,31 +129,31 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
   </tr>
   <tr>
     <td colspan="2">Fortalezas</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Ofrece una solución integral para todo el ciclo agrícola en una sola plataforma, destacando en la optimización de procesos y en funcionalidades específicas para distribuidores, con una interfaz intuitiva.</td>
+    <td colspan="1" valign="top">Sobresale por su sistema avanzado de seguimiento climático y de cultivos, facilitando la toma de decisiones con su análisis de datos históricos, lo que mejora la eficiencia en la gestión agrícola.</td>
+    <td colspan="1" valign="top">Destaca por su integración completa de planificación y gestión agrícola con maquinaria avanzada, optimizando la precisión y eficiencia operativa.</td>
+    <td colspan="1" valign="top">Se distingue por su facilidad de uso y enfoque en pequeños y medianos agricultores, ofreciendo una gestión simple de operaciones y finanzas.</td>
   </tr>
   <tr>
     <td colspan="2">Debilidades</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Carece de integración con maquinaria agrícola y podría enfrentar dificultades para escalar sus servicios a grandes distribuidores.</td>
+    <td colspan="1" valign="top">Puede tener limitaciones en la integración con maquinaria agrícola y carece de funcionalidades avanzadas para la gestión de inventarios y distribución.</td>
+    <td colspan="1" valign="top">Puede ser costoso y complejo para pequeños agricultores debido a su enfoque en soluciones integrales y la integración de maquinaria avanzada.</td>
+    <td colspan="1" valign="top">Podría ser menos adecuada para grandes operaciones agrícolas y carece de herramientas avanzadas para el análisis de datos y la optimización de la cadena de suministro.</td>
   </tr>
   <tr>
     <td colspan="2">Oportunidades</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">Tiene la oportunidad de expandirse al integrar tecnologías avanzadas como IoT y Big Data, así como de atraer a grandes distribuidores mediante la escalabilidad de sus servicios y funcionalidades personalizadas.</td>
+    <td colspan="1" valign="top">Puede aprovechar el crecimiento de la digitalización en la agricultura y expandir su presencia en mercados internacionales mediante la mejora de sus herramientas de análisis de datos y su integración con otras tecnologías agrícolas.</td>
+    <td colspan="1" valign="top">Tiene la oportunidad de consolidar su liderazgo mediante la expansión de sus funcionalidades y la integración con nuevas tecnologías emergentes, así como fortalecer su presencia en mercados en desarrollo.</td>
+    <td colspan="1" valign="top">Puede crecer al expandir su oferta de funcionalidades y mejorar su accesibilidad para más tipos de usuarios, así como aprovechar la creciente demanda de soluciones accesibles y fáciles de usar en el mercado agrícola.</td>
   </tr>
   <tr>
     <td colspan="2">Amenazas</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
-    <td colspan="1" valign="top">-</td>
+    <td colspan="1" valign="top">La integración incompleta con maquinaria agrícola y los desafíos de escalabilidad para grandes distribuidores representan amenazas significativas. La plataforma también debe enfrentar la competencia de soluciones más establecidas que ofrecen características más avanzadas.</td>
+    <td colspan="1" valign="top">Puede enfrentar amenazas relacionadas con la rápida evolución tecnológica y la necesidad de mantenerse al día con nuevas herramientas y funcionalidades. Además, la creciente competencia en el mercado de gestión agrícola podría limitar su capacidad para captar nuevos usuarios.</td>
+    <td colspan="1" valign="top">La complejidad y el costo de sus soluciones pueden ser una barrera para pequeños agricultores y nuevos entrantes en el mercado. También enfrenta riesgos asociados con la integración de múltiples tecnologías y la necesidad de continuar innovando para mantener su liderazgo.</td>
+    <td colspan="1" valign="top">La falta de personalización avanzada y la posible saturación del mercado con aplicaciones similares pueden limitar su capacidad para diferenciarse. Además, la dependencia de características básicas puede hacer que la plataforma sea menos atractiva para usuarios con necesidades más complejas.</td>
   </tr>
 </table>
 
