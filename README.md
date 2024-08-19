@@ -123,7 +123,11 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
     <td colspan="1" valign="top">Ofrece acceso tanto a través de la Web como en dispositivos móviles</td>
     <td colspan="1" valign="top">Disponible en plataformas Web y móvil</td>
   </tr>
-  <tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+<table>
+<tr>
     <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
     <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
   </tr>
@@ -156,15 +160,6 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
     <td colspan="1" valign="top">La falta de personalización avanzada y la posible saturación del mercado con aplicaciones similares pueden limitar su capacidad para diferenciarse. Además, la dependencia de características básicas puede hacer que la plataforma sea menos atractiva para usuarios con necesidades más complejas.</td>
   </tr>
 </table>
-
-### 2.1.2. Estrategias y tácticas frente a competidores
-Nuestro enfoque principal como startup se basa en las siguientes estrategias y tácticas clave:
-
-- **Diferenciación de la plataforma:** -
-
-- **Marketing dirigido:** Utilizaremos estrategias de marketing digital dirigidas para llegar a tu público objetivo, como publicidad en redes sociales, colaboraciones con influencers y participación en eventos relevantes.
-
-- **Monetización creativa:** Exploraremos diferentes modelos de monetización, como distintos tipos de suscripciones premium, micropagos, publicidad no intrusiva y patrocinios, para diversificar los fuentes de ingresos y ofrecer opciones flexibles a tus usuarios.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
