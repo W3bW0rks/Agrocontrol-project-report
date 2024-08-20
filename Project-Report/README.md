@@ -1,22 +1,15 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
 
-Segmento 1:
+Segmento 1: Agricultores
+<img src="assets/Chapter 3/To-Be Scenario Mapping Agricultores.jpg">
 
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+Segmento 2: Distribuidores
+<img src="assets/Chapter 3/To-Be Scenario Mapping Distribuidores.jpg">
 
 ## 3.2. User Stories.
+Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, funcionalidades del agricultor y funcionalidades del distribuidor.
 
 |Epic / Story ID|Título|Descripción|Criterio de aceptación|Relacionado con (Epic ID)|
 | :- | :- | :- | :- | :- |
@@ -54,3 +47,5 @@ Segmento 2:
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
 | 1      | HU01          | titulo his | desc  | 5                        |
+
+[def]: ssest
