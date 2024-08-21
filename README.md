@@ -3,7 +3,7 @@
 En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
 
 Segmento 1: Productor agricola
-<img src="">
+<img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Productores%20Agricola.jpg">
 
 Segmento 2: Distribuidores
 <img src="https://github.com/W3bW0rks/Project-Report/blob/7ebac0b0de467f9e6eb3ff43f5722c2915cff955/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidores.jpg">
@@ -42,8 +42,13 @@ Redactamos historias de usuarios que nos ayuden a generar funciones del software
 
 
 ## 3.3. Impact Mapping.
+A continuación, toca analizar cómo se relacionan nuestras metas de negocios con los principales entregables de nuestro proyecto. Se eligieron las user stories de mayor importancia para el proceso de nuestro aplicativo y su impacto a futuro.
 
-![Impact Mapping](image.jpg)
+**Segmento Objetivo: Productor Agricola**
+<img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/Impact%20map%20Productor%20Agricola.png">
+
+**Segmento Objetivo: Distribuidores**
+<img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/Impact%20map%20Distribuidores.png">
 
 ## 3.4. Product Backlog.
 
