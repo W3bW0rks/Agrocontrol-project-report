@@ -6,7 +6,7 @@ Segmento 1: Productor agricola
 <img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Productores%20Agricola.jpg">
 
 Segmento 2: Distribuidor
-<img src="">
+<img src="https://github.com/W3bW0rks/Project-Report/blob/02fa930e7a4353e340aab9f9a5c179fa7866ec9a/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidor.jpg">
 
 ## 3.2. User Stories.
 Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, funcionalidades del productor agricola  y funcionalidades del distribuidor.
@@ -51,7 +51,9 @@ A continuación, toca analizar cómo se relacionan nuestras metas de negocios co
 <img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/Impact%20map%20Distribuidores.png">
 
 ## 3.4. Product Backlog.
-**Link de Trello:** https://trello.com/b/UmnID3DF/webworks-product-backlog
+<img src="https://github.com/W3bW0rks/Project-Report/blob/02fa930e7a4353e340aab9f9a5c179fa7866ec9a/assets/Chapter%203/Webworks%20Product%20Backlog.png">
+
+**Link de Trello:** [Product Backlog WebWorks Trello](https://trello.com/b/UmnID3DF/webworks-product-backlog)
 |# Orden|User story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
 | :- | :- | :- | :- | :- |
 |1|E1-US101|Barra de navegación en landing page|**Como** visitante **quiero** una barra de navegación de landing page **para** tener accesos directos a la información de la aplicación |1|
