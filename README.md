@@ -5,8 +5,8 @@ En esta sección se presentan los To-Be Scenario Mapping para cada segmento obje
 Segmento 1: Productor agricola
 <img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Productores%20Agricola.jpg">
 
-Segmento 2: Distribuidores
-<img src="https://github.com/W3bW0rks/Project-Report/blob/7ebac0b0de467f9e6eb3ff43f5722c2915cff955/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidores.jpg">
+Segmento 2: Distribuidor
+<img src="">
 
 ## 3.2. User Stories.
 Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, funcionalidades del productor agricola  y funcionalidades del distribuidor.
@@ -51,9 +51,27 @@ A continuación, toca analizar cómo se relacionan nuestras metas de negocios co
 <img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/Impact%20map%20Distribuidores.png">
 
 ## 3.4. Product Backlog.
-
-| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
-| ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
-
-[def]: ssest
+**Link de Trello:** https://trello.com/b/UmnID3DF/webworks-product-backlog
+|# Orden|User story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
+| :- | :- | :- | :- | :- |
+|1|E1-US101|Barra de navegación en landing page|**Como** visitante **quiero** una barra de navegación de landing page **para** tener accesos directos a la información de la aplicación |1|
+|2|E1-US102|Sección hero de landing page|**Como** visitante **quiero** visualizar una sección hero en el landing page **para** tener una idea sobre lo que ofrece la aplicación|2|
+|3|E1-US103|Sección de producto de landing page|**Como** visitante **quiero** visualizar características de la aplicación en el landing page **para** saber sobre las características que ofrece la aplicación|2|
+|4|E1-US104|Sección de testimonios en landing page|**Como** visitante **quiero** visualizar testimonios de usuarios que utilizaron la aplicación **para** saber sobre experiencias reales de usuarios|2|
+|5|E1-US105|Sección de planes en landing page|**Como** visitante **quiero** visualizar los planes que ofrece la aplicación **para** considerar adquirir la membresía|2|
+|6|E1-US106|Sección de footer a la aplicación en landing page|**Como** visitante **quiero** visualizar la sección de footer **para** acceder a links de la página|2|
+|7|E1-US107|Sección para conocer al equipo de trabajo|**Como** visitante **quiero** conocer más sobre el equipo que desarrolla la aplicación **para** adquirir confianza de dicho equipo de trabajo.|2|
+|8|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|3|
+|9|E2-US102|Formulario de login|**Como** usuario de la página web, **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|3|
+|10|E2-US103|Recuperación de contraseñas |**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide **para** ingresar a mi cuenta de usuario|3|
+|11|E3-US101|Pantalla de inicio productor agrícola|**Como** productor agrícola **quiero** visualizar todos los registros de los cultivos que he creado **para** poder ver fácilmente el progreso de los mismos|3|
+|12|E3-US102|Proceso de siembra de cultivos|**Como** productor agrícola **quiero** funcionalidades de apoyo en el proceso de siembra de los cultivos **para** optimizar la gestión de recursos y controlar los costos |3|
+|13|E3-US103|Proceso de riego de cultivos|**Como** productor agrícola **quiero** funcionalidades de apoyo en el riego de cultivos **para** mejorar el cuidado de los cultivos|5|
+|14 |E3-US104|Compra de productos para cultivos|**Como** productor agrícola **quiero** realizar compras de manera online **para** usarlos en mis cultivos|5|
+|15|E3-US105|Proceso de fumigación y fertilización|**Como** productor agrícola **quiero** funcionalidades de apoyo en el proceso de fumigación y fertilización **para** mejorar el cuidado de los cultivos|5|
+|16|E3-US106|Proceso de cosecha|**Como** agricultor **quiero** funcionalidades de apoyo en la recolección de la cosecha **para** ver la productividad del trabajo elaborado|5|
+|17|E3-US107|Proceso de análisis financiero de los cultivos|**Como** productor agrícola **quiero** un análisis financiero **para** visualizar la utilidad del trabajo elaborado|3|
+|18|E4-US101|Pantalla de inicio del distribuidor|**Como** distribuidor **quiero** gestionar mi tienda virtual **para** gestionar de manera eficiente el inventario y los precios.|3|
+|19|E4-US102|Análisis de producto de la tienda|**Como** distribuidor **quiero** analizar los productos de mi tienda y su disponibilidad **para** optimizar mis decisiones de compra y maximizar mis ventas |3|
+|20|E4-US103|Proceso de análisis financiero de la tienda|**Como** distribuidor **quiero** un análisis financiero **para** visualizar la utilidad de mi tienda|5|
+|21|E4-US104|Ofertas de la tienda de distribuidores|**Como** distribuidor **quiero** crear ofertas **para** captar el interés de mi público|3|
