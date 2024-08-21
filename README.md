@@ -3,10 +3,10 @@
 En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
 
 Segmento 1: Productor agricola
-<img src="assets/Chapter 3/To-Be Scenario Mapping productor agricola es.jpg">
+<img src="https://github.com/W3bW0rks/Project-Report/blob/7ebac0b0de467f9e6eb3ff43f5722c2915cff955/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Agricultores.jpg">
 
 Segmento 2: Distribuidores
-<img src="assets/Chapter 3/To-Be Scenario Mapping Distribuidores.jpg">
+<img src="https://github.com/W3bW0rks/Project-Report/blob/7ebac0b0de467f9e6eb3ff43f5722c2915cff955/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidores.jpg">
 
 ## 3.2. User Stories.
 Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, funcionalidades del productor agricola  y funcionalidades del distribuidor.
