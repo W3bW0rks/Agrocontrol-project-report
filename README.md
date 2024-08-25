@@ -163,31 +163,27 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
 </table>
 
 ## 1.2. Solution Profile
-Se encuentra compuesta por 2 secciones: 
-- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto.
- 
-- Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio. 
 
 ### 1.2.1. Antecedentes y problemática
 ### Antecedentes:
-En la última década, el sector agrícola ha enfrentado desafíos significativos debido a la creciente demanda de alimentos y la necesidad de sostenibilidad en los procesos productivos. La falta de tecnología en la gestión de las etapas del ciclo agrícola ha generado ineficiencias y pérdidas considerables para agricultores y distribuidores. Tradicionalmente, muchas de estas actividades se han manejado de forma manual o con herramientas aisladas, lo que complica la coordinación y seguimiento integral del proceso productivo. Ante esta situación, surge la necesidad de un sistema que integre y optimice todas las fases del ciclo agrícola, desde la siembra hasta la distribución.
+La agricultura sigue siendo una de las principales actividades económicas a nivel global. Sin embargo, muchos productores agrícolas, especialmente los pequeños y medianos, enfrentan dificultades para gestionar eficientemente sus procesos de producción y distribución. La falta de acceso a herramientas de planificación, monitoreo y administración de recursos limita su capacidad para optimizar la producción, lo que a su vez reduce su rentabilidad y sostenibilidad. Además, los distribuidores se ven afectados por problemas de trazabilidad y coordinación en la cadena de suministro, lo que complica la entrega oportuna de productos de calidad al mercado.
 
 ### Problemática (5Ws y 2Hs)
 ### What/Qué
 #### ¿Cuál es el problema?
-La falta de un sistema integrado para gestionar eficientemente el ciclo agrícola, abarcando desde la siembra hasta la distribución.
+Los productores agrícolas y distribuidores enfrentan desafíos en la gestión eficiente de sus operaciones. Las tareas de planificación, seguimiento de cultivos, administración de recursos y control financiero son ineficaces, lo que provoca pérdidas de tiempo y dinero.
 
 ### Where / Dónde
 #### ¿Dónde surge el problema?
-En entornos rurales y agrícolas donde se desarrollan actividades de producción y distribución de productos agrícolas.
+Este problema es global y afecta tanto a regiones con alta actividad agrícola como a zonas rurales donde el acceso a tecnologías de gestión es limitado.
 
 ### Why / Por Qué
 #### ¿Cuál es la causa del problema?
-Las actividades agrícolas tradicionalmente se manejan de forma manual o con herramientas aisladas, lo que genera ineficiencias, falta de coordinación y pérdidas económicas.
+La falta de herramientas tecnológicas accesibles y eficientes para monitorear y optimizar cada etapa del ciclo agrícola genera una mala gestión de recursos (semillas, agua, mano de obra) y una baja trazabilidad en la distribución de productos, afectando tanto la productividad como la sostenibilidad de los agricultores y la efectividad de los distribuidores.
 
 ### When / Cuándo
 #### ¿Cuándo sucede el problema?
-Durante todo el ciclo productivo, desde la planificación de la siembra hasta la distribución final de los productos.
+Los problemas surgen durante todas las etapas del ciclo agrícola, desde la planificación de la siembra hasta la distribución de productos al mercado, impactando continuamente la producción y la distribución.
 
 ### Who / Quién
 #### ¿Quiénes están involucrados?
@@ -196,13 +192,13 @@ Los agricultores y distribuidores que participan en las diferentes etapas del ci
 ### How / Cómo
 
 #### ¿Cómo nos conocieron los usuarios?
-Los usuarios nos conocen principalmente por el asesoramiento agrícola, donde un tema recurrente es la necesidad de soluciones técnicas eficientes para gestionar los ciclos de producción. Además, conocen nuestro sistema a través de la comunicación en ferias agrícolas, publicidad en medios especializados y plataformas digitales orientadas a la innovación en el sector agrícola. 
+Los usuarios nos conocieron principalmente por recomendaciones de otros productores agrícolas y distribuidores que han experimentado mejoras significativas en la gestión de sus operaciones al utilizar nuestra solución. Además, hemos realizado esfuerzos de marketing digital en redes sociales, donde promocionamos casos de éxito
 
 #### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
-Los usuarios prefieren acceder a nuestro servicio a través de una aplicación móvil para gestión en tiempo real desde el campo y una interfaz web para planificación detallada desde la oficina. Valoran la accesibilidad offline para trabajar en áreas con conectividad limitada.
+Los usuarios prefieren acceder a nuestro servicio a través de una aplicación web fácil de usar, que sea accesible desde cualquier dispositivo con conexión a internet, como tablets o computadoras. Este enfoque les permite gestionar y monitorear sus actividades agrícolas de forma remota y en tiempo real, asegurando que puedan adaptar sus operaciones según las necesidades específicas del ciclo productivo.
 
 ### How much / Cuánto
-El costo de la ineficiencia en la gestión agrícola puede resultar en pérdidas económicas significativas debido a la falta de optimización en los procesos y toma de decisiones informadas.
+La falta de soluciones efectivas provoca pérdidas económicas significativas para los productores agrícolas y a su vez, los distribuidores sufren retrasos y una disminución en la calidad de los productos entregados, impactando su relación con los clientes.
 
 ### 1.2.2. Lean UX Process
 Aquí se aplica Lean UX Process y abarca la visión del modelo de negocio que será soportado por el producto de software, incluyendo Problem Statements (incluyendo
