@@ -309,24 +309,29 @@ Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo
     
 #### 1.2.2.4. Lean UX Hypothesis Statements
 ### Hipótesis 1:
-***Creemos que*** . 
-**Sabremos que** hemos tenido éxito **cuando** *
+***Creemos que*** los productores agrícolas adoptarán nuestra plataforma si ofrecemos una solución que les permita gestionar fácilmente las operaciones diarias del ciclo agrícola.
+
+**Sabremos que** hemos tenido éxito **cuando** al menos el 70% de los usuarios activos registren y programen las actividades clave en nuestra plataforma.
 
 ### Hipótesis 2:
-***Creemos*** * 
-**Sabremos que** hemos tenido éxito **cuando** *
+***Creemos*** los distribuidores agrícolas verán valor en nuestra plataforma si les ayuda a mejorar la planificación y el control de sus operaciones de distribución.
+
+**Sabremos que** hemos tenido éxito **cuando** el 60% de distribuidores mejoren en coordinación y entrega de productos.
 
 ### Hipótesis 3:
-***Creemos que*** *
-**Sabremos que** hemos tenido éxito **cuando** *
+***Creemos que*** una interfaz de usuario intuitiva incrementará la tasa de adopción de la plataforma entre los pequeños y medianos productores agrícolas.
+
+**Sabremos que** hemos tenido éxito **cuando** más del 80% de los usuarios vean que la plataforma fácil de usar en las primeras dos semanas de uso.
 
 ### Hipótesis 4:
-***Creemos que*** *
-**Sabremos que** hemos tenido éxito **cuando** *
+***Creemos que*** los usuarios estarán dispuestos a pagar por suscripciones premium si ofrecemos funcionalidades avanzadas como la gestión financiera detallada y reportes personalizados.
+
+**Sabremos que** hemos tenido éxito **cuando** al menos el 30% de los usuarios pasen a una suscripción premium en los primeros seis meses.
 
 ### Hipótesis 5:
-***Creemos que*** *
-**Sabremos que** hemos tenido éxito **cuando** *
+***Creemos que*** el soporte técnico y la formación a los usuarios reducirán las barreras tecnológicas y aumentarán la retención de clientes.
+
+**Sabremos que** hemos tenido éxito **cuando** la tasa de abandono de la plataforma se reduzca a menos del 10% después del primer año.
 
 #### 1.2.2.4. Lean UX Canvas
 <TABLE BORDER>
