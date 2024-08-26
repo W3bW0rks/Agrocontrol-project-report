@@ -201,30 +201,36 @@ Los usuarios prefieren acceder a nuestro servicio a través de una aplicación w
 La falta de soluciones efectivas provoca pérdidas económicas significativas para los productores agrícolas y a su vez, los distribuidores sufren retrasos y una disminución en la calidad de los productos entregados, impactando su relación con los clientes.
 
 ### 1.2.2. Lean UX Process
-Aquí se aplica Lean UX Process y abarca la visión del modelo de negocio que será soportado por el producto de software, incluyendo Problem Statements (incluyendo
-aspectos como domain, customer segments, pain points, gap, visión/strategy, e initial segment), Assumptions e Hypothesis Statements según Lean UX Process.
-Finalizando esta sección se incluye el Lean UX Canvas.
 
 #### 1.2.2.1. Lean UX Problem statements
 ##### Domain    
 El dominio de este proyecto es la gestión del ciclo agrícola, abarcando todas las etapas desde la siembra hasta la distribución de productos agrícolas, incluyendo la coordinación de actividades, registro de operaciones, gestión de recursos e información financiera.
 
 ##### Customer Segments
-* Agricultores:  
-Entidades encargadas de la siembra, cultivo, riego, fumigación y recolección de productos agrícolas. Necesitan herramientas para gestionar sus actividades diarias mejorando la eficiencia de sus operaciones.  
+* Productores agricolas:  
+  Pequeños, medianos y grandes agricultores que necesitan mejorar la planificación, gestión de recursos, y la eficiencia de sus operaciones.
+
 
 * Distribuidores:  
-Entidades que se encargan de la logística de distribución de los productos agrícolas desde los campos hasta los mercados. Necesitan sistemas para gestionar inventarios, planificar rutas y controlar la distribución.
+  Empresas que dependen de la correcta trazabilidad, calidad y entrega oportuna de productos agrícolas.
 
 ##### Pain Points
 * Registro Ineficiente:   
 Problemas para registrar de manera precisa y oportuna las actividades agrícolas, lo que dificulta el seguimiento y control.
+
+
 * Falta de Coordinación:   
 Dificultades en la sincronización de las distintas etapas del ciclo agrícola, resultando en ineficiencias y pérdida de tiempo.
+
+
 * Transparencia y Reportes:   
 Falta de visibilidad en tiempo real sobre el estado de las operaciones y la capacidad para generar reportes detallados, dificultando la toma de decisiones informadas.
+
+
 * Optimización de Recursos:   
 Dificultad para planificar y utilizar eficientemente los recursos como agua, fertilizantes y pesticidas, lo que puede llevar a desperdicios y costos innecesarios.
+
+
 * Gestión Financiera Deficiente:   
 Falta de herramientas para gestionar y controlar la información financiera asociada con las operaciones agrícolas, lo que puede afectar la rentabilidad.
 
@@ -232,10 +238,12 @@ Falta de herramientas para gestionar y controlar la información financiera asoc
 Actualmente, los agricultores y distribuidores carecen de soluciones integrales que cubran todas las etapas del ciclo agrícola desde el cultivo hasta la distribución. Los sistemas existentes suelen estar fragmentados, lo que genera ineficiencias y problemas de coordinación. Además, no había herramientas suficientes para garantizar una gestión eficaz de los recursos y una visión clara de la situación financiera.
 
 ##### Visión/Strategy
-Desarrollar una plataforma de gestión del ciclo agrícola que permita a agricultores y distribuidores coordinar diferentes etapas del proceso, registrar y controlar actividades, gestionar información financiera, optimizar el uso de recursos y preparar informes detallados, proporcionando una solución que integre estas capacidades en una única plataforma, facilitando así una gestión más efectiva y eficiente del ciclo agrícola.
+* Acceder a datos en tiempo real para una toma de decisiones más informada.
+* Planificar y monitorear las etapas del proceso agrícola, desde la siembra hasta la distribución.
+* Mejorar la eficiencia logística para los distribuidores, asegurando que los productos lleguen a tiempo y en condiciones óptimas.
 
 ##### Initial Segment
-La parte inicial de la implementación de la solución estará formada por un grupo seleccionado de agricultores y distribuidores de una región específica y será responsable de validar la solución, personalizar la funcionalidad según sus necesidades, recopilando comentarios valiosos antes de una implementación más amplia.
+Compuesto por productores agrícolas pequeños y medianos, que necesitan una solución económica pero efectiva para gestionar sus operaciones diarias, así como distribuidores locales que requieren optimizar su logística y mejorar la trazabilidad de los productos que entregan.
 
 #### 1.2.2.2. Lean UX Assumptions
 #### Features
