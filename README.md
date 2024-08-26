@@ -424,52 +424,8 @@ Diseño de un plan de marketing sencillo para impulsar la aplicación, abarcando
 </TABLE>
 
 ## 1.3. Segmentos Objetivo
-<TABLE BORDER>
-	<TR>
-		<TD>
+| **Tipo de usuario**   | **Geográfico**                                                                                                  | **Psicográfico**                                                                                      | **Demográfico**                                                                                                           |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Productor Agrícola** | Ubicado en áreas rurales o periurbanas con actividad agrícola. Pueden encontrarse en distintas regiones dependiendo del tipo de cultivo (por ejemplo, regiones de cultivo de granos, frutas, o verduras). | Motivado por la optimización de sus procesos, la mejora de la rentabilidad y la sostenibilidad. Puede valorar la tecnología como una herramienta para mejorar su trabajo. | - **Edad:** Adultos entre 30 y 60 años. <br> - **Educación:** Desde formación técnica en agricultura hasta educación universitaria en áreas relacionadas con ciencias agrícolas. |
+| **Distribuidor**       | Puede estar ubicado en cualquier parte del mundo, dado que la distribución puede abarcar tanto áreas locales como internacionales. | Enfocado en la eficiencia logística, la optimización de rutas y el control de inventarios. Valora las herramientas que faciliten la planificación y gestión de la cadena de suministro. | - **Edad:** Adultos entre 25 y 55 años. <br> - **Educación:** Formación en logística o áreas relacionadas con la gestión de la cadena de suministro. |
 
-**Tipo de usuario**</TD> <TD>
-
-**Geográfico** </TD> <TD>
-
-**Psicográfico**</TD> <TD>
-
-**Demográfico**</TD>
-</TR>
-	<TR>
-		<TD>--</TD> <TD>--</TD> 
-        <TD>
-
----
-</TD> 
-<TD>
-- Edad: ---. 
-- Educación: -- 
-</TD>
-	</TR>
-    <TR>
-		<TD>--</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
-        <TD>
-
---
-</TD>
-
-<TD>
-- Edad: -- 
-- Educación: --
-</TD>
-	</TR>
-    <TR>
-		<TD>-- </TD> <TD>--</TD> 
-        <TD>
-        
---
-</TD> <TD>
-
-- Edad:---
-- Educación: --
-</TD>
-	</TR>
-</TABLE>
-
----
