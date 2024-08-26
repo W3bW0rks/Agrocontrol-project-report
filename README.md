@@ -207,31 +207,31 @@ La falta de soluciones efectivas provoca pérdidas económicas significativas pa
 El dominio de este proyecto es la gestión del ciclo agrícola, abarcando todas las etapas desde la siembra hasta la distribución de productos agrícolas, incluyendo la coordinación de actividades, registro de operaciones, gestión de recursos e información financiera.
 
 ##### Customer Segments
-* Productores agricolas:  
+###### Productores agricolas:  
   Pequeños, medianos y grandes agricultores que necesitan mejorar la planificación, gestión de recursos, y la eficiencia de sus operaciones.
 
 
-* Distribuidores:  
+###### Distribuidores:  
   Empresas que dependen de la correcta trazabilidad, calidad y entrega oportuna de productos agrícolas.
 
 ##### Pain Points
-* Registro Ineficiente:   
+###### Registro Ineficiente:   
 Problemas para registrar de manera precisa y oportuna las actividades agrícolas, lo que dificulta el seguimiento y control.
 
 
-* Falta de Coordinación:   
+###### Falta de Coordinación:   
 Dificultades en la sincronización de las distintas etapas del ciclo agrícola, resultando en ineficiencias y pérdida de tiempo.
 
 
-* Transparencia y Reportes:   
+###### Transparencia y Reportes:   
 Falta de visibilidad en tiempo real sobre el estado de las operaciones y la capacidad para generar reportes detallados, dificultando la toma de decisiones informadas.
 
 
-* Optimización de Recursos:   
+###### Optimización de Recursos:   
 Dificultad para planificar y utilizar eficientemente los recursos como agua, fertilizantes y pesticidas, lo que puede llevar a desperdicios y costos innecesarios.
 
 
-* Gestión Financiera Deficiente:   
+###### Gestión Financiera Deficiente:   
 Falta de herramientas para gestionar y controlar la información financiera asociada con las operaciones agrícolas, lo que puede afectar la rentabilidad.
 
 ##### Gap
@@ -247,46 +247,65 @@ Compuesto por productores agrícolas pequeños y medianos, que necesitan una sol
 
 #### 1.2.2.2. Lean UX Assumptions
 #### Features
-
+* Gestión de las etapas del ciclo agrícola (siembra, riego, fumigación, recolección, distribución).
+* Programación automática de tareas clave (fechas de riego, fumigación, recolección).
+* Gestión financiera y control de costos asociados a cada etapa del ciclo agrícola.
 
 #### Business Outcomes
-
+Tenemos como objetivo generar impactos comerciales positivos para los productores y los distribuidores, como:
+* Aumento de productividad agrícola, llevando a una mayor rentabilidad para los productores.
+* Reducción de costos operativos para agricultores mediante una mejor planificación.
+* Mejora en la satisfacción de los usuarios al ofrecer una solución accesible y fácil de usar.
 
 #### Users
 
+###### Productores agrícolas  
+Necesitan optimizar sus operaciones y obtener  mayor control sobre los recursos y las finanzas.
+
+
+###### Distribuidores  
+Buscan mejorar la trazabilidad y la eficiencia en la distribución de productos.
 
 #### User Outcomes & Benefits
+###### Productores agrícolas: 
+Aumento en la eficiencia del uso de recursos, reducción de costos, mayor control sobre las operaciones diarias y una mejor visibilidad de las finanzas agrícolas.
 
+###### Distribuidores: 
+Mejora en la logística de entregay  reducción de errores en la distribución.
 
 #### User assumptions
 #### ¿Quién es el usuario?
+El usuario principal de nuestro producto es el productor agrícola que se enfrenta a dificultades para gestionar el ciclo productivo de manera eficiente. Este productor puede ser de pequeña, mediana o gran escala. También tenemos como usuarios a los distribuidores, quienes buscan mejorar la logística y el control de productos a lo largo de la cadena de suministro.
 
 #### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+Se integra directamente en las operaciones diarias de los productores y distribuidores. Para los productores, facilita la planificación, monitoreo y administración de sus recursos y cultivos. Para los distribuidores, nuestro producto se convierte en una herramienta clave para mejorar la logística, asegurando una cadena de suministro más eficiente.
 
 #### ¿Qué problema resuelve nuestro producto?
-
+Resuelve problemas de ineficiencia en la gestión de recursos agrícolas, como la programación de riego, control de fumigación, y seguimiento de la producción. También resuelve la falta de coordinación en distribución, permitiendo que los productos lleguen a su destino de manera oportuna y con menos errores.
 
 #### ¿Cuándo y cómo es usado nuestro producto?
-
+Nuestro producto es utilizado durante todo el ciclo agrícola, desde la planificación de la siembra hasta la distribución de los productos. Los usuarios lo acceden desde dispositivos con conexión a internet para monitorear y gestionar sus operaciones en tiempo real. La programación de riego y fumigación, el control de costos y la gestión de la distribución son ejemplos de actividades diarias en las que el producto es indispensable.
 
 #### ¿Qué características son importantes?
-
+* Gestión y monitoreo en tiempo real de todas las etapas del ciclo agrícola.
+* Programación automatizada de tareas clave (riego, fumigación, recolección).
+* Control financiero asociado a cada etapa de la producción.
 
 #### ¿Cómo debería verse y comportarse nuestro producto?
-
+Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo que los usuarios naveguen sin dificultad entre las distintas funcionalidades. La interfaz debe ser limpia, con accesos directos a las tareas más comunes como la programación de riego, seguimiento de recursos y control de distribución.
 
 
 #### Business Assumptions
-1. **Creemos que nuestros clientes necesitan** 
-2. **Estas necesidades se pueden resolver con una** 
-3. **El valor #1 que mi cliente quiere de mi servicio**
-4. **El cliente también puede obtener beneficios adicionales como** 
-5. **Voy a adquirir la mayoría de mis clientes** 
-6. **Haré dinero a través de** 
-7. **Mi competencia principal en el mercado** 
-8. **Los venceremos debido a la simplicidad** 
-9. **El mayor riesgo es que** 
-10. **Resolveremos esto a través de**
+1. **Creemos que nuestros clientes necesitan** una solución integral que les permita gestionar de manera eficiente todas las etapas del ciclo agrícola, desde la siembra hasta la distribución.
+2. **Estas necesidades se pueden resolver con una**  plataforma tecnológica que brinde herramientas para la planificación, monitoreo de recursos y gestión financiera en tiempo real.
+3. **El valor #1 que mi cliente quiere de mi servicio** es la capacidad de reducir costos operativos y aumentar la eficiencia en la producción y distribución agrícola.
+4. **El cliente también puede obtener beneficios adicionales como** una mejor toma de decisiones basada en datos y una mayor sostenibilidad en sus operaciones.
+5. **Voy a adquirir la mayoría de mis clientes** a través de estrategias de marketing digital, asociaciones con cooperativas agrícolas.
+6. **Haré dinero a través de**  la venta de suscripciones a la plataforma.
+7. **Mi competencia principal en el mercado** son las soluciones tecnológicas existentes que ofrecen gestión agrícola.
+8. **Los venceremos debido a la simplicidad** de nuestra plataforma, que se adapta a las necesidades de los productores y distribuidores sin comprometer funcionalidad.
+9. **El mayor riesgo es que** uestros usuarios no adopten la plataforma debido a la falta de familiaridad con herramientas tecnológicas.
+10. **Resolveremos esto a través de** un diseño intuitivo y programas de formación que guíen a los usuarios en la adopción de la plataforma y demuestren el valor agregado de la solución.
     
 #### 1.2.2.4. Lean UX Hypothesis Statements
 ### Hipótesis 1:
