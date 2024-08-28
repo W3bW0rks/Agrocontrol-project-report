@@ -8,6 +8,7 @@ Sección donde presentamos al Startup y a los miembros que la conforman.
 Nuestra misión es transformar el sector agrícola mediante el desarrollo de soluciones tecnológicas accesibles e integradas que permitan a los productores y distribuidores optimizar sus operaciones. Buscamos empoderar a los agricultores, ayudándoles a gestionar de manera eficiente el ciclo productivo, mejorando su rentabilidad y sostenibilidad.
 
 ### Visión
+Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad de simplificar y mejorar las operaciones en el sector, fomentando una agricultura más productiva, eficiente y sostenible para agricultores y distribuidores de todas las escalas.
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 <table border="1" width="70%" style="text-align:center;">
