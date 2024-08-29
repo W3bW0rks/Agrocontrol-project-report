@@ -228,6 +228,8 @@ Resumen de la entrevista:
 
 Entrevistas #01: **William Ramos** (**28 años - Surco**) - **29 de agosto del 2024** 
 
+<img src="https://github.com/W3bW0rks/project-report/blob/3714a4cc6797376063456e523517c9869f20825e/assets/Chapter%202/Distribuidor-William%20Ramos.png">
+
 Link y minuto de la entrevista: [**Webworks-Registro de Entrevista.mp4**]()(**Comienzo - Fin a**)
 
 La entrevista se ha realizado al distribuidor William Ramos de 28 años, quien cuenta con experiencia en la distribucion de semillas, fumigantes y fertilizantes para el sector agricola.
