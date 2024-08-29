@@ -200,7 +200,7 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 
 ### 2.2.2 Registro de entrevistas.
 
-**Segmento escritor:**
+**Segmento Productor Agricola:**
 
 **Entrevista 1:**
 
@@ -221,6 +221,25 @@ Enlace de entrevista: --
 Resumen de la entrevista:
 
 --
+
+**Segmento Distribuidor:**
+
+**Entrevista 1:**
+
+Entrevistas #01: **William Ramos** (**28 años - Surco**) - **29 de agosto del 2024** 
+
+Link y minuto de la entrevista: [**Webworks-Registro de Entrevista.mp4**]()(**Comienzo - Fin a**)
+
+La entrevista se ha realizado al distribuidor William Ramos de 28 años, quien cuenta con experiencia en la distribucion de semillas, fumigantes y fertilizantes para el sector agricola.
+
+El distribuidor William nos cuenta que tiene muchos problemas al momento de tener que inventariar una gran cantidad de pedidos, teniendo que realizar inventario por region, por departamentos y por meses. Asimismo nos comenta, que antes realizaba el inventario mediante las hojas de excel, pero debido a la gran cantidad, opto por usar varias hojas de excel en el drive, debido al almacenamiento que proporciona la plataforma.
+
+Respecto a la funcionalidades, le gustaria poder registrar los gasto e ingresos para poder ver la utilidad obtenida. Asimismo, tambien le gustaria poder clasificar los productos como son las semillas, los distintos tipos de fumigadores y fertilizantes. Adicionalmente, comenta que le gustaria que el inventario se pudiera realizar en la plataforma, para no tener que buscar en varias carpetas y no preocuparse por el almacenamiento. Además, añade que le gustaria poder observar en que lugares realiza más ventas y que tambien le gustaria poder registrar casos en los cuales hubo problemas en la entrega del producto como ruptura, robo, entre otros incovenientes.
+
+En adición, la comunicación con sus clientes lo hace mediante las redes sociales como Instagram o Tiktok, pero cuando se trata de compras con una gran cantidad, la comunicación se hace por correo o whatsapp.
+
+Finalmente, expresa que si estaría dispuesto a usar un software que le ayude a optimizar las ventas y el inventario, siempre y cuando cumpla con las funcionalidades que menciono anteriormente.
+
 
 
 
