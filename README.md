@@ -98,7 +98,7 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 - **Slideshow:** Transiciones suaves con botones de navegación en esmeralda (#2FB95D)
 
 
-![Miscellaneos preview web](https://media.discordapp.net/attachments/127419112202489449https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/nav-bar-1.png)
+![Miscellaneos preview web](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/nav-bar-1.png)
 
 ### 4.1.2. Web Style Guidelines.
 
