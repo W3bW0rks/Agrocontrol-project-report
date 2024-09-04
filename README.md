@@ -178,11 +178,94 @@ En este archivo de formato feature estarán las historias de usuario como caract
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 26/08/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Whatsapp <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Webworks <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Zavala Quedena, Gonzalo Andre
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+          Principe Godoy, Johan
+          <br>
+          Espino Flores, Alejandro
+          <br>
+	        Aiquipa Poma, Sebastian Andres
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> Dado a que nos encontramos en nuestro primer sprint, aun no identifcamos planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td> En este sprint se espera implementar la landing page de la aplicación web y la startup. Al finalizar este sprint, la landing page debe estar desplegada en Netlifly y cualquier usuario debería poder acceder y visualizar la página a través de un link. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td> 11 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 11 <td>
+      </tr>
+
+  </table>
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+<table><tr><th colspan="2" valign="top"><a name="_6cxtvwxzjfs6"></a><b>SPRINT</b></th><th colspan="6" valign="top"><b>SPRINT 1</b></th></tr>
+<tr><td colspan="2" valign="top"></td><td colspan="6" valign="top"><b>Work-Item / Task</b></td></tr>
+<tr><td valign="top"><b>User Story ID</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Tiempo (horas)</b></td><td valign="top"><b>Assigned to</b> </td><td valign="top"><b>Status (to-do/ in process/ To review/ done)</b></td></tr>
+<tr><td rowspan="2" valign="top">E1-US101</td><td rowspan="2" valign="top">Barra de navegación del Landing Page</td><td valign="top">T1</td><td valign="top">Navbar section</td><td valign="top">Implementación del navbar con botón de ingreso a la aplicación AgroControl.</td><td valign="top">aca horas</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T2</td><td valign="top">Responsive design navbar section</td><td valign="top">Añadir el diseño responsive para la barra de navegación</td><td valign="top">Aca horas</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US102</td><td rowspan="2" valign="top">Sección hero de landing page</td><td valign="top">T3</td><td valign="top">Hero section</td><td valign="top">Implementación del apartado hero section</td><td valign="top">Aca horas</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T4</td><td valign="top">Responsive design hero section</td><td valign="top">Añadir el diseño responsive para la hero section</td><td valign="top">Aca horas</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US103</td><td rowspan="2" valign="top">Sección Caracteristicas del producto de landing page</td><td valign="top">T5</td><td valign="top">Features section</td><td valign="top">Implementar sección de características de la aplicación.</td><td valign="top">Aca horas</td><td valign="top">Johan Principe</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T6</td><td valign="top">Responsive design features section</td><td valign="top">Añadir el diseño responsive para la features section</td><td valign="top">Aca horas</td><td valign="top">Johan Principe</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US104</td><td rowspan="2" valign="top">Sección de testimonios en landing page</td><td valign="top">T7</td><td valign="top">Testimonials section</td><td valign="top">Implementar las tarjetas con los testimonios de los usuarios.</td><td valign="top">Aca horas</td><td valign="top">Gonzalo Zavala</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T8</td><td valign="top">Responsive design  testimonials section</td><td valign="top">Añadir el diseño responsive para la sección de testimonios</td><td valign="top">Aca horas</td><td valign="top">Gonzalo Zavala</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US105</td><td rowspan="2" valign="top">Sección de planes en landing page</td><td valign="top">T19</td><td valign="top">Pricing section</td><td valign="top">Implementar sección de membresía de acuerdo al segmento.</td><td valign="top">3</td><td valign="top">Andre Arroyo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T10</td><td valign="top">Responsive design  pricing section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">2</td><td valign="top">Andre Arroyo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US106</td><td rowspan="2" valign="top">Sección de footer a la aplicación en landing page</td><td valign="top">T11</td><td valign="top">Footer section</td><td valign="top">Implementación del footer</td><td valign="top">Aca horas</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T12</td><td valign="top">Responsive design  footer section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">Aca horas</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US107</td><td rowspan="2" valign="top">Sección para conocer al equipo de trabajo</td><td valign="top">T1</td><td valign="top">Team presentation section</td><td valign="top">Implementar sección con contactos del equipo de trabajo</td><td valign="top">Aca horas</td><td valign="top">Se hizo xd?</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T2</td><td valign="top">Responsive design  team presentation section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">Aca horas</td><td valign="top">Se hizo xd?</td><td valign="top">Done</td></tr>
+</table>
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
