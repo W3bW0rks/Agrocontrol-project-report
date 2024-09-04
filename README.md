@@ -328,85 +328,30 @@ Finalmente, expresa que si estaría dispuesto a usar un software que le ayude a 
 
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
 
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr>
-        <td></td>
-        <td colspan=2>
-            <b>User Persona</b>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td colspan=2>
-            <b>-</b> </br>Segmento Objetivo: -
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Task</b>
-        </td>
-        <td>
-            <b>Frequency</b>
-        </td>
-        <td>
-            <b>Importance</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            -
-        </td>
-        <td>
-            -
-        </td>
-        <td>
-            -
-        </td>
-    </tr>
-</table>
+**Segmento Productor Agricola:**
 
-</br></br>
-
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr>
-        <td></td>
-        <td colspan=2>
-            <b>User Persona</b>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td colspan=2>
-            <b>-</b> </br>Segmento Objetivo: -
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Task</b>
-        </td>
-        <td>
-            <b>Frequency</b>
-        </td>
-        <td>
-            <b>Importance</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            -
-        </td>
-        <td>
-            -
-        </td>
-        <td>
-            -
-        </td>
-    </tr>
-</table>
-
-</br></br>
+| **Task**                                  | **Frequency** | **Importance** |
+|-------------------------------------------|---------------|----------------|
+| Monitorear el clima                       | High          | High           |
+| Planificar la siembra                     | Medium        | High           |
+| Aplicar fertilizantes                     | Medium        | High           |
+| Supervisar el crecimiento de los cultivos | High          | High           |
+| Registrar la cosecha                      | Low           | High           |
+| Realizar análisis de suelo                | Low           | Medium         |
+| Mantener el equipo agrícola               | Low           | Medium         |
 
 
+**Segmento Distribuidor:**
+
+| **Task**                             | **Frequency** | **Importance** |
+|--------------------------------------|---------------|----------------|
+| Controlar inventario                 | High          | High           |
+| Programar rutas de entrega           | High          | High           |
+| Coordinar con proveedores            | Medium        | High           |
+| Realizar pedidos a proveedores       | Medium        | High           |
+| Revisar informes de ventas           | Low           | Medium         |
+| Gestionar la logística de transporte | High          | High           |
+| Evaluar el desempeño de entrega      | Low           | Medium         |
 
 ### 2.3.3. User Journey Mapping
 
