@@ -73,7 +73,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Cambiar
+            André Arroyo
         </td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Cambiar
+        Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, estudioso y disciplinado. Desde pequeño siempre he tenido ese interés por la tecnología y dicha curiosidad me ha llevado a elegir esta carrera. Espero en el futuro adquirir los conocimientos necesarios de esta carrera para poder vivir de lo que me gusta.
         </td>
     </tr>
     <tr align="center">
