@@ -369,7 +369,7 @@ La paleta de colores de **AgroControl** se compone de cuatro colores principales
 | Davy's Gray     | #525252  | rgb(82, 82, 82)   | Texto en fondos claros, bordes       |
 
 <p align="center">
-  <img src="[https://media.discordapp.net/attachments/1274191122024894495/1274191180162142309/image.png?ex=66c15a82&is=66c00902&hm=b545afce087889fc3cf3fb80c4cf65ad5d0bd02c6865402d33b3efc5617681d3&=&format=webp&quality=lossless&width=1440&height=278](https://github.com/W3bW0rks/project-report/blob/e58070de24f0f16b5b579c75224f5d9461bd8bef/assets/chapter-4-images/colors.png)" alt="colors-style-guidelines">
+  <img src="https://github.com/W3bW0rks/project-report/blob/e58070de24f0f16b5b579c75224f5d9461bd8bef/assets/chapter-4-images/colors.png" alt="colors-style-guidelines">
 </p>
 
 ### Tipografía
