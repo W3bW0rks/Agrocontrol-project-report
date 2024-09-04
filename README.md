@@ -315,13 +315,13 @@ Finalmente, expresa que si estaría dispuesto a usar un software que le ayude a 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
-**Segmento escritor:**
+**Segmento Productor Agricola:**
 
-<img src="?raw=true" alt="Segmento 1 user persona">
+<img src="./assets/Chapter-2/UserPerson1.png" alt="Segmento 1 user persona">
 
-**Segmento ilustrador:**
+**Segmento Distribuidor:**
 
-<img src="?raw=true" alt="Segmento 2 user persona">
+<img src="./assets/Chapter-2/UserPerson2.png" alt="Segmento 2 user persona">
 
 
 ### 2.3.2. User Task Matrix
