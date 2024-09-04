@@ -162,8 +162,70 @@ El sistema de navegación local se utiliza para permitir a los usuarios moverse 
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+## 1. Hero
+El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
+
+![Hero](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Hero.png)
+
+---
+
+## 2. Agricultores - Wireframe
+Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
+
+![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Agricultores%20-%20Wireframe.png)
+
+---
+
+## 3. Distribuidores - Wireframe
+En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
+
+![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Distribuidores-wireframe.png)
+
+---
+
+## 4. Gallery
+Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
+
+![Gallery](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Gallery.png)
+
+---
+
+## 5. Plan Agricultor
+Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
+
+![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Plan%20Agricultor.png)
+
+---
+
+## 6. Plan Distribuidor
+Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
+
+![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Plan%20Distribuidor.png)
+
+---
+
+## 7. Testimonial
+La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.
+
+![Testimonial](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Testimonial.png)
+
+---
+
+
+## 8. Contact Us
+Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
+
+![Contact Us](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Contact%20Us.png)
+
+---
+
+## 4. Footer
+El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
+
+![Footer](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Footer.png)
+
+---
+
 ### 4.3.2. Landing Page Mock-up.
 Mockup es todo lo relacionado al diseño de la pagina
 ![Landing page mockup](image.jpg)
