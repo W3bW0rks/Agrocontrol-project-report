@@ -202,15 +202,27 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
+#### Login and Registration Bounded Context
+
 <img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20UserContext.png">
+
+#### Payment Bounded Context
 
 <img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20PaymentContext.png">
 
+#### Calendar Bounded Context
+
 <img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20CalendarContext.png">
+
+#### Product Bounded Context
 
 <img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20ProductContext.png">
 
+#### Offer Bounded Context
+
 <img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20OfferContext.png">
+
+#### Financial Bounded Context
 
 <img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png">
 
