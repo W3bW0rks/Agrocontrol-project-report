@@ -92,31 +92,31 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/W3bW0rks/project-report/blob/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Cambiar
+            Alejandro Espino Flores
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        Ingeniería de Software
+        Ingeniería de Software 
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-      Cambiar
+      Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con sólidos conocimientos en lenguajes de programación como JavaScript, Python y Java. Me destaco por ser una persona responsable e innovadora, con habilidades blandas que facilitan la interrelación y el trabajo en equipo. Mantengo una actitud proactiva en el sector tecnológico, siempre en constante aprendizaje y actualización en    nuevas tecnologías relevantes para el desarrollo de software. Mi enfoque está en contribuir significativamente al éxito de los proyectos a través de la aplicación de mis conocimientos técnicos y mi capacidad para colaborar eficazmente en entornos multidisciplinarios. 
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
+        <img src="" alt=""  style="margin-bottom: 5 px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
