@@ -68,7 +68,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="?raw=true" alt="" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://imgur.com/K4MVcS2.jpg" alt="" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
