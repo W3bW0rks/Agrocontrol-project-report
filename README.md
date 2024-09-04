@@ -41,7 +41,7 @@ El logotipo principal de **AgroControl** está compuesto por las palabras "Agro"
 
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1274191122024894495/1274196243366805555/image.png?ex=66c15f39&is=66c00db9&hm=a2376ce592df7fcb206572979bd0c282f27273015a33d4f59b6fe1ffa6fe8dd0&=&format=webp&quality=lossless&width=841&height=185" alt="Descripción de la imagen">
+  <img src="https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/logo-agro.png" alt="logo-agrocontrol">
 </p>
 
 ## Background
@@ -52,15 +52,6 @@ Utilizamos una combinación de colores para los fondos según el propósito de l
 - **Fondo Primario:** Midnight Green (#043A3A)
 - **Fondo Secundario:** Blanco (#FFFFFF)
 - **Fondo Terciario:** Davy's Gray (#525252)
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1274191122024894495/1274200209156603914/image.png?ex=66c162eb&is=66c0116b&hm=282c20934e016486c821f2b28f5b47cc913e0803c6b1a1d66cbefdab17322a46&=&format=webp&quality=lossless&width=713&height=542" alt="Descripción de la imagen">
-</p>
-
-
-
-
-
 
 ## Text Styles
 
@@ -74,7 +65,7 @@ Los estilos de texto siguen la jerarquía visual y la tipografía especificada e
 - **Enlaces (a):** 16px, Mulish, Emerald (#2FB95D) 
 
 
-![Text-styles](https://media.discordapp.net/attachments/1274191122024894495/1274200209156603914/image.png?ex=66c2b46b&is=66c162eb&hm=9d58b6a848edb66610f391562797228a1a4625854f1d7b6b5dfbc6ed027dc4e5&=&format=webp&quality=lossless&width=713&height=542)
+![Text-styles](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/font-sizes.png)
 
 
 
@@ -89,8 +80,8 @@ Los botones y otros controles interactivos tienen una apariencia clara y coheren
 
 
 
-![Buttons-1](https://media.discordapp.net/attachments/1274191122024894495/1274572749049696287/image.png?ex=66c2bddf&is=66c16c5f&hm=463572de795ab41c83871eb1bc4ba988429d7067068f71dc25e335b674227813&=&format=webp&quality=lossless&width=501&height=91)
-![Buttons-2](https://media.discordapp.net/attachments/1274191122024894495/1274572808071938166/image.png?ex=66c2bded&is=66c16c6d&hm=a6df1007bffde05d8cdf6fab76b6827c48770ebbbc44925fb0e295088ac68764&=&format=webp&quality=lossless&width=516&height=116)
+![Buttons-1](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/button-style1.png)
+![Buttons-2](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/button-style2.png)
 
 
 ## Icons
@@ -107,7 +98,7 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 - **Slideshow:** Transiciones suaves con botones de navegación en esmeralda (#2FB95D)
 
 
-![Miscellaneos preview web](https://media.discordapp.net/attachments/1274191122024894495/1274572074656206848/image.png?ex=66c2bd3f&is=66c16bbf&hm=96eceecc48a8c1d1c573e1649ddef4ab5d953f6fd3c956a63935c8ce71f6d505&=&format=webp&quality=lossless&width=1440&height=123)
+![Miscellaneos preview web](https://media.discordapp.net/attachments/127419112202489449https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/nav-bar-1.png)
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -133,8 +124,8 @@ Para los usuarios que prefieren una navegación más personalizada, se implement
 Estos sistemas de organización se combinan de manera efectiva para proporcionar una interfaz intuitiva y accesible. Los usuarios pueden moverse fluidamente por la plataforma, ya sea que estén siguiendo un proceso guiado o explorando el contenido a su manera.
 #### 4.2.2. Labeling Systems.
 The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words.
-![Labeling Systems](https://media.discordapp.net/attachments/1274191122024894495/1274571094665330691/image.png?ex=66c2bc55&is=66c16ad5&hm=0735f309c6d8ab35e84452679832fdc59e04297adee3e0096f46e02da1189a42&=&format=webp&quality=lossless&width=930&height=85)
-![Icons-Searching Systems](https://media.discordapp.net/attachments/1274191122024894495/1274573102852083754/image.png?ex=66c2be34&is=66c16cb4&hm=5732773974b2aa768784bf9cfe4a7520b11f05f8d95c3ce36f35c0f45a29ccfd&=&format=webp&quality=lossless&width=282&height=77)
+![Labeling Systems](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/labeling-systems-1.png)
+![Icons-Searching Systems](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/labeling-systems-2.png)
 
 ### 4.2.3. SEO Tags and Meta Tags
 
