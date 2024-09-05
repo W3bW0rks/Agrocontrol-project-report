@@ -302,8 +302,10 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 
 <img src="https://github.com/W3bW0rks/project-report/blob/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
