@@ -1084,13 +1084,13 @@ Redactamos historias de usuarios que nos ayuden a generar funciones del software
 A continuación, toca analizar cómo se relacionan nuestras metas de negocios con los principales entregables de nuestro proyecto. Se eligieron las user stories de mayor importancia para el proceso de nuestro aplicativo y su impacto a futuro.
 
 **Segmento Objetivo: Productor Agricola**
-<img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/Impact%20map%20Productor%20Agricola.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/Impact%20map%20Productor%20Agricola.png?raw=true"/>
 
 **Segmento Objetivo: Distribuidores**
-<img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/Impact%20map%20Distribuidores.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/Impact%20map%20Distribuidores.png?raw=true">
 
 ## 3.4. Product Backlog.
-<img src="https://github.com/W3bW0rks/Project-Report/blob/02fa930e7a4353e340aab9f9a5c179fa7866ec9a/assets/Chapter%203/Webworks%20Product%20Backlog.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/Webworks%20Product%20Backlog.png?raw=true">
 
 **Link de Trello:** [Product Backlog WebWorks Trello](https://trello.com/b/UmnID3DF/webworks-product-backlog)
 |# Orden|User story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
