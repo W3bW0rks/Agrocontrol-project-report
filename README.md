@@ -392,7 +392,33 @@ https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+Enlace Overflow:
 
+https://overflow.io/s/N7ITFZCP
+
+**Agregar nuevo "Field"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/fields-user.png" />
+
+**Agregar nueva dato a "Finances"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png" />
+
+**Agendar temporada de fumigación y fertilización en "Fumigation and fertlizers"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/fumigation-user.png" />
+
+**Agregar la cosecha realizada en la sección "Harvest"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/harvest-user.png" />
+
+**Agendar temporada de riego en la sección "Irrigation"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-user.png" />
+
+**Realizar una compra en la sección "Store"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/store-user.png" />
 
 
 ## 4.5. Web Applications Prototyping.
