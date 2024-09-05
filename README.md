@@ -25,26 +25,50 @@
 (Imagenes de los commits cada entrega)
 
 # Student Outcome
-El curso contribuye al cumplimiento del **Student Outcome ABET: ABET – EAC - Student Outcome 3** Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería| 
-Gonzalo Quedena:<br> *TB1:* Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios, el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto.
-Johan Principe:<br> *TB1:* Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos.
-Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto.
-Sebastian Aiquipa:<br> *TB1:* Se desarrollo el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También el flow de cada funcionalidad, detallando la interacción y navegación del usuario para garantizar una experiencia intuitiva y eficiente.
-Andre Arroyo:<br>**TB1:** Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas c4 del capitulo 4, y en el capituo V se elaboro el 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1
-Alejandro Espino Flores:<br> TB1: 
-Se desarrollaron el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional. Estos diseños siguen las directrices del Capítulo IV: "Product Design", que incluye los "Style Guidelines" y una sólida arquitectura de la información con sistemas de organización, etiquetado, SEO, búsqueda y navegación. Esto garantiza una interfaz intuitiva y eficiente, guiando el desarrollo de la landing page según los estándares de calidad y usabilidad definidos.
-<br> |Su texto de conclusion|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería| 
-Gonzalo Quedena:<br> *TB1:*  Para esta entrega, se analizaron las necesidades de los segmentos de productores agricolas y distribuidores mediante la realización y análisis de entrevistas. Además, se aplicó un diseño UX/UI adecuado asegurando una experiencia óptima para todos los usuarios. Asimismo, se llevó a cabo un análisis exhaustivo de la competencia, con el fin de identificar cómo nuestro sistema de gestión del ciclo agrícola puede diferenciarse, tomando en cuenta los antecedentes y desafíos relacionados con la optimización de las actividades agrícolas, desde la siembra hasta la distribución.<br> 
-Johan Principe:<br> *TB1:* Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación.
-Los resultados del User Task Matrix y otros mapas se presentaron de manera clara, facilitando la toma de decisiones basada en las necesidades de los usuarios.
-Sebastian Aiquipa:<br> *TB1:* Desarrolle los wireframes y mock-ups del proyecto para Landing Page y Web Application. Durante su elaboracion se documento los diferentes elementos necesarios para elaborar los diseños. Pero con el principal objetivo de mantener un orden y tener claro las caracteristicas y modelos que tiene que seguir el equipo.
-André Arroyo:<br>**TB1:** Para esta entrega me dedique al desarrollo del capítulo 3 el cual es muy importante ya que al comprender mejor a nuestros segmentos objetivos podemos elaborar las soluciones que satisfagan sus necesidades y por lo tanto obtenemos los requerimientos de nuestro software. La elaboración de los diagramas c4 nos sirve para comprender de mejor manera como se desarrollara el sistema de backend y en el capitulo 5  nos dedicamos a documentar las tecnologías usadas en el trabajo, asi como documentar la elaboración de nuestra landing page.
-Alejandro Espino Flores:<br> TB1: Desarrollé el mockup y wireframe de la landing page y la aplicación web, garantizando una estructura visual clara y funcional que facilita la navegación y mejora la experiencia del usuario. Estos avances se alinean con las pautas establecidas en el Capítulo IV: "Product Design", que incluye guías de estilo generales y específicas para la web, así como una arquitectura de la información bien definida con sistemas de organización, etiquetado, SEO, búsqueda y navegación. Estos elementos aseguran que el diseño sea coherente, accesible y funcional, cumpliendo con los estándares requeridos para avanzar en el desarrollo del proyecto.
-*TB2:* texto etc.. |Su texto de conclusion|
+<table>
+  <thead>
+    <tr>
+      <th>Criterio Específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
+      <td>
+        <strong>Gonzalo Quedena:</strong><br>
+        <em>TB1:</em> Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios y el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto.<br><br>
+        <strong>Johan Príncipe:</strong><br>
+        <em>TB1:</em> Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos. Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto.<br><br>
+        <strong>Sebastián Aiquipa:</strong><br>
+        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También detallé el flow de cada funcionalidad, garantizando una experiencia intuitiva y eficiente.<br><br>
+        <strong>André Arroyo:</strong><br>
+        <em>TB1:</em> Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas C4 del capítulo 4, y en el capítulo 5 se elaboraron los apartados 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1.<br><br>
+        <strong>Alejandro Espino Flores:</strong><br>
+        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional. Estos diseños siguen las directrices del Capítulo IV: "Product Design", incluyendo guías de estilo y una sólida arquitectura de la información.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
+      <td>
+        <strong>Gonzalo Quedena:</strong><br>
+        <em>TB1:</em> Para esta entrega, se analizaron las necesidades de los segmentos de productores agrícolas y distribuidores mediante entrevistas. También se aplicó un diseño UX/UI adecuado, y se realizó un análisis exhaustivo de la competencia para identificar cómo nuestro sistema de gestión agrícola puede diferenciarse.<br><br>
+        <strong>Johan Príncipe:</strong><br>
+        <em>TB1:</em> Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación.<br><br>
+        <strong>Sebastián Aiquipa:</strong><br>
+        <em>TB1:</em> Desarrollé los wireframes y mock-ups del proyecto para la Landing Page y Web Application. Documenté los diferentes elementos necesarios para elaborar los diseños, manteniendo un orden y claridad en las características y modelos a seguir.<br><br>
+        <strong>André Arroyo:</strong><br>
+        <em>TB1:</em> Para esta entrega me dediqué al desarrollo del capítulo 3, que nos permitió comprender mejor a nuestros segmentos objetivos y obtener los requerimientos de software. Elaboré los diagramas C4 para entender el backend, y documenté las tecnologías usadas en el proyecto, así como la elaboración de la landing page.<br><br>
+        <strong>Alejandro Espino Flores:</strong><br>
+        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional que sigue las pautas de diseño y arquitectura de la información.
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Contenido
 
