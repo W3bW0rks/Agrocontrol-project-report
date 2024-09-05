@@ -873,7 +873,7 @@ Edad: **52 años**
 
 Lugar de residencia: **Lima, Perú**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/c52d72d8b4566671ef7cc835c9da86cd8345e7ef/assets/Chapter-2/Entrevista_Distribuidor_Jorge.png" alt="entrevista-distribuidor2" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter-2/Entrevista_Distribuidor_Jorge.png?raw=true" alt="entrevista-distribuidor2" />
 
 Timing Entrevista: 32:52 - 38:52
 
