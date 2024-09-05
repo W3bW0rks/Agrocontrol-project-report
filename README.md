@@ -328,8 +328,22 @@ https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+Enlace Lucidchart:
+
+https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitationId=inv_8080371d-b917-48d7-bd47-6c51db8e29db
+
+**Usuario quiere agregar un nuevo "Field"**
+
+**Usuario quiere agendar y llena el formulario de riego**
+
+**Usuario quiere comprar un producto en la tienda "Store"**
+
+**Usuario quiere agendar y llena el formnulario de Fumigacion y fertilizar**
+
+**Usuario quiere registrar las cosechas y el peso por caja**
+
+**Usuario registra el peso vendido y las ganancias por unidad de producto en "Finances"**
+
 ### 4.4.2. Web Applications Mock-ups.
 
 **Fields**
@@ -365,8 +379,10 @@ https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+
+
+
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
