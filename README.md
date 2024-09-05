@@ -31,24 +31,36 @@ Reporte de la elaboracion de la TB1te la TB1
 
 <img src="https://github.com/W3bW0rks/project-report/blob/main/assets/collaboration%20insights/collaborators.png?raw=true" alt="github-collaborators"/>
 
+<br/>
+
 # Student Outcome
 El curso contribuye al cumplimiento del **Student Outcome ABET: ABET – EAC - Student Outcome 3** Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería| 
-Gonzalo Quedena:<br> *TB1:* Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios, el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto.
-Johan Principe:<br> *TB1:* Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos.
-Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto.
-Sebastian Aiquipa:<br> *TB1:* Se desarrollo el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También el flow de cada funcionalidad, detallando la interacción y navegación del usuario para garantizar una experiencia intuitiva y eficiente.
-Andre Arroyo:<br>**TB1:** Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas c4 del capitulo 4, y en el capituo V se elaboro el 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1
-<br> |Su texto de conclusion|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería| 
-Gonzalo Quedena:<br> *TB1:*  Para esta entrega, se analizaron las necesidades de los segmentos de productores agricolas y distribuidores mediante la realización y análisis de entrevistas. Además, se aplicó un diseño UX/UI adecuado asegurando una experiencia óptima para todos los usuarios. Asimismo, se llevó a cabo un análisis exhaustivo de la competencia, con el fin de identificar cómo nuestro sistema de gestión del ciclo agrícola puede diferenciarse, tomando en cuenta los antecedentes y desafíos relacionados con la optimización de las actividades agrícolas, desde la siembra hasta la distribución.<br> 
-Johan Principe:<br> *TB1:* Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación.
-Los resultados del User Task Matrix y otros mapas se presentaron de manera clara, facilitando la toma de decisiones basada en las necesidades de los usuarios.
-Sebastian Aiquipa:<br> *TB1:* Desarrolle los wireframes y mock-ups del proyecto para Landing Page y Web Application. Durante su elaboracion se documento los diferentes elementos necesarios para elaborar los diseños. Pero con el principal objetivo de mantener un orden y tener claro las caracteristicas y modelos que tiene que seguir el equipo.
-André Arroyo:<br>**TB1:** Para esta entrega me dedique al desarrollo del capítulo 3 el cual es muy importante ya que al comprender mejor a nuestros segmentos objetivos podemos elaborar las soluciones que satisfagan sus necesidades y por lo tanto obtenemos los requerimientos de nuestro software. La elaboración de los diagramas c4 nos sirve para comprender de mejor manera como se desarrollara el sistema de backend y en el capitulo 5  nos dedicamos a documentar las tecnologías usadas en el trabajo, asi como documentar la elaboración de nuestra landing page.
-*TB2:* texto etc.. |Su texto de conclusion|
+
+<table border="1">
+  <tr>
+    <th>Criterio Especifico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>
+    Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería
+    </td>
+    <td>
+    Gonzalo Quedena:<br> TB1: Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios, el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto. <br>Johan Principe:<br> TB1: Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos.Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto. <br>Sebastian Aiquipa:<br> TB1: Se desarrollo el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También el flow de cada funcionalidad, detallando la interacción y navegación del usuario para garantizar una experiencia intuitiva y eficiente.<br>Andre Arroyo:<br>TB1: Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas c4 del capitulo 4, y en el capituo V se elaboro el 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1
+    <br> 
+    </td>
+    <td>Su texto de conclusion</td>
+  </tr>
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
+    <td>Gonzalo Quedena:<br> TB1:  Para esta entrega, se analizaron las necesidades de los segmentos de productores agricolas y distribuidores mediante la realización y análisis de entrevistas. Además, se aplicó un diseño UX/UI adecuado asegurando una experiencia óptima para todos los usuarios. Asimismo, se llevó a cabo un análisis exhaustivo de la competencia, con el fin de identificar cómo nuestro sistema de gestión del ciclo agrícola puede diferenciarse, tomando en cuenta los antecedentes y desafíos relacionados con la optimización de las actividades agrícolas, desde la siembra hasta la distribución.<br> 
+    Johan Principe:<br> TB1: Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran  fácilmente tomados en cuenta para el desarrollo de la aplicación. Los resultados del User Task Matrix y otros mapas se presentaron de manera clara, facilitando la toma de   decisiones basada en las necesidades de los usuarios. <br>Sebastian Aiquipa:<br> TB1: Desarrolle los wireframes y mock-ups del proyecto para Landing Page y Web Application. Durante su elaboracion se documento los diferentes elementos necesarios para elaborar los diseños. Pero con el principal objetivo de mantener un orden y tener claro las   caracteristicas y modelos que tiene que seguir el equipo.<br>André Arroyo:<br>TB1: Para esta entrega me dedique al desarrollo del capítulo 3 el cual es muy importante ya   que al comprender mejor a nuestros segmentos objetivos podemos elaborar las soluciones que satisfagan sus necesidades y por lo tanto obtenemos los requerimientos de nuestro  software. La elaboración de los diagramas c4 nos sirve para comprender de mejor manera como se desarrollara el sistema de backend y en el capitulo 5  nos dedicamos a documentar las tecnologías usadas en el trabajo, asi como documentar la elaboración de nuestra landing page.</td>
+    <td>Su texto de conclusion</td>
+  </tr>
+</table>  
+
+<br/>
 
 # Contenido
 
