@@ -334,13 +334,11 @@ Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y e
 
 **Fields**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png
-" />
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" />
 
 **Menu**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png
-" />
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png" />
 
 **Irrigation**
 
