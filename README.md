@@ -1538,7 +1538,7 @@ https://overflow.io/s/N7ITFZCP
 
 ## 4.5. Web Applications Prototyping.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/c48ed14f06aa8c4df0d9a5924e46399819e86c5b/assets/chapter-4-images/Web%20Application%20Prototyping/prototype-figma.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Prototyping/prototype-figma.png?raw=true" />
 
 Enlace de Figma: 
 https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node-type=FRAME&t=Mmri04ZsvmNBeZoT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=143%3A1155&show-proto-sidebar=1
@@ -1557,31 +1557,31 @@ https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node
 
 #### Login and Registration Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20UserContext.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20UserContext.png?raw=true">
 
 #### Payment Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20PaymentContext.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20PaymentContext.png?raw=true">
 
 #### Calendar Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20CalendarContext.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20CalendarContext.png?raw=true">
 
 #### Product Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20ProductContext.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20ProductContext.png?raw=true">
 
 #### Offer Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20OfferContext.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20OfferContext.png?raw=true">
 
 #### Financial Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png?raw=true">
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-<img src="https://github.com/W3bW0rks/project-report/blob/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png?raw=true" />
 ### 4.7.2. Class Dictionary.
 **User**
 Clase representa a los usuarios del sistema
@@ -1609,7 +1609,7 @@ Representa la suscripción de un usuario, que define el acceso a funcionalidades
 Instancias para "Farmer" y "Distributor"
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-<img src="https://github.com/W3bW0rks/project-report/blob/261f90dde8168ef4f786df953f274babf2549f7f/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" />
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
