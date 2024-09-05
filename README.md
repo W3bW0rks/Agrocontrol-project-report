@@ -331,8 +331,41 @@ https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+**Fields**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png
+" />
+
+**Menu**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png
+" />
+
+**Irrigation**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Riego-Agro.png" />
+
+**Store**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
+
+**Finances**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" />
+
+**Fumigation and fertilizers**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/fumigacion-Agro.png" />
+
+**Harvest**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/recoleccion-Agro.png" />
+
+Link Figma:
+https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
