@@ -1278,6 +1278,10 @@ Como complemento del sistema jerárquico, **AgroControl** utiliza un sistema de 
 ### Local Navigation System
 El sistema de navegación local se utiliza para permitir a los usuarios moverse entre sub-sitios o páginas secundarias dentro de **AgroControl**. Este sistema complementa la navegación global, proporcionando enlaces directos a otras páginas relevantes, como la página de detalles de un servicio específico o un artículo del blog, asegurando una experiencia de navegación fluida y coherente.
 ## 4.3. Landing Page UI Design.
+Enlace al Landing Page: 
+
+https://agrocontrol-landing-page.vercel.app/index.html
+
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
 
