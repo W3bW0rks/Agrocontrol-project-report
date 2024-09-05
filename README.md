@@ -1133,7 +1133,7 @@ La paleta de colores de **AgroControl** se compone de cuatro colores principales
 | Davy's Gray     | #525252  | rgb(82, 82, 82)   | Texto en fondos claros, bordes       |
 
 <p align="center">
-  <img src="https://github.com/W3bW0rks/project-report/blob/e58070de24f0f16b5b579c75224f5d9461bd8bef/assets/chapter-4-images/colors.png" alt="colors-style-guidelines">
+  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/colors.png?raw=true" alt="colors-style-guidelines">
 </p>
 
 ### Tipografía
@@ -1160,7 +1160,7 @@ El logotipo principal de **AgroControl** está compuesto por las palabras "Agro"
 
 
 <p align="center">
-  <img src="https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/logo-agro.png" alt="logo-agrocontrol">
+  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/logo-agro.png?raw=true" alt="logo-agrocontrol">
 </p>
 
 ## Background
@@ -1184,7 +1184,7 @@ Los estilos de texto siguen la jerarquía visual y la tipografía especificada e
 - **Enlaces (a):** 16px, Mulish, Emerald (#2FB95D) 
 
 
-![Text-styles](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/font-sizes.png)
+![Text-styles](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/font-sizes.png?raw=true)
 
 
 
@@ -1199,8 +1199,8 @@ Los botones y otros controles interactivos tienen una apariencia clara y coheren
 
 
 
-![Buttons-1](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/button-style1.png)
-![Buttons-2](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/button-style2.png)
+![Buttons-1](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/button-style1.png?raw=true)
+![Buttons-2](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/button-style2.png?raw=true)
 
 
 ## Icons
@@ -1217,7 +1217,7 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 - **Slideshow:** Transiciones suaves con botones de navegación en esmeralda (#2FB95D)
 
 
-![Miscellaneos preview web](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/nav-bar-1.png)
+![Miscellaneos preview web](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/nav-bar-1.png?raw=true)
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -1243,8 +1243,8 @@ Para los usuarios que prefieren una navegación más personalizada, se implement
 Estos sistemas de organización se combinan de manera efectiva para proporcionar una interfaz intuitiva y accesible. Los usuarios pueden moverse fluidamente por la plataforma, ya sea que estén siguiendo un proceso guiado o explorando el contenido a su manera.
 #### 4.2.2. Labeling Systems.
 The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words.
-![Labeling Systems](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/labeling-systems-1.png)
-![Icons-Searching Systems](https://github.com/W3bW0rks/project-report/blob/36ceb2415864a6b2c2a7f84f538e6d2743f9f3f3/assets/chapter-4-images/labeling-systems-2.png)
+![Labeling Systems](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/labeling-systems-1.png?raw=true)
+![Icons-Searching Systems](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/labeling-systems-2.png?raw=true)
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -1282,49 +1282,47 @@ la pagina donde te registras y ves info del web app (te manda al web app)
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-![Hero](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Hero.png)
+![Hero](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Hero.png?raw=true)
 
 ---
 
 ## 2. Agricultores - Wireframe
 Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
 
-![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Agricultores%20-%20Wireframe.png)
-
+![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Agricultores%20-%20Wireframe.png?raw=true)
 ---
 
 ## 3. Distribuidores - Wireframe
 En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
 
-![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Distribuidores-wireframe.png)
+![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Distribuidores-wireframe.png?raw=true)
 
 ---
 
 ## 4. Gallery
 Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
 
-![Gallery](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Gallery.png)
+![Gallery](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Gallery.png?raw=true)
 
 ---
 
 ## 5. Plan Agricultor
 Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
 
-![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Plan%20Agricultor.png)
-
+![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Plan%20Agricultor.png?raw=true)
 ---
 
 ## 6. Plan Distribuidor
 Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
 
-![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Plan%20Distribuidor.png)
+![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Plan%20Distribuidor.png?raw=true)
 
 ---
 
 ## 7. Testimonial
 La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.
 
-![Testimonial](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Testimonial.png)
+![Testimonial](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Testimonial.png?raw=true)
 
 ---
 
@@ -1332,14 +1330,14 @@ La sección de testimoniales muestra opiniones y comentarios de usuarios satisfe
 ## 8. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-![Contact Us](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Contact%20Us.png)
+![Contact Us](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Contact%20Us.png?raw=true)
 
 ---
 
 ## 9. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
-![Footer](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Wireframes/desktop/Footer.png)
+![Footer](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Footer.png?raw=true)
 
 ---
 
@@ -1349,49 +1347,49 @@ Mockup es todo lo relacionado al diseño de la pagina
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-![Hero](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_Hero.png)
+![Hero](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Hero.png?raw=true)
 
 ---
 
 ## 2. Agricultores - Wireframe
 Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
 
-![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_Agricultores.png)
+![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Agricultores.png?raw=true)
 
 ---
 
 ## 3. Distribuidores - Wireframe
 En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
 
-![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_Distribuidores.png)
+![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Distribuidores.png?raw=true)
 
 ---
 
 ## 4. Gallery
 Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
 
-![Gallery](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_Gallery.png)
+![Gallery](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Gallery.png?raw=true)
 
 ---
 
 ## 5. Plan Agricultor
 Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
 
-![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_Plan-Agricultor.png)
+![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan-Agricultor.png?raw=true)
 
 ---
 
 ## 6. Plan Distribuidor
 Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
 
-![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_Plan%20Distribuidor.png)
+![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan%20Distribuidor.png?raw=true)
 
 ---
 
 ## 7. Testimonial
 La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.
 
-![Testimonial](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_testimonial.png)
+![Testimonial](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_testimonial.png?raw=true)
 
 ---
 
@@ -1399,14 +1397,14 @@ La sección de testimoniales muestra opiniones y comentarios de usuarios satisfe
 ## 8. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-![Contact Us](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_form.png)
+![Contact Us](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_form.png?raw=true)
 
 ---
 
 ## 9. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
-![Footer](https://github.com/W3bW0rks/project-report/blob/090ca558fab006a3bd0c749657b7f9ebc1d4dd68/assets/chapter-4-images/Mockup/desktop/Mockup_footer.png)
+![Footer](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_footer.png?raw=true)
 
 
 ## 4.4. Web Applications UX/UI Design.
@@ -1414,31 +1412,31 @@ El footer incluye enlaces rápidos, información de contacto y otras secciones r
 
 **Menu**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Menu-Agro-Wireframe.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Menu-Agro-Wireframe.png?raw=true" />
 
 **Fields**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png?raw=true" />
 
 **Store**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png?raw=true" />
 
 **Irrigation**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Riego-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Riego-Agro.png?raw=true" />
 
 **Finances**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png?raw=true" />
 
 **Fumigation and fertilizers**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-4-images/Web%20Application%20Wireframe/fumigacion-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fumigacion-Agro.png?raw=true" />
 
 **Harvest**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-4-images/Web%20Application%20Wireframe/recoleccion-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/recoleccion-Agro.png?raw=true" />
 
 Link Figma:
 https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
@@ -1451,19 +1449,19 @@ https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitatio
 
 **Usuario quiere agregar un nuevo "Field"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-create-fieldpng.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-create-fieldpng.png?raw=true" />
 
 **Usuario quiere agendar y llena el formulario de riego**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-irrigation.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-irrigation.png?raw=true" />
 
 **Usuario quiere comprar un producto en la tienda "Store"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-store.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-store.png?raw=true" />
 
 **Usuario quiere agendar y llena el formnulario de Fumigacion y fertilizar**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/fumigation-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/fumigation-user.png?raw=true" />
 
 **Usuario quiere registrar las cosechas y el peso por caja**
 
@@ -1471,37 +1469,37 @@ https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitatio
 
 **Usuario registra el peso vendido y las ganancias por unidad de producto en "Finances"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-finances.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-finances.png?raw=true" />
 
 ### 4.4.2. Web Applications Mock-ups.
 
 **Fields**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png?raw=true" />
 
 **Menu**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png?raw=true" />
 
 **Irrigation**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Riego-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Riego-Agro.png?raw=true" />
 
 **Store**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
 
 **Finances**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
 
 **Fumigation and fertilizers**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/fumigacion-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
 
 **Harvest**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/recoleccion-Agro.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/recoleccion-Agro.png?raw=true" />
 
 Link Figma:
 https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
@@ -1515,27 +1513,27 @@ https://overflow.io/s/N7ITFZCP
 
 **Agregar nuevo "Field"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/fields-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/fields-user.png?raw=true"/>
 
 **Agregar nueva dato a "Finances"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png?raw=true" />
 
 **Agendar temporada de fumigación y fertilización en "Fumigation and fertlizers"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/fumigation-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png?raw=true" />
 
 **Agregar la cosecha realizada en la sección "Harvest"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/harvest-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/harvest-user.png?raw=true" />
 
 **Agendar temporada de riego en la sección "Irrigation"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-user.png?raw=true" />
 
 **Realizar una compra en la sección "Store"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d23ebf06d9c67bb03b99e8de4775e036abb4101d/assets/chapter-4-images/Web%20Application%20Userflow/store-user.png" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/store-user.png?raw=true" />
 
 
 ## 4.5. Web Applications Prototyping.
