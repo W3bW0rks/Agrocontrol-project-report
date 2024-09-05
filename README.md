@@ -294,8 +294,39 @@ El footer incluye enlaces rápidos, información de contacto y otras secciones r
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+**Menu**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Menu-Agro-Wireframe.png" />
+
+**Fields**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png" />
+
+**Store**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
+
+**Irrigation**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Riego-Agro.png" />
+
+**Finances**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" />
+
+**Fumigation and fertilizers**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-4-images/Web%20Application%20Wireframe/fumigacion-Agro.png" />
+
+**Harvest**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-4-images/Web%20Application%20Wireframe/recoleccion-Agro.png" />
+
+Link Figma:
+https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
