@@ -200,6 +200,8 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 
 ### 2.2.2 Registro de entrevistas.
 
+Link Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014511_upc_edu_pe/EdjMJEudvlRHlvfapTZbqN0BDSyNgvd7Wya6TP0Da6ylyQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HIriyZ
+
 **Segmento Productor Agricola:**
 
 **Entrevista 1:**
