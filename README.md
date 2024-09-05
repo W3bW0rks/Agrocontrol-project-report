@@ -432,13 +432,13 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 
-**Segmento :**
+**Segmento Productor Agricola:**
 
-<img src="?raw=true" alt="Segmento ">
+<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona1.png?raw=true" alt="Segmento Productor Agricola">
 
-**Segmento :**
+**Segmento Distribuidor:**
 
-<img src="?raw=true" alt="Segmento ">
+<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor">
 
 ### 2.3.5. As-is Scenario Mapping
 
