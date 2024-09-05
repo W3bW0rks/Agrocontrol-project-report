@@ -444,14 +444,11 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
 
-**Segmento :**
+**Segmento Productor Agricola:**
 
-<img src="?raw=true" alt="Segmento ">
+<img src="https://github.com/W3bW0rks/project-report/blob/428bbf749920bdae6e315782fa6780695cb60413/assets/chapter-2-images/AsIsScenarioMappingUserPersona1.jpg" alt="Segmento 1 user persona">
 
-**Segmento :**
+**Segmento Distribuidor:**
 
-<img src="?raw=true" alt="Segmento ">
+<img src="https://github.com/W3bW0rks/project-report/blob/428bbf749920bdae6e315782fa6780695cb60413/assets/chapter-2-images/AsIsScenarioMappingUserPersona2.jpg" alt="Segmento 2 user persona">
 
-Enlace de Miro: -
-
-## 2.4. Ubiquitous Language
