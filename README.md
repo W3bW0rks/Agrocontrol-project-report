@@ -1923,8 +1923,8 @@ Configuraciones de donde y como deployeamos el proyecto
 <tr><td valign="top">T10</td><td valign="top">Responsive design  pricing section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">2</td><td valign="top">Andre Arroyo</td><td valign="top">Done</td></tr>
 <tr><td rowspan="2" valign="top">E1-US106</td><td rowspan="2" valign="top">Sección de footer a la aplicación en landing page</td><td valign="top">T11</td><td valign="top">Footer section</td><td valign="top">Implementación del footer</td><td valign="top">2</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
 <tr><td valign="top">T12</td><td valign="top">Responsive design  footer section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">2</td><td valign="top">Alejandro Espino</td><td valign="top">Done</td></tr>
-<tr><td rowspan="2" valign="top">E1-US107</td><td rowspan="2" valign="top">Sección para conocer al equipo de trabajo</td><td valign="top">T1</td><td valign="top">Team presentation section</td><td valign="top">Implementar sección con contactos del equipo de trabajo</td><td valign="top">3</td><td valign="top">Se hizo xd?</td><td valign="top">Done</td></tr>
-<tr><td valign="top">T2</td><td valign="top">Responsive design  team presentation section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">2</td><td valign="top">Se hizo xd?</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E1-US107</td><td rowspan="2" valign="top">Sección de formulario de contacto</td><td valign="top">T1</td><td valign="top">Team presentation section</td><td valign="top">Implementar sección con formulario de contacto</td><td valign="top">3</td><td valign="top">Sebastian Aiquipa</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T2</td><td valign="top">Responsive design  team presentation section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">2</td><td valign="top">Sebastian Aiquipa</td><td valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
