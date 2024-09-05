@@ -285,15 +285,23 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<img src="https://github.com/W3bW0rks/Project-Report/blob/02fa930e7a4353e340aab9f9a5c179fa7866ec9a/assets/Chapter%203/Webworks%20Product%20Backlog.png">
-
-**Link de Trello:** [Product Backlog WebWorks Trello](https://trello.com/b/UmnID3DF/webworks-product-backlog)
+<img src="https://github.com/W3bW0rks/project-report/blob/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este primer Sprint nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
+
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
