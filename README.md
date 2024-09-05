@@ -222,13 +222,39 @@ Resumen de la entrevista:
 
 --
 
+**Entrevista 2:**
+
+Nombres: Elizabeth 
+
+Apellidos: Caro
+
+Edad: 59 años
+
+Lugar de residencia: Caserio Lujaraja | Ica Perú
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/W3bW0rks/project-report/blob/feature/chapter-2/assets/Chapter-2/ProductorAgricula-ElizabethCaro.png?raw=true" alt="evidence-of-interview">
+
+Enlace de entrevista: --
+
+Resumen de la entrevista:
+La entrevista se ha realizado a la productora agrícola Elizabeth Caro de 59 años que enfrenta varios desafíos en la gestión de sus campos de cultivo, siendo el más significativo la irregularidad en la entrega de agua para el riego, tanto por parte de las autoridades como en años de sequía. En cuanto a las herramientas, emplea principalmente mano de obra para tareas como el sembrado, limpieza, arado, mantenimiento y cosecha, junto con una variedad de herramientas manuales como lampas, picos, machetes y javas para almacenar los productos cosechados. El agricultor considera fundamental contar con una aplicación de gestión agrícola que proporcione información sobre la producción a nivel nacional de frutas y semillas como mangos, uvas, paltas, y naranjas, con el objetivo de facilitar la comercialización de sus cultivos en el mercado.
+
+Aunque está conforme con las herramientas manuales que utiliza, reconoce que necesita mayor acceso a información para mejorar la venta de sus productos. Actualmente, su uso de la tecnología se limita a la búsqueda en Internet sobre plagas que puedan afectar sus cultivos. En cuanto a sus necesidades tecnológicas, le gustaría que una aplicación le permita llevar un control preciso del inventario de las cosechas y las ventas, así como calcular las utilidades netas tras deducir los gastos generados por la operación agrícola, como el pago a los trabajadores.
+
+Actualmente, el seguimiento de los ingresos y gastos relacionados a la agricultura lo gestiona de manera manual, contabilizando la cantidad de jabas producidas y vendidas, así como los gastos en personal. Le sería útil contar con una plataforma que le proporcione reportes detallados sobre ventas en términos de unidades y valores, así como sobre los gastos en insumos y el mantenimiento del cultivo. Además, desearía que la aplicación lo apoye en la toma de decisiones estratégicas, facilitando la exhibición de sus productos y permitiendo que sus socios tengan acceso en tiempo real a la información de las ventas, tanto en términos de unidades como de valores, lo que ayudaría a optimizar el control y la gestión financiera de su producción agrícola.
+
+--
+
+
 **Segmento Distribuidor:**
 
 **Entrevista 1:**
 
 Entrevistas #01: **William Ramos** (**28 años - Surco**) - **29 de agosto del 2024** 
 
-<img src="https://github.com/W3bW0rks/project-report/blob/3714a4cc6797376063456e523517c9869f20825e/assets/Chapter%202/Distribuidor-William%20Ramos.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/feature/chapter-2/assets/Chapter-2/Distribuidor-William%20Ramos.png?raw=true">
 
 Link y minuto de la entrevista: [**Webworks-Registro de Entrevista.mp4**]()(**Comienzo - Fin a**)
 
