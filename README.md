@@ -300,7 +300,7 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 * GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
 * Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
-
+<img src="https://github.com/W3bW0rks/project-report/blob/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
