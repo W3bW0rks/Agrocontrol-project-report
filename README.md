@@ -143,413 +143,434 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-#### 1.1.2. Perfiles de integrantes del equipo
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-|
-|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+Nuestra startup está enfocada en la gestión del ciclo agrícola, con el objetivo de facilitar y optimizar las actividades de productores agricolas y distribuidores. A través de un sistema integral, abarcamos todas las etapas clave del proceso agrícola, desde el sembrío hasta la distribución. Este sistema proporciona herramientas que permiten gestionar y supervisar de manera eficiente cada fase del ciclo productivo, incluyendo la siembra, riego, fumigación, recolección y distribución de productos.
+
+El enfoque de la startup es brindar una plataforma robusta que no solo facilite el día a día de agricultores y distribuidores, sino que también impulse la eficiencia en la producción agrícola y optimice la cadena de suministro en el sector.
+
+### Misión
+Nuestra misión es transformar el sector agrícola mediante el desarrollo de soluciones tecnológicas accesibles e integradas que permitan a los productores y distribuidores optimizar sus operaciones. Buscamos empoderar a los agricultores, ayudándoles a gestionar de manera eficiente el ciclo productivo, mejorando su rentabilidad y sostenibilidad.
+
+### Visión
+Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad de simplificar y mejorar las operaciones en el sector, fomentando una agricultura más productiva, eficiente y sostenible para agricultores y distribuidores de todas las escalas.
+
+### 1.1.2. Perfiles de los integrantes del equipo
+<table border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://github.com/W3bW0rks/Project-Report/blob/1387b57f0bf4a86fc34d9d0a688142d5ad6aaf95/assets/Johan-Principe.png?raw=true" alt="" style="margin-bottom: 5px;" width="400"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Johan Principe Godoy
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+		   Soy un estudiante de Ingeniería de Software con conocimientos en lenguajes de programación como C#, Python, JavaScript, entre otros. Me apasiona la tecnología y el desarrollo de software, y estoy interesado en seguir aprendiendo más y desarrollar mis habilidades como programador. Además, soy responsable, proactivo y me gusta trabajar en equipo para lograr los objetivos propuestos.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://raw.githubusercontent.com/W3bW0rks/Project-Report/develop/assets/profileImages/GonzaloQuedena.png" alt="" style="margin-bottom: 5px;" width="150"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Gonzalo Andre Zavala Quedena
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+            Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.
+            <b>Habilidades Técnicas:</b>
+            <ul>
+                <li><b>Lenguajes de Programación:</b> C, C++, Python, C#, JavaScript, TypeScript.</li>
+                <li><b>Desarrollo Web:</b> HTML, CSS, Bootstrap, Angular.</li>
+                <li><b>Base de Datos</b> MySQL.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://imgur.com/K4MVcS2.jpg" alt="" style="margin-bottom: 5px;" width="150"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            André Arroyo
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, estudioso y disciplinado. Desde pequeño siempre he tenido ese interés por la tecnología y dicha curiosidad me ha llevado a elegir esta carrera. Espero en el futuro adquirir los conocimientos necesarios de esta carrera para poder vivir de lo que me gusta.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://github.com/W3bW0rks/project-report/blob/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="" style="margin-bottom: 5px;" width="150"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Alejandro Espino Flores
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+      Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con sólidos conocimientos en lenguajes de programación como JavaScript, Python y Java. Me destaco por ser una persona responsable e innovadora, con habilidades blandas que facilitan la interrelación y el trabajo en equipo. Mantengo una actitud proactiva en el sector tecnológico, siempre en constante aprendizaje y actualización en    nuevas tecnologías relevantes para el desarrollo de software. Mi enfoque está en contribuir significativamente al éxito de los proyectos a través de la aplicación de mis conocimientos técnicos y mi capacidad para colaborar eficazmente en entornos multidisciplinarios. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+        <img src="" alt=""  style="margin-bottom: 5 px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>   
+            Cambiar
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Cambiar
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+                        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>   
+            Cambiar
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Cambiar
+        </td>
+    </tr>
+</table>
 
 ## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
-#### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
-#### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
-## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
 
----
+### 1.2.1. Antecedentes y problemática
+### Antecedentes:
+La agricultura sigue siendo una de las principales actividades económicas a nivel global. Sin embargo, muchos productores agrícolas, especialmente los pequeños y medianos, enfrentan dificultades para gestionar eficientemente sus procesos de producción y distribución. La falta de acceso a herramientas de planificación, monitoreo y administración de recursos limita su capacidad para optimizar la producción, lo que a su vez reduce su rentabilidad y sostenibilidad. Además, los distribuidores se ven afectados por problemas de trazabilidad y coordinación en la cadena de suministro, lo que complica la entrega oportuna de productos de calidad al mercado.
 
-# Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores.
-### 2.1.1. Análisis competitivo.
+### Problemática (5Ws y 2Hs)
+### What/Qué
+#### ¿Cuál es el problema?
+Los productores agrícolas y distribuidores enfrentan desafíos en la gestión eficiente de sus operaciones. Las tareas de planificación, seguimiento de cultivos, administración de recursos y control financiero son ineficaces, lo que provoca pérdidas de tiempo y dinero.
 
-| Competitive Analysis Landscape                          |  |
-| ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+### Where / Dónde
+#### ¿Dónde surge el problema?
+Este problema es global y afecta tanto a regiones con alta actividad agrícola como a zonas rurales donde el acceso a tecnologías de gestión es limitado.
 
+### Why / Por Qué
+#### ¿Cuál es la causa del problema?
+La falta de herramientas tecnológicas accesibles y eficientes para monitorear y optimizar cada etapa del ciclo agrícola genera una mala gestión de recursos (semillas, agua, mano de obra) y una baja trazabilidad en la distribución de productos, afectando tanto la productividad como la sostenibilidad de los agricultores y la efectividad de los distribuidores.
 
-| |  | (Nosotros) | Competidor  | Comptdor |
-|-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
-### 2.1.2. Estrategias y tácticas frente a competidores.
+### When / Cuándo
+#### ¿Cuándo sucede el problema?
+Los problemas surgen durante todas las etapas del ciclo agrícola, desde la planificación de la siembra hasta la distribución de productos al mercado, impactando continuamente la producción y la distribución.
 
+### Who / Quién
+#### ¿Quiénes están involucrados?
+Los agricultores y distribuidores que participan en las diferentes etapas del ciclo agrícola.
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+### How / Cómo
 
-## 2.2. Entrevistas.
-### 2.2.1. Diseño de entrevistas.
-**Preguntas generales:**
+#### ¿Cómo nos conocieron los usuarios?
+Los usuarios nos conocieron principalmente por recomendaciones de otros productores agrícolas y distribuidores que han experimentado mejoras significativas en la gestión de sus operaciones al utilizar nuestra solución. Además, hemos realizado esfuerzos de marketing digital en redes sociales, donde promocionamos casos de éxito
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+#### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
+Los usuarios prefieren acceder a nuestro servicio a través de una aplicación web fácil de usar, que sea accesible desde cualquier dispositivo con conexión a internet, como tablets o computadoras. Este enfoque les permite gestionar y monitorear sus actividades agrícolas de forma remota y en tiempo real, asegurando que puedan adaptar sus operaciones según las necesidades específicas del ciclo productivo.
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+### How much / Cuánto
+La falta de soluciones efectivas provoca pérdidas económicas significativas para los productores agrícolas y a su vez, los distribuidores sufren retrasos y una disminución en la calidad de los productos entregados, impactando su relación con los clientes.
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+### 1.2.2. Lean UX Process
 
-### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
-## 2.3. Needfinding.
-### 2.3.1. User Personas.
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+#### 1.2.2.1. Lean UX Problem statements
+##### Domain    
+El dominio de este proyecto es la gestión del ciclo agrícola, abarcando todas las etapas desde la siembra hasta la distribución de productos agrícolas, incluyendo la coordinación de actividades, registro de operaciones, gestión de recursos e información financiera.
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
-
-### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
-### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
-
-### 2.3.4. Empathy Mapping.
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
-
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
-### 2.3.5. As-is Scenario Mapping.
-
-**Segmento 1**  
-Escenario: {escenario}
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
-
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
-## 2.4. Ubiquitous Language.
-```
-Texto ubiquo: Definicion de este
-```
-
----
-
-# Capítulo III: Requirements Specification
-## 3.1. To-Be Scenario Mapping.
-
-Segmento 1:
-
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-## 3.2. User Stories.
-
-| HU0X | Historia Usuario | "Descripcion"  |
-|-|-|-|
-
-## 3.3. Impact Mapping.
-
-![Impact Mapping](image.jpg)
-
-## 3.4. Product Backlog.
-
-| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
-| ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
-
-# Capítulo IV: Product Design
-## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
-
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
-
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
-### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
-
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
-## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
-
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
-
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
-### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
-
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
-### 4.2.3. SEO Tags and Meta Tags
-
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
-
-### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
-
-### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
-## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
-
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
-### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
-## 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
-### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
-### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
-### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
-## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
-## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
-   
-### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-
-### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
-### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
-# Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
-### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
-### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
-### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
-## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
-# Conclusiones
-{texto}
-# Conclusiones y recomendaciones.
-{texto}
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
-
-# Bibliografía
-qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-
-LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
-``` 
-formato
-
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
-
-```
-# Anexos
-
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
+##### Customer Segments
+###### Productores agricolas:  
+  Pequeños, medianos y grandes agricultores que necesitan mejorar la planificación, gestión de recursos, y la eficiencia de sus operaciones.
 
 
+###### Distribuidores:  
+  Empresas que dependen de la correcta trazabilidad, calidad y entrega oportuna de productos agrícolas.
+
+##### Pain Points
+###### Registro Ineficiente:   
+Problemas para registrar de manera precisa y oportuna las actividades agrícolas, lo que dificulta el seguimiento y control.
 
 
+###### Falta de Coordinación:   
+Dificultades en la sincronización de las distintas etapas del ciclo agrícola, resultando en ineficiencias y pérdida de tiempo.
 
+
+###### Transparencia y Reportes:   
+Falta de visibilidad en tiempo real sobre el estado de las operaciones y la capacidad para generar reportes detallados, dificultando la toma de decisiones informadas.
+
+
+###### Optimización de Recursos:   
+Dificultad para planificar y utilizar eficientemente los recursos como agua, fertilizantes y pesticidas, lo que puede llevar a desperdicios y costos innecesarios.
+
+
+###### Gestión Financiera Deficiente:   
+Falta de herramientas para gestionar y controlar la información financiera asociada con las operaciones agrícolas, lo que puede afectar la rentabilidad.
+
+##### Gap
+Actualmente, los agricultores y distribuidores carecen de soluciones integrales que cubran todas las etapas del ciclo agrícola desde el cultivo hasta la distribución. Los sistemas existentes suelen estar fragmentados, lo que genera ineficiencias y problemas de coordinación. Además, no había herramientas suficientes para garantizar una gestión eficaz de los recursos y una visión clara de la situación financiera.
+
+##### Visión/Strategy
+* Acceder a datos en tiempo real para una toma de decisiones más informada.
+* Planificar y monitorear las etapas del proceso agrícola, desde la siembra hasta la distribución.
+* Mejorar la eficiencia logística para los distribuidores, asegurando que los productos lleguen a tiempo y en condiciones óptimas.
+
+##### Initial Segment
+Compuesto por productores agrícolas pequeños y medianos, que necesitan una solución económica pero efectiva para gestionar sus operaciones diarias, así como distribuidores locales que requieren optimizar su logística y mejorar la trazabilidad de los productos que entregan.
+
+#### 1.2.2.2. Lean UX Assumptions
+#### Features
+* Gestión de las etapas del ciclo agrícola (siembra, riego, fumigación, recolección, distribución).
+* Programación automática de tareas clave (fechas de riego, fumigación, recolección).
+* Gestión financiera y control de costos asociados a cada etapa del ciclo agrícola.
+
+#### Business Outcomes
+Tenemos como objetivo generar impactos comerciales positivos para los productores y los distribuidores, como:
+* Aumento de productividad agrícola, llevando a una mayor rentabilidad para los productores.
+* Reducción de costos operativos para agricultores mediante una mejor planificación.
+* Mejora en la satisfacción de los usuarios al ofrecer una solución accesible y fácil de usar.
+
+#### Users
+
+###### Productores agrícolas  
+Necesitan optimizar sus operaciones y obtener  mayor control sobre los recursos y las finanzas.
+
+
+###### Distribuidores  
+Buscan mejorar la trazabilidad y la eficiencia en la distribución de productos.
+
+#### User Outcomes & Benefits
+###### Productores agrícolas: 
+Aumento en la eficiencia del uso de recursos, reducción de costos, mayor control sobre las operaciones diarias y una mejor visibilidad de las finanzas agrícolas.
+
+###### Distribuidores: 
+Mejora en la logística de entregay  reducción de errores en la distribución.
+
+#### User assumptions
+#### ¿Quién es el usuario?
+El usuario principal de nuestro producto es el productor agrícola que se enfrenta a dificultades para gestionar el ciclo productivo de manera eficiente. Este productor puede ser de pequeña, mediana o gran escala. También tenemos como usuarios a los distribuidores, quienes buscan mejorar la logística y el control de productos a lo largo de la cadena de suministro.
+
+#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+Se integra directamente en las operaciones diarias de los productores y distribuidores. Para los productores, facilita la planificación, monitoreo y administración de sus recursos y cultivos. Para los distribuidores, nuestro producto se convierte en una herramienta clave para mejorar la logística, asegurando una cadena de suministro más eficiente.
+
+#### ¿Qué problema resuelve nuestro producto?
+Resuelve problemas de ineficiencia en la gestión de recursos agrícolas, como la programación de riego, control de fumigación, y seguimiento de la producción. También resuelve la falta de coordinación en distribución, permitiendo que los productos lleguen a su destino de manera oportuna y con menos errores.
+
+#### ¿Cuándo y cómo es usado nuestro producto?
+Nuestro producto es utilizado durante todo el ciclo agrícola, desde la planificación de la siembra hasta la distribución de los productos. Los usuarios lo acceden desde dispositivos con conexión a internet para monitorear y gestionar sus operaciones en tiempo real. La programación de riego y fumigación, el control de costos y la gestión de la distribución son ejemplos de actividades diarias en las que el producto es indispensable.
+
+#### ¿Qué características son importantes?
+* Gestión y monitoreo en tiempo real de todas las etapas del ciclo agrícola.
+* Programación automatizada de tareas clave (riego, fumigación, recolección).
+* Control financiero asociado a cada etapa de la producción.
+
+#### ¿Cómo debería verse y comportarse nuestro producto?
+Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo que los usuarios naveguen sin dificultad entre las distintas funcionalidades. La interfaz debe ser limpia, con accesos directos a las tareas más comunes como la programación de riego, seguimiento de recursos y control de distribución.
+
+
+#### Business Assumptions
+1. **Creemos que nuestros clientes necesitan** una solución integral que les permita gestionar de manera eficiente todas las etapas del ciclo agrícola, desde la siembra hasta la distribución.
+2. **Estas necesidades se pueden resolver con una**  plataforma tecnológica que brinde herramientas para la planificación, monitoreo de recursos y gestión financiera en tiempo real.
+3. **El valor #1 que mi cliente quiere de mi servicio** es la capacidad de reducir costos operativos y aumentar la eficiencia en la producción y distribución agrícola.
+4. **El cliente también puede obtener beneficios adicionales como** una mejor toma de decisiones basada en datos y una mayor sostenibilidad en sus operaciones.
+5. **Voy a adquirir la mayoría de mis clientes** a través de estrategias de marketing digital, asociaciones con cooperativas agrícolas.
+6. **Haré dinero a través de**  la venta de suscripciones a la plataforma.
+7. **Mi competencia principal en el mercado** son las soluciones tecnológicas existentes que ofrecen gestión agrícola.
+8. **Los venceremos debido a la simplicidad** de nuestra plataforma, que se adapta a las necesidades de los productores y distribuidores sin comprometer funcionalidad.
+9. **El mayor riesgo es que** uestros usuarios no adopten la plataforma debido a la falta de familiaridad con herramientas tecnológicas.
+10. **Resolveremos esto a través de** un diseño intuitivo y programas de formación que guíen a los usuarios en la adopción de la plataforma y demuestren el valor agregado de la solución.
+    
+#### 1.2.2.4. Lean UX Hypothesis Statements
+### Hipótesis 1:
+***Creemos que*** los productores agrícolas adoptarán nuestra plataforma si ofrecemos una solución que les permita gestionar fácilmente las operaciones diarias del ciclo agrícola.
+
+**Sabremos que** hemos tenido éxito **cuando** al menos el 70% de los usuarios activos registren y programen las actividades clave en nuestra plataforma.
+
+### Hipótesis 2:
+***Creemos*** los distribuidores agrícolas verán valor en nuestra plataforma si les ayuda a mejorar la planificación y el control de sus operaciones de distribución.
+
+**Sabremos que** hemos tenido éxito **cuando** el 60% de distribuidores mejoren en coordinación y entrega de productos.
+
+### Hipótesis 3:
+***Creemos que*** una interfaz de usuario intuitiva incrementará la tasa de adopción de la plataforma entre los pequeños y medianos productores agrícolas.
+
+**Sabremos que** hemos tenido éxito **cuando** más del 80% de los usuarios vean que la plataforma fácil de usar en las primeras dos semanas de uso.
+
+### Hipótesis 4:
+***Creemos que*** los usuarios estarán dispuestos a pagar por suscripciones premium si ofrecemos funcionalidades avanzadas como la gestión financiera detallada y reportes personalizados.
+
+**Sabremos que** hemos tenido éxito **cuando** al menos el 30% de los usuarios pasen a una suscripción premium en los primeros seis meses.
+
+### Hipótesis 5:
+***Creemos que*** el soporte técnico y la formación a los usuarios reducirán las barreras tecnológicas y aumentarán la retención de clientes.
+
+**Sabremos que** hemos tenido éxito **cuando** la tasa de abandono de la plataforma se reduzca a menos del 10% después del primer año.
+
+#### 1.2.2.4. Lean UX Canvas
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>
+
+**Lean UX Canvas**
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+
+**Fecha: 26/08/2024** 
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+
+**Iteración 1**
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+        
+**1. Problema de negocios:**  
+El desafío principal es la falta de herramientas accesibles y eficientes que ayuden a productores agrícolas y distribuidores a gestionar todas las etapas del ciclo productivo, ya que las soluciones actuales son complejas, costosas y no se adaptan bien a las necesidades de pequeños y medianos productores, generando ineficiencias y pérdidas en la optimización.
+
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Ideas de solución:**  
+La solución propuesta es una plataforma tecnológica fácil de usar que ofrece funcionalidades específicas para cada etapa del ciclo agrícola, desde la siembra hasta la distribución. La plataforma permitirá a los usuarios registrar, programar y supervisar sus operaciones diarias, así como acceder a reportes y análisis que faciliten la toma de decisiones.
+</TD> <TD ROWSPAN=2>
+
+**2. Resultados comerciales:**  
+Los resultados comerciales esperados son una mayor adopción de la plataforma por pequeños y medianos productores, mejoras en la eficiencia operativa, reducción de costos y generación de ingresos mediante suscripciones premium y servicios adicionales.
+
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+        
+**3. Usuarios y Clientes:**  
+Los principales usuarios son pequeños y medianos productores agrícolas que necesitan gestionar eficientemente sus cultivos y recursos, y distribuidores que buscan mejorar la planificación y control de sus operaciones.
+
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+
+**6. Hipótesis**
+        
+***Creemos que*** al ofrecer funcionalidades personalizadas para cada etapa del ciclo agrícola, incrementaremos el uso diario de la plataforma.
+**Sabremos que** hemos tenido éxito **cuando** el 75% de los usuarios activos utilicen al menos tres funcionalidades diferentes en la primera semana.
+
+***Creemos que*** la integración de módulos de gestión financiera atraerá a más usuarios hacia las suscripciones premium.
+**Sabremos que** hemos tenido éxito **cuando** observemos un incremento del 25% en la conversión de usuarios a suscripciones premium en los primeros tres meses.
+
+***Creemos que*** un soporte técnico accesible y programas de formación mejorarán la retención de usuarios.
+**Sabremos que** hemos tenido éxito **cuando** la tasa de abandono se reduzca en un 15% durante el primer año.
+
+<TD ROWSPAN=2>
+
+**7. ¿Qué es lo más importante que debemos aprender primero?**  
+Lo más importante es conocer a fondo a los usuarios potenciales, entender sus objetivos, preferencias, comportamientos y los dispositivos móviles que utilizan. Además, es crucial definir claramente el modelo de negocio, incluyendo cómo se generarán ingresos (por ejemplo, mediante publicidad, suscripciones, etc.) y cómo diferenciarse de la competencia
+
+</TD> 
+
+<TD>
+
+**4. Beneficios del usuario:**  
+Los usuarios se beneficiarán de una herramienta centralizada que optimiza la planificación, monitoreo y administración de sus operaciones agrícolas y de distribución, mejorando la coordinación, la gestión financiera y logrando una producción más rentable y sostenible.
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+        
+**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
+
+- **Asistencia al usuario:**  
+Responder de manera rápida a las preguntas y consultas de los usuarios con el fin de asegurar una vivencia satisfactoria y retención.
+- **Descubrimiento de competidores:**  
+Realizar un análisis minucioso de las aplicaciones similares en el mercado con el fin de comprender las mejores prácticas y posibilidades de mejora.
+- **Evaluación de la idea:**  
+Realizar prototipos o pruebas de concepto con el fin de confirmar la idea antes de invertir en un desarrollo completo.
+- **Plan de Marketing Avanzado:**  
+Diseño de un plan de marketing sencillo para impulsar la aplicación, abarcando estrategias de redes sociales y relaciones públicas.
+</TD> 
+	</TR>
+</TABLE>
+
+## 1.3. Segmentos Objetivo
+| **Tipo de usuario**   | **Geográfico**                                                                                                  | **Psicográfico**                                                                                      | **Demográfico**                                                                                                           |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Productor Agrícola** | Ubicado en áreas rurales o periurbanas con actividad agrícola. Pueden encontrarse en distintas regiones dependiendo del tipo de cultivo (por ejemplo, regiones de cultivo de granos, frutas, o verduras). | Motivado por la optimización de sus procesos, la mejora de la rentabilidad y la sostenibilidad. Puede valorar la tecnología como una herramienta para mejorar su trabajo. | - **Edad:** Adultos entre 30 y 60 años. <br> - **Educación:** Desde formación técnica en agricultura hasta educación universitaria en áreas relacionadas con ciencias agrícolas. |
+| **Distribuidor**       | Puede estar ubicado en cualquier parte del mundo, dado que la distribución puede abarcar tanto áreas locales como internacionales. | Enfocado en la eficiencia logística, la optimización de rutas y el control de inventarios. Valora las herramientas que faciliten la planificación y gestión de la cadena de suministro. | - **Edad:** Adultos entre 25 y 55 años. <br> - **Educación:** Formación en logística o áreas relacionadas con la gestión de la cadena de suministro. |
 
