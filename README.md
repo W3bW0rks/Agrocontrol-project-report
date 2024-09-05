@@ -259,12 +259,12 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-        <img src="" alt=""  style="margin-bottom: 5 px;" width="600"/>
+        <img src="https://github.com/W3bW0rks/project-report/blob/1191014085f8659a8bbda5b752d38b1c24b59f20/assets/profileImages/Sebastian_Aiquipa.png" alt=""  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>   
-            Cambiar
+            Sebastian Andres Aiquipa Poma
         </td>
     </tr>
     <tr>
@@ -278,7 +278,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Cambiar
+        Estudio en la carrera de Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicacion y el aprendizaje constante son las claves que me permitiran progresar.  
         </td>
     </tr>
     <tr align="center">
@@ -1574,16 +1574,35 @@ https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+<img src="https://github.com/W3bW0rks/project-report/blob/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" />
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+**User**
+Clase representa a los usuarios del sistema
+**Farmer**
+Representa a los usuarios agricultores
+**Distributor**
+Representa a los usuarios distribuidores
+**Field**
+Representa la tierra de cultivo del usuario "Farmer"
+**IrrigationSchedule**
+Representa la funcion de horario de riego de un campo
+**FertilizationSchedule**
+Representa la funcion de horario de fertilizacion de un campo
+**FumigationSchedule**
+Representa la funcion de horario de fumigación de un campo
+**Harvest**
+Representa la cosecha realizada en un campo
+**Product**
+Representa un producto disponible en la tienda de un distribuidor
+**Offer**
+Representa una oferta especial en la tienda de un distribuidor
+**Subscription**
+Representa la suscripción de un usuario, que define el acceso a funcionalidades
+**UserFactory**
+Instancias para "Farmer" y "Distributor"
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<img src="https://github.com/W3bW0rks/project-report/blob/261f90dde8168ef4f786df953f274babf2549f7f/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png" />
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
