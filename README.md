@@ -10,25 +10,6 @@
     <br> 2024 - 2
 </p>
 
-<center>
-
-#### Startup: **--**
-#### Product: **--**
-
-</center>
-
-# Team  Members:
-<center>
-
-| Member                           | Code       |
-|----------------------------------|------------|
-|   |  |
-|        |  |
-|       |  |
-|  |  |
-|              |  |
-|          |  |
-</center> 
 
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
