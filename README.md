@@ -334,15 +334,27 @@ https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitatio
 
 **Usuario quiere agregar un nuevo "Field"**
 
+<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-create-fieldpng.png" />
+
 **Usuario quiere agendar y llena el formulario de riego**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-irrigation.png" />
 
 **Usuario quiere comprar un producto en la tienda "Store"**
 
+<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-store.png" />
+
 **Usuario quiere agendar y llena el formnulario de Fumigacion y fertilizar**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/fumigation-user.png" />
 
 **Usuario quiere registrar las cosechas y el peso por caja**
 
+<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/harvest-user.png" />
+
 **Usuario registra el peso vendido y las ganancias por unidad de producto en "Finances"**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-finances.png" />
 
 ### 4.4.2. Web Applications Mock-ups.
 
