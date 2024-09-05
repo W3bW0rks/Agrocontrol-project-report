@@ -20,9 +20,16 @@
 | 0.0.4 | 26/09/2024 | Sebastián Aiquipa<br>&<br>Alejandro Espino | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
 
 # Project Report Collaboration Insights
-[URL del repositorio GitHub](https://github.com/orgs/W3bW0rks/repositories)
+Link de la organizacion: [GitHub organization W3bW0rks](https://github.com/orgs/W3bW0rks/repositories)<br/>
+Link del reporte: [GitHub report](https://github.com/W3bW0rks/project-report)<br/>
+Link Landing Page: [Landing Page](https://agrocontrol-landing-page.vercel.app/index.html)
 
-(Imagenes de los commits cada entrega)
+Reporte de la elaboracion de la TB1te la TB1
+* Los contenidos asignados a cada miembro fueron redactados y organizados en formato Markdown, y se realizaron commits para asegurar el avance en el repositorio.
+* Se generaron los artefactos necesarios utilizando las herramientas recomendadas, obteniendo enlaces de imagen desde la carpeta "assets" ubicada en la rama develop del repositorio del informe.
+* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 1, cuyo enfoque es la Landing Page.
+
+<img src="https://github.com/W3bW0rks/project-report/blob/main/assets/collaboration%20insights/collaborators.png?raw=true" alt="github-collaborators"/>
 
 # Student Outcome
 El curso contribuye al cumplimiento del **Student Outcome ABET: ABET – EAC - Student Outcome 3** Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
