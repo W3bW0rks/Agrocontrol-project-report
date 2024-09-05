@@ -1605,4 +1605,4 @@ Instancias para "Farmer" y "Distributor"
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<img src="https://github.com/W3bW0rks/project-report/blob/261f90dde8168ef4f786df953f274babf2549f7f/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png" />
