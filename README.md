@@ -266,8 +266,19 @@ Configuraciones de donde y como deployeamos el proyecto
 <tr><td valign="top">T2</td><td valign="top">Responsive design  team presentation section</td><td valign="top">Añadir el diseño responsive para la sección</td><td valign="top">2</td><td valign="top">Se hizo xd?</td><td valign="top">Done</td></tr>
 </table>
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository                | Branch                    | Commit ID | Commit Message                              | Commit Message Body | Commited On(Date) |
+|---------------------------|---------------------------|-----------|---------------------------------------------|---------------------|-------------------|
+| agrocontrol-landing-page  | feature/about-the-product | 1f5b64e   | refactor: improve styles for responsiveness | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/app-features      | 7fea01d   | refactor: improve css styles.               | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/contact           | 7fea01d   | refactor: improve css styles.               | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/footer            | 7fea01d   | refactor: improve css styles.               | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/hero              | 1f5b64e   | refactor: improve styles for responsiveness | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/nav-bar           | 84ed335   | feat: add styles                            | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/plans             | 7fea01d   | refactor: improve css styles.               | -                   | 05/09/2024        |
+| agrocontrol-landing-page  | feature/user-testimonials | 01d4b8c   | feat(hero): added hero section              | -                   | 03/09/2024        |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
 #### 5.2.X.5. Execution Evidence for Sprint Review.
