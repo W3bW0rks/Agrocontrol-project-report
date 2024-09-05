@@ -289,10 +289,11 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 **Link de Trello:** [Product Backlog WebWorks Trello](https://trello.com/b/UmnID3DF/webworks-product-backlog)
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este primer Sprint nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
