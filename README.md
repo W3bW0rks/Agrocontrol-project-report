@@ -400,13 +400,13 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 
 A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
 
-**Segmento :**
+**Segmento Productor Agricola:**
 
-<img src="?raw=true" alt="Segmento ">
+<img src="https://github.com/W3bW0rks/project-report/blob/55a0dcd17cfdfe2869f23aa351a051a8642b6550/assets/chapter-2-images/JourneyMapUserPersona1.png?raw=true" alt="Segmento Productor Agricola">
 
-**Segmento :**
+**Segmento Distribuidor:**
 
-<img src="?raw=true" alt="Segmento ">
+<img src="https://github.com/W3bW0rks/project-report/blob/55a0dcd17cfdfe2869f23aa351a051a8642b6550/assets/chapter-2-images/JourneyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor">
 
 ### 2.3.4. Empathy Mapping
 
