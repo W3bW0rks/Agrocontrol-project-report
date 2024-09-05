@@ -268,7 +268,24 @@ En adición, la comunicación con sus clientes lo hace mediante las redes social
 
 Finalmente, expresa que si estaría dispuesto a usar un software que le ayude a optimizar las ventas y el inventario, siempre y cuando cumpla con las funcionalidades que menciono anteriormente.
 
+**Entrevista 2:**
 
+Nombre: **Jorge** 
+
+Apellido: **Gonzales**
+
+Edad: **52 años**
+
+Lugar de residencia: **Lima, Perú**
+
+<img src="https://github.com/W3bW0rks/project-report/blob/c52d72d8b4566671ef7cc835c9da86cd8345e7ef/assets/Chapter-2/Entrevista_Distribuidor_Jorge.png" alt="entrevista-distribuidor2" />
+
+La entrevista se ha realizado al distribuidor Jorge Gonzales de 52 años, quien se encuentra en el sector de productos alimenticios.
+El distribuidor enfrenta retos en la gestión de inventario, principalmente en mantener el equilibrio entre oferta y demanda, así como la precisión en los registros y el evitar el exceso y escasez de inventario. Actualmente, utiliza sistemas de gestión combinados con hojas de cálculo, aunque estos no siempre son ágiles ni ofrecen las capacidades necesarias para optimizar sus procesos.
+
+Además, el mayorista busca una solución que se integre fácilmente con sus procesos actuales, permitiendo la sincronización automática de datos entre ventas e inventario, y que ofrezca una interfaz más intuitiva y personalizable. Los reportes detallados de ventas, análisis de márgenes de beneficio, y las tendencias de ventas a lo largo del tiempo son funcionalidades clave que deben incorporarse, ya que son esenciales para la toma de decisiones estratégicas.
+
+Actualmente la comunicación es manual y se realiza por medio de la aplicación WhatsApp. Considera que necesita plataformas que mejoren la coordinación, como un sistema de mensajería directa o alertas automatizadas para sincronizar órdenes y entregas.
 
 
 ### 2.2.3 Análisis de entrevistas.
