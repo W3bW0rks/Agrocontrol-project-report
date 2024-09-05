@@ -33,18 +33,21 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | xx/0x/2024 |Grupo x |description |
+| 0.0.1 | 17/09/2024 | Gonzalo Quedena | Agregado del capítulo 1 apartado<br>1.1 - 1.2 - 1.3 |
+| 0.0.2 | 21/09/2024 | Johan Príncipe | Agregado del capítulo 2 apartado<br>2.1 - 2.2 - 2.3|
+| 0.0.3 | 24/09/2024 | André Alonso | Agregado del capítulo 3 apartado<br>3.1 - 3.2 - 3.3 - 3.4 |
+| 0.0.4 | 26/09/2024 | Sebastián Aiquipa<br>&<br>Alejandro Espino | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio GitHub](https://github.com/orgs/W3bW0rks/repositories)
 
 (Imagenes de los commits cada entrega)
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Gonzalo Quedena:<br> *TB1:* Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios, el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto.<br> |Su texto de conclusion|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Gonzalo Quedena:<br> *TB1:*  Para esta entrega, se analizaron las necesidades de los segmentos de productores agricolas y distribuidores mediante la realización y análisis de entrevistas. Además, se aplicó un diseño UX/UI adecuado asegurando una experiencia óptima para todos los usuarios. Asimismo, se llevó a cabo un análisis exhaustivo de la competencia, con el fin de identificar cómo nuestro sistema de gestión del ciclo agrícola puede diferenciarse, tomando en cuenta los antecedentes y desafíos relacionados con la optimización de las actividades agrícolas, desde la siembra hasta la distribución.<br> *TB2:* texto etc.. |Su texto de conclusion|
 
 # Contenido
 
