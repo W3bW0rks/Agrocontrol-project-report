@@ -204,23 +204,22 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 
 **Entrevista 1:**
 
-Nombres: --
+Nombres: Isidro 
 
-Apellidos: --
+Apellidos: Principe Ramirez
 
-Edad: -- años
+Edad: 65 años
 
-Lugar de residencia: --
+Lugar de residencia: Lima, Peru
 
 Evidencia de la entrevista:
 
-<img src="?raw=true" alt="-">
+<img src="https://github.com/W3bW0rks/project-report/blob/e6d3cdfd16bb75a8318c4fba894a004586bfff74/assets/chapter-2-images/ProductorAgricolaIsidro.png?raw=true" alt="Evidencia Productor Agricola 1">
 
-Enlace de entrevista: --
+Timing Entrevista: 00:05 - 06:30
 
 Resumen de la entrevista:
-
---
+El señor Isidro nos comenta que algunos de los principales desafíos que enfrenta en la gestión de sus campos de cultivos son llevar un control detallado de las diferentes etapas, gestionar las fechas de fumigación y mantenimiento de los insumos. También informa que actualmente la herramienta que usa para guardar la información que usa es un cuaderno y que le gustaría usar la tecnología para esta tarea. Actualmente, usa herramientas como máquinarias, mochilas a motor, entre otros para la gestión agrícola. Finalmente, comentó que para poder tomar mejores decisiones desearía recibir informes detallados sobre los diferentes campos de cultivo.
 
 **Entrevista 2:**
 
