@@ -306,6 +306,12 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
+<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1">
+
+<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1">
+
+<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
