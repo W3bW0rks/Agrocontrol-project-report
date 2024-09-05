@@ -254,7 +254,7 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/W3bW0rks/project-report/blob/feature/chapter-2/assets/Chapter-2/ProductorAgricula-ElizabethCaro.png?raw=true" alt="evidence-of-interview">
 
-Enlace de entrevista: --
+Timing Entrevista: 13:52 - 22:39
 
 Resumen de la entrevista:
 La entrevista se ha realizado a la productora agrícola Elizabeth Caro de 59 años que enfrenta varios desafíos en la gestión de sus campos de cultivo, siendo el más significativo la irregularidad en la entrega de agua para el riego, tanto por parte de las autoridades como en años de sequía. En cuanto a las herramientas, emplea principalmente mano de obra para tareas como el sembrado, limpieza, arado, mantenimiento y cosecha, junto con una variedad de herramientas manuales como lampas, picos, machetes y javas para almacenar los productos cosechados. El agricultor considera fundamental contar con una aplicación de gestión agrícola que proporcione información sobre la producción a nivel nacional de frutas y semillas como mangos, uvas, paltas, y naranjas, con el objetivo de facilitar la comercialización de sus cultivos en el mercado.
@@ -262,8 +262,6 @@ La entrevista se ha realizado a la productora agrícola Elizabeth Caro de 59 añ
 Aunque está conforme con las herramientas manuales que utiliza, reconoce que necesita mayor acceso a información para mejorar la venta de sus productos. Actualmente, su uso de la tecnología se limita a la búsqueda en Internet sobre plagas que puedan afectar sus cultivos. En cuanto a sus necesidades tecnológicas, le gustaría que una aplicación le permita llevar un control preciso del inventario de las cosechas y las ventas, así como calcular las utilidades netas tras deducir los gastos generados por la operación agrícola, como el pago a los trabajadores.
 
 Actualmente, el seguimiento de los ingresos y gastos relacionados a la agricultura lo gestiona de manera manual, contabilizando la cantidad de jabas producidas y vendidas, así como los gastos en personal. Le sería útil contar con una plataforma que le proporcione reportes detallados sobre ventas en términos de unidades y valores, así como sobre los gastos en insumos y el mantenimiento del cultivo. Además, desearía que la aplicación lo apoye en la toma de decisiones estratégicas, facilitando la exhibición de sus productos y permitiendo que sus socios tengan acceso en tiempo real a la información de las ventas, tanto en términos de unidades como de valores, lo que ayudaría a optimizar el control y la gestión financiera de su producción agrícola.
-
---
 
 
 **Segmento Distribuidor:**
@@ -274,7 +272,7 @@ Entrevistas #01: **William Ramos** (**28 años - Surco**) - **29 de agosto del 2
 
 <img src="https://github.com/W3bW0rks/project-report/blob/feature/chapter-2/assets/Chapter-2/Distribuidor-William%20Ramos.png?raw=true">
 
-Link y minuto de la entrevista: [**Webworks-Registro de Entrevista.mp4**]()(**Comienzo - Fin a**)
+Timing Entrevista: 22:40 - 32:51
 
 La entrevista se ha realizado al distribuidor William Ramos de 28 años, quien cuenta con experiencia en la distribucion de semillas, fumigantes y fertilizantes para el sector agricola.
 
@@ -297,6 +295,8 @@ Edad: **52 años**
 Lugar de residencia: **Lima, Perú**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/c52d72d8b4566671ef7cc835c9da86cd8345e7ef/assets/Chapter-2/Entrevista_Distribuidor_Jorge.png" alt="entrevista-distribuidor2" />
+
+Timing Entrevista: 32:52 - 38:52
 
 La entrevista se ha realizado al distribuidor Jorge Gonzales de 52 años, quien se encuentra en el sector de productos alimenticios.
 El distribuidor enfrenta retos en la gestión de inventario, principalmente en mantener el equilibrio entre oferta y demanda, así como la precisión en los registros y el evitar el exceso y escasez de inventario. Actualmente, utiliza sistemas de gestión combinados con hojas de cálculo, aunque estos no siempre son ágiles ni ofrecen las capacidades necesarias para optimizar sus procesos.
