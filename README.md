@@ -1655,7 +1655,53 @@ Para la realización de pruebas de testeo de software  que se ha utilizado para
     La plataforma Vertabelo es una aplicación web colaborativa la cual ha sido empleada para la elaboración del diseño de base de datos.
 
 ### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
+El manejo y la organización de las diferentes modificaciones se llevaron a cabo mediante una organización del startup en Github.
+
+**Organization:** https://github.com/W3bW0rks 
+
+**Landing Page Repository:** https://github.com/W3bW0rks/agrocontrol-landing-page
+
+Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
+
+De este modo, se tenían 2 ramas principales: main y develop.
+
+•	**main:** En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+
+•	**develop:** Esta rama se utilizará como rama de integración para las “feature” branches. Una vez el “head” alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama release.
+
+**Ramas auxiliares:**
+
+•	**feature:** En estas ramas trabajaremos las features que se unirán a la rama develop. Estas son las características funcionales que piden los usuarios tanto en landing page y web application. Por ejemplo, las ramas feature/login harán referencia al componente de login en la web app. 
+
+•	**release:** Esta rama será utilizada para preparar el lanzamiento de una nueva versión en la rama “master”. En ella se podrá corregir pequeños bugs y preparar datos de la versión. Esta rama liberará la rama “develop” de estas preparaciones, evitando el retraso en el desarrollo mientras se prepara el lanzamiento.
+
+•	**hotfix:** La utilizaremos cuando nuestra última versión en la rama “master” necesite actualizarse debido a un error o bug crítico que no puede esperar a un siguiente lanzamiento para solucionarse.
+
+**Commit Conventions:**
+
+El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
+
+**< type >[optional scope]: < description >**
+
+Donde:
+
+•	type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, docs, etc.
+
+•	scope: Es el alcance que tiene nuestro commit.
+
+•	description: Es un breve resumen de los cambios de código.
+
+**Release Versioning Conventions:**
+
+Para el formato de versiones se aplicará “Semantic Versioning 2.0.0”. Dónde las versiones siguen el formato de (X.Y.Z). En dónde:
+
+•	**X:** Representa una versión mayor. Aquí se encuentran los cambios que no son compatibles con las versiones anteriores. Empezando desde 0 para el desarrollo inicial y 1 cuando esté disponible al público para ser usado. Por convención Y y Z se reinician a 0 cuando este incremente.
+
+•	**Y:** Versión menor. Aquí se encuentran los cambios que sí son compatibles con las versiones anteriores. Además, se incluirán los commits desde las “release branches” cada vez que se agreguen nuevas funcionalidades. Por convención Z se reiniciará a 0 cuando este incremente.
+
+•	**Z:** Parches y correcciones de errores menores. Aquí se incluyen los commits realizados desde la “hotfix branch” que se acaban haciendo merge al “master”.
+
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
