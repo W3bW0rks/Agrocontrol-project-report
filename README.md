@@ -279,10 +279,16 @@ Configuraciones de donde y como deployeamos el proyecto
 | agrocontrol-landing-page  | feature/plans             | 7fea01d   | refactor: improve css styles.               | -                   | 05/09/2024        |
 | agrocontrol-landing-page  | feature/user-testimonials | 01d4b8c   | feat(hero): added hero section              | -                   | 03/09/2024        |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+<img src="https://github.com/W3bW0rks/Project-Report/blob/02fa930e7a4353e340aab9f9a5c179fa7866ec9a/assets/Chapter%203/Webworks%20Product%20Backlog.png">
+
+**Link de Trello:** [Product Backlog WebWorks Trello](https://trello.com/b/UmnID3DF/webworks-product-backlog)
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
