@@ -223,6 +223,25 @@ El señor Isidro nos comenta que algunos de los principales desafíos que enfren
 
 **Entrevista 2:**
 
+Nombres: Fidel 
+
+Apellidos: Godoy Zevallos
+
+Edad: 60 años
+
+Lugar de residencia: Lima, Peru
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/W3bW0rks/project-report/blob/e6d3cdfd16bb75a8318c4fba894a004586bfff74/assets/chapter-2-images/ProductorAgricolaFidel.png?raw=true" alt="Evidencia Productor Agricola 2">
+
+Timing Entrevista: 06:31 - 13:51
+
+Resumen de la entrevista:
+El señor Fidel nos comenta actualmente el desafío más significativo que enfrenta en su gestión agrícola es el registro de las operaciones y gastos durante esta. Nos informa que hace uso de Excel para llevar un control, pero esta herramienta no suele ser muy efectiva. También, comentó que le gustaría mejorar en el tipo de riego para sus cultivos y que las herramientas tecnológicas para obtener una mejor cosecha. Finalmente, explicó que un saber sobre el clima, calidad del suelo y otros factores serían importantes que la aplicación le informe y tomar mejores decisiones para sus cultivos.
+
+**Entrevista 3:**
+
 Nombres: Elizabeth 
 
 Apellidos: Caro
