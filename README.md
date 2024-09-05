@@ -396,7 +396,13 @@ https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck
 
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+
+<img src="https://github.com/W3bW0rks/project-report/blob/c48ed14f06aa8c4df0d9a5924e46399819e86c5b/assets/chapter-4-images/Web%20Application%20Prototyping/prototype-figma.png" />
+
+Enlace de Figma: 
+https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node-type=FRAME&t=Mmri04ZsvmNBeZoT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=143%3A1155&show-proto-sidebar=1
+
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
