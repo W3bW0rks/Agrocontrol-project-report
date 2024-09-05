@@ -1031,21 +1031,21 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 **Segmento Productor Agricola:**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/428bbf749920bdae6e315782fa6780695cb60413/assets/chapter-2-images/AsIsScenarioMappingUserPersona1.jpg" alt="Segmento 1 user persona">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-2-images/AsIsScenarioMappingUserPersona1.jpg?raw=true" alt="Segmento 1 user persona">
 
 **Segmento Distribuidor:**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/428bbf749920bdae6e315782fa6780695cb60413/assets/chapter-2-images/AsIsScenarioMappingUserPersona2.jpg" alt="Segmento 2 user persona">
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-2-images/AsIsScenarioMappingUserPersona2.jpg?raw=true" alt="Segmento 2 user persona">
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
 
-Segmento 1: Productor agricola
-<img src="https://github.com/W3bW0rks/Project-Report/blob/7482fd8f91b33375ea20645de7d9c76a5964069e/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Productores%20Agricola.jpg">
+Segmento 1: Productor agricola  
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Productores%20Agricola.jpg?raw=true"/>  
 
-Segmento 2: Distribuidor
-<img src="https://github.com/W3bW0rks/Project-Report/blob/02fa930e7a4353e340aab9f9a5c179fa7866ec9a/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidor.jpg">
+Segmento 2: Distribuidor  
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidor.jpg?raw=true"/>
 
 ## 3.2. User Stories.
 Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, funcionalidades del productor agricola  y funcionalidades del distribuidor.
