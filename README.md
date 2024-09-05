@@ -259,12 +259,12 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-        <img src="" alt=""  style="margin-bottom: 5 px;" width="600"/>
+        <img src="https://github.com/W3bW0rks/project-report/blob/1191014085f8659a8bbda5b752d38b1c24b59f20/assets/profileImages/Sebastian_Aiquipa.png" alt="sebastian-img"  style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>   
-            Cambiar
+            Sebastian Andres Aiquipa Poma
         </td>
     </tr>
     <tr>
@@ -278,7 +278,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Cambiar
+        Soy estudiante de la carrera Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente aprendiendo Java. Considero que lo mas importante es la comunicacion, el apoyo en mis compañeros. Estoy comprometido a seguir aprendiendo y progresar en mi carrera profesional. 
         </td>
     </tr>
     <tr align="center">
