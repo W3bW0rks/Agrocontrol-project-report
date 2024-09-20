@@ -20,7 +20,7 @@
 | 0.0.4 | 26/09/2024 | Sebastián Aiquipa<br>&<br>Alejandro Espino | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
 
 # Project Report Collaboration Insights
-[URL del repositorio GitHub](https://github.com/orgs/W3bW0rks/repositories)
+URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
 
 (Imagenes de los commits cada entrega)
 
