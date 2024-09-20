@@ -955,6 +955,9 @@ Actualmente la comunicación es manual y se realiza por medio de la aplicación 
 ### 2.3.1. User Personas
 
 **Segmento Productor Agricola:**
+Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
+
+El perfil de María Rodríguez, una distribuidora, resalta la necesidad de mejorar la gestión de inventarios y la planificación de entregas, motivada por el deseo de incrementar ventas y optimizar su negocio. Por otro lado, Juan Pérez, un productor agrícola, refleja las preocupaciones de los agricultores en la automatización de procesos como riego y fumigación, buscando reducir costos y mejorar la eficiencia operativa. Ambos perfiles fueron construidos para guiar el diseño del sistema, asegurando que la plataforma AgroControl responda adecuadamente a sus necesidades específicas y se alinee con las mejores prácticas del mercado.
 
 <img src="./assets/Chapter-2/UserPerson1.png" alt="Segmento 1 user persona">
 
@@ -965,40 +968,58 @@ Actualmente la comunicación es manual y se realiza por medio de la aplicación 
 
 ### 2.3.2. User Task Matrix
 
-A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+| **Task**                             | **Productor Agrícola - Frecuencia** | **Productor Agrícola - Importancia** | **Distribuidor - Frecuencia** | **Distribuidor - Importancia** |
+|--------------------------------------|------------------------------------|--------------------------------------|-------------------------------|-------------------------------|
+| Monitorear el clima                  | High                               | High                                 |                               |                               |
+| Planificar la siembra                | Medium                             | High                                 |                               |                               |
+| Aplicar fertilizantes                | Medium                             | High                                 |                               |                               |
+| Supervisar el crecimiento de cultivos| High                               | High                                 |                               |                               |
+| Registrar la cosecha                 | Low                                | High                                 |                               |                               |
+| Realizar análisis de suelo           | Low                                | Medium                               |                               |                               |
+| Mantener el equipo agrícola          | Low                                | Medium                               |                               |                               |
+| Controlar inventario                 |                                    |                                      | High                          | High                          |
+| Programar rutas de entrega           |                                    |                                      | High                          | High                          |
+| Coordinar con proveedores            |                                    |                                      | Medium                        | High                          |
+| Realizar pedidos a proveedores       |                                    |                                      | Medium                        | High                          |
+| Revisar informes de ventas           |                                    |                                      | Low                           | Medium                       |
+| Gestionar la logística de transporte |                                    |                                      | High                          | High                          |
+| Evaluar el desempeño de entrega      |                                    |                                      | Low                           | Medium                       |
 
-**Segmento Productor Agricola:**
+### Explicación del User Task Matrix
 
-| **Task**                                  | **Frequency** | **Importance** |
-|-------------------------------------------|---------------|----------------|
-| Monitorear el clima                       | High          | High           |
-| Planificar la siembra                     | Medium        | High           |
-| Aplicar fertilizantes                     | Medium        | High           |
-| Supervisar el crecimiento de los cultivos | High          | High           |
-| Registrar la cosecha                      | Low           | High           |
-| Realizar análisis de suelo                | Low           | Medium         |
-| Mantener el equipo agrícola               | Low           | Medium         |
+El User Task Matrix presenta las tareas clave de los segmentos de Productor Agrícola y Distribuidor, destacando la frecuencia y la importancia de cada actividad para sus operaciones diarias.
 
+**Tareas con Mayor Frecuencia e Importancia:**
 
-**Segmento Distribuidor:**
+- **Productor Agrícola:**
+	- **Monitorear el clima:** Es una tarea de alta frecuencia y alta importancia, ya que las condiciones climáticas impactan directamente en la planificación de riego y fumigación, afectando la salud de los cultivos y el rendimiento general.
+	- **Supervisar el crecimiento de los cultivos:** Esta tarea también es prioritaria, ya que permite al productor identificar problemas tempranamente y tomar decisiones informadas para corregir cualquier desvío en el crecimiento esperado.
 
-| **Task**                             | **Frequency** | **Importance** |
-|--------------------------------------|---------------|----------------|
-| Controlar inventario                 | High          | High           |
-| Programar rutas de entrega           | High          | High           |
-| Coordinar con proveedores            | Medium        | High           |
-| Realizar pedidos a proveedores       | Medium        | High           |
-| Revisar informes de ventas           | Low           | Medium         |
-| Gestionar la logística de transporte | High          | High           |
-| Evaluar el desempeño de entrega      | Low           | Medium         |
+- **Distribuidor:**
+	- **Controlar inventario:** Es una tarea de alta frecuencia y alta importancia porque la gestión precisa del inventario es fundamental para evitar pérdidas por falta de stock o exceso de productos, asegurando la continuidad del negocio.
+	- **Programar rutas de entrega:** La eficiencia en la planificación de entregas impacta directamente en la satisfacción del cliente y en la reducción de costos operativos, lo cual la convierte en una tarea crucial para el distribuidor.
+
+**Principales Diferencias:**
+- Las tareas del **Productor Agrícola** se enfocan en la gestión directa de los cultivos, el control de procesos de siembra, riego, fertilización y la supervisión constante del crecimiento de las plantas. Estas tareas son clave para optimizar la producción y reducir costos operativos.
+- En contraste, las tareas del **Distribuidor** se centran más en la logística y la coordinación con proveedores, donde la precisión en el control del inventario y la optimización de rutas son esenciales para el buen funcionamiento del negocio y la satisfacción del cliente.
+
+**Coincidencias:**
+- Ambas User Personas comparten la necesidad de procesos eficientes y organizados para gestionar sus operaciones, ya sea en el campo o en la distribución. Ambos segmentos requieren información en tiempo real y sistemas que faciliten la toma de decisiones informadas para optimizar sus recursos y mejorar su productividad.
 
 ### 2.3.3. User Journey Mapping
 
-A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+La sección de User Journey Maps muestra el recorrido completo de los usuarios de AgroControl, abarcando desde el primer contacto con la app hasta su abandono. Este mapeo destaca las acciones, metas, emociones, y problemas experimentados por los productores agrícolas y distribuidores, así como oportunidades para mejorar su experiencia.
+
+
+Para los **Productores Agrícolas**, el journey empieza con el descubrimiento de la app a través de marketing o recomendaciones y avanza hasta su uso para gestionar cultivos. Las emociones varían desde la ansiedad inicial hasta la alegría por mejorar su productividad. Los problemas incluyen dudas sobre los costos y dificultades en la personalización de funciones, lo que sugiere oportunidades como ofrecer pruebas gratuitas y mejorar la capacitación.
 
 **Segmento Productor Agricola:**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/55a0dcd17cfdfe2869f23aa351a051a8642b6550/assets/chapter-2-images/JourneyMapUserPersona1.png?raw=true" alt="Segmento Productor Agricola">
+
+
+El journey de los **Distribuidores** inicia al conocer la app en ferias o a través de socios comerciales. Pasan de la aceptación inicial a la satisfacción al mejorar la gestión de inventarios y entregas, pero pueden experimentar frustración por la falta de funciones avanzadas o personalización. Las oportunidades identificadas incluyen asistentes de configuración y características adaptadas a diferentes tamaños de negocios.
+
 
 **Segmento Distribuidor:**
 
@@ -1015,6 +1036,54 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 **Segmento Distribuidor:**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor">
+
+En esta sección, el equipo presenta los Empathy Maps realizados para los User Personas de AgroControl utilizando la herramienta UXPressia. Estos mapas permiten capturar una comprensión detallada de los usuarios al explorar lo que piensan, sienten, ven, oyen, dicen y hacen, junto con sus pains (dolores) y gains (beneficios). A continuación, se detalla el proceso de elaboración para cada uno de los User Personas.
+
+**Proceso de Elaboración:**
+
+1. **Preparación y Enfoque en el User Persona**: Cada mapa comenzó con la identificación del User Persona en el centro:
+	- **Juan Pérez**: Productor agrícola en Lima, enfocado en mejorar la gestión de su campo y la adopción de nuevas tecnologías.
+	- **Carlos Ramírez**: Distribuidor de insumos agrícolas que busca optimizar la logística de su negocio y satisfacer mejor a sus clientes.
+
+2. **Captura de Observaciones**: Para cada User Persona, se recopilaron observaciones del equipo en las secciones del Empathy Map:
+
+	- **¿Con quién estamos empatizando?**: Juan es un agricultor con desafíos en la gestión eficiente del campo, mientras que Carlos se enfoca en la distribución efectiva de productos agrícolas.
+
+	- **¿Qué necesitan hacer?**:
+		- **Juan**: Gestionar eficientemente el campo, controlar los costos y acceder a herramientas para monitorear los cultivos.
+		- **Carlos**: Mantener el control del inventario, coordinar con clientes y programar entregas de manera eficiente.
+
+	- **¿Qué están viendo?**:
+		- **Juan**: Observa un clima impredecible y una competencia que utiliza tecnología avanzada.
+		- **Carlos**: Percibe una creciente demanda de productos y competencia que optimiza la logística.
+
+	- **¿Qué están escuchando?**:
+		- **Juan**: Escucha consejos de otros productores y preocupaciones sobre la planificación de recursos.
+		- **Carlos**: Recibe comentarios de clientes sobre la rapidez de las entregas y sugerencias de su equipo.
+
+	- **¿Qué están diciendo?**:
+		- **Juan**: Expresa dificultades para obtener datos que guíen sus decisiones agrícolas.
+		- **Carlos**: Habla sobre la necesidad de mejorar el control del inventario y la organización de las entregas.
+
+	- **¿Qué están haciendo?**:
+		- **Juan**: Supervisa el campo y busca formas de reducir costos.
+		- **Carlos**: Supervisa la entrada y salida de productos, negociando y ajustando rutas de entrega.
+
+	- **¿Cómo se sienten y qué piensan?**:
+		- **Juan**: Siente la necesidad de innovar para reducir costos, pero enfrenta ansiedad por la adopción de nuevas tecnologías.
+		- **Carlos**: Siente presión por mejorar la eficiencia y teme perder clientes por problemas logísticos.
+
+3. **Identificación de Pains y Gains**:
+	- **Pains**:
+		- **Juan**: Tiempo limitado y dificultad para centralizar información y optimizar procesos.
+		- **Carlos**: Problemas para mantener un control preciso del inventario y gestionar múltiples pedidos.
+
+	- **Gains**:
+		- **Juan**: Incremento de la productividad y mejora en el uso de los recursos.
+		- **Carlos**: Mejor control del inventario y reducción del estrés operativo.
+
+Estos Empathy Maps proporcionan una guía visual y detallada sobre las necesidades y desafíos de los usuarios, ayudando a AgroControl a desarrollar soluciones más alineadas con sus expectativas y mejorar la experiencia del usuario en la plataforma.
+
 
 ### 2.3.5. As-is Scenario Mapping
 
