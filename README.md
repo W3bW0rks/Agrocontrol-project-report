@@ -1028,3 +1028,19 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 <img src="https://github.com/W3bW0rks/project-report/blob/428bbf749920bdae6e315782fa6780695cb60413/assets/chapter-2-images/AsIsScenarioMappingUserPersona2.jpg" alt="Segmento 2 user persona">
 
+### 2.4. Ubiquitous Language.
+
+En esta sección se presenta un glosario de términos utilizados en el dominio agrícola, con definiciones claras y sin ambigüedades. Este glosario facilita la comunicación entre los miembros del equipo y los stakeholders, asegurando un entendimiento común de los conceptos relevantes al problema y la solución.
+
+| **Term (English)**       | **Término (Español)**        | **Definition (Definición en Español)**                                                       |
+|--------------------------|------------------------------|----------------------------------------------------------------------------------------------|
+| **Crop Management**      | **Gestión de Cultivos**      | Conjunto de prácticas para optimizar el crecimiento, riego, y protección de los cultivos.    |
+| **Inventory Control**    | **Control de Inventario**    | Proceso de monitoreo y regulación de los insumos y productos almacenados para la distribución.|
+| **Supply Chain**         | **Cadena de Suministro**     | Serie de procesos involucrados en la producción y distribución de productos agrícolas.       |
+| **Yield Analysis**       | **Análisis de Rendimiento**  | Evaluación de la producción obtenida de los cultivos para optimizar las futuras cosechas.    |
+| **Soil Analysis**        | **Análisis de Suelo**        | Estudio de las propiedades del suelo para determinar su fertilidad y necesidad de insumos.   |
+| **Logistics Management** | **Gestión Logística**        | Organización y control de las rutas de entrega y transporte de productos agrícolas.          |
+| **Sustainability**       | **Sostenibilidad**           | Prácticas agrícolas enfocadas en minimizar el impacto ambiental y asegurar la viabilidad a largo plazo.|
+| **Resource Optimization**| **Optimización de Recursos** | Uso eficiente de agua, fertilizantes y mano de obra para maximizar la producción agrícola.   |
+| **Pest Control**         | **Control de Plagas**        | Métodos para prevenir o eliminar plagas que afectan los cultivos, garantizando la salud de las plantas. |
+| **Market Trends**        | **Tendencias del Mercado**   | Análisis de los cambios y patrones de demanda en el sector agrícola para ajustar la producción. |
