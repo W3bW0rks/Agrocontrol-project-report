@@ -402,25 +402,24 @@ Tenemos como objetivo generar impactos comerciales positivos para los productore
 * Reducción de costos operativos para agricultores mediante una mejor planificación.
 * Mejora en la satisfacción de los usuarios al ofrecer una solución accesible y fácil de usar.
 
-#### Users
+#### Business Assumptions
+Suponemos que los usuarios adoptarán tecnología digital, que habrá un mercado en crecimiento y que la conectividad será accesible para todos los usuarios.
+* Adaptación a la tecnología de los productores agrícolas y distribuidores para mejorar sus operaciones.
+* Crecimiento de mercado con una creciente demanda de herramientas de gestión agrícola, debido a la presión por ser más eficientes y sostenibles.
+* La solución será escalable para diferentes tipos de productores y distribuidores, desde pequeñas granjas hasta grandes operaciones agrícolas.
 
-###### Productores agrícolas  
-Necesitan optimizar sus operaciones y obtener  mayor control sobre los recursos y las finanzas.
-
-
-###### Distribuidores  
-Buscan mejorar la trazabilidad y la eficiencia en la distribución de productos.
-
-#### User Outcomes & Benefits
+#### User Outcomes
 ###### Productores agrícolas: 
-Aumento en la eficiencia del uso de recursos, reducción de costos, mayor control sobre las operaciones diarias y una mejor visibilidad de las finanzas agrícolas.
+* Aumento en la eficiencia del uso de recursos, reducción de costos, mayor control sobre las operaciones diarias y una mejor visibilidad de las finanzas agrícolas.
 
 ###### Distribuidores: 
-Mejora en la logística de entregay  reducción de errores en la distribución.
+* Mejora en la logística de entrega y  reducción de errores en la distribución.
 
 #### User assumptions
-#### ¿Quién es el usuario?
-El usuario principal de nuestro producto es el productor agrícola que se enfrenta a dificultades para gestionar el ciclo productivo de manera eficiente. Este productor puede ser de pequeña, mediana o gran escala. También tenemos como usuarios a los distribuidores, quienes buscan mejorar la logística y el control de productos a lo largo de la cadena de suministro.
+* Los usuarios (productores y distribuidores) estarán dispuestos a adoptar herramientas digitales, a pesar de la posible falta de familiaridad inicial.
+* La mayoría de los productores y distribuidores tendrán acceso a dispositivos móviles o computadoras con conectividad a internet.
+* Los usuarios estarán interesados en invertir tiempo y esfuerzo en aprender y usar la plataforma si perciben que los beneficios a largo plazo superan la inversión inicial.
+* Los usuarios buscarán reducir costos y optimizar recursos, por lo que la plataforma se verá como una solución viable para mejorar sus operaciones.
 
 #### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
 Se integra directamente en las operaciones diarias de los productores y distribuidores. Para los productores, facilita la planificación, monitoreo y administración de sus recursos y cultivos. Para los distribuidores, nuestro producto se convierte en una herramienta clave para mejorar la logística, asegurando una cadena de suministro más eficiente.
@@ -438,19 +437,6 @@ Nuestro producto es utilizado durante todo el ciclo agrícola, desde la planific
 
 #### ¿Cómo debería verse y comportarse nuestro producto?
 Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo que los usuarios naveguen sin dificultad entre las distintas funcionalidades. La interfaz debe ser limpia, con accesos directos a las tareas más comunes como la programación de riego, seguimiento de recursos y control de distribución.
-
-
-#### Business Assumptions
-1. **Creemos que nuestros clientes necesitan** una solución integral que les permita gestionar de manera eficiente todas las etapas del ciclo agrícola, desde la siembra hasta la distribución.
-2. **Estas necesidades se pueden resolver con una**  plataforma tecnológica que brinde herramientas para la planificación, monitoreo de recursos y gestión financiera en tiempo real.
-3. **El valor #1 que mi cliente quiere de mi servicio** es la capacidad de reducir costos operativos y aumentar la eficiencia en la producción y distribución agrícola.
-4. **El cliente también puede obtener beneficios adicionales como** una mejor toma de decisiones basada en datos y una mayor sostenibilidad en sus operaciones.
-5. **Voy a adquirir la mayoría de mis clientes** a través de estrategias de marketing digital, asociaciones con cooperativas agrícolas.
-6. **Haré dinero a través de**  la venta de suscripciones a la plataforma.
-7. **Mi competencia principal en el mercado** son las soluciones tecnológicas existentes que ofrecen gestión agrícola.
-8. **Los venceremos debido a la simplicidad** de nuestra plataforma, que se adapta a las necesidades de los productores y distribuidores sin comprometer funcionalidad.
-9. **El mayor riesgo es que** uestros usuarios no adopten la plataforma debido a la falta de familiaridad con herramientas tecnológicas.
-10. **Resolveremos esto a través de** un diseño intuitivo y programas de formación que guíen a los usuarios en la adopción de la plataforma y demuestren el valor agregado de la solución.
     
 #### 1.2.2.4. Lean UX Hypothesis Statements
 ### Hipótesis 1:
