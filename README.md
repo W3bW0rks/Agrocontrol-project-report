@@ -747,6 +747,8 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 2. ¿Qué edad tienes?
 3. ¿Dónde vives actualmente?
 4. ¿A qué te dedicas?
+5. ¿Cual es el navegador (browser) que más usas?
+6. ¿Cual es el dispositivo que más usas?
 
 **Preguntas Segmento 1: Productores Agricolas**
 
@@ -859,6 +861,8 @@ El distribuidor William nos cuenta que tiene muchos problemas al momento de tene
 Respecto a la funcionalidades, le gustaria poder registrar los gasto e ingresos para poder ver la utilidad obtenida. Asimismo, tambien le gustaria poder clasificar los productos como son las semillas, los distintos tipos de fumigadores y fertilizantes. Adicionalmente, comenta que le gustaria que el inventario se pudiera realizar en la plataforma, para no tener que buscar en varias carpetas y no preocuparse por el almacenamiento. Además, añade que le gustaria poder observar en que lugares realiza más ventas y que tambien le gustaria poder registrar casos en los cuales hubo problemas en la entrega del producto como ruptura, robo, entre otros incovenientes.
 
 En adición, la comunicación con sus clientes lo hace mediante las redes sociales como Instagram o Tiktok, pero cuando se trata de compras con una gran cantidad, la comunicación se hace por correo o whatsapp.
+
+Adicionalmente, nos comenta que el navegador que más usa es google chrome, asi como tambien dispone de celular y computadora, pero el dispositivo que más usa es la computadora.
 
 Finalmente, expresa que si estaría dispuesto a usar un software que le ayude a optimizar las ventas y el inventario, siempre y cuando cumpla con las funcionalidades que menciono anteriormente.
 
