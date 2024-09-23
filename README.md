@@ -1401,35 +1401,41 @@ El footer incluye enlaces rápidos, información de contacto y otras secciones r
 
 
 ## 4.4. Web Applications UX/UI Design.
+
+AgroControl es una plataforma de gestión que facilita diversos procesos, como la administración de campos, horarios e inventarios. Su diseño busca ser atractivo y coherente, además de funcional e intuitivo, garantizando que los usuarios puedan interactuar de manera eficiente con las herramientas ofrecidas.
+En cuanto a la experiencia de usuario, se ha priorizado una navegación intuitiva que permite registrar campos, programar plantaciones, riegos, fertilización y fumigación de manera sencilla. Además de controlar y registrar las cosechas y ganancias derivadas de estas.
+Se han empleado elementos visuales claros, como botones, tablas de registro y menús bien definidos, para asegurar que los usuarios puedan realizar sus tareas sin complicaciones. Además, la plataforma proporciona una visualización de datos principal que permite acceder rápidamente a información clave, como la plantación en curso y los horarios de los próximos procesos a realizar.
+
+
 ### 4.4.1. Web Applications Wireframes.
 
-**Menu**
+**Inicio Sesion**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Menu-Agro-Wireframe.png" />
 
-**Fields**
+**Registro usuario**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png" />
 
-**Store**
+**Fields**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
 
+**Home Field**
+
+**Home Field Menu**
+
 **Irrigation**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/Riego-Agro.png" />
-
-**Finances**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/bfce3aa19885bfc9e27be9292f0f11403ee50f66/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" />
-
-**Fumigation and fertilizers**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-4-images/Web%20Application%20Wireframe/fumigacion-Agro.png" />
+**Fumigation & Fertilization**
 
 **Harvest**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-4-images/Web%20Application%20Wireframe/recoleccion-Agro.png" />
+**Finances**
+
+**Workers**
+
+**Store**
 
 Link Figma:
 https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
@@ -1466,33 +1472,35 @@ https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitatio
 
 ### 4.4.2. Web Applications Mock-ups.
 
+**Inicio Sesion**
+
+
+
+**Registro usuario**
+
+
+
 **Fields**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" />
 
-**Menu**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png" />
+**Home Field**
+
+**Home Field Menu**
 
 **Irrigation**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Riego-Agro.png" />
-
-**Store**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
-
-**Finances**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" />
-
-**Fumigation and fertilizers**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/fumigacion-Agro.png" />
+**Fumigation & Fertilization**
 
 **Harvest**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/ed331701ea76dd2bd2a6c5e5d1068a8eff071385/assets/chapter-4-images/Web%20Application%20Mockup/recoleccion-Agro.png" />
+**Finances**
+
+**Workers**
+
+**Store**
+
+
 
 Link Figma:
 https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
