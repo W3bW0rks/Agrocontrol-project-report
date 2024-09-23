@@ -907,71 +907,50 @@ Canales de interacción: Utiliza WhatsApp para la comunicación, pero busca mejo
 Dispositivos: Usa principalmente un celular pero tambien se apoya con una tablet.
 
 ### 2.2.3 Análisis de entrevistas.
-<TABLE BORDER>
-	<TR>
-		<TD COLSPAN = 2 align=center>
+Análisis de Entrevistas
 
-**Características**</TD>
+En esta sección se analizan las características comunes identificadas en las entrevistas realizadas a productores agrícolas y distribuidores, con el objetivo de construir arquetipos representativos de cada segmento. Se presentan estadísticas que sustentan estas observaciones, haciendo énfasis en las características objetivas y subjetivas.
 
-<TD align=center>
+### Segmento: Productores Agrícolas
 
-**-**</TD>
+### Desafíos en la Gestión de Cultivos:
 
-<TD align=center>
+#### Control de Etapas de Cultivo:
+- **Objetiva:** El 100% de los productores mencionaron dificultades en el control de las distintas etapas del cultivo, evidenciando la falta de un sistema eficiente.
+- **Subjetiva:** Los productores expresan frustración por el uso de métodos manuales, lo que afecta su capacidad de gestión.
 
-**-**</TD>
+### Necesidades Tecnológicas:
 
+#### Interés en Aplicaciones de Gestión:
+- **Objetiva:** El 100% de los entrevistados manifestó interés en herramientas tecnológicas que optimicen la gestión agrícola.
+- **Subjetiva:** Hay un deseo común de modernizar sus procesos, lo que refleja una apertura al cambio y la innovación.
 
-   </TR>
-	<TR>
-		<TD ROWSPAN = 4>
+### Herramientas Utilizadas:
 
-**Objetivas**
-</TD>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD >-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
+#### Mano de Obra y Herramientas Manuales:
+- **Objetiva:** Todos los productores utilizan herramientas manuales para el cultivo y la cosecha.
+- **Subjetiva:** Hay un reconocimiento de que estas herramientas son limitantes y no les permiten maximizar su eficiencia.
 
-   <TR>
-		<TD ROWSPAN = 4>
+### Segmento: Distribuidores
 
-**Subjetivas**
-</TD>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-</TABLE>
+### Gestión de Inventario:
+
+#### Dificultades en el Inventario:
+- **Objetiva:** El 100% de los distribuidores mencionó problemas para mantener un inventario equilibrado entre oferta y demanda.
+- **Subjetiva:** Expresan preocupación por la falta de precisión en sus registros, lo que impacta en su rentabilidad.
+
+### Funcionalidades Deseadas:
+
+#### Integración y Automatización:
+- **Objetiva:** El 100% busca soluciones que integren ventas e inventario con sincronización automática de datos.
+- **Subjetiva:** Los distribuidores sienten que la falta de una solución adecuada limita su capacidad de respuesta y adaptación al mercado.
+
+### Canales de Comunicación:
+
+#### Uso de Redes Sociales y Aplicaciones de Mensajería:
+- **Objetiva:** Todos los distribuidores utilizan WhatsApp y redes sociales para comunicarse con sus clientes.
+- **Subjetiva:** Hay un sentimiento de que la comunicación actual es insuficiente para gestionar pedidos de gran volumen, lo que indica la necesidad de mejores herramientas de coordinación.
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
