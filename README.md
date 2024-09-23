@@ -1654,43 +1654,110 @@ https://shorturl.at/MMpXU
 
 **Crear y agregar un "Field"**
 
-<img src="" />
+El prototipo desarrollado presenta el flujo completo para la creación de un campo agricola, una funcionalidad central para los agricultores.
+Desde la pantalla principal, el usuario puede agregar y acceder a un formulario de creación de campos haciendo click en el botón de accion con el simbolo "+".
+
+El formulario de creación de campo incluye los siguientes campos obligatorios:
+
+- Nombre del Campo: El usuario ingresa el nombre que quiere asignar al campo
+- Tamaño del Campo: Ingresado en hectareas
+- Ubicación del Campo: Ingresa la ubicacion geografica.
+
+Después de crear un campo, el usuario regresa a la pantalla principal, donde los campos registrados se muestran en formato de cards. Están diseñadas con un estilo claro y visualmente atractivo, organizadas en grillas que responde a los diferentes tamaños de pantalla. Los usuarios pueden interactuar con las cards para ver más detalles de los procesos o eliminarlo.
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/create_field.png" />
 
 Video: https://shorturl.at/D5nOI
 
 **Registro de proceso de fumigacion y fertilizacion en la tabla "Fumigation & Fertilization"**
 
-<img src="" />
+El presente prototipo se evidencia el flujo de registro del proceso de fumigacion y fertilizacion. Desde la pantalla de "Fumigation & Fertilization", el usuario puede agregar mediante un formulario los siguientes datos:
+
+- Fecha del proceso: Seleccion de fecha de inicio del proceso.
+- Horas trabajadas: Ingresa las horas que conlleva dicho proceso
+- Tipo de proceso: Seleccion entre los procesos de "Fumigation" y "Fertilization"
+- Productos utilizados: Productos del inventario del agricultor
+- Trabajadores: Los trabajadores involucrados en el procesos.
+
+Despues de crear el proceso, se visualiza en la tabla "Fumigation & Fertilization".
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/fumigation.png" />
 
 Video: https://shorturl.at/iygAV
 
 **Registro y visualizacion de las finanzas del usuario relacionadas a un campo**
 
-<img src="" />
+Esta característica se diseñó considerando criterios de interacción que maximizan la claridad y facilidad de uso.
+Desde la pantalla principal del campo, el usuario accede a la sección de finanzas mediante una pestaña claramente identificada como "Finanzas", ubicada en el menú lateral o directamente dentro de la card del campo.
+El usuario tiene la opción de agregar un nuevo dato. Los campos a completar incluyen:
+
+- Fecha de registro: Fecha de registro de inicio del proceso.
+- Costo Total: El costo total de los procesos realizados en el campo.
+- Ingreso Total: El ingreso total por proceso de plantacion.
+- Ganancias: Las ganancias obtenidas del proceso.
+
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/finances.png" />
 
 Video: https://shorturl.at/Y5MGc
 
 **Registro de proceso de riego en la tabla "Irrigation"**
 
-<img src="" />
+El flujo representa el  registrar y visualizar los datos relacionados con el riego de sus campos, lo que les permite un mejor control sobre el uso del agua y las fechas programadas para futuras irrigaciones. Estos registros se almacenan en la tabla llamada "Irrigation".
+En la pantalla de riego, se presenta un botón prominente llamado "Add" que abre un formulario de ingreso de datos. Se abre un formulario donde el usuario debe llenar la siguiente información:
+
+- Fecha de riego: Selecciona mediante un calendario.
+- Duracion: Cantidad de tiempo que dura el riego.
+- Trabajadores: Los trabajadores involucrados con el proceso
+
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/irrigation.png" />
 
 Video: https://shorturl.at/GkG2u
 
 **Registro de cosecha realizada en la tabla "Harvet"**
 
-<img src="" />
+El registro de la cosecha es un proceso que permite rastrear las cantidades recolectadas y sus valores comerciales. Los datos se almacenan en una tabla denominada "Harvest". En esta tabla, el usuario puede registrar la fecha de la cosecha, el peso total recolectado, y el precio por unidad de peso.
+
+- Fecha de la cosecha: Se selecciona desde un calendario.
+- Peso total: Ingresado en kilogramos o la unidad de peso utilizada por el agricultor
+- Precio por unidad de peso: El precio que se espera recibir por cada unidad del peso total cosechado.
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/harvest.png" />
 
 Video: https://shorturl.at/Vioq8
 
 **Registro de proceso de plantación de producto en el campo.**
 
-<img src="" />
+El registro del proceso de plantación sigue un flujo secuencial. Este enfoque guía a los agricultores a través de un formulario simple y ordenado, permitiendo que la información esencial del proceso de plantación sea registrada de manera clara y concisa. Además, la tabla que almacena esta información les permite acceder rápidamente a los datos de plantaciones anteriores.
+
+Desde la pantalla principal de AgroControl, el usuario selecciona el campo en el que desea registrar la plantación. En la vista de ese campo, se presenta una opción en el menú o en las cards de acciones rápidas llamada "Create Planting".
+
+El formulario contiene los siguientes campos esenciales para el registro:
+
+- Fecha de inicio: Se especifica el inicio del proceso de plantación 
+- Semillas plantadas: Descripción de las semillas utilizadas
+- Cantidad: Especifica la cantidad utilizada para el proceso
+- Costo: Especifica el costo total del uso de las semillas
+- Workers: Ingresar los workers involucrados en el proceso
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/planting.png" />
 
 Video: https://t.ly/ZSkcb
 
 **Registro y visualizacion de trabajadores relacionados a los procesos del campo, en la tabla "Workers".**
 
-<img src="" />
+El manejo de los trabajadores es un aspecto clave en la gestión agrícola. AgroControl permite a los agricultores registrar a los trabajadores asignados a sus campos, ingresando información básica como el nombre, el teléfono, y el documento de identidad de cada trabajador.
+El sistema utiliza un enfoque jerárquico y secuencial para la gestión de los trabajadores. Los usuarios pueden registrar la información de sus trabajadores de manera sencilla y visualizarla en una tabla organizada, permitiendo tanto la actualización como la eliminación de registros.
+
+El formulario permite registrar los siguientes datos básicos de cada trabajador:
+
+- Nombre del trabajador.
+- Teléfono de contacto.
+- Documento de identidad.
+
+
+<img src="https://github.com/W3bW0rks/project-report/blob/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/workers.png" />
 
 Video: https://shorturl.at/3LBmG
 
