@@ -967,32 +967,46 @@ En esta sección se presentarán las fichas de User Persona, las cuales son repr
 
 ### 2.3.2. User Task Matrix
 
-A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Personas realizan para cumplir sus objetivos. Se consideran dos segmentos: productores agrícolas y distribuidores. Las tareas identificadas son realizadas independientemente de la existencia de soluciones de software.
 
-**Segmento Productor Agricola:**
+| **Task**                                   | **Productor Agrícola**  |             	| **Distribuidor** |                |
+|--------------------------------------------|-------------------------|----------------|------------------|----------------|
+|                                            | **Frequency**           | **Importance** | **Frequency**    | **Importance** |
+| Monitorear el clima                        | High                    | High        	| Medium           | High           |
+| Comunicar con compradores                  | Medium                  | Medium      	| Medium           | Medium         |
+| Controlar inventario                       | Low                     | High        	| High             | High           |
+| Planificar la siembra                      | Medium                  | High        	| Low              | Medium         |
+| Supervisar el crecimiento de los cultivos  | High                    | High        	| Low              | Medium         |
+| Realizar pedidos a proveedores             | -                       | -           	| Medium           | High           |
+| Registrar gastos e ingresos                | Medium                  | High        	| High             | High           |
+| Evaluar el rendimiento de los productos    | Medium                  | Medium      	| Medium           | Medium         |
+| Gestionar relaciones con proveedores       | Low                     | Medium      	| High             | High           |
+| Analizar tendencias de ventas              | Low                     | Medium      	| High             | High           |
 
-| **Task**                                  | **Frequency** | **Importance** |
-|-------------------------------------------|---------------|----------------|
-| Monitorear el clima                       | High          | High           |
-| Planificar la siembra                     | Medium        | High           |
-| Aplicar fertilizantes                     | Medium        | High           |
-| Supervisar el crecimiento de los cultivos | High          | High           |
-| Registrar la cosecha                      | Low           | High           |
-| Realizar análisis de suelo                | Low           | Medium         |
-| Mantener el equipo agrícola               | Low           | Medium         |
+### Explicación
 
+Al analizar las tareas identificadas en el User Task Matrix, se pueden resaltar varias observaciones significativas sobre los segmentos de productores agrícolas y distribuidores.
 
-**Segmento Distribuidor:**
+#### Tareas con Mayor Frecuencia e Importancia
 
-| **Task**                             | **Frequency** | **Importance** |
-|--------------------------------------|---------------|----------------|
-| Controlar inventario                 | High          | High           |
-| Programar rutas de entrega           | High          | High           |
-| Coordinar con proveedores            | Medium        | High           |
-| Realizar pedidos a proveedores       | Medium        | High           |
-| Revisar informes de ventas           | Low           | Medium         |
-| Gestionar la logística de transporte | High          | High           |
-| Evaluar el desempeño de entrega      | Low           | Medium         |
+1. **Controlar inventario**: Esta tarea es crucial para ambos segmentos, ya que los productores deben asegurarse de tener los insumos necesarios, mientras que los distribuidores necesitan mantener un balance adecuado entre oferta y demanda. La alta importancia en ambas partes resalta la necesidad de una gestión eficiente de los recursos.
+
+2. **Registrar gastos e ingresos**: La contabilidad es vital para evaluar la rentabilidad. Ambos segmentos deben llevar un control riguroso de sus finanzas, lo que subraya la necesidad de herramientas que faciliten este proceso.
+
+3. **Monitorear el clima**: Aunque su frecuencia es alta para los productores y media para los distribuidores, ambos segmentos reconocen que el clima afecta directamente sus operaciones. Esto crea una interconexión en la toma de decisiones que influye en la producción y en la logística de distribución.
+
+#### Principales Diferencias
+
+- **Planificar la siembra**: Esta tarea es de alta importancia para los productores, ya que impacta directamente en la cosecha. En contraste, los distribuidores la consideran menos relevante, pues su enfoque se centra en la comercialización de los productos una vez cosechados.
+
+- **Realizar pedidos a proveedores**: Esta actividad es esencial para los distribuidores, pero no se aplica directamente a los productores, quienes se concentran en el manejo de sus cultivos y la relación con los proveedores de insumos.
+
+#### Coincidencias
+
+Ambos segmentos comparten una necesidad de **gestionar relaciones con proveedores** y **evaluar el rendimiento de los productos**. La gestión eficaz de estas relaciones no solo asegura la calidad de los insumos para los productores, sino que también permite a los distribuidores ofrecer productos competitivos en el mercado. Además, tanto productores como distribuidores muestran interés en **analizar tendencias de ventas**, lo que refleja una orientación hacia la adaptación y la mejora continua en sus respectivas estrategias.
+
+Estas coincidencias y diferencias subrayan la interdependencia entre la producción y la distribución en el sector agrícola, destacando la importancia de desarrollar soluciones que aborden las necesidades específicas de cada segmento, al tiempo que facilitan una colaboración efectiva entre ellos.
+
 
 ### 2.3.3. User Journey Mapping
 
