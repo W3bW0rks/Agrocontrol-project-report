@@ -1212,6 +1212,9 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 
 ### 4.1.2. Web Style Guidelines.
 
+AgroControl ofrece una experiencia coherente, intuitiva y visualmente atractiva, optimizando la interacción en una variedad de dispositivos y tamaños de pantalla.
+El diseño debe ajustarse a diferentes tamaños de pantalla sin sacrificar la funcionalidad o estética. Se ha seleccionado el patrón F como el principal esquema de escaneo visual en nuestras interfaces, alineado con los hábitos naturales de lectura de los usuarios. Esto asegura que los usuarios encuentren rápidamente la información más relevante
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ## 4.2.1 Sistemas de Organización
@@ -1476,42 +1479,55 @@ Pantalla de la tienda virtual de la aplicacion AgroControl. Nos muestra los dife
 <img src="https://github.com/W3bW0rks/project-report/blob/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
 
 Enlace Figma:
-https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+https://shorturl.at/EgCQ3
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Enlace Lucidchart:
-https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitationId=inv_8080371d-b917-48d7-bd47-6c51db8e29db
-
 **Agregar nueva cosecha en tabla "Harvest"**
+
+En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Harvest-wire.png" />
 
 **Crear nueva plantacion en "Planting"**
 
+Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Planting-wire.png" />
 
 **Crear nuevo "Field"**
+
+La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Field-wire.png" />
 
 **Agregar nuevos datos de finanzas en "Finances"**
 
+Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Finances-wire.png" />
 
 **Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**
+
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Fum-Fert.png" />
 
 **Agregar nuevo proceso de riego en "Irrigation"**
 
+Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/irrigation-wire.png" />
 
 **Agregar nuevo trabajador de cultivo en "Workers"**
 
+Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/worker-wire.png" />
 
+Enlace Lucidchart:
+https://shorturl.at/MMpXU
 
 ### 4.4.3. Web Applications Mock-ups.
 
@@ -1582,47 +1598,101 @@ Pantalla de la tienda interna de los usuarios. En ella podemos ver los productos
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
 
 
-
 Link Figma:
-https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+https://shorturl.at/EgCQ3
 
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Enlace LucidChart:
-https://overflow.io/s/N7ITFZCP
 
 **Agregar nueva cosecha en tabla "Harvest"**
+
+En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Harvest-uflow.png" />
 
 **Crear nueva plantacion en "Planting"**
 
+Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Planting-uflow.png" />
 
 **Crear nuevo "Field"**
+
+La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/field-uflow.png" />
 
 **Agregar nuevos datos de finanzas en "Finances"**
 
+Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/finances-uflow.png" />
 
 **Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**
+
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/fum-fer-uflow.png" />
 
 **Agregar nuevo proceso de riego en "Irrigation"**
 
+Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-uflow.png" />
 
 **Agregar nuevo trabajador de cultivo en "Workers"**
 
+Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.
+
 <img src="https://github.com/W3bW0rks/project-report/blob/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/worker-uflow.png" />
+
+Enlace LucidChart:
+https://shorturl.at/MMpXU
 
 ## 4.5. Web Applications Prototyping.
 
+**Crear y agregar un "Field"**
 
+<img src="" />
+
+Video: https://shorturl.at/D5nOI
+
+**Registro de proceso de fumigacion y fertilizacion en la tabla "Fumigation & Fertilization"**
+
+<img src="" />
+
+Video: https://shorturl.at/iygAV
+
+**Registro y visualizacion de las finanzas del usuario relacionadas a un campo**
+
+<img src="" />
+
+Video: https://shorturl.at/Y5MGc
+
+**Registro de proceso de riego en la tabla "Irrigation"**
+
+<img src="" />
+
+Video: https://shorturl.at/GkG2u
+
+**Registro de cosecha realizada en la tabla "Harvet"**
+
+<img src="" />
+
+Video: https://shorturl.at/Vioq8
+
+**Registro de proceso de plantación de producto en el campo.**
+
+<img src="" />
+
+Video: https://t.ly/ZSkcb
+
+**Registro y visualizacion de trabajadores relacionados a los procesos del campo, en la tabla "Workers".**
+
+<img src="" />
+
+Video: https://shorturl.at/3LBmG
 
 
 ## 4.6. Domain-Driven Software Architecture.
