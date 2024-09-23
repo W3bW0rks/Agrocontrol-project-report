@@ -1973,8 +1973,8 @@ En el siguiente apartado, se presentará el sprint planning 2, donde se mostrar�
 
 #### 5.2.2.2. Sprint Backlog 2
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
-![Tablero Trello Sprint Backlog 2](https://imgur.com/TGSLyDg.jpg)
-Link de Trello: [https://trello.com/b/SG4K7mXW/webmsaters-sprint-2](https://trello.com/b/SG4K7mXW/webmsaters-sprint-2)
+![Tablero Trello Sprint Backlog 2](https://imgur.com/qDSnzzw.jpg)
+Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)
 <table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
 <tr><td colspan="2" valign="top">USer Story</td><td colspan="6" valign="top">Work-item / Task</td></tr>
 <tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / in Process / To - Review / (Done) )</td></tr>
