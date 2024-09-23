@@ -1010,7 +1010,7 @@ Estas coincidencias y diferencias subrayan la interdependencia entre la producci
 
 ### 2.3.3. User Journey Mapping
 
-A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+En esta sección, se presentan los User Journey Maps para cada User Persona. Estos mapas ilustran el recorrido actual de los usuarios, mostrando sus interacciones y experiencias sin una solución tecnológica. Cada mapa está vinculado a su User Persona correspondiente, permitiendo visualizar claramente cómo se desarrollan sus tareas y desafíos en la situación actual. A continuación, se incluirán las imágenes de los diagramas elaborados en la herramienta correspondiente.
 
 **Segmento Productor Agricola:**
 
@@ -1022,7 +1022,7 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 ### 2.3.4. Empathy Mapping
 
-A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+En esta sección se presentan los Empathy Maps para cada User Persona, que ayudan a entender sus experiencias y emociones. Se colocó al User Persona en el centro y se recolectaron observaciones del equipo sobre lo que necesita hacer, dice y siente. También se identificaron sus preocupaciones y cómo nuestra solución puede ayudar. A continuación, se incluyen las capturas de los Empathy Maps realizados.
 
 **Segmento Productor Agricola:**
 
@@ -1034,7 +1034,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 ### 2.3.5. As-is Scenario Mapping
 
-A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+En esta sección se presentan los As-Is Scenario Maps para cada User Persona, que muestran cómo interactúan actualmente con sus procesos. El equipo siguió un proceso que incluyó preparación, lluvia de ideas individual y revisión. Se identificaron las fases del proceso y se etiquetaron áreas donde se necesita aprender más. A continuación, se incluyen las capturas de los As-Is Scenario Maps elaborados.
 
 **Segmento Productor Agricola:**
 
