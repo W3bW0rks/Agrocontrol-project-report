@@ -42,7 +42,7 @@
         <strong>Johan Príncipe:</strong><br>
         <em>TB1:</em> Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos. Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto.<br><br>
         <strong>Sebastián Aiquipa:</strong><br>
-        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También detallé el flow de cada funcionalidad, garantizando una experiencia intuitiva y eficiente.<br><br>
+        <em>TB1:</em> Para la presente entrega se diseño y definio los estilos a llevar para la elaboracion del producto. Se busco que la interaccion del usuario con la plataforma sea clara e intuitiva, facilitando el uso de las funcionalidades que se ofrece. Tambien, se represento los diferentes flujos que llegara a realizar el usuario, beneficiando al entendimiento de las relaciones entre los wireframes y  mockups.<br><br>
         <strong>André Arroyo:</strong><br>
         <em>TB1:</em> Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas C4 del capítulo 4, y en el capítulo 5 se elaboraron los apartados 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
@@ -58,7 +58,7 @@
         <strong>Johan Príncipe:</strong><br>
         <em>TB1:</em> Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación.<br><br>
         <strong>Sebastián Aiquipa:</strong><br>
-        <em>TB1:</em> Desarrollé los wireframes y mock-ups del proyecto para la Landing Page y Web Application. Documenté los diferentes elementos necesarios para elaborar los diseños, manteniendo un orden y claridad en las características y modelos a seguir.<br><br>
+        <em>TB1:</em> Para esta entrega se desarrollo los diferentes diseños UI/UX de la plataforma. Se considero las principales necesidades del usuario. Para el diseño, se busco uno atractivo y coherente, además de funcional e intuitivo, facilitando la interaccion del usuario con las diferentes funcionalidades que ofrece la plataforma. <br><br>
         <strong>André Arroyo:</strong><br>
         <em>TB1:</em> Para esta entrega me dediqué al desarrollo del capítulo 3, que nos permitió comprender mejor a nuestros segmentos objetivos y obtener los requerimientos de software. Elaboré los diagramas C4 para entender el backend, y documenté las tecnologías usadas en el proyecto, así como la elaboración de la landing page.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
