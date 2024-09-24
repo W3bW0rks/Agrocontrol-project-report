@@ -1393,6 +1393,9 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 
 ### 4.1.2. Web Style Guidelines.
 
+AgroControl ofrece una experiencia coherente, intuitiva y visualmente atractiva, optimizando la interacción en una variedad de dispositivos y tamaños de pantalla.
+El diseño debe ajustarse a diferentes tamaños de pantalla sin sacrificar la funcionalidad o estética. Se ha seleccionado el patrón F como el principal esquema de escaneo visual en nuestras interfaces, alineado con los hábitos naturales de lectura de los usuarios. Esto asegura que los usuarios encuentren rápidamente la información más relevante
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ## 4.2.1 Sistemas de Organización
@@ -1584,152 +1587,338 @@ El footer incluye enlaces rápidos, información de contacto y otras secciones r
 
 
 ## 4.4. Web Applications UX/UI Design.
+
+AgroControl es una plataforma de gestión que facilita diversos procesos, como la administración de campos, horarios e inventarios. Su diseño busca ser atractivo y coherente, además de funcional e intuitivo, garantizando que los usuarios puedan interactuar de manera eficiente con las herramientas ofrecidas.
+En cuanto a la experiencia de usuario, se ha priorizado una navegación intuitiva que permite registrar campos, programar plantaciones, riegos, fertilización y fumigación de manera sencilla. Además de controlar y registrar las cosechas y ganancias derivadas de estas.
+Se han empleado elementos visuales claros, como botones, tablas de registro y menús bien definidos, para asegurar que los usuarios puedan realizar sus tareas sin complicaciones. Además, la plataforma proporciona una visualización de datos principal que permite acceder rápidamente a información clave, como la plantación en curso y los horarios de los próximos procesos a realizar.
+
+
 ### 4.4.1. Web Applications Wireframes.
 
-**Menu**
+Enlace Figma: https://shorturl.at/EgCQ3
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Menu-Agro-Wireframe.png?raw=true" />
 
-**Fields**
+**Inicio Sesion**  
+La primera pantalla que interactua el usuario. En esta, el usuario podra iniciar sesion en AgroControl. Ademas de opciones de regsitrarse, sino cuenta con una subscripcion, y opciones de recuperacion de contraseña.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Wireframe/Registro.png" />  
+
+**Registro usuario**
+
+La pantalla de registro, permite al usuario crear un cuenta en AgroControl. Mediante un formulario, se le solicita sus datos personales. Ademas, define el rol que cumple, ya sea "Agricultor" o "Distribuidor, con sus respectivos planes.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/SignUpView.png" />
+
+**Fields**  
+
+Pantalla de control y visualizacion de los fields registrados por el usuario. En el se puede crear un nuevo campo o "Field" e interactuar con la tarjeta para visualizar los procesos activos y las funcionalidades de la plataforma.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png?raw=true" />
 
-**Store**
+**Home Field**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png?raw=true" />
+Pantalla donde se visualiza un panel de control de los diferentes procesos en funcionamiento. En el podemos diferenciar los principales funcionamientos que ofrece la plataforma, como el comienzo de una plantacion, añadir a trabajadores, agendar horarios de riego, fertilizacion y fumigacion.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field.png" />
+
+**Home Field Menu**
+
+Barra lateral de navegacion. En el se visualiza las funcionalidades de la plataforma. Nos permite dirigirnos a vistas más detalladas de cada proceso.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field-menu.png"/>
 
 **Irrigation**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Riego-Agro.png?raw=true" />
+Pantalla de registro y creacion de procesos de riego. Los datos que se visualizan son el día de inicio de proceso, horas demandadas y los trabajadores involucrados.  
 
-**Finances**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Irrigation-list.png" />    
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png?raw=true" />
+**Fumigation & Fertilization**  
 
-**Fumigation and fertilizers**
+Pantalla de registro y creacion de procesos de fumigación y fertilización. Los datos que se visualizan son el dia de inicio del proceso, horas que tomara el trabajo, el tipo de proceso, ya sea "Fertilization" o "Fumigation", y los trabajadores involucrados.    
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fumigacion-Agro.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Fumigation-list.png" />
 
 **Harvest**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/recoleccion-Agro.png?raw=true" />
+Pantalla de registro de cosecha en la tabla "Harvest". Sirve como control de las cosechas realizadas en el "Field". Los datos identificados son el dia de registro, el peso de la cosecha y el precio por unidad.
 
-Link Figma:
-https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Harvest-Agro.png" />
+
+**Finances**
+
+Pantalla de registro de la finanzas del field del usuario. Nos permite visualizar las ganacias y la cantidad vendido de cosecha en una fecha determinada. Podemos visualizar los datos de fecha de registro, costo total y ganancias.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" />
+
+**Workers**
+
+Pantalla de registro de trabajadroes. En el nos permite visualizar y manejar los trabajadores que esten relacionados a nuestro field. Los datos solicitados son el nombre del trabajador, numero telefonico y el numero de documento de identidad.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Workers-list.png" />
+
+**Store**
+
+Pantalla de la tienda virtual de la aplicacion AgroControl. Nos muestra los diferentes objetos publicados por los usuarios, ya sean "Agricultores" o "Distribuidores".  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Enlace Lucidchart:
 
-https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitationId=inv_8080371d-b917-48d7-bd47-6c51db8e29db
+Enlace Lucidchart: https://shorturl.at/MMpXU
 
-**Usuario quiere agregar un nuevo "Field"**
+**Agregar nueva cosecha en tabla "Harvest"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-create-fieldpng.png?raw=true" />
+En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.
 
-**Usuario quiere agendar y llena el formulario de riego**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Harvest-wire.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-irrigation.png?raw=true" />
+**Crear nueva plantacion en "Planting"**
 
-**Usuario quiere comprar un producto en la tienda "Store"**
+Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-store.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Planting-wire.png" />
 
-**Usuario quiere agendar y llena el formnulario de Fumigacion y fertilizar**
+**Crear nuevo "Field"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/fumigation-user.png?raw=true" />
+La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.
 
-**Usuario quiere registrar las cosechas y el peso por caja**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Field-wire.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/harvest-user.png" />
+**Agregar nuevos datos de finanzas en "Finances"**
 
-**Usuario registra el peso vendido y las ganancias por unidad de producto en "Finances"**
+Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-finances.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Finances-wire.png" />
 
-### 4.4.2. Web Applications Mock-ups.
+**Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**
 
-**Fields**
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Fum-Fert.png" />
 
-**Menu**
+**Agregar nuevo proceso de riego en "Irrigation"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png?raw=true" />
+Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.
 
-**Irrigation**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/irrigation-wire.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Riego-Agro.png?raw=true" />
+**Agregar nuevo trabajador de cultivo en "Workers"**
 
-**Store**
+Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/worker-wire.png" />
+
+
+### 4.4.3. Web Applications Mock-ups.
+
+Link Figma: https://shorturl.at/EgCQ3  
+
+**Inicio Sesion**
+La pantalla de inicio de sesión de AgroControl está diseñada con simplicidad y accesibilidad en mente. Es el primer punto de contacto del usuario con la aplicación AgroControl.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Registro.png" />
+
+**Registro usuario**  
+La pantalla de registro de AgroControl permite a los usuarios seleccionar su rol de Agricultor o Distribuidor mediante dos radio buttons.   
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/SignUp-Agro.png" />
+
+**Fields**  
+La pantalla de Fields permite al usuario registra y visualizar los campos a su disposición. En el podemos ver los nombres, el tamaño y la localización de esta.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" />
+
+**Home Field**  
+Pantalla de visualización de datos principales como el inicio de una plantación con sus datos respectivos, además de los horarios registrados para los procesos de riego, fertilización y fumigación. 
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field.png" />  
+
+**Home Field Menu**  
+Se visualiza en la zona derecha un menú de navegación donde nos permite visualizar y dirigirnos a las diferentes funcionalidades de la aplicación.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field-menu.png" />
+
+**Irrigation**  
+Pantalla de visualización y registro de procesos de riego. Se puede monitorear el horario de inicio del proceso, las horas destinadas y los trabajadores involucrados.
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Irrigation-list.png" />
+
+**Fumigation & Fertilization**  
+La pantalla Fumigation & Fertilization permite visualizar y monitorear los diferentes procesos agendados. Se registra el día y las horas dedicadas para el proceso.   
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Fumigation-list.png" />
+
+**Harvest**  
+Pantalla Harvest permite registrar las cosechas realizadas, con el peso de la cosecha y el precio por unidad.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Harvest-Agro.png" />
 
 **Finances**
+En Finances se puede visualizar una tabla que permite registrar y monitorear el día de registro de las ganancias generadas por la venta de los productos vendidos. 
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" />  
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
+**Workers**  
+Pantalla de visualización de trabajadores registrados al Field. Se registra el nombre, su número telefónico y documento de identidad.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Workers-list.png" />
 
-**Fumigation and fertilizers**
+**Store**  
+Pantalla de la tienda interna de los usuarios. En ella podemos ver los productos publicados por Agricultores y Distribuidores, y realizar compras de estos.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
+### 4.4.4. Web Applications User Flow Diagrams.
 
-**Harvest**
+Enlace LucidChart: https://shorturl.at/MMpXU  
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/recoleccion-Agro.png?raw=true" />
+**Agregar nueva cosecha en tabla "Harvest"**  
+En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Harvest-uflow.png"/>
 
-Link Figma:
-https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+**Crear nueva plantacion en "Planting"**  
+Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Planting-uflow.png" />
 
+**Crear nuevo "Field"**  
+La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.   
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/field-uflow.png" />
 
-### 4.4.3. Web Applications User Flow Diagrams.
+**Agregar nuevos datos de finanzas en "Finances"**  
+Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/finances-uflow.png" />
 
-Enlace Overflow:
+**Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**  
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/fum-fer-uflow.png" />
 
-https://overflow.io/s/N7ITFZCP
+**Agregar nuevo proceso de riego en "Irrigation"**  
+Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-uflow.png" />
 
-**Agregar nuevo "Field"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/fields-user.png?raw=true"/>
-
-**Agregar nueva dato a "Finances"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png?raw=true" />
-
-**Agendar temporada de fumigación y fertilización en "Fumigation and fertlizers"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png?raw=true" />
-
-**Agregar la cosecha realizada en la sección "Harvest"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/harvest-user.png?raw=true" />
-
-**Agendar temporada de riego en la sección "Irrigation"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-user.png?raw=true" />
-
-**Realizar una compra en la sección "Store"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/store-user.png?raw=true" />
-
+**Agregar nuevo trabajador de cultivo en "Workers"**  
+Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/worker-uflow.png" />
 
 ## 4.5. Web Applications Prototyping.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Prototyping/prototype-figma.png?raw=true" />
+**Crear y agregar un "Field"**  
+El prototipo desarrollado presenta el flujo completo para la creación de un campo agricola, una funcionalidad central para los agricultores.
+Desde la pantalla principal, el usuario puede agregar y acceder a un formulario de creación de campos haciendo click en el botón de accion con el simbolo "+".
 
-Enlace de Figma: 
-https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node-type=FRAME&t=Mmri04ZsvmNBeZoT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=143%3A1155&show-proto-sidebar=1
+El formulario de creación de campo incluye los siguientes campos obligatorios:
 
+- Nombre del Campo: El usuario ingresa el nombre que quiere asignar al campo
+- Tamaño del Campo: Ingresado en hectareas
+- Ubicación del Campo: Ingresa la ubicacion geografica.
+
+Después de crear un campo, el usuario regresa a la pantalla principal, donde los campos registrados se muestran en formato de cards. Están diseñadas con un estilo claro y visualmente atractivo, organizadas en grillas que responde a los diferentes tamaños de pantalla. Los usuarios pueden interactuar con las cards para ver más detalles de los procesos o eliminarlo.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/create_field.png" />
+
+Video: https://shorturl.at/D5nOI
+
+**Registro de proceso de fumigacion y fertilizacion en la tabla "Fumigation & Fertilization"**
+
+El presente prototipo se evidencia el flujo de registro del proceso de fumigacion y fertilizacion. Desde la pantalla de "Fumigation & Fertilization", el usuario puede agregar mediante un formulario los siguientes datos:
+
+- Fecha del proceso: Seleccion de fecha de inicio del proceso.
+- Horas trabajadas: Ingresa las horas que conlleva dicho proceso
+- Tipo de proceso: Seleccion entre los procesos de "Fumigation" y "Fertilization"
+- Productos utilizados: Productos del inventario del agricultor
+- Trabajadores: Los trabajadores involucrados en el procesos.
+
+Despues de crear el proceso, se visualiza en la tabla "Fumigation & Fertilization".
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/fumigation.png" />
+
+Video: https://shorturl.at/iygAV
+
+**Registro y visualizacion de las finanzas del usuario relacionadas a un campo**
+
+Esta característica se diseñó considerando criterios de interacción que maximizan la claridad y facilidad de uso.
+Desde la pantalla principal del campo, el usuario accede a la sección de finanzas mediante una pestaña claramente identificada como "Finanzas", ubicada en el menú lateral o directamente dentro de la card del campo.
+El usuario tiene la opción de agregar un nuevo dato. Los campos a completar incluyen:
+
+- Fecha de registro: Fecha de registro de inicio del proceso.
+- Costo Total: El costo total de los procesos realizados en el campo.
+- Ingreso Total: El ingreso total por proceso de plantacion.
+- Ganancias: Las ganancias obtenidas del proceso.
+
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/finances.png" />
+
+Video: https://shorturl.at/Y5MGc
+
+**Registro de proceso de riego en la tabla "Irrigation"**
+
+El flujo representa el  registrar y visualizar los datos relacionados con el riego de sus campos, lo que les permite un mejor control sobre el uso del agua y las fechas programadas para futuras irrigaciones. Estos registros se almacenan en la tabla llamada "Irrigation".
+En la pantalla de riego, se presenta un botón prominente llamado "Add" que abre un formulario de ingreso de datos. Se abre un formulario donde el usuario debe llenar la siguiente información:
+
+- Fecha de riego: Selecciona mediante un calendario.
+- Duracion: Cantidad de tiempo que dura el riego.
+- Trabajadores: Los trabajadores involucrados con el proceso
+
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/irrigation.png" />
+
+Video: https://shorturl.at/GkG2u
+
+**Registro de cosecha realizada en la tabla "Harvest"**
+
+El registro de la cosecha es un proceso que permite rastrear las cantidades recolectadas y sus valores comerciales. Los datos se almacenan en una tabla denominada "Harvest". En esta tabla, el usuario puede registrar la fecha de la cosecha, el peso total recolectado, y el precio por unidad de peso.
+
+- Fecha de la cosecha: Se selecciona desde un calendario.
+- Peso total: Ingresado en kilogramos o la unidad de peso utilizada por el agricultor
+- Precio por unidad de peso: El precio que se espera recibir por cada unidad del peso total cosechado.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/harvest.png" />
+
+Video: https://shorturl.at/Vioq8
+
+**Registro de proceso de plantación de producto en el campo.**
+
+El registro del proceso de plantación sigue un flujo secuencial. Este enfoque guía a los agricultores a través de un formulario simple y ordenado, permitiendo que la información esencial del proceso de plantación sea registrada de manera clara y concisa. Además, la tabla que almacena esta información les permite acceder rápidamente a los datos de plantaciones anteriores.
+
+Desde la pantalla principal de AgroControl, el usuario selecciona el campo en el que desea registrar la plantación. En la vista de ese campo, se presenta una opción en el menú o en las cards de acciones rápidas llamada "Create Planting".
+
+El formulario contiene los siguientes campos esenciales para el registro:
+
+- Fecha de inicio: Se especifica el inicio del proceso de plantación 
+- Semillas plantadas: Descripción de las semillas utilizadas
+- Cantidad: Especifica la cantidad utilizada para el proceso
+- Costo: Especifica el costo total del uso de las semillas
+- Workers: Ingresar los workers involucrados en el proceso
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/planting.png" />
+
+Video: https://t.ly/ZSkcb
+
+**Registro y visualizacion de trabajadores relacionados a los procesos del campo, en la tabla "Workers".**
+
+El manejo de los trabajadores es un aspecto clave en la gestión agrícola. AgroControl permite a los agricultores registrar a los trabajadores asignados a sus campos, ingresando información básica como el nombre, el teléfono, y el documento de identidad de cada trabajador.
+El sistema utiliza un enfoque jerárquico y secuencial para la gestión de los trabajadores. Los usuarios pueden registrar la información de sus trabajadores de manera sencilla y visualizarla en una tabla organizada, permitiendo tanto la actualización como la eliminación de registros.
+
+El formulario permite registrar los siguientes datos básicos de cada trabajador:
+
+- Nombre del trabajador.
+- Teléfono de contacto.
+- Documento de identidad.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/workers.png" />
+
+Video: https://shorturl.at/3LBmG  
 
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+La arquitectura de software basada en el dominio, un enfoque que centra el diseño y desarrollo del software en el conocimiento del dominio específico del negocio, se presenta en esta sección. Este método facilita la comunicación entre desarrolladores y expertos del dominio y permite la creación de sistemas más alineados con las necesidades y procesos comerciales. A continuación se presentan los diagramas y contextos delimitados que conforman la arquitectura de software de nuestro proyecto.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Context%20Diagram.png">
+### 4.6.1. Software Architecture Context Diagram.  
+El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Context%20Diagram.png">
    
 ### 4.6.2. Software Architecture Container Diagrams.
+Las aplicaciones web, las bases de datos, los microservicios y cómo se comunican entre sí se muestran en los diagramas de contenedores. Estos diagramas destacan las responsabilidades y las interacciones de cada contenedor, ofreciendo una visión general de la arquitectura del sistema.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Container%20Diagram.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Container%20Diagram.png">
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams.  
+Los diagramas de componentes de la arquitectura de software se presentan en esta sección. Estos diagramas muestran los diversos componentes del sistema, sus funciones y cómo interactúan entre sí.
 
 #### Login and Registration Bounded Context
 
@@ -1756,35 +1945,54 @@ https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png?raw=true">
 
 ## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png?raw=true" />
+El diseño orientado a objetos (OOD) organiza el software en torno a objetos que combinan datos y funciones. Basado en principios como la abstracción, encapsulamiento, herencia y polimorfismo, OOD facilita la creación de sistemas modulares, reutilizables y fáciles de mantener.  
+
+### 4.7.1. Class Diagrams.  
+Los diagramas de clases representan la estructura de un sistema orientado a objetos, mostrando clases, atributos, métodos y sus relaciones, facilitando la comprensión de la arquitectura del software.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" />
+
 ### 4.7.2. Class Dictionary.
-**User**
+
+**User**  
 Clase representa a los usuarios del sistema
-**Farmer**
+
+**Farmer**  
 Representa a los usuarios agricultores
-**Distributor**
+**Distributor**  
 Representa a los usuarios distribuidores
-**Field**
+
+**Field**  
 Representa la tierra de cultivo del usuario "Farmer"
-**IrrigationSchedule**
+
+**IrrigationSchedule**  
 Representa la funcion de horario de riego de un campo
-**FertilizationSchedule**
+
+**FertilizationSchedule**  
 Representa la funcion de horario de fertilizacion de un campo
-**FumigationSchedule**
+
+**FumigationSchedule**  
 Representa la funcion de horario de fumigación de un campo
-**Harvest**
+
+**Harvest**  
 Representa la cosecha realizada en un campo
-**Product**
+
+**Product**  
 Representa un producto disponible en la tienda de un distribuidor
-**Offer**
+
+**Offer**  
 Representa una oferta especial en la tienda de un distribuidor
-**Subscription**
+
+**Subscription**  
 Representa la suscripción de un usuario, que define el acceso a funcionalidades
-**UserFactory**
-Instancias para "Farmer" y "Distributor"
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+
+**UserFactory**  
+Instancias para "Farmer" y "Distributor"  
+
+## 4.8. Database Design.  
+### 4.8.1. Database Diagram.  
+Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
+
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" />
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -2197,3 +2405,7 @@ Ocupación: _____
 | Ayuda y documentación                         |            | {texto}   |
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+<img src="https://github.com/W3bW0rks/project-report/blob/261f90dde8168ef4f786df953f274babf2549f7f/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png" />
