@@ -507,94 +507,10 @@ Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo
 **Sabremos que** hemos tenido éxito **cuando** la tasa de abandono de la plataforma se reduzca a menos del 10% después del primer año.
 
 #### 1.2.2.4. Lean UX Canvas
-<TABLE BORDER>
-	<TR>
-		<TD ROWSPAN=2>
+En Lean UX Canvas facilitamos la colaboración y el enfoque en el usuario en el diseño de productos, permitiendo a nuestro equipo definir su visión, hipótesis y métricas de éxito de manera ágil.
 
-**Lean UX Canvas**
-</TD>
-	    	<TD ROWSPAN=2></TD> <TD>
-
-**Fecha: 26/08/2024** 
-
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-
-**Iteración 1**
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN>
-        
-**1. Problema de negocios:**  
-El desafío principal es la falta de herramientas accesibles y eficientes que ayuden a productores agrícolas y distribuidores a gestionar todas las etapas del ciclo productivo, ya que las soluciones actuales son complejas, costosas y no se adaptan bien a las necesidades de pequeños y medianos productores, generando ineficiencias y pérdidas en la optimización.
-
-</TD>
-	    	<TD ROWSPAN=2>
-
-**5. Ideas de solución:**  
-La solución propuesta es una plataforma tecnológica fácil de usar que ofrece funcionalidades específicas para cada etapa del ciclo agrícola, desde la siembra hasta la distribución. La plataforma permitirá a los usuarios registrar, programar y supervisar sus operaciones diarias, así como acceder a reportes y análisis que faciliten la toma de decisiones.
-</TD> <TD ROWSPAN=2>
-
-**2. Resultados comerciales:**  
-Los resultados comerciales esperados son una mayor adopción de la plataforma por pequeños y medianos productores, mejoras en la eficiencia operativa, reducción de costos y generación de ingresos mediante suscripciones premium y servicios adicionales.
-
-</TD> 
-	</TR>
-	<TR>
-		<TD >
-        
-**3. Usuarios y Clientes:**  
-Los principales usuarios son pequeños y medianos productores agrícolas que necesitan gestionar eficientemente sus cultivos y recursos, y distribuidores que buscan mejorar la planificación y control de sus operaciones.
-
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN=2>
-
-**6. Hipótesis**
-        
-***Creemos que*** al ofrecer funcionalidades personalizadas para cada etapa del ciclo agrícola, incrementaremos el uso diario de la plataforma.
-**Sabremos que** hemos tenido éxito **cuando** el 75% de los usuarios activos utilicen al menos tres funcionalidades diferentes en la primera semana.
-
-***Creemos que*** la integración de módulos de gestión financiera atraerá a más usuarios hacia las suscripciones premium.
-**Sabremos que** hemos tenido éxito **cuando** observemos un incremento del 25% en la conversión de usuarios a suscripciones premium en los primeros tres meses.
-
-***Creemos que*** un soporte técnico accesible y programas de formación mejorarán la retención de usuarios.
-**Sabremos que** hemos tenido éxito **cuando** la tasa de abandono se reduzca en un 15% durante el primer año.
-
-<TD ROWSPAN=2>
-
-**7. ¿Qué es lo más importante que debemos aprender primero?**  
-Lo más importante es conocer a fondo a los usuarios potenciales, entender sus objetivos, preferencias, comportamientos y los dispositivos móviles que utilizan. Además, es crucial definir claramente el modelo de negocio, incluyendo cómo se generarán ingresos (por ejemplo, mediante publicidad, suscripciones, etc.) y cómo diferenciarse de la competencia
-
-</TD> 
-
-<TD>
-
-**4. Beneficios del usuario:**  
-Los usuarios se beneficiarán de una herramienta centralizada que optimiza la planificación, monitoreo y administración de sus operaciones agrícolas y de distribución, mejorando la coordinación, la gestión financiera y logrando una producción más rentable y sostenible.
-
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-        
-**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
-
-- **Asistencia al usuario:**  
-Responder de manera rápida a las preguntas y consultas de los usuarios con el fin de asegurar una vivencia satisfactoria y retención.
-- **Descubrimiento de competidores:**  
-Realizar un análisis minucioso de las aplicaciones similares en el mercado con el fin de comprender las mejores prácticas y posibilidades de mejora.
-- **Evaluación de la idea:**  
-Realizar prototipos o pruebas de concepto con el fin de confirmar la idea antes de invertir en un desarrollo completo.
-- **Plan de Marketing Avanzado:**  
-Diseño de un plan de marketing sencillo para impulsar la aplicación, abarcando estrategias de redes sociales y relaciones públicas.
-</TD> 
-	</TR>
-</TABLE>
+<img src="./assets/chapter-1-images/LeanUXCanvas-1.png" width=600px/>
+<img src="./assets/chapter-1-images/LeanUXCanvas-2.png" width=600px/>
 
 ## 1.3. Segmentos Objetivo
 | **Tipo de usuario**   | **Geográfico**                                                                                                  | **Psicográfico**                                                                                      | **Demográfico**                                                                                                           |
