@@ -275,7 +275,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/W3bW0rks/project-report/blob/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -299,7 +299,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-        <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="sebastian-img"  style="margin-bottom: 5px;" width="150"/>
+        <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/main/assets/profileImages/Sebastian_Aiquipa.png" alt="sebastian-img"  style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
