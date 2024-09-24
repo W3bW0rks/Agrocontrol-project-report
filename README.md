@@ -2327,7 +2327,7 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2342,17 +2342,17 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 * GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
 * Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1">
 
-<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1">
 
-<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
@@ -2520,7 +2520,3 @@ Ocupación: _____
 | Ayuda y documentación                         |            | {texto}   |
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
-
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
-<img src="https://github.com/W3bW0rks/project-report/blob/261f90dde8168ef4f786df953f274babf2549f7f/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png" />
