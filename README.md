@@ -2224,7 +2224,6 @@ Configuraciones de donde y como deployeamos el proyecto
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 
-
 <table>
      <tr> 
         <th>  Sprint #  </th>
@@ -2286,7 +2285,7 @@ Configuraciones de donde y como deployeamos el proyecto
           <td> 11 <td>
       </tr>
 
-  </table>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -2355,6 +2354,122 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 <img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+En el siguiente apartado, se presentará el sprint planning 2, donde se mostrará la planificación e implementación del web application. Asimismo, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 20/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Webworks <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Zavala Quedena, Gonzalo Andre
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+          Principe Godoy, Johan
+          <br>
+          Espino Flores, Alejandro
+          <br>
+	        Aiquipa Poma, Sebastian Andres
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Se logró implementar el landing page y se desplegó en Vercel<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> 
+          En este sprint como equipo logramos desplegar la landing page de forma adecuada  debido a la correcta division de 
+          tareas y el cumplimiento de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
+          los objetivos para el sprint 2.
+        <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td> 
+            En este sprint se planea desarrollar el web application con el framework Angular, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link 
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td> 11 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 30 <td>
+      </tr>
+
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
+![Tablero Trello Sprint Backlog 2](https://imgur.com/qDSnzzw.jpg)
+Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">USer Story</td><td colspan="6" valign="top">Work-item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / in Process / To - Review / (Done) )</td></tr>
+<tr><td colspan="1" valign="top">E2-US102</td><td colspan="1" valign="top">Formulario de login</td><td colspan="1" valign="top">T1</td><td colspan="1" valign="top">Interfaz de usuario del inicio de sesión de cuentas</td><td colspan="1" valign="top">Implementar interfaz de los formularios para inicio de sesión tanto para productores agricolas y distribuidores</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombres</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US101</td><td colspan="1" rowspan="2" valign="top">Crear campos de cultivo</td><td colspan="1" valign="top">T2</td><td colspan="1" valign="top">Formulario crear campo de cultivo</td><td colspan="1" valign="top">Implementar interfaz del formulario que permita la creación del campo de cultivo</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T3</td><td colspan="1" valign="top">Interfaz del campo de cultivo</td><td colspan="1" valign="top">Implementar interfaz para poder visualizar todos los campos que ha creado el producto agricola</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">E3-US102</td><td colspan="1" valign="top">Barra de navegación del productor agricola</td><td colspan="1" valign="top">T4</td><td colspan="1" valign="top">Toolbar de navegación del productor agricola</td><td colspan="1" valign="top">Implementar una interfaz que permita la navegación dentro del web application para los productores agricolas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top"><p></p><p>E3-US103</p></td><td colspan="1" rowspan="2" valign="top">Pantalla de inicio del proceso agricola</td><td colspan="1" valign="top">T5</td><td colspan="1" valign="top">Pantalla de inicio del proceso agricola</td><td colspan="1" valign="top">Implementar interfaz de la planteacion y procesos agricolas que ha implementado el usuario</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T6</td><td colspan="1" valign="top">Formulario de planteacion</td><td colspan="1" valign="top">Implementar interfaz del formulario para poder registrar la semilla que se siembra</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US104</td><td colspan="1" rowspan="2" valign="top">Programacion de fecha de riego de cultivos </td><td colspan="1" valign="top">T7</td><td colspan="1" valign="top">Formulario de Riego</td><td colspan="1" valign="top">Implementar una interfaz de formulario que permite crear las fechas de riego</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T8</td><td colspan="1" valign="top">Lista de fechas de riego</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todas las fechas de riego creadas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US106</td><td colspan="1" rowspan="2" valign="top">Programacion de fechas de tratamiento</td><td colspan="1" valign="top">T9</td><td colspan="1" valign="top">Formulario de Tratamiento</td><td colspan="1" valign="top">Implementar una interfaz de formulario que permita crear fechas de tratamiento</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T10</td><td colspan="1" valign="top">Lista de fechas de tratamiento</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todas las fechas de tratamiento creados</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US107</td><td colspan="1" rowspan="2" valign="top">Proceso de recolección de la cosecha</td><td colspan="1" valign="top">T11</td><td colspan="1" valign="top">Interfaz de fecha de cosecha</td><td colspan="1" valign="top">Implementar una opción en la lista que permita crear fechas de cosechas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombres</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T12</td><td colspan="1" valign="top">Lista de fechas cosechas</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todas las fechas de cosecha creadas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US108</td><td colspan="1" rowspan="2" valign="top">Proceso de análisis financiero de los cultivos</td><td colspan="1" valign="top">T13</td><td colspan="1" valign="top">Formulario de finanzas</td><td colspan="1" valign="top">Implementar una opcion en las lista que permita crear datos financieros</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombres</td><td colspan="1" valign="top">estados</td></tr>
+<tr><td colspan="1" valign="top">T14</td><td colspan="1" valign="top">Lista de datos financieros</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todos los datos financieros creados</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="6" valign="top">E5-US101</td><td colspan="1" rowspan="6" valign="top">Preferencia de idioma</td><td colspan="1" valign="top">T15</td><td colspan="1" valign="top">Opción Ingles-Español en pantallas de crear campos de cultivos</td><td colspan="1" valign="top">Implementar i18n para las pantallas de la creacion de campos de cultivos</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T16</td><td colspan="1" valign="top">Opcion Ingles-Español en pantalla de inicio de proceso agricolas</td><td colspan="1" valign="top">Implementar i18n para las pantallas de inicio de los proceso agricolas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T17</td><td colspan="1" valign="top">Opcion Ingles-Español en pantallas de programación de fechas de riego</td><td colspan="1" valign="top">Implementar i18n para las pantallas de programación de fechas de riego</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T18</td><td colspan="1" valign="top">Opcion Ingles-Español en pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">Implementar i18n para las pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T19</td><td colspan="1" valign="top">Opcion Ingles-Español en pantallas de programación de finanzas</td><td colspan="1" valign="top">Implementar i18n para las pantallas de finanzas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T20</td><td colspan="1" valign="top">Opcion Ingles-Español en la barra de navegación de los productores agricolas</td><td colspan="1" valign="top">Implementar i18n para la barra de navegacion de los productores agricolas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="1" valign="top">E5-US102</td><td colspan="1" rowspan="1" valign="top">Página no encontrada</td><td colspan="1" valign="top">T21</td><td colspan="1" valign="top">Interfaz de error 404</td><td colspan="1" valign="top">Implementar una interfaz de error 404 cuando se accede a un link inexistente o incorrecto</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="7"  valign="top">E6-US101</td><td colspan="1" rowspan="7" valign="top">Crear API Fake</td><td colspan="1" valign="top">T22</td><td colspan="1" valign="top">Informacion del API Fake</td><td colspan="1" valign="top">Implementar en la API fake informacion que se adecue a la base de datos</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T23</td><td colspan="1" valign="top">API fake en pantallas de crear campos de cultivos</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de crear campos de cultivos</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T24</td><td colspan="1" valign="top">API fake en pantallas de inicio del proceso agricola</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de inicio del proceso agricola</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T25</td><td colspan="1" valign="top">API fake en pantallas de programacion de fechas de riego</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de programacion de fechas de riego</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T26</td><td colspan="1" valign="top">API fake en pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T27</td><td colspan="1" valign="top">API fake en pantallas de programación de fechas de cultivo</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de programación de fechas de cultivo</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T28</td><td colspan="1" valign="top">API fake en pantallas de finanzas</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de finanzas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
