@@ -12,14 +12,14 @@
 
 
 # Registro de Versiones del Informe
-| Version | Fecha      | Autor                                      | Descripcion de Modificacion                                                                                                                                 |
-|---------|------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.0.1   | 17/09/2024 | Gonzalo Quedena                            | Agregado del capítulo 1 apartado<br>1.1 - 1.2 - 1.3                                                                                                         |
-| 0.0.2   | 21/09/2024 | Johan Príncipe                             | Agregado del capítulo 2 apartado<br>2.1 - 2.2 - 2.3                                                                                                         |
-| 0.0.3   | 24/09/2024 | André Alonso                               | Agregado del capítulo 3 apartado<br>3.1 - 3.2 - 3.3 - 3.4                                                                                                   |
-| 0.0.4   | 26/09/2024 | Sebastián Aiquipa<br>Alejandro Espino | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
-| 0.0.5   | 22/09/2024 | Gonzalo Quedena<br>André Alonso<br>Sebastián Aiquipa<br>Johan Príncipe<br>Alejandro Espino | Agregado de introducción de capítulos 1<br>2, 3, 4 & sus secciones derivadas | 
-| 0.0.6   | 23/09/2024 | Gonzalo Quedena | Unión de los capítulos 1, 2, 3, 4, 5 y sus<br>secciones respectivas
+| Version | Fecha      | Autor                                                                                      | Descripcion de Modificacion                                                                                                                                 |
+|---------|------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.0.1   | 17/09/2024 | Gonzalo Quedena                                                                            | Agregado del capítulo 1 apartado<br>1.1 - 1.2 - 1.3                                                                                                         |
+| 0.0.2   | 21/09/2024 | Johan Príncipe                                                                             | Agregado del capítulo 2 apartado<br>2.1 - 2.2 - 2.3                                                                                                         |
+| 0.0.3   | 24/09/2024 | André Alonso                                                                               | Agregado del capítulo 3 apartado<br>3.1 - 3.2 - 3.3 - 3.4                                                                                                   |
+| 0.0.4   | 26/09/2024 | Sebastián Aiquipa<br>Alejandro Espino                                                      | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
+| 0.0.5   | 22/09/2024 | Gonzalo Quedena<br>André Alonso<br>Sebastián Aiquipa<br>Johan Príncipe<br>Alejandro Espino | Agregado de introducción de capítulos 1<br>2, 3, 4 & sus secciones derivadas                                                                                | 
+| 0.0.6   | 23/09/2024 | Gonzalo Quedena                                                                            | Unión de los capítulos 1, 2, 3, 4, 5 y sus<br>secciones respectivas                                                                                         |
 
 # Project Report Collaboration Insights
 URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
