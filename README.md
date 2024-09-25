@@ -2375,7 +2375,8 @@ Aplicación Web desplegada luego de ser subida a nuestro hosting
 <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image.png"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-A continuación, se presenta la documentación de los servicios utilizados. En esta oportunidad se ha usado el api de Fake (https://localhost:3000/api/v1) para obtener los datos necesarios para verificar el funcionamiento de la aplicación web.
+A continuación, se presenta la documentación de los servicios utilizados. En esta oportunidad se ha usado el api Fake (https://localhost:3000/api/v1) para obtener los datos necesarios para verificar el funcionamiento de la aplicación web.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/evidence.png"/>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
