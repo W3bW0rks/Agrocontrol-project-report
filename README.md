@@ -2,7 +2,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
@@ -12,17 +12,20 @@
 
 
 # Registro de Versiones del Informe
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0.1 | 17/09/2024 | Gonzalo Quedena | Agregado del capítulo 1 apartado<br>1.1 - 1.2 - 1.3 |
-| 0.0.2 | 21/09/2024 | Johan Príncipe | Agregado del capítulo 2 apartado<br>2.1 - 2.2 - 2.3|
-| 0.0.3 | 24/09/2024 | André Alonso | Agregado del capítulo 3 apartado<br>3.1 - 3.2 - 3.3 - 3.4 |
-| 0.0.4 | 26/09/2024 | Sebastián Aiquipa<br>&<br>Alejandro Espino | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
+| Version | Fecha      | Autor                                                                                      | Descripcion de Modificacion                                                                                                                                 |
+|---------|------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.0.1   | 17/09/2024 | Gonzalo Quedena                                                                            | Agregado del capítulo 1 apartado<br>1.1 - 1.2 - 1.3                                                                                                         |
+| 0.0.2   | 21/09/2024 | Johan Príncipe                                                                             | Agregado del capítulo 2 apartado<br>2.1 - 2.2 - 2.3                                                                                                         |
+| 0.0.3   | 24/09/2024 | André Alonso                                                                               | Agregado del capítulo 3 apartado<br>3.1 - 3.2 - 3.3 - 3.4                                                                                                   |
+| 0.0.4   | 26/09/2024 | Sebastián Aiquipa<br>Alejandro Espino                                                      | Agregado del capítulo 4 apartado<br> 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 <br>capítulo 5 apartado 5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
+| 0.0.5   | 22/09/2024 | Gonzalo Quedena<br>André Alonso<br>Sebastián Aiquipa<br>Johan Príncipe<br>Alejandro Espino | Agregado de introducción de capítulos 1<br>2, 3, 4 & sus secciones derivadas                                                                                | 
+| 0.0.6   | 23/09/2024 | Gonzalo Quedena                                                                            | Unión de los capítulos 1, 2, 3, 4, 5 y sus<br>secciones respectivas                                                                                         |
 
 # Project Report Collaboration Insights
 Link de la organizacion: https://github.com/orgs/W3bW0rks/repositories  
 Link del reporte: https://github.com/W3bW0rks/project-report  
 Link Landing Page: https://agrocontrol-landing-page.vercel.app/index.html  
+URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
 
 Reporte de la elaboracion de la TB1te la TB1
 * Los contenidos asignados a cada miembro fueron redactados y organizados en formato Markdown, y se realizaron commits para asegurar el avance en el repositorio.
@@ -34,42 +37,52 @@ Reporte de la elaboracion de la TB1te la TB1
 <br/>
 
 # Student Outcome
-El curso contribuye al cumplimiento del **Student Outcome ABET: ABET – EAC - Student Outcome 3** Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+<table>
+  <thead>
+    <tr>
+      <th>Criterio Específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
+      <td>
+        <strong>Gonzalo Quedena:</strong><br>
+        <em>TB1:</em> Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios y el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto.<br><br>
+        <strong>Johan Príncipe:</strong><br>
+        <em>TB1:</em> Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos. Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto.<br><br>
+	<em>TP:</em> Al diseñar e implementar formularios y vistas del proyecto, presenté informes claros que destacan los avances de este. Durante reuniones de seguimiento, fomente la retroalimentación, asegurando que mis compañeros entiendan la importancia de cada componente, para fortalecer colaboración y el compromiso con los objetivos del proyecto.<br><br>
+        <strong>Sebastián Aiquipa:</strong><br>
+        <em>TB1:</em> Para la presente entrega se diseño y definio los estilos a llevar para la elaboracion del producto. Se busco que la interaccion del usuario con la plataforma sea clara e intuitiva, facilitando el uso de las funcionalidades que se ofrece. Tambien, se represento los diferentes flujos que llegara a realizar el usuario, beneficiando al entendimiento de las relaciones entre los wireframes y  mockups.<br><br>
+        <strong>André Arroyo:</strong><br>
+        <em>TB1:</em> Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas C4 del capítulo 4, y en el capítulo 5 se elaboraron los apartados 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1.<br><br>
+        <strong>Alejandro Espino Flores:</strong><br>
+        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional. Estos diseños siguen las directrices del Capítulo IV: "Product Design", incluyendo guías de estilo y una sólida arquitectura de la información.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
+      <td>
+        <strong>Gonzalo Quedena:</strong><br>
+        <em>TB1:</em> Para esta entrega, se analizaron las necesidades de los segmentos de productores agrícolas y distribuidores mediante entrevistas. También se aplicó un diseño UX/UI adecuado, y se realizó un análisis exhaustivo de la competencia para identificar cómo nuestro sistema de gestión agrícola puede diferenciarse.<br><br>
+        <strong>Johan Príncipe:</strong><br>
+        <em>TB1:</em> Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación.<br><br>
+	<em>TB1:</em> Redacté los informes de progreso sobre el diseño de formularios y vistas, presenté las mejoras del proyecto para que sean comprensibles. Esto facilita la toma de decisiones y asegura que todos estén alineados con los objetivos del proyecto.<br><br>
+        <strong>Sebastián Aiquipa:</strong><br>
+        <em>TB1:</em> Para esta entrega se desarrollo los diferentes diseños UI/UX de la plataforma. Se considero las principales necesidades del usuario. Para el diseño, se busco uno atractivo y coherente, además de funcional e intuitivo, facilitando la interaccion del usuario con las diferentes funcionalidades que ofrece la plataforma. <br><br>
+        <strong>André Arroyo:</strong><br>
+        <em>TB1:</em> Para esta entrega me dediqué al desarrollo del capítulo 3, que nos permitió comprender mejor a nuestros segmentos objetivos y obtener los requerimientos de software. Elaboré los diagramas C4 para entender el backend, y documenté las tecnologías usadas en el proyecto, así como la elaboración de la landing page.<br><br>
+        <strong>Alejandro Espino Flores:</strong><br>
+        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional que sigue las pautas de diseño y arquitectura de la información.
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-<table border="1">
-  <tr>
-    <th>Criterio Especifico</th>
-    <th>Acciones Realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td>
-    Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería
-    </td>
-    <td>
-    Gonzalo Quedena:<br> TB1: Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios, el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto. <br>TP: El equipo transformó los diseños en interfaces funcionales y atractivas, aplicando prácticas de desarrollo front-end con Angular y siguiendo convenciones de Domain-Driven Design. Se logró una integración eficiente entre diseño y funcionalidad, garantizando una experiencia de usuario coherente. La comunicación constante permitió resolver desafíos técnicos y cumplir con los objetivos del proyecto. 
-	<br><br>
-	Johan Principe:<br> TB1: Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos. Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto. 
-	<br><br>
-	Sebastian Aiquipa:<br> TB1: Se desarrollo el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También el flow de cada funcionalidad, detallando la interacción y navegación del usuario para garantizar una experiencia intuitiva y eficiente.<br>Andre Arroyo:<br>TB1: Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas c4 del capitulo 4, y en el capituo V se elaboro el 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1
-    <br> 
-    </td>
-    <td>Su texto de conclusion</td>
-  </tr>
-  <tr>
-    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
-    <td>Gonzalo Quedena:<br> TB1: Para esta entrega, se analizaron las necesidades de los segmentos de productores agricolas y distribuidores mediante la realización y análisis de entrevistas. Además, se aplicó un diseño UX/UI adecuado asegurando una experiencia óptima para todos los usuarios. Asimismo, se llevó a cabo un análisis exhaustivo de la competencia, con el fin de identificar cómo nuestro sistema de gestión del ciclo agrícola puede diferenciarse, tomando en cuenta los antecedentes y desafíos relacionados con la optimización de las actividades agrícolas, desde la siembra hasta la distribución.<br>  TP: En esta fase del proyecto, desarrollamos los componentes del frontend de la aplicación web, permitiendo a los usuarios visualizar historias organizadas por género y acceder a perfiles detallados de cada historia publicada. Este avance asegura una experiencia de usuario intuitiva, facilitando el acceso a la información de manera eficiente.
-	<br/><br/>
-    Johan Principe:<br> TB1: Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación. Los resultados del User Task Matrix y otros mapas se presentaron de manera clara, facilitando la toma de decisiones basada en las necesidades de los usuarios. 
-	<br/><br/>
-	Sebastian Aiquipa:<br> TB1: Desarrolle los wireframes y mock-ups del proyecto para Landing Page y Web Application. Durante su elaboración del documento, los diferentes elementos necesarios para elaborar los diseños. Pero con el principal objetivo de mantener un orden y tener claro las caracteristicas y modelos que tiene que seguir el equipo.
-	<br/><br/>
-	André Arroyo:<br>TB1: Para esta entrega me dediqué al desarrollo del capítulo 3 el cual es muy importante, ya que al comprender mejor a nuestros segmentos objetivos podemos elaborar las soluciones que satisfagan sus necesidades, por lo tanto, obtenemos los requerimientos de nuestro software. La elaboración de los diagramas c4 nos sirve para comprender de mejor manera como se desarrollara el sistema de backend y en el capitulo 5 nos dedicamos a documentar las tecnologías usadas en el trabajo, asi como documentar la elaboración de nuestra landing page.</td>
-    <td>Su texto de conclusion</td>
-  </tr>
-</table>  
-
-<br/>
 
 # Contenido
 
@@ -276,7 +289,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/W3bW0rks/project-report/blob/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/c4163b07fd302eef37d2618020038e748738b10e/assets/profileImages/alejandro-espino-profile.jpeg" alt="" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -300,7 +313,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-        <img src="https://github.com/W3bW0rks/project-report/blob/1191014085f8659a8bbda5b752d38b1c24b59f20/assets/profileImages/Sebastian_Aiquipa.png" alt=""  style="margin-bottom: 5px;" width="600"/>
+        <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/main/assets/profileImages/Sebastian_Aiquipa.png" alt="sebastian-img"  style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -319,7 +332,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Estudio en la carrera de Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicacion y el aprendizaje constante son las claves que me permitiran progresar.  
+        Soy estudiante de la carrera Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente aprendiendo Java. Considero que lo mas importante es la comunicacion, el apoyo en mis compañeros. Estoy comprometido a seguir aprendiendo y progresar en mi carrera profesional. 
         </td>
     </tr>
     <tr align="center">
@@ -443,25 +456,24 @@ Tenemos como objetivo generar impactos comerciales positivos para los productore
 * Reducción de costos operativos para agricultores mediante una mejor planificación.
 * Mejora en la satisfacción de los usuarios al ofrecer una solución accesible y fácil de usar.
 
-#### Users
+#### Business Assumptions
+Suponemos que los usuarios adoptarán tecnología digital, que habrá un mercado en crecimiento y que la conectividad será accesible para todos los usuarios.
+* Adaptación a la tecnología de los productores agrícolas y distribuidores para mejorar sus operaciones.
+* Crecimiento de mercado con una creciente demanda de herramientas de gestión agrícola, debido a la presión por ser más eficientes y sostenibles.
+* La solución será escalable para diferentes tipos de productores y distribuidores, desde pequeñas granjas hasta grandes operaciones agrícolas.
 
-###### Productores agrícolas  
-Necesitan optimizar sus operaciones y obtener  mayor control sobre los recursos y las finanzas.
-
-
-###### Distribuidores  
-Buscan mejorar la trazabilidad y la eficiencia en la distribución de productos.
-
-#### User Outcomes & Benefits
+#### User Outcomes
 ###### Productores agrícolas: 
-Aumento en la eficiencia del uso de recursos, reducción de costos, mayor control sobre las operaciones diarias y una mejor visibilidad de las finanzas agrícolas.
+* Aumento en la eficiencia del uso de recursos, reducción de costos, mayor control sobre las operaciones diarias y una mejor visibilidad de las finanzas agrícolas.
 
 ###### Distribuidores: 
-Mejora en la logística de entregay  reducción de errores en la distribución.
+* Mejora en la logística de entrega y  reducción de errores en la distribución.
 
 #### User assumptions
-#### ¿Quién es el usuario?
-El usuario principal de nuestro producto es el productor agrícola que se enfrenta a dificultades para gestionar el ciclo productivo de manera eficiente. Este productor puede ser de pequeña, mediana o gran escala. También tenemos como usuarios a los distribuidores, quienes buscan mejorar la logística y el control de productos a lo largo de la cadena de suministro.
+* Los usuarios (productores y distribuidores) estarán dispuestos a adoptar herramientas digitales, a pesar de la posible falta de familiaridad inicial.
+* La mayoría de los productores y distribuidores tendrán acceso a dispositivos móviles o computadoras con conectividad a internet.
+* Los usuarios estarán interesados en invertir tiempo y esfuerzo en aprender y usar la plataforma si perciben que los beneficios a largo plazo superan la inversión inicial.
+* Los usuarios buscarán reducir costos y optimizar recursos, por lo que la plataforma se verá como una solución viable para mejorar sus operaciones.
 
 #### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
 Se integra directamente en las operaciones diarias de los productores y distribuidores. Para los productores, facilita la planificación, monitoreo y administración de sus recursos y cultivos. Para los distribuidores, nuestro producto se convierte en una herramienta clave para mejorar la logística, asegurando una cadena de suministro más eficiente.
@@ -479,19 +491,6 @@ Nuestro producto es utilizado durante todo el ciclo agrícola, desde la planific
 
 #### ¿Cómo debería verse y comportarse nuestro producto?
 Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo que los usuarios naveguen sin dificultad entre las distintas funcionalidades. La interfaz debe ser limpia, con accesos directos a las tareas más comunes como la programación de riego, seguimiento de recursos y control de distribución.
-
-
-#### Business Assumptions
-1. **Creemos que nuestros clientes necesitan** una solución integral que les permita gestionar de manera eficiente todas las etapas del ciclo agrícola, desde la siembra hasta la distribución.
-2. **Estas necesidades se pueden resolver con una**  plataforma tecnológica que brinde herramientas para la planificación, monitoreo de recursos y gestión financiera en tiempo real.
-3. **El valor #1 que mi cliente quiere de mi servicio** es la capacidad de reducir costos operativos y aumentar la eficiencia en la producción y distribución agrícola.
-4. **El cliente también puede obtener beneficios adicionales como** una mejor toma de decisiones basada en datos y una mayor sostenibilidad en sus operaciones.
-5. **Voy a adquirir la mayoría de mis clientes** a través de estrategias de marketing digital, asociaciones con cooperativas agrícolas.
-6. **Haré dinero a través de**  la venta de suscripciones a la plataforma.
-7. **Mi competencia principal en el mercado** son las soluciones tecnológicas existentes que ofrecen gestión agrícola.
-8. **Los venceremos debido a la simplicidad** de nuestra plataforma, que se adapta a las necesidades de los productores y distribuidores sin comprometer funcionalidad.
-9. **El mayor riesgo es que** uestros usuarios no adopten la plataforma debido a la falta de familiaridad con herramientas tecnológicas.
-10. **Resolveremos esto a través de** un diseño intuitivo y programas de formación que guíen a los usuarios en la adopción de la plataforma y demuestren el valor agregado de la solución.
     
 #### 1.2.2.4. Lean UX Hypothesis Statements
 ### Hipótesis 1:
@@ -520,94 +519,10 @@ Nuestro producto debe tener una interfaz intuitiva y fácil de usar, permitiendo
 **Sabremos que** hemos tenido éxito **cuando** la tasa de abandono de la plataforma se reduzca a menos del 10% después del primer año.
 
 #### 1.2.2.4. Lean UX Canvas
-<TABLE BORDER>
-	<TR>
-		<TD ROWSPAN=2>
+En Lean UX Canvas facilitamos la colaboración y el enfoque en el usuario en el diseño de productos, permitiendo a nuestro equipo definir su visión, hipótesis y métricas de éxito de manera ágil.
 
-**Lean UX Canvas**
-</TD>
-	    	<TD ROWSPAN=2></TD> <TD>
-
-**Fecha: 26/08/2024** 
-
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-
-**Iteración 1**
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN>
-        
-**1. Problema de negocios:**  
-El desafío principal es la falta de herramientas accesibles y eficientes que ayuden a productores agrícolas y distribuidores a gestionar todas las etapas del ciclo productivo, ya que las soluciones actuales son complejas, costosas y no se adaptan bien a las necesidades de pequeños y medianos productores, generando ineficiencias y pérdidas en la optimización.
-
-</TD>
-	    	<TD ROWSPAN=2>
-
-**5. Ideas de solución:**  
-La solución propuesta es una plataforma tecnológica fácil de usar que ofrece funcionalidades específicas para cada etapa del ciclo agrícola, desde la siembra hasta la distribución. La plataforma permitirá a los usuarios registrar, programar y supervisar sus operaciones diarias, así como acceder a reportes y análisis que faciliten la toma de decisiones.
-</TD> <TD ROWSPAN=2>
-
-**2. Resultados comerciales:**  
-Los resultados comerciales esperados son una mayor adopción de la plataforma por pequeños y medianos productores, mejoras en la eficiencia operativa, reducción de costos y generación de ingresos mediante suscripciones premium y servicios adicionales.
-
-</TD> 
-	</TR>
-	<TR>
-		<TD >
-        
-**3. Usuarios y Clientes:**  
-Los principales usuarios son pequeños y medianos productores agrícolas que necesitan gestionar eficientemente sus cultivos y recursos, y distribuidores que buscan mejorar la planificación y control de sus operaciones.
-
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN=2>
-
-**6. Hipótesis**
-        
-***Creemos que*** al ofrecer funcionalidades personalizadas para cada etapa del ciclo agrícola, incrementaremos el uso diario de la plataforma.
-**Sabremos que** hemos tenido éxito **cuando** el 75% de los usuarios activos utilicen al menos tres funcionalidades diferentes en la primera semana.
-
-***Creemos que*** la integración de módulos de gestión financiera atraerá a más usuarios hacia las suscripciones premium.
-**Sabremos que** hemos tenido éxito **cuando** observemos un incremento del 25% en la conversión de usuarios a suscripciones premium en los primeros tres meses.
-
-***Creemos que*** un soporte técnico accesible y programas de formación mejorarán la retención de usuarios.
-**Sabremos que** hemos tenido éxito **cuando** la tasa de abandono se reduzca en un 15% durante el primer año.
-
-<TD ROWSPAN=2>
-
-**7. ¿Qué es lo más importante que debemos aprender primero?**  
-Lo más importante es conocer a fondo a los usuarios potenciales, entender sus objetivos, preferencias, comportamientos y los dispositivos móviles que utilizan. Además, es crucial definir claramente el modelo de negocio, incluyendo cómo se generarán ingresos (por ejemplo, mediante publicidad, suscripciones, etc.) y cómo diferenciarse de la competencia
-
-</TD> 
-
-<TD>
-
-**4. Beneficios del usuario:**  
-Los usuarios se beneficiarán de una herramienta centralizada que optimiza la planificación, monitoreo y administración de sus operaciones agrícolas y de distribución, mejorando la coordinación, la gestión financiera y logrando una producción más rentable y sostenible.
-
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-        
-**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
-
-- **Asistencia al usuario:**  
-Responder de manera rápida a las preguntas y consultas de los usuarios con el fin de asegurar una vivencia satisfactoria y retención.
-- **Descubrimiento de competidores:**  
-Realizar un análisis minucioso de las aplicaciones similares en el mercado con el fin de comprender las mejores prácticas y posibilidades de mejora.
-- **Evaluación de la idea:**  
-Realizar prototipos o pruebas de concepto con el fin de confirmar la idea antes de invertir en un desarrollo completo.
-- **Plan de Marketing Avanzado:**  
-Diseño de un plan de marketing sencillo para impulsar la aplicación, abarcando estrategias de redes sociales y relaciones públicas.
-</TD> 
-	</TR>
-</TABLE>
+<img src="./assets/chapter-1-images/LeanUXCanvas-1.png" width=600px/>
+<img src="./assets/chapter-1-images/LeanUXCanvas-2.png" width=600px/>
 
 ## 1.3. Segmentos Objetivo
 | **Tipo de usuario**   | **Geográfico**                                                                                                  | **Psicográfico**                                                                                      | **Demográfico**                                                                                                           |
@@ -621,7 +536,7 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
 1. **Bushel Farm:**
    Bushel Farm es una plataforma que permite a los productores agricolas gestionar y optimizar sus operaciones agrícolas mediante el seguimiento del clima, monitoreo de rendimiento de cultivos y análisis de datos históricos. Es utilizada principalmente por productores agricolas que buscan mejorar la eficiencia en sus campos a través de herramientas digitales que les ayuden en la toma de decisiones informadas.
 <div style="text-align: center;">
-    <img src="https://github.com/W3bW0rks/Project-Report/blob/419210a93357f33740f115b3fe0a6cb0ae90462f/assets/chapter-2-images/bushel-farm-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
+    <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/feature/chapter-2/assets/chapter-2-images/bushel-farm-logo.png" alt="FarmLogs" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Trimble Ag Software:**
@@ -658,8 +573,8 @@ Agroptima es una aplicación diseñada para facilitar la gestión de las activid
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Bushel Farm
-    <div style="text-align: center; margin-top: 60px;">
-                <img src="https://github.com/W3bW0rks/Project-Report/blob/419210a93357f33740f115b3fe0a6cb0ae90462f/assets/chapter-2-images/bushel-farm-logo.png" alt="Bushel Farm" width="80px">
+    <div style="text-align: center; margin-top: 20px;">
+                <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/feature/chapter-2/assets/chapter-2-images/bushel-farm-logo.png" alt="Bushel Farm" width="80px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
@@ -788,6 +703,8 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 2. ¿Qué edad tienes?
 3. ¿Dónde vives actualmente?
 4. ¿A qué te dedicas?
+5. ¿Cual es el navegador (browser) que más usas?
+6. ¿Cual es el dispositivo que más usas?
 
 **Preguntas Segmento 1: Productores Agricolas**
 
@@ -817,7 +734,7 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 
 ### 2.2.2 Registro de entrevistas.
 
-Link Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014511_upc_edu_pe/EdjMJEudvlRHlvfapTZbqN0BDSyNgvd7Wya6TP0Da6ylyQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HIriyZ
+Link Entrevistas: https://shorturl.at/Nxe2d
 
 **Segmento Productor Agricola:**
 
@@ -838,7 +755,16 @@ Evidencia de la entrevista:
 Timing Entrevista: 00:05 - 06:30
 
 Resumen de la entrevista:
-El señor Isidro nos comenta que algunos de los principales desafíos que enfrenta en la gestión de sus campos de cultivos son llevar un control detallado de las diferentes etapas, gestionar las fechas de fumigación y mantenimiento de los insumos. También informa que actualmente la herramienta que usa para guardar la información que usa es un cuaderno y que le gustaría usar la tecnología para esta tarea. Actualmente, usa herramientas como máquinarias, mochilas a motor, entre otros para la gestión agrícola. Finalmente, comentó que para poder tomar mejores decisiones desearía recibir informes detallados sobre los diferentes campos de cultivo.
+El señor Isidro Principe Ramirez, un productor agrícola de 65 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la gestión de sus cultivos. Señaló que uno de los mayores retos es mantener un control preciso de las distintas etapas del proceso agrícola, como las fechas de fumigación y el manejo de los insumos. Actualmente, utiliza un cuaderno para registrar esta información, pero expresó interés en adoptar soluciones tecnológicas que le ayuden a optimizar esta tarea.
+
+Además, comentó que utiliza diversas herramientas agrícolas, como mochilas a motor y otras maquinarias, para el manejo de sus campos. En cuanto a la toma de decisiones, manifestó que le gustaría recibir informes detallados sobre el estado de sus cultivos para poder hacer un mejor seguimiento y planificar de manera más eficiente.
+
+Características observadas:
+
+Personalidad: Proactivo, con disposición hacia el uso de tecnología para mejorar sus procesos.
+Influencias: Limitado uso de herramientas tecnológicas, pero abierto al cambio.
+Canales de interacción: Actualmente utiliza herramientas manuales, pero con interés en digitalización.
+Dispositivos: Sin mención específica de dispositivos, pero se podría inferir que es usuario potencial de software en dispositivos móviles.
 
 **Entrevista 2:**
 
@@ -857,31 +783,32 @@ Evidencia de la entrevista:
 Timing Entrevista: 06:31 - 13:51
 
 Resumen de la entrevista:
-El señor Fidel nos comenta actualmente el desafío más significativo que enfrenta en su gestión agrícola es el registro de las operaciones y gastos durante esta. Nos informa que hace uso de Excel para llevar un control, pero esta herramienta no suele ser muy efectiva. También, comentó que le gustaría mejorar en el tipo de riego para sus cultivos y que las herramientas tecnológicas para obtener una mejor cosecha. Finalmente, explicó que un saber sobre el clima, calidad del suelo y otros factores serían importantes que la aplicación le informe y tomar mejores decisiones para sus cultivos.
+El señor Fidel Godoy Zevallos, un productor agrícola de 60 años de Lima, Perú, compartió que su desafío más significativo en la gestión agrícola es el registro de operaciones y gastos. Aunque utiliza Excel para este propósito, considera que esta herramienta no es muy efectiva.
 
-**Entrevista 3:**
+Se mostró interesado en mejorar el sistema de riego para sus cultivos y en utilizar herramientas tecnológicas que faciliten una mejor cosecha. Además, enfatizó la importancia de recibir información sobre el clima, la calidad del suelo y otros factores relevantes para tomar decisiones informadas en la gestión de sus cultivos.
 
-Nombres: Elizabeth 
+Características observadas:
 
-Apellidos: Caro
-
-Edad: 59 años
-
-Lugar de residencia: Caserio Lujaraja | Ica Perú
-
-Evidencia de la entrevista:
-
-<img src="https://github.com/W3bW0rks/project-report/blob/feature/chapter-2/assets/Chapter-2/ProductorAgricula-ElizabethCaro.png?raw=true" alt="evidence-of-interview">
-
-Timing Entrevista: 13:52 - 22:39
+Personalidad: Reflexivo, con interés en la mejora continua de su gestión agrícola.
+Influencias: Uso limitado de herramientas tecnológicas, busca alternativas más eficientes.
+Canales de interacción: Principalmente herramientas manuales, con apertura hacia la digitalización.
+Dispositivos: Sin mención específica de dispositivos, pero potencialmente un usuario de software agrícola en dispositivos móviles.
 
 Resumen de la entrevista:
-La entrevista se ha realizado a la productora agrícola Elizabeth Caro de 59 años que enfrenta varios desafíos en la gestión de sus campos de cultivo, siendo el más significativo la irregularidad en la entrega de agua para el riego, tanto por parte de las autoridades como en años de sequía. En cuanto a las herramientas, emplea principalmente mano de obra para tareas como el sembrado, limpieza, arado, mantenimiento y cosecha, junto con una variedad de herramientas manuales como lampas, picos, machetes y javas para almacenar los productos cosechados. El agricultor considera fundamental contar con una aplicación de gestión agrícola que proporcione información sobre la producción a nivel nacional de frutas y semillas como mangos, uvas, paltas, y naranjas, con el objetivo de facilitar la comercialización de sus cultivos en el mercado.
+La señora Elizabeth Caro, productora agrícola de 59 años, nos compartió los desafíos que enfrenta en la gestión de sus cultivos, siendo el más destacado la irregularidad en la entrega de agua para riego, tanto por parte de las autoridades como en años de sequía. Utiliza principalmente mano de obra para tareas como el sembrado, limpieza, arado, mantenimiento y cosecha, empleando herramientas manuales como lampas, picos, machetes y javas para almacenar sus productos.
 
-Aunque está conforme con las herramientas manuales que utiliza, reconoce que necesita mayor acceso a información para mejorar la venta de sus productos. Actualmente, su uso de la tecnología se limita a la búsqueda en Internet sobre plagas que puedan afectar sus cultivos. En cuanto a sus necesidades tecnológicas, le gustaría que una aplicación le permita llevar un control preciso del inventario de las cosechas y las ventas, así como calcular las utilidades netas tras deducir los gastos generados por la operación agrícola, como el pago a los trabajadores.
+Elizabeth considera esencial contar con una aplicación de gestión agrícola que le brinde información sobre la producción nacional de frutas y semillas, como mangos, uvas, paltas y naranjas, para facilitar la comercialización de sus cultivos. Aunque está satisfecha con las herramientas manuales que utiliza, siente que necesita mayor acceso a información para mejorar la venta de sus productos.
 
-Actualmente, el seguimiento de los ingresos y gastos relacionados a la agricultura lo gestiona de manera manual, contabilizando la cantidad de jabas producidas y vendidas, así como los gastos en personal. Le sería útil contar con una plataforma que le proporcione reportes detallados sobre ventas en términos de unidades y valores, así como sobre los gastos en insumos y el mantenimiento del cultivo. Además, desearía que la aplicación lo apoye en la toma de decisiones estratégicas, facilitando la exhibición de sus productos y permitiendo que sus socios tengan acceso en tiempo real a la información de las ventas, tanto en términos de unidades como de valores, lo que ayudaría a optimizar el control y la gestión financiera de su producción agrícola.
+Su uso de tecnología se limita a buscar en Internet sobre plagas que pueden afectar sus cultivos. En términos de necesidades tecnológicas, le gustaría tener una aplicación que le permita llevar un control preciso del inventario de cosechas y ventas, así como calcular las utilidades netas después de deducir los gastos operativos, como el pago a trabajadores.
 
+Actualmente, gestiona manualmente el seguimiento de ingresos y gastos relacionados con la agricultura, contabilizando la cantidad de jabas producidas y vendidas, así como los gastos en personal. Sería útil para ella contar con una plataforma que ofrezca reportes detallados sobre ventas en términos de unidades y valores, así como sobre gastos en insumos y mantenimiento del cultivo. Además, desearía que la aplicación la apoye en la toma de decisiones estratégicas, facilitando la exhibición de sus productos y permitiendo que sus socios tengan acceso en tiempo real a la información de ventas, tanto en unidades como en valores, optimizando así el control y la gestión financiera de su producción agrícola.
+
+Características observadas:
+
+Personalidad: Proactiva y con interés en optimizar su gestión agrícola.
+Influencias: Uso limitado de tecnología, busca herramientas que faciliten la toma de decisiones.
+Canales de interacción: Predominantemente manuales, con un interés en digitalización.
+Dispositivos: Sin mención específica de dispositivos, pero potencialmente abierta al uso de software en dispositivos móviles para la gestión agrícola.
 
 **Segmento Distribuidor:**
 
@@ -893,15 +820,20 @@ Entrevistas #01: **William Ramos** (**28 años - Surco**) - **29 de agosto del 2
 
 Timing Entrevista: 22:40 - 32:51
 
-La entrevista se ha realizado al distribuidor William Ramos de 28 años, quien cuenta con experiencia en la distribucion de semillas, fumigantes y fertilizantes para el sector agricola.
+Resumen de la entrevista: La entrevista se ha realizado al distribuidor William Ramos de 28 años, quien cuenta con experiencia en la distribución de semillas, fumigantes y fertilizantes para el sector agrícola. William nos comenta que enfrenta muchos problemas al momento de inventariar una gran cantidad de pedidos, teniendo que realizar inventarios por región, departamentos y meses. Anteriormente, utilizaba hojas de Excel, pero debido a la gran cantidad de datos, optó por usar varias hojas en Google Drive, aprovechando su capacidad de almacenamiento.
 
-El distribuidor William nos cuenta que tiene muchos problemas al momento de tener que inventariar una gran cantidad de pedidos, teniendo que realizar inventario por region, por departamentos y por meses. Asimismo nos comenta, que antes realizaba el inventario mediante las hojas de excel, pero debido a la gran cantidad, opto por usar varias hojas de excel en el drive, debido al almacenamiento que proporciona la plataforma.
+Respecto a las funcionalidades que le gustaría tener, menciona que desea poder registrar los gastos e ingresos para poder evaluar la utilidad obtenida. También le gustaría clasificar los productos, incluyendo diferentes tipos de semillas, fumigantes y fertilizantes. Además, comenta que sería útil realizar el inventario directamente en la plataforma, evitando la búsqueda en múltiples carpetas y problemas de almacenamiento. William también desea tener la capacidad de observar en qué lugares realiza más ventas y registrar incidentes en la entrega del producto, como rupturas o robos.
 
-Respecto a la funcionalidades, le gustaria poder registrar los gasto e ingresos para poder ver la utilidad obtenida. Asimismo, tambien le gustaria poder clasificar los productos como son las semillas, los distintos tipos de fumigadores y fertilizantes. Adicionalmente, comenta que le gustaria que el inventario se pudiera realizar en la plataforma, para no tener que buscar en varias carpetas y no preocuparse por el almacenamiento. Además, añade que le gustaria poder observar en que lugares realiza más ventas y que tambien le gustaria poder registrar casos en los cuales hubo problemas en la entrega del producto como ruptura, robo, entre otros incovenientes.
+En cuanto a la comunicación con sus clientes, William utiliza redes sociales como Instagram y TikTok, pero para compras en grandes cantidades, prefiere comunicarse por correo electrónico o WhatsApp. Su navegador preferido es Google Chrome, y aunque dispone de celular y computadora, utiliza principalmente la computadora.
 
-En adición, la comunicación con sus clientes lo hace mediante las redes sociales como Instagram o Tiktok, pero cuando se trata de compras con una gran cantidad, la comunicación se hace por correo o whatsapp.
+Finalmente, expresa que estaría dispuesto a utilizar un software que le ayude a optimizar las ventas y el inventario, siempre que cumpla con las funcionalidades que mencionó anteriormente.
 
-Finalmente, expresa que si estaría dispuesto a usar un software que le ayude a optimizar las ventas y el inventario, siempre y cuando cumpla con las funcionalidades que menciono anteriormente.
+Características observadas:
+
+Personalidad: Proactivo, busca optimizar procesos y abierto a nuevas tecnologías. 
+Influencias: Limitado por herramientas actuales, pero con disposición al cambio. 
+Canales de interacción: Utiliza redes sociales y aplicaciones de mensajería, además de correo electrónico. 
+Dispositivos: Principalmente utiliza computadora, pero también tiene acceso a un celular.
 
 **Entrevista 2:**
 
@@ -917,85 +849,74 @@ Lugar de residencia: **Lima, Perú**
 
 Timing Entrevista: 32:52 - 38:52
 
-La entrevista se ha realizado al distribuidor Jorge Gonzales de 52 años, quien se encuentra en el sector de productos alimenticios.
-El distribuidor enfrenta retos en la gestión de inventario, principalmente en mantener el equilibrio entre oferta y demanda, así como la precisión en los registros y el evitar el exceso y escasez de inventario. Actualmente, utiliza sistemas de gestión combinados con hojas de cálculo, aunque estos no siempre son ágiles ni ofrecen las capacidades necesarias para optimizar sus procesos.
+Resumen de la entrevista: La entrevista se ha realizado al distribuidor Jorge Gonzales de 52 años, quien se encuentra en el sector de productos alimenticios. Jorge enfrenta retos en la gestión de inventario, principalmente en mantener el equilibrio entre oferta y demanda, así como la precisión en los registros y evitar el exceso y escasez de inventario. Actualmente, utiliza sistemas de gestión combinados con hojas de cálculo, aunque estos no siempre son ágiles ni ofrecen las capacidades necesarias para optimizar sus procesos.
 
-Además, el mayorista busca una solución que se integre fácilmente con sus procesos actuales, permitiendo la sincronización automática de datos entre ventas e inventario, y que ofrezca una interfaz más intuitiva y personalizable. Los reportes detallados de ventas, análisis de márgenes de beneficio, y las tendencias de ventas a lo largo del tiempo son funcionalidades clave que deben incorporarse, ya que son esenciales para la toma de decisiones estratégicas.
+Además, el mayorista busca una solución que se integre fácilmente con sus procesos actuales, permitiendo la sincronización automática de datos entre ventas e inventario, y que ofrezca una interfaz más intuitiva y personalizable. Los reportes detallados de ventas, análisis de márgenes de beneficio y las tendencias de ventas a lo largo del tiempo son funcionalidades clave que deben incorporarse, ya que son esenciales para la toma de decisiones estratégicas.
 
-Actualmente la comunicación es manual y se realiza por medio de la aplicación WhatsApp. Considera que necesita plataformas que mejoren la coordinación, como un sistema de mensajería directa o alertas automatizadas para sincronizar órdenes y entregas.
+En cuanto a la comunicación, actualmente es manual y se realiza a través de la aplicación WhatsApp. Jorge considera que necesita plataformas que mejoren la coordinación, como un sistema de mensajería directa o alertas automatizadas para sincronizar órdenes y entregas.
 
+Características observadas:
+
+Personalidad: Organizado, busca soluciones que optimicen la gestión y la toma de decisiones. 
+Influencias: Limitado por la combinación de herramientas actuales, pero abierto a nuevas integraciones. 
+Canales de interacción: Utiliza WhatsApp para la comunicación, pero busca mejorar la coordinación.
+Dispositivos: Usa principalmente un celular pero tambien se apoya con una tablet.
 
 ### 2.2.3 Análisis de entrevistas.
-<TABLE BORDER>
-	<TR>
-		<TD COLSPAN = 2 align=center>
+Análisis de Entrevistas
 
-**Características**</TD>
+En esta sección se analizan las características comunes identificadas en las entrevistas realizadas a productores agrícolas y distribuidores, con el objetivo de construir arquetipos representativos de cada segmento. Se presentan estadísticas que sustentan estas observaciones, haciendo énfasis en las características objetivas y subjetivas.
 
-<TD align=center>
+### Segmento: Productores Agrícolas
 
-**-**</TD>
+### Desafíos en la Gestión de Cultivos:
 
-<TD align=center>
+#### Control de Etapas de Cultivo:
+- **Objetiva:** El 100% de los productores mencionaron dificultades en el control de las distintas etapas del cultivo, evidenciando la falta de un sistema eficiente.
+- **Subjetiva:** Los productores expresan frustración por el uso de métodos manuales, lo que afecta su capacidad de gestión.
 
-**-**</TD>
+### Necesidades Tecnológicas:
+
+#### Interés en Aplicaciones de Gestión:
+- **Objetiva:** El 100% de los entrevistados manifestó interés en herramientas tecnológicas que optimicen la gestión agrícola.
+- **Subjetiva:** Hay un deseo común de modernizar sus procesos, lo que refleja una apertura al cambio y la innovación.
+
+### Herramientas Utilizadas:
+
+#### Mano de Obra y Herramientas Manuales:
+- **Objetiva:** Todos los productores utilizan herramientas manuales para el cultivo y la cosecha.
+- **Subjetiva:** Hay un reconocimiento de que estas herramientas son limitantes y no les permiten maximizar su eficiencia.
+
+### Segmento: Distribuidores
+
+### Gestión de Inventario:
+
+#### Dificultades en el Inventario:
+- **Objetiva:** El 100% de los distribuidores mencionó problemas para mantener un inventario equilibrado entre oferta y demanda.
+- **Subjetiva:** Expresan preocupación por la falta de precisión en sus registros, lo que impacta en su rentabilidad.
+
+### Funcionalidades Deseadas:
+
+#### Integración y Automatización:
+- **Objetiva:** El 100% busca soluciones que integren ventas e inventario con sincronización automática de datos.
+- **Subjetiva:** Los distribuidores sienten que la falta de una solución adecuada limita su capacidad de respuesta y adaptación al mercado.
+
+### Canales de Comunicación:
+
+#### Uso de Redes Sociales y Aplicaciones de Mensajería:
+- **Objetiva:** Todos los distribuidores utilizan WhatsApp y redes sociales para comunicarse con sus clientes.
+- **Subjetiva:** Hay un sentimiento de que la comunicación actual es insuficiente para gestionar pedidos de gran volumen, lo que indica la necesidad de mejores herramientas de coordinación.
 
 
-   </TR>
-	<TR>
-		<TD ROWSPAN = 4>
-
-**Objetivas**
-</TD>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD >-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-
-   <TR>
-		<TD ROWSPAN = 4>
-
-**Subjetivas**
-</TD>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-<TR>
-<TD>-</TD>
-<TD>-</TD>
-<TD>-</TD>
-</TR>
-</TABLE>
-
+# Capítulo II: Requirements Elicitation & Analysis
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+En esta sección se presentarán las fichas de User Persona, las cuales son representaciones ficticias de los usuarios basadas en los hallazgos obtenidos a partir de las entrevistas realizadas. Estas fichas se centran en los segmentos objetivos identificados, incluyendo productores agrícolas y distribuidores. La elaboración de estas User Personas se fundamenta en el análisis de las características comunes y necesidades detectadas en las entrevistas, así como en la observación de la competencia. Al comprender mejor a nuestros usuarios, podremos diseñar soluciones más efectivas y alineadas con sus expectativas y desafíos, lo que resulta fundamental para el desarrollo de nuestra aplicación. Cada ficha incluirá detalles sobre las características demográficas, motivaciones, frustraciones y necesidades específicas de cada arquetipo, asegurando que nuestras decisiones de diseño se basen en información relevante y real.
 
 **Segmento Productor Agricola:**
+Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
+
+El perfil de María Rodríguez, una distribuidora, resalta la necesidad de mejorar la gestión de inventarios y la planificación de entregas, motivada por el deseo de incrementar ventas y optimizar su negocio. Por otro lado, Juan Pérez, un productor agrícola, refleja las preocupaciones de los agricultores en la automatización de procesos como riego y fumigación, buscando reducir costos y mejorar la eficiencia operativa. Ambos perfiles fueron construidos para guiar el diseño del sistema, asegurando que la plataforma AgroControl responda adecuadamente a sus necesidades específicas y se alinee con las mejores prácticas del mercado.
 
 <img src="./assets/Chapter-2/UserPerson1.png" alt="Segmento 1 user persona">
 
@@ -1006,40 +927,60 @@ Actualmente la comunicación es manual y se realiza por medio de la aplicación 
 
 ### 2.3.2. User Task Matrix
 
-A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Personas realizan para cumplir sus objetivos. Se consideran dos segmentos: productores agrícolas y distribuidores. Las tareas identificadas son realizadas independientemente de la existencia de soluciones de software.
 
-**Segmento Productor Agricola:**
+| **Task**                                   | **Productor Agrícola**  |             	| **Distribuidor** |                |
+|--------------------------------------------|-------------------------|----------------|------------------|----------------|
+|                                            | **Frequency**           | **Importance** | **Frequency**    | **Importance** |
+| Monitorear el clima                        | High                    | High        	| Medium           | High           |
+| Comunicar con compradores                  | Medium                  | Medium      	| Medium           | Medium         |
+| Controlar inventario                       | Low                     | High        	| High             | High           |
+| Planificar la siembra                      | Medium                  | High        	| Low              | Medium         |
+| Supervisar el crecimiento de los cultivos  | High                    | High        	| Low              | Medium         |
+| Realizar pedidos a proveedores             | -                       | -           	| Medium           | High           |
+| Registrar gastos e ingresos                | Medium                  | High        	| High             | High           |
+| Evaluar el rendimiento de los productos    | Medium                  | Medium      	| Medium           | Medium         |
+| Gestionar relaciones con proveedores       | Low                     | Medium      	| High             | High           |
+| Analizar tendencias de ventas              | Low                     | Medium      	| High             | High           |
 
-| **Task**                                  | **Frequency** | **Importance** |
-|-------------------------------------------|---------------|----------------|
-| Monitorear el clima                       | High          | High           |
-| Planificar la siembra                     | Medium        | High           |
-| Aplicar fertilizantes                     | Medium        | High           |
-| Supervisar el crecimiento de los cultivos | High          | High           |
-| Registrar la cosecha                      | Low           | High           |
-| Realizar análisis de suelo                | Low           | Medium         |
-| Mantener el equipo agrícola               | Low           | Medium         |
+### Explicación
 
+Al analizar las tareas identificadas en el User Task Matrix, se pueden resaltar varias observaciones significativas sobre los segmentos de productores agrícolas y distribuidores.
 
-**Segmento Distribuidor:**
+#### Tareas con Mayor Frecuencia e Importancia
 
-| **Task**                             | **Frequency** | **Importance** |
-|--------------------------------------|---------------|----------------|
-| Controlar inventario                 | High          | High           |
-| Programar rutas de entrega           | High          | High           |
-| Coordinar con proveedores            | Medium        | High           |
-| Realizar pedidos a proveedores       | Medium        | High           |
-| Revisar informes de ventas           | Low           | Medium         |
-| Gestionar la logística de transporte | High          | High           |
-| Evaluar el desempeño de entrega      | Low           | Medium         |
+1. **Controlar inventario**: Esta tarea es crucial para ambos segmentos, ya que los productores deben asegurarse de tener los insumos necesarios, mientras que los distribuidores necesitan mantener un balance adecuado entre oferta y demanda. La alta importancia en ambas partes resalta la necesidad de una gestión eficiente de los recursos.
+
+2. **Registrar gastos e ingresos**: La contabilidad es vital para evaluar la rentabilidad. Ambos segmentos deben llevar un control riguroso de sus finanzas, lo que subraya la necesidad de herramientas que faciliten este proceso.
+
+3. **Monitorear el clima**: Aunque su frecuencia es alta para los productores y media para los distribuidores, ambos segmentos reconocen que el clima afecta directamente sus operaciones. Esto crea una interconexión en la toma de decisiones que influye en la producción y en la logística de distribución.
+
+#### Principales Diferencias
+
+- **Planificar la siembra**: Esta tarea es de alta importancia para los productores, ya que impacta directamente en la cosecha. En contraste, los distribuidores la consideran menos relevante, pues su enfoque se centra en la comercialización de los productos una vez cosechados.
+
+- **Realizar pedidos a proveedores**: Esta actividad es esencial para los distribuidores, pero no se aplica directamente a los productores, quienes se concentran en el manejo de sus cultivos y la relación con los proveedores de insumos.
+
+#### Coincidencias
+
+Ambos segmentos comparten una necesidad de **gestionar relaciones con proveedores** y **evaluar el rendimiento de los productos**. La gestión eficaz de estas relaciones no solo asegura la calidad de los insumos para los productores, sino que también permite a los distribuidores ofrecer productos competitivos en el mercado. Además, tanto productores como distribuidores muestran interés en **analizar tendencias de ventas**, lo que refleja una orientación hacia la adaptación y la mejora continua en sus respectivas estrategias.
+
+Estas coincidencias y diferencias subrayan la interdependencia entre la producción y la distribución en el sector agrícola, destacando la importancia de desarrollar soluciones que aborden las necesidades específicas de cada segmento, al tiempo que facilitan una colaboración efectiva entre ellos.
 
 ### 2.3.3. User Journey Mapping
 
-A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+La sección de User Journey Maps muestra el recorrido completo de los usuarios de AgroControl, abarcando desde el primer contacto con la app hasta su abandono. Este mapeo destaca las acciones, metas, emociones, y problemas experimentados por los productores agrícolas y distribuidores, así como oportunidades para mejorar su experiencia.
+
+
+Para los **Productores Agrícolas**, el journey empieza con el descubrimiento de la app a través de marketing o recomendaciones y avanza hasta su uso para gestionar cultivos. Las emociones varían desde la ansiedad inicial hasta la alegría por mejorar su productividad. Los problemas incluyen dudas sobre los costos y dificultades en la personalización de funciones, lo que sugiere oportunidades como ofrecer pruebas gratuitas y mejorar la capacitación.
 
 **Segmento Productor Agricola:**
 
 <img src="https://github.com/W3bW0rks/project-report/blob/55a0dcd17cfdfe2869f23aa351a051a8642b6550/assets/chapter-2-images/JourneyMapUserPersona1.png?raw=true" alt="Segmento Productor Agricola">
+
+
+El journey de los **Distribuidores** inicia al conocer la app en ferias o a través de socios comerciales. Pasan de la aceptación inicial a la satisfacción al mejorar la gestión de inventarios y entregas, pero pueden experimentar frustración por la falta de funciones avanzadas o personalización. Las oportunidades identificadas incluyen asistentes de configuración y características adaptadas a diferentes tamaños de negocios.
+
 
 **Segmento Distribuidor:**
 
@@ -1047,7 +988,7 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 ### 2.3.4. Empathy Mapping
 
-A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+En esta sección se presentan los Empathy Maps para cada User Persona, que ayudan a entender sus experiencias y emociones. Se colocó al User Persona en el centro y se recolectaron observaciones del equipo sobre lo que necesita hacer, dice y siente. También se identificaron sus preocupaciones y cómo nuestra solución puede ayudar. A continuación, se incluyen las capturas de los Empathy Maps realizados.
 
 **Segmento Productor Agricola:**
 
@@ -1055,11 +996,59 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 **Segmento Distribuidor:**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor">
+<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor"><br/>
+  
+En esta sección, el equipo presenta los Empathy Maps realizados para los User Personas de AgroControl utilizando la herramienta UXPressia. Estos mapas permiten capturar una comprensión detallada de los usuarios al explorar lo que piensan, sienten, ven, oyen, dicen y hacen, junto con sus pains (dolores) y gains (beneficios). A continuación, se detalla el proceso de elaboración para cada uno de los User Personas.
+
+**Proceso de Elaboración:**
+
+1. **Preparación y Enfoque en el User Persona**: Cada mapa comenzó con la identificación del User Persona en el centro:
+	- **Juan Pérez**: Productor agrícola en Lima, enfocado en mejorar la gestión de su campo y la adopción de nuevas tecnologías.
+	- **Carlos Ramírez**: Distribuidor de insumos agrícolas que busca optimizar la logística de su negocio y satisfacer mejor a sus clientes.
+
+2. **Captura de Observaciones**: Para cada User Persona, se recopilaron observaciones del equipo en las secciones del Empathy Map:
+
+	- **¿Con quién estamos empatizando?**: Juan es un agricultor con desafíos en la gestión eficiente del campo, mientras que Carlos se enfoca en la distribución efectiva de productos agrícolas.
+
+	- **¿Qué necesitan hacer?**:
+		- **Juan**: Gestionar eficientemente el campo, controlar los costos y acceder a herramientas para monitorear los cultivos.
+		- **Carlos**: Mantener el control del inventario, coordinar con clientes y programar entregas de manera eficiente.
+
+	- **¿Qué están viendo?**:
+		- **Juan**: Observa un clima impredecible y una competencia que utiliza tecnología avanzada.
+		- **Carlos**: Percibe una creciente demanda de productos y competencia que optimiza la logística.
+
+	- **¿Qué están escuchando?**:
+		- **Juan**: Escucha consejos de otros productores y preocupaciones sobre la planificación de recursos.
+		- **Carlos**: Recibe comentarios de clientes sobre la rapidez de las entregas y sugerencias de su equipo.
+
+	- **¿Qué están diciendo?**:
+		- **Juan**: Expresa dificultades para obtener datos que guíen sus decisiones agrícolas.
+		- **Carlos**: Habla sobre la necesidad de mejorar el control del inventario y la organización de las entregas.
+
+	- **¿Qué están haciendo?**:
+		- **Juan**: Supervisa el campo y busca formas de reducir costos.
+		- **Carlos**: Supervisa la entrada y salida de productos, negociando y ajustando rutas de entrega.
+
+	- **¿Cómo se sienten y qué piensan?**:
+		- **Juan**: Siente la necesidad de innovar para reducir costos, pero enfrenta ansiedad por la adopción de nuevas tecnologías.
+		- **Carlos**: Siente presión por mejorar la eficiencia y teme perder clientes por problemas logísticos.
+
+3. **Identificación de Pains y Gains**:
+	- **Pains**:
+		- **Juan**: Tiempo limitado y dificultad para centralizar información y optimizar procesos.
+		- **Carlos**: Problemas para mantener un control preciso del inventario y gestionar múltiples pedidos.
+
+	- **Gains**:
+		- **Juan**: Incremento de la productividad y mejora en el uso de los recursos.
+		- **Carlos**: Mejor control del inventario y reducción del estrés operativo.
+
+Estos Empathy Maps proporcionan una guía visual y detallada sobre las necesidades y desafíos de los usuarios, ayudando a AgroControl a desarrollar soluciones más alineadas con sus expectativas y mejorar la experiencia del usuario en la plataforma.
+
 
 ### 2.3.5. As-is Scenario Mapping
 
-A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+En esta sección se presentan los As-Is Scenario Maps para cada User Persona, que muestran cómo interactúan actualmente con sus procesos. El equipo siguió un proceso que incluyó preparación, lluvia de ideas individual y revisión. Se identificaron las fases del proceso y se etiquetaron áreas donde se necesita aprender más. A continuación, se incluyen las capturas de los As-Is Scenario Maps elaborados.
 
 **Segmento Productor Agricola:**
 
@@ -1069,7 +1058,27 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-2-images/AsIsScenarioMappingUserPersona2.jpg?raw=true" alt="Segmento 2 user persona">
 
+### 2.4. Ubiquitous Language.
+
+En esta sección se presenta un glosario de términos utilizados en el dominio agrícola, con definiciones claras y sin ambigüedades. Este glosario facilita la comunicación entre los miembros del equipo y los stakeholders, asegurando un entendimiento común de los conceptos relevantes al problema y la solución.
+
+| **Term (English)**       | **Término (Español)**        | **Definition (Definición en Español)**                                                       |
+|--------------------------|------------------------------|----------------------------------------------------------------------------------------------|
+| **Crop Management**      | **Gestión de Cultivos**      | Conjunto de prácticas para optimizar el crecimiento, riego, y protección de los cultivos.    |
+| **Inventory Control**    | **Control de Inventario**    | Proceso de monitoreo y regulación de los insumos y productos almacenados para la distribución.|
+| **Supply Chain**         | **Cadena de Suministro**     | Serie de procesos involucrados en la producción y distribución de productos agrícolas.       |
+| **Yield Analysis**       | **Análisis de Rendimiento**  | Evaluación de la producción obtenida de los cultivos para optimizar las futuras cosechas.    |
+| **Soil Analysis**        | **Análisis de Suelo**        | Estudio de las propiedades del suelo para determinar su fertilidad y necesidad de insumos.   |
+| **Logistics Management** | **Gestión Logística**        | Organización y control de las rutas de entrega y transporte de productos agrícolas.          |
+| **Sustainability**       | **Sostenibilidad**           | Prácticas agrícolas enfocadas en minimizar el impacto ambiental y asegurar la viabilidad a largo plazo.|
+| **Resource Optimization**| **Optimización de Recursos** | Uso eficiente de agua, fertilizantes y mano de obra para maximizar la producción agrícola.   |
+| **Pest Control**         | **Control de Plagas**        | Métodos para prevenir o eliminar plagas que afectan los cultivos, garantizando la salud de las plantas. |
+| **Market Trends**        | **Tendencias del Mercado**   | Análisis de los cambios y patrones de demanda en el sector agrícola para ajustar la producción. |
+
+
 # Capítulo III: Requirements Specification
+Esta sección está diseñada para permitir al equipo formalizar los requisitos de los productos digitales basándose en el análisis de la información recopilada durante las investigaciones previas. Comienza con una introducción general que contextualiza el proceso de especificación y se divide en To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
+Cada una de estas subsecciones contribuye a definir los requisitos de manera clara y estructurada, facilitando el desarrollo del producto conforme a las expectativas y objetivos del proyecto.
 ## 3.1. To-Be Scenario Mapping.
 En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
 
@@ -1080,7 +1089,7 @@ Segmento 2: Distribuidor
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidor.jpg?raw=true"/>
 
 ## 3.2. User Stories.
-Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, funcionalidades del productor agricola  y funcionalidades del distribuidor.
+Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, Autenticación y perfil de usuario, Funcionalidades del productor agricola, Funcionalidades del distribuidor, Preferencias de la aplicación y Backend API
 
 |Epic / Story ID|Título|Descripción|Criterio de aceptación|Relacionado con (Epic ID)|
 | :- | :- | :- | :- | :- |
@@ -1097,32 +1106,45 @@ Redactamos historias de usuarios que nos ayuden a generar funciones del software
 |E2-US102|Formulario de login|**Como** usuario de la página web **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|<p>**Escenario 1: Iniciar sesión**</p><p>**Dado que** el usuario se encuentra en el formulario “Login”</p><p>**Cuando** ingrese el correo electrónico y contraseña</p><p>**Entonces** puede ingresar a la app de manera exitosa</p>|2|
 |E2-US103|Recuperación de contraseñas |**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide **para** ingresar a mi cuenta de usuario|<p>**Escenario 1: Usuario recupera su contraseña** </p><p>**Dado que** el usuario está en la parte de inicio en el log in </p><p>**Cuando** coloque una contraseña errónea más de 4 veces </p><p>**Entonces** la aplicación mostrará un aviso de recuperación de contraseña con el correo brindado anteriormente </p><p>**Escenario 2: Usuario olvidó su contraseña y no puede entrar a su cuenta**</p><p>**Dado que** el usuario olvida su contraseña y no puede entrar a su cuenta</p><p>**Cuando** el usuario entre a su correo y no logre cambiar su contraseña </p><p>**Entonces** la aplicación mostrará un mensaje para que se contacte con soporte técnico  </p>|2|
 |**Epic 3: Funcionalidades del productor agricola**<br>**Como** productor agricola <br>**Quiero** funcionalidades de apoyo en la gestión del ciclo agrícola<br>**Para** mejorar el rendimiento de los cultivos       |||||
-|E3-US101|Pantalla de inicio productor agricola |**Como** productor agricola  **quiero** visualizar todos los registros de los cultivos que he creado **para** poder ver fácilmente el progreso de los mismos|<p>**Escenario 1: Visualización de los cultivos en la pantalla de inicio**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación</p><p>**Cuando** esté en la pantalla de inicio</p><p>**Entonces** puede ver todos los registros de cultivos que ha creado</p>|3|
-|E3-US102|Proceso de siembra de cultivos|**Como** productor agricola  **quiero** funcionalidades de apoyo en el proceso de siembra de los cultivos **para** optimizar la gestión de recursos y controlar los costos |<p>**Escenario 1: Visualización de la información del proceso de siembra**</p><p>**Dado** **que** soy productor agricola  **Y** he iniciado sesión en la aplicación, </p><p>**Cuando** accede a la opción “Siembra”, debe ver la opción "Registrar cultivo”, al seleccionarla se muestra un formulario a completar que incluye: cantidad de semillas sembradas, costo total de las semillas, pago por hora de los trabajadores, cantidad de tiempo trabajado y cantidad de trabajadores.</p><p>**Y** después de haber completado el formulario y confirmado la publicación</p><p>**Entonces** puede ver la información del formulario creado.</p><p>**Escenario 2: Edición de la información del proceso de siembra**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación,</p><p>**Cuando** acceda a la opción “Siembra” y ya he creado el formulario</p><p>**Entonces** se muestra la opción “Editar” con el cual se puede editar la información del formulario</p>|3|
-|E3-US103|Proceso de riego de cultivos|**Como** productor agricola  **quiero** funcionalidades de apoyo en el riego de cultivos **para** mejorar el cuidado de los cultivos|</p><p>**Escenario 1: Programación de fechas de cultivo**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación.</p><p>**Cuando** acceda a la opción “Riego”, se muestra un calendario donde puedo seleccionar las fechas de riego</p><p>**Entonces** se mostrará en el calendario las fechas seleccionadas de color celeste</p><p>**Escenario 2: Añadir información laboral de trabajadores**</p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación</p><p>**Cuando** ya ha programado las fechas de riego de los cultivos, se muestra la opción “Añadir pago de trabajadores”</p><p>**Entonces** al llenar el formulario, se muestra el monto que debe pagar a los trabajadores</p>|3|
-|E3-US104|Compra de productos para cultivos|**Como** productor agricola **quiero** realizar compras de manera online **para** usarlos en mis cultivos|</p><p>**Escenario 1: Compra exitosa del producto**</p><p>**Dado que** soy productor agricola **Y** he iniciado sesión en la aplicación.</p><p>**Cuando**acceda a la opción “Comprar productos”, los productos tienen la opción “Comprar”</p><p>**Entonces** si el agricultor tiene el monto suficiente, la compra es exitosa</p><p>**Escenario 2: Compra no exitosa del producto**</p>**Dado que** soy productor agricola **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Comprar productos”, los productos tienen la opción “Comprar”</p><p>**Entonces** si el agricultor no tiene el monto suficiente, la compra no es exitosa</p>|3|
-|E3-US105|Proceso de fumigación y fertilización|**Como** productor agricola  **quiero** funcionalidades de apoyo en el proceso de fumigación y fertilización **para** mejorar el cuidado de los cultivos|<p>**Escenario 1: Programación de las fechas de fertilización y fumigación**</p><p>**Dado** **que** soy productor agricola  **Y** he iniciado sesión en la aplicación.</p><p>**Cuando** acceda a la opción “Fumigación y fertilización”, se mostrará un calendario donde puede seleccionar las fechas de fertilización y fumigación</p><p>**Entonces** se muestra en el calendario las fechas de color gris para fumigación y color verde para la fertilización</p><p>**Escenario 2: Añadir información laboral de trabajadores**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación</p><p>**Cuando** ya ha programado las fechas de fumigación y fertilización de los cultivos, se muestra la opción “Añadir pago de trabajadores”</p><p>**Entonces** al llenar el formulario, se muestra el monto que debe pagar a los trabajadores</p><p>**Escenario 3: Visualización de fertilizantes y fumigantes**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación</p><p>**Cuando** elija una fecha de calendario, puede añadir la cantidad de fertilizante o fumigante que se estará usando para realizar el proceso</p><p>**Entonces** puede visualizar la cantidad usada y la cantidad disponible de fertilizantes y fumigantes</p>|3|
-|E3-US106|Proceso de recolección de la cosecha|**Como** productor agricola  **quiero** funcionalidades de apoyo en la recolección de la cosecha **para** ver la productividad del trabajo elaborado|<p>**Escenario 1: Visualización de la información de recolección de la cosecha**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Recolección”, se muestra un formulario donde debe ingresar el peso de la caja</p><p>**Y** después de haber completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar el peso de las cajas que ha registrado</p>|3|
-|E3-US107|Proceso de análisis financiero de los cultivos|**Como** productor agricola  **quiero** un análisis financiero **para** visualizar la utilidad del trabajo elaborado|<p>**Escenario 1: Visualización de la utilidad**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación<br>**Cuando** acceda a la opción “Análisis financiero”, debe registrar en un formulario la cantidad de kg vendido y el precio de venta por kg</p><p>**Y** después de haber completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar la utilidad obtenida</p><p>**Escenario 2: Visualización de la utilidad total**</p><p>**Dado que** soy productor agricola  **Y** he iniciado sesión en la aplicación</p><p>**Cuando** ya ha registrado todas las ventas del producto</p><p>**Entonces** puede visualizar la utilidad total del trabajo realizado</p>|3|
+|E3-US101|Crear campos de cultivo|**Como** productor agricola **quiero** crear campos de cultivo **para** poder monitorear facilmente el proceso agricola del campo|<p>**Escenario 1: Creación del campo de cultivo**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación </p><p>**Cuando** esta en la pantalla de inicio, debe ver la opción "+”, al seleccionarla, se muestra un formulario a completar que incluye: nombre de la semilla, cantidad de semillas sembradas, costo total de las semillas, nombre de los trabajadores y pago total de los trabajadores</p><p>**Y** después de completar el formulario y confirmar la publicación</p><p>**Entonces** puede ver la información del formulario creado.</p><p>**Escenario 2: Edición del campo de cultivo**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando**  esta en la pantalla de inicio y ya ha creado el campo</p><p>**Entonces** se muestra la opción “Editar” con el cual puede editar la información del campo</p>|3|
+|E3-US102|Barra de navegación del productor agricola |**Como** productor agricola **quiero** una barra de navegación **para** poder tener acceso directos a la informacion de la web app|<p>**Escenario 1: El productor agrícola quiere ver los campos registrados**</p><p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige a la barra de navegación</p><p>**Cuando** presiona la opción "Campos"</p><p>**Entonces** es dirigido a la sección de Campos</p><p>**Escenario 2: El productor agrícola quiere acceder a la tienda**</p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige a la barra de navegación</p><p>**Cuando** presiona la opción "Tienda"</p><p>**Entonces** es dirigido a la sección de Tiendas</p><p>**Escenario 3: El productor agrícola quiere gestionar el sistema de riego**</p><p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige en la barra de navegación</p><p>**Cuando** presiona la opción "Riego"</p><p>**Entonces** es dirigido a la sección de Riego.</p><p>**Escenario 4: El productor agrícola quiere gestionar el tratamiento**</p><p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige en la barra de navegación</p><p>**Cuando** presiona la opción "Tratamiento"</p><p>**Entonces** es dirigido a la sección de Tratamiento.</p><p>**Escenario 5: El productor agrícola quiere gestionar la cosecha**</p><p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige en la barra de navegación</p><p>**Cuando** presiona la opción "Cosecha"</p><p>**Entonces** es dirigido a la sección de Cosecha</p><p>**Escenario 6:El productor agrícola quiere gestionar sus finanzas**</p><p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige en la barra de navegación</p><p>**Cuando** presiona la opción "Finanzas"</p><p>**Entonces** es dirigido a la sección de Finanzas</p><p>**Escenario 7:El productor agrícola quiere salir de la aplicación**</p><p>**Dado que** el productor agrícola ingresa a la aplicación **Y** se dirige en la barra de navegación</p><p>**Cuando** presiona la opción "Salir"</p><p>**Entonces** saldra de la aplicación</p>|3|
+|E3-US103|Pantalla de inicio del proceso agricola |**Como** productor agricola  **quiero** visualizar todos los registros de los cultivos que he creado **para** poder ver fácilmente el progreso de los mismos|<p>**Escenario 1: Visualización de los cultivos en la pantalla de inicio**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** está en la pantalla de inicio</p><p>**Entonces** puede ver todos los registros de cultivos que ha creado</p>|3|
+|E3-US104|Programacion de fecha de riego de cultivos|**Como** productor agricola **quiero** funcionalidades de apoyo en el riego de cultivos **para** mejorar el cuidado de los cultivos|</p><p>**Escenario 1: Creación de fechas de riego de cultivo**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** accede a la opción “Riego” y presiona el boton "Agregar", se muestra un formulario y un calendario donde debe ingresar: las fechas de riego (de color celeste), nombre del campo, nombre de los trabajadores y el pago total de los trabajadores</p><p>**Y** después de completar el formulario y confirmar la publicación</p><p>**Entonces** se muestra una lista con la informacion del formulario</p><p>**Escenario 2: Eliminacion de fechas de riego de cultivo**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** accede a la opción “Riego” y ya ha programado las fechas de riego, se muestra la opción “Borrar” **Y** al seleccionarlo</p><p>**Entonces** se elimina de la lista la fecha seleccionada </p>|3|
+|E3-US105|Compra de productos para cultivos|**Como** productor agricola **quiero** realizar compras de manera online **para** usarlos en mis cultivos|</p><p>**Escenario 1: Compra exitosa del producto**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando**acceda a la opción “Tienda”, los productos tienen la opción “Comprar” **Y** si el agricultor tiene el monto suficiente </p><p>**Entonces** la compra es exitosa</p><p>**Escenario 2: Compra no exitosa del producto**</p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Comprar productos”, los productos tienen la opción “Comprar” **Y** si el agricultor no tiene el monto suficiente</p><p>**Entonces** la compra no es exitosa</p>|3|
+|E3-US106|Programacion de fechas de tratamiento|**Como** productor agricola **quiero** funcionalidades de apoyo en el proceso de tratamiento **para** mejorar el cuidado de los cultivos|<p>**Escenario 1: Creación de las fechas de fumigación**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** accede a la opción “Tratamiento” **Y** presiona el boton "Agregar", se muestra un calendario y un formulario donde debe ingresar: las fechas de fumigacion(color gris),el tiempo, el nombre de los trabajadores, el pago total de los trabajadores y el tipo debe ser fumigación **Y** después de completar el formulario y confirmar la publicación</p><p>**Entonces** se muestra en la lista la informacion del formulario</p><p>**Escenario 2: Creación de las fechas de fertilización**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** accede a la opción “Tratamiento” **Y** presiona el boton "Agregar", se muestra un calendario y un formulario donde debe ingresar: las fechas de fumigacion(color verde),el tiempo, el nombre de los trabajadores, el pago total de los trabajadores y el tipo debe ser fertilización **Y** después de completar el formulario y confirmar la publicación</p><p>**Entonces** se muestra en la lista la informacion del formulario</p><p>**Escenario 2: Eliminación de las fechas del tratamiento**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** accede a la opción “Tratamiento” y ya ha creado las fechas de Tratamiento, se muestra la opción "Borrar" **Y** al seleccionarlo</p><p>**Entonces** se elimina de la lista la fecha seleccionada</p>|3|
+|E3-US107|Proceso de recolección de la cosecha|**Como** productor agricola  **quiero** funcionalidades de apoyo en la recolección de la cosecha **para** ver la productividad del trabajo elaborado|<p>**Escenario 1: Visualización de la información de recolección de la cosecha**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Recolección”, se muestra un formulario donde debe ingresar: el nombre de la caja, el peso de la caja y la fecha de recolección</p><p>**Y** después de haber completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar en la lista la información del formulario</p>|3|
+|E3-US108|Proceso de análisis financiero de los cultivos|**Como** productor agricola **quiero** un análisis financiero **para** visualizar la utilidad del trabajo elaborado|<p>**Escenario 1: Añadir ganancia del producto**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p></p>**Cuando** acceda a la opción “Finanzas”, debe registrar en la lista: el nombre del producto, la fecha de siembra, el peso de la caja y el precio por kg</p><p>**Y** después de haber completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar la utilidad obtenida</p><p>**Escenario 2: Eliminación de la ganacia del producto**</p><p>**Dado que** el productor agricola inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Finanzas” y ya ha registrado la ganacia del producto, se muestra la opcion "Borrar" **Y** al seleccionarlo</p><p>**Entonces** se elimina de la lista el producto seleccionado</p>|3|
 |**Epic 4: Funcionalidades del distribuidor**<br>**Como** distribuidor<br>**Quiero** funcionalidades que me ayuden a gestionar mi tienda<br>**Para** mejorar las ventas de los productos de mi tienda|||||
-|E4-US101|Pantalla de inicio del distribuidor|**Como** distribuidor **quiero** gestionar mi tienda virtual **para** administrar de manera eficiente el inventario y los precios.|<p>**Escenario 1: Visualización de los productos de la tienda**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** esté en la pantalla de inicio, se muestra la opción “Añadir producto”, al seleccionarlo se muestra un formulario donde debe ingresar: nombre del producto, cantidad del producto y coste total del producto</p><p>**Y**  después de haber  completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar todos los productos que ha ingresado</p><p>**Escenario 2: Edición de los productos**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** ya ha registrado sus productos, se muestra la opción “editar producto”, al seleccionarlo, puede editar el precio del producto o añadir más cantidad</p><p>**Y**  después de haber  completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar los cambios que ha realizado</p>|4|
-|E4-US102|Análisis de producto de la tienda|**Como** distribuidor **quiero** analizar los productos de mi tienda y su disponibilidad **para** optimizar mis decisiones de compra y maximizar mis ventas|<p>**Escenario 1: Visualización de los productos más vendidos**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Productos más vendidos”</p><p>**Entonces** puede visualizar  todos los productos ordenados del más vendido al menos vendido</p><p>**Escenario 2: Visualización de disponibilidad del producto**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Baja disponibilidad”</p><p>**Entonces** visualizará los productos ordenados de menor cantidad a mayor cantidad</p>|4|
-|E4-US103|Proceso de análisis financiero de la tienda|**Como** distribuidor **quiero** un análisis financiero **para** visualizar la utilidad de mi tienda|<p>**Escenario 1: Visualización de la utilidad**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Análisis financiero”</p><p>**Entonces** puede visualizar la utilidad obtenida</p>|4|
-|E4-US104|Ofertas de la tienda de distribuidores|**Como** distribuidor **quiero** crear ofertas **para** captar el interés de mi público|<p>**Escenario 1: Creación de oferta**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Crear ofertas”, al seleccionarlo tendrá que ingresar: los productos, la cantidad del producto y el nuevo precio</p><p>**Entonces** puede visualizar la información de la oferta creada</p><p>**Escenario 2: Análisis de ofertas**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Análisis de ofertas”</p><p>**Entonces** puede ver las ofertas más vendidas y la cantidad de comprada</p>|4|
-
-
+|E4-US101|Pantalla de inicio del distribuidor|**Como** distribuidor **quiero** gestionar mi tienda virtual **para** administrar de manera eficiente el inventario y los precios.|<p>**Escenario 1: Visualización de los productos de la tienda**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** esta en la pantalla de inicio</p><p>**Entonces** puede visualizar todos los productos que ha creado</p>|4|
+|E4-US102|Crear productos en la tienda|**Como** distribuidor **quiero** crear productos en la tienda virtual **para** poder venderlos|<p>**Escenario 1: Creacion de productos en de la tienda**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** esta en la pantalla de inicio, se muestra la opción “Añadir producto”, al seleccionarlo se muestra un formulario donde debe ingresar: nombre del producto, cantidad del producto y coste total del producto</p><p>**Y** después de haber  completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar todos los productos que ha ingresado</p><p>**Escenario 2: Edición de los productos**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** ya ha registrado sus productos, se muestra la opción “editar producto”, al seleccionarlo, puede editar el precio del producto o añadir más cantidad</p><p>**Y**  después de haber  completado el formulario y confirmado la publicación</p><p>**Entonces** puede visualizar los cambios que ha realizado</p>|4|
+|E4-US103|Análisis de producto de la tienda|**Como** distribuidor **quiero** analizar los productos de mi tienda y su disponibilidad **para** optimizar mis decisiones de compra y maximizar mis ventas|<p>**Escenario 1: Visualización de los productos más vendidos**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Productos más vendidos”</p><p>**Entonces** puede visualizar  todos los productos ordenados del más vendido al menos vendido</p><p>**Escenario 2: Visualización de disponibilidad del producto**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Baja disponibilidad”</p><p>**Entonces** visualizará los productos ordenados de menor cantidad a mayor cantidad</p>|4|
+|E4-US104|Proceso de análisis financiero de la tienda|**Como** distribuidor **quiero** un análisis financiero **para** visualizar la utilidad de mi tienda|<p>**Escenario 1: Visualización de la utilidad**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Análisis financiero”</p><p>**Entonces** puede visualizar la utilidad obtenida</p>|4|
+|E4-US105|Ofertas de la tienda de distribuidores|**Como** distribuidor **quiero** crear ofertas **para** captar el interés de mi público|<p>**Escenario 1: Creación de oferta**</p><p>**Dado que** el distribuidor inicia sesion en la aplicación</p><p>**Cuando** acceda a la opción “Crear ofertas”, al seleccionarlo tendrá que ingresar: los productos, la cantidad del producto y el nuevo precio</p><p>**Entonces** puede visualizar la información de la oferta creada</p><p>**Escenario 2: Análisis de ofertas**</p><p>**Dado que** soy distribuidor **Y** he iniciado sesión en la aplicación</p><p>**Cuando** acceda a la opción “Análisis de ofertas”</p><p>**Entonces** puede ver las ofertas más vendidas y la cantidad de comprada</p>|4|
+|**Epic 5: Preferencias en la aplicación**<br>**Como** usuario<br>**Quiero** configurar preferencias en la aplicación<br>**Para** tener una mejor experiencia en la aplicación según mis preferencias|||||
+|E5-US101|Preferencia de idioma|**Como** usuario **quiero** configurar preferencias de idioma **para** utilizar la aplicación según mi preferencia de idioma|<p>**Escenario 1: Modo predeterminado de preferencia de idioma**</p><p>**Dado que** el usuario no haya realizado cambios de preferencias de idioma a la aplicación</p><p>**Cuando** ingrese a la aplicación </p><p>**Entonces** el idioma predeterminado es inglés</p><p>**Escenario 2: Cambio de preferencias de idioma en la aplicación**</p><p>**Dado que** el usuario se encuentra en la sección de configuraciones de idioma</p><p>**Cuando** selecciona un idioma</p><p>**Entonces** la idioma de la aplicación se cambia al idioma seleccionado.</p>|5|
+|E5-US102|Página no encontrada|**Como** usuario **quiero** ser informado de una página no encontrada en la aplicación **para** darme cuenta que estoy en una pagina errónea y volver al inicio. |<p>**Escenario 1: Error 404**</p><p>**Dado que** el usuario se encuentre en la aplicación</p><p>**Cuando** ingrese a una ruta que no existe</p><p>**Entonces** aparece una página que informa al usuario que la página no ha sido encontrada</p><p>**Y** aparece una opción para ser redirigido a la página principal.</p>|5|
+|**Epic 6: Backend API**<br>**Como** desarrollador<br>**Quiero** utilizar un backend api<br>**Para** que los usuarios puedan interactuar con la aplicación |||||
+|E6-US101|Crear API Fake|**Como** desarrollador **quiero** crear una API fake **para** poder avanzar el desarrollo de la web app|<p>**Escenario 1: Creación de la API Fake**</p><p>**Dado que** desarrollador crea una API Fake</p><p>**Cuando** realice el consumo del API Fake</p><p>**Entonces** recibe datos simulados correctamente desde la API Fake y puede usarlos para desarrollar la web app </p>|6|
 
 ## 3.3. Impact Mapping.
 A continuación, toca analizar cómo se relacionan nuestras metas de negocios con los principales entregables de nuestro proyecto. Se eligieron las user stories de mayor importancia para el proceso de nuestro aplicativo y su impacto a futuro.
 
-**Segmento Objetivo: Productor Agricola**
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/Impact%20map%20Productor%20Agricola.png?raw=true"/>
+**Segmento Objetivo: Productor Agricola**  
 
-**Segmento Objetivo: Distribuidores**
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/Impact%20map%20Distribuidores.png?raw=true">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/381e8161cc83f3701e6170a1234263322d4303d6/assets/Chapter%203/Impact%20map-Productores%20Agricolas1.png">
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/381e8161cc83f3701e6170a1234263322d4303d6/assets/Chapter%203/Impact%20map-Productores%20Agricolas2.png">  
+
+**Segmento Objetivo: Distribuidores**  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/381e8161cc83f3701e6170a1234263322d4303d6/assets/Chapter%203/Impact%20map-Distribuidores1.png">
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/381e8161cc83f3701e6170a1234263322d4303d6/assets/Chapter%203/Impact%20map-Distribuidores2.png">
 
 ## 3.4. Product Backlog.
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/Webworks%20Product%20Backlog.png?raw=true">
+Captura del tablero de Product Backlog en Trello:
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/c59cc5b1ac3b07cc8415b1083ad45a8e72e15437/assets/Chapter%203/Webworks-Product%20Backlog-S2.png">
 
 **Link de Trello:** [Product Backlog WebWorks Trello](https://trello.com/b/UmnID3DF/webworks-product-backlog)
 |# Orden|User story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
@@ -1134,20 +1156,25 @@ A continuación, toca analizar cómo se relacionan nuestras metas de negocios co
 |5|E1-US105|Sección de planes en landing page|**Como** visitante **quiero** visualizar los planes que ofrece la aplicación **para** considerar adquirir la membresía|2|
 |6|E1-US106|Sección de footer a la aplicación en landing page|**Como** visitante **quiero** visualizar la sección de footer **para** acceder a links de la página|2|
 |7|E1-US107|Sección para conocer al equipo de trabajo|**Como** visitante **quiero** conocer más sobre el equipo que desarrolla la aplicación **para** adquirir confianza de dicho equipo de trabajo.|2|
-|8|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|3|
-|9|E2-US102|Formulario de login|**Como** usuario de la página web, **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|3|
-|10|E2-US103|Recuperación de contraseñas |**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide **para** ingresar a mi cuenta de usuario|3|
-|11|E3-US101|Pantalla de inicio productor agrícola|**Como** productor agrícola **quiero** visualizar todos los registros de los cultivos que he creado **para** poder ver fácilmente el progreso de los mismos|3|
-|12|E3-US102|Proceso de siembra de cultivos|**Como** productor agrícola **quiero** funcionalidades de apoyo en el proceso de siembra de los cultivos **para** optimizar la gestión de recursos y controlar los costos |3|
-|13|E3-US103|Proceso de riego de cultivos|**Como** productor agrícola **quiero** funcionalidades de apoyo en el riego de cultivos **para** mejorar el cuidado de los cultivos|5|
-|14 |E3-US104|Compra de productos para cultivos|**Como** productor agrícola **quiero** realizar compras de manera online **para** usarlos en mis cultivos|5|
-|15|E3-US105|Proceso de fumigación y fertilización|**Como** productor agrícola **quiero** funcionalidades de apoyo en el proceso de fumigación y fertilización **para** mejorar el cuidado de los cultivos|5|
-|16|E3-US106|Proceso de cosecha|**Como** agricultor **quiero** funcionalidades de apoyo en la recolección de la cosecha **para** ver la productividad del trabajo elaborado|5|
-|17|E3-US107|Proceso de análisis financiero de los cultivos|**Como** productor agrícola **quiero** un análisis financiero **para** visualizar la utilidad del trabajo elaborado|3|
-|18|E4-US101|Pantalla de inicio del distribuidor|**Como** distribuidor **quiero** gestionar mi tienda virtual **para** gestionar de manera eficiente el inventario y los precios.|3|
-|19|E4-US102|Análisis de producto de la tienda|**Como** distribuidor **quiero** analizar los productos de mi tienda y su disponibilidad **para** optimizar mis decisiones de compra y maximizar mis ventas |3|
-|20|E4-US103|Proceso de análisis financiero de la tienda|**Como** distribuidor **quiero** un análisis financiero **para** visualizar la utilidad de mi tienda|5|
-|21|E4-US104|Ofertas de la tienda de distribuidores|**Como** distribuidor **quiero** crear ofertas **para** captar el interés de mi público|3|
+|8|E6-US101|Crear API Fake|**Como** desarrollador **quiero** crear una API fake **para** poder avanzar el desarrollo de la web app|2|
+|9|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|3|
+|10|E2-US102|Formulario de login|**Como** usuario de la página web, **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|3|
+|11|E2-US103|Recuperación de contraseñas |**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide **para** ingresar a mi cuenta de usuario|3|
+|12|E3-US101|Crear campos de cultivo|**Como** productor agricola **quiero** crear campos de cultivo **para** poder monitorear facilmente el proceso agricola del campo|3|
+|13|E3-US102|Barra de navegación del productor agricola|**Como** productor agrícola **quiero** una barra de navegación **para** poder tener acceso directos a la informacion de la web app |3|
+|14|E3-US103|Pantalla de inicio del proceso agricola|**Como** productor agrícola **quiero** visualizar todos los registros de los cultivos que he creado **para** poder ver fácilmente el progreso de los mismos|3|
+|15|E3-US104|Programacion de fecha de riego de cultivos|**Como** productor agrícola **quiero** funcionalidades de apoyo en el riego de cultivos **para** mejorar el cuidado de los cultivos|5|
+|16|E3-US105|Compra de productos para cultivos|**Como** productor agrícola **quiero** realizar compras de manera online **para** usarlos en mis cultivos|5|
+|17|E3-US106|Programacion de fechas de tratamiento|**Como** productor agrícola **quiero** funcionalidades de apoyo en el proceso de fumigación **para** mejorar el cuidado de los cultivos|5|
+|18|E3-US107|Proceso de recolección de la cosecha|**Como** productor agrícola **quiero** funcionalidades de apoyo en la recolección de la cosecha **para** gestionar de manera eficiente el inventario y los preciosver la productividad del trabajo elaborado.|5|
+|19|E3-US108|Proceso de análisis financiero de los cultivos|**Como** productor agrícola **quiero**un análisis financiero **para** visualizar la utilidad del trabajo elaborado |5|
+|20|E5-US101|Preferencia de idioma|**Como** usuario **quiero**un análisis financiero **para** visualizar la utilidad del trabajo elaborado |2|
+|21|E5-US102|Página no encontrada|**Como** usuario **quiero** ser informado de una página no encontrada en la aplicación **para** darme cuenta que estoy en una pagina errónea y volver al inicio|2|
+|22|E4-US101|Pantalla de inicio del distribuidor|**Como** distribuidor **quiero** gestionar mi tienda virtual **para** administrar de manera eficiente el inventario y los precios|5|
+|23|E4-US102|Crear productos en la tienda|**Como** distribuidor **quiero** analizar los productos de mi tienda y su disponibilidad **para** optimizar mis decisiones de compra y maximizar mis ventas|5|
+|24|E4-US102|Análisis de producto de la tienda|**Como** distribuidor **quiero** crear productos en la tienda virtual **para** poder venderlos|5|
+|25|E4-US103|Proceso de análisis financiero de la tienda|**Como** distribuidor **quiero** un análisis financiero **para** visualizar la utilidad de mi tienda|5|
+|26|E4-US104|Ofertas de la tienda de distribuidores|**Como** distribuidor **quiero** crear ofertas **para** captar el interés de mi público|3|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
@@ -1252,6 +1279,9 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 ![Miscellaneos preview web](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/nav-bar-1.png?raw=true)
 
 ### 4.1.2. Web Style Guidelines.
+
+AgroControl ofrece una experiencia coherente, intuitiva y visualmente atractiva, optimizando la interacción en una variedad de dispositivos y tamaños de pantalla.
+El diseño debe ajustarse a diferentes tamaños de pantalla sin sacrificar la funcionalidad o estética. Se ha seleccionado el patrón F como el principal esquema de escaneo visual en nuestras interfaces, alineado con los hábitos naturales de lectura de los usuarios. Esto asegura que los usuarios encuentren rápidamente la información más relevante
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
@@ -1444,152 +1474,338 @@ El footer incluye enlaces rápidos, información de contacto y otras secciones r
 
 
 ## 4.4. Web Applications UX/UI Design.
+
+AgroControl es una plataforma de gestión que facilita diversos procesos, como la administración de campos, horarios e inventarios. Su diseño busca ser atractivo y coherente, además de funcional e intuitivo, garantizando que los usuarios puedan interactuar de manera eficiente con las herramientas ofrecidas.
+En cuanto a la experiencia de usuario, se ha priorizado una navegación intuitiva que permite registrar campos, programar plantaciones, riegos, fertilización y fumigación de manera sencilla. Además de controlar y registrar las cosechas y ganancias derivadas de estas.
+Se han empleado elementos visuales claros, como botones, tablas de registro y menús bien definidos, para asegurar que los usuarios puedan realizar sus tareas sin complicaciones. Además, la plataforma proporciona una visualización de datos principal que permite acceder rápidamente a información clave, como la plantación en curso y los horarios de los próximos procesos a realizar.
+
+
 ### 4.4.1. Web Applications Wireframes.
 
-**Menu**
+Enlace Figma: https://shorturl.at/EgCQ3
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Menu-Agro-Wireframe.png?raw=true" />
 
-**Fields**
+**Inicio Sesion**  
+La primera pantalla que interactua el usuario. En esta, el usuario podra iniciar sesion en AgroControl. Ademas de opciones de regsitrarse, sino cuenta con una subscripcion, y opciones de recuperacion de contraseña.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Wireframe/Registro.png" />  
+
+**Registro usuario**
+
+La pantalla de registro, permite al usuario crear un cuenta en AgroControl. Mediante un formulario, se le solicita sus datos personales. Ademas, define el rol que cumple, ya sea "Agricultor" o "Distribuidor, con sus respectivos planes.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/SignUpView.png" />
+
+**Fields**  
+
+Pantalla de control y visualizacion de los fields registrados por el usuario. En el se puede crear un nuevo campo o "Field" e interactuar con la tarjeta para visualizar los procesos activos y las funcionalidades de la plataforma.
 
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png?raw=true" />
 
-**Store**
+**Home Field**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png?raw=true" />
+Pantalla donde se visualiza un panel de control de los diferentes procesos en funcionamiento. En el podemos diferenciar los principales funcionamientos que ofrece la plataforma, como el comienzo de una plantacion, añadir a trabajadores, agendar horarios de riego, fertilizacion y fumigacion.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field.png" />
+
+**Home Field Menu**
+
+Barra lateral de navegacion. En el se visualiza las funcionalidades de la plataforma. Nos permite dirigirnos a vistas más detalladas de cada proceso.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field-menu.png"/>
 
 **Irrigation**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/Riego-Agro.png?raw=true" />
+Pantalla de registro y creacion de procesos de riego. Los datos que se visualizan son el día de inicio de proceso, horas demandadas y los trabajadores involucrados.  
 
-**Finances**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Irrigation-list.png" />    
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png?raw=true" />
+**Fumigation & Fertilization**  
 
-**Fumigation and fertilizers**
+Pantalla de registro y creacion de procesos de fumigación y fertilización. Los datos que se visualizan son el dia de inicio del proceso, horas que tomara el trabajo, el tipo de proceso, ya sea "Fertilization" o "Fumigation", y los trabajadores involucrados.    
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fumigacion-Agro.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Fumigation-list.png" />
 
 **Harvest**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/recoleccion-Agro.png?raw=true" />
+Pantalla de registro de cosecha en la tabla "Harvest". Sirve como control de las cosechas realizadas en el "Field". Los datos identificados son el dia de registro, el peso de la cosecha y el precio por unidad.
 
-Link Figma:
-https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Harvest-Agro.png" />
+
+**Finances**
+
+Pantalla de registro de la finanzas del field del usuario. Nos permite visualizar las ganacias y la cantidad vendido de cosecha en una fecha determinada. Podemos visualizar los datos de fecha de registro, costo total y ganancias.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" />
+
+**Workers**
+
+Pantalla de registro de trabajadroes. En el nos permite visualizar y manejar los trabajadores que esten relacionados a nuestro field. Los datos solicitados son el nombre del trabajador, numero telefonico y el numero de documento de identidad.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Workers-list.png" />
+
+**Store**
+
+Pantalla de la tienda virtual de la aplicacion AgroControl. Nos muestra los diferentes objetos publicados por los usuarios, ya sean "Agricultores" o "Distribuidores".  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Enlace Lucidchart:
 
-https://lucid.app/lucidchart/a9ce6e62-5c78-4044-8dfc-b1e599042839/edit?invitationId=inv_8080371d-b917-48d7-bd47-6c51db8e29db
+Enlace Lucidchart: https://shorturl.at/MMpXU
 
-**Usuario quiere agregar un nuevo "Field"**
+**Agregar nueva cosecha en tabla "Harvest"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-create-fieldpng.png?raw=true" />
+En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.
 
-**Usuario quiere agendar y llena el formulario de riego**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Harvest-wire.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-irrigation.png?raw=true" />
+**Crear nueva plantacion en "Planting"**
 
-**Usuario quiere comprar un producto en la tienda "Store"**
+Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-store.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Planting-wire.png" />
 
-**Usuario quiere agendar y llena el formnulario de Fumigacion y fertilizar**
+**Crear nuevo "Field"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/fumigation-user.png?raw=true" />
+La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.
 
-**Usuario quiere registrar las cosechas y el peso por caja**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Field-wire.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/6fefa0adce926cb68fd1d7cc2a642c8c21c04775/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/harvest-user.png" />
+**Agregar nuevos datos de finanzas en "Finances"**
 
-**Usuario registra el peso vendido y las ganancias por unidad de producto en "Finances"**
+Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/user-finances.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Finances-wire.png" />
 
-### 4.4.2. Web Applications Mock-ups.
+**Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**
 
-**Fields**
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Fum-Fert.png" />
 
-**Menu**
+**Agregar nuevo proceso de riego en "Irrigation"**
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Menu-Agro.png?raw=true" />
+Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.
 
-**Irrigation**
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/irrigation-wire.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Riego-Agro.png?raw=true" />
+**Agregar nuevo trabajador de cultivo en "Workers"**
 
-**Store**
+Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/worker-wire.png" />
+
+
+### 4.4.3. Web Applications Mock-ups.
+
+Link Figma: https://shorturl.at/EgCQ3  
+
+**Inicio Sesion**
+La pantalla de inicio de sesión de AgroControl está diseñada con simplicidad y accesibilidad en mente. Es el primer punto de contacto del usuario con la aplicación AgroControl.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Registro.png" />
+
+**Registro usuario**  
+La pantalla de registro de AgroControl permite a los usuarios seleccionar su rol de Agricultor o Distribuidor mediante dos radio buttons.   
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/SignUp-Agro.png" />
+
+**Fields**  
+La pantalla de Fields permite al usuario registra y visualizar los campos a su disposición. En el podemos ver los nombres, el tamaño y la localización de esta.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" />
+
+**Home Field**  
+Pantalla de visualización de datos principales como el inicio de una plantación con sus datos respectivos, además de los horarios registrados para los procesos de riego, fertilización y fumigación. 
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field.png" />  
+
+**Home Field Menu**  
+Se visualiza en la zona derecha un menú de navegación donde nos permite visualizar y dirigirnos a las diferentes funcionalidades de la aplicación.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field-menu.png" />
+
+**Irrigation**  
+Pantalla de visualización y registro de procesos de riego. Se puede monitorear el horario de inicio del proceso, las horas destinadas y los trabajadores involucrados.
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Irrigation-list.png" />
+
+**Fumigation & Fertilization**  
+La pantalla Fumigation & Fertilization permite visualizar y monitorear los diferentes procesos agendados. Se registra el día y las horas dedicadas para el proceso.   
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Fumigation-list.png" />
+
+**Harvest**  
+Pantalla Harvest permite registrar las cosechas realizadas, con el peso de la cosecha y el precio por unidad.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Harvest-Agro.png" />
 
 **Finances**
+En Finances se puede visualizar una tabla que permite registrar y monitorear el día de registro de las ganancias generadas por la venta de los productos vendidos. 
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" />  
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
+**Workers**  
+Pantalla de visualización de trabajadores registrados al Field. Se registra el nombre, su número telefónico y documento de identidad.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Workers-list.png" />
 
-**Fumigation and fertilizers**
+**Store**  
+Pantalla de la tienda interna de los usuarios. En ella podemos ver los productos publicados por Agricultores y Distribuidores, y realizar compras de estos.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png?raw=true" />
+### 4.4.4. Web Applications User Flow Diagrams.
 
-**Harvest**
+Enlace LucidChart: https://shorturl.at/MMpXU  
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Mockup/recoleccion-Agro.png?raw=true" />
+**Agregar nueva cosecha en tabla "Harvest"**  
+En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Harvest-uflow.png"/>
 
-Link Figma:
-https://www.figma.com/design/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=0-1&t=4P9yck1fkD7iHbPP-1
+**Crear nueva plantacion en "Planting"**  
+Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Planting-uflow.png" />
 
+**Crear nuevo "Field"**  
+La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.   
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/field-uflow.png" />
 
-### 4.4.3. Web Applications User Flow Diagrams.
+**Agregar nuevos datos de finanzas en "Finances"**  
+Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/finances-uflow.png" />
 
-Enlace Overflow:
+**Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**  
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/fum-fer-uflow.png" />
 
-https://overflow.io/s/N7ITFZCP
+**Agregar nuevo proceso de riego en "Irrigation"**  
+Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-uflow.png" />
 
-**Agregar nuevo "Field"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/fields-user.png?raw=true"/>
-
-**Agregar nueva dato a "Finances"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png?raw=true" />
-
-**Agendar temporada de fumigación y fertilización en "Fumigation and fertlizers"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/finances-user.png?raw=true" />
-
-**Agregar la cosecha realizada en la sección "Harvest"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/harvest-user.png?raw=true" />
-
-**Agendar temporada de riego en la sección "Irrigation"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-user.png?raw=true" />
-
-**Realizar una compra en la sección "Store"**
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Userflow/store-user.png?raw=true" />
-
+**Agregar nuevo trabajador de cultivo en "Workers"**  
+Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/worker-uflow.png" />
 
 ## 4.5. Web Applications Prototyping.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Prototyping/prototype-figma.png?raw=true" />
+**Crear y agregar un "Field"**  
+El prototipo desarrollado presenta el flujo completo para la creación de un campo agricola, una funcionalidad central para los agricultores.
+Desde la pantalla principal, el usuario puede agregar y acceder a un formulario de creación de campos haciendo click en el botón de accion con el simbolo "+".
 
-Enlace de Figma: 
-https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node-type=FRAME&t=Mmri04ZsvmNBeZoT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=143%3A1155&show-proto-sidebar=1
+El formulario de creación de campo incluye los siguientes campos obligatorios:
 
+- Nombre del Campo: El usuario ingresa el nombre que quiere asignar al campo
+- Tamaño del Campo: Ingresado en hectareas
+- Ubicación del Campo: Ingresa la ubicacion geografica.
+
+Después de crear un campo, el usuario regresa a la pantalla principal, donde los campos registrados se muestran en formato de cards. Están diseñadas con un estilo claro y visualmente atractivo, organizadas en grillas que responde a los diferentes tamaños de pantalla. Los usuarios pueden interactuar con las cards para ver más detalles de los procesos o eliminarlo.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/create_field.png" />
+
+Video: https://shorturl.at/D5nOI
+
+**Registro de proceso de fumigacion y fertilizacion en la tabla "Fumigation & Fertilization"**
+
+El presente prototipo se evidencia el flujo de registro del proceso de fumigacion y fertilizacion. Desde la pantalla de "Fumigation & Fertilization", el usuario puede agregar mediante un formulario los siguientes datos:
+
+- Fecha del proceso: Seleccion de fecha de inicio del proceso.
+- Horas trabajadas: Ingresa las horas que conlleva dicho proceso
+- Tipo de proceso: Seleccion entre los procesos de "Fumigation" y "Fertilization"
+- Productos utilizados: Productos del inventario del agricultor
+- Trabajadores: Los trabajadores involucrados en el procesos.
+
+Despues de crear el proceso, se visualiza en la tabla "Fumigation & Fertilization".
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/fumigation.png" />
+
+Video: https://shorturl.at/iygAV
+
+**Registro y visualizacion de las finanzas del usuario relacionadas a un campo**
+
+Esta característica se diseñó considerando criterios de interacción que maximizan la claridad y facilidad de uso.
+Desde la pantalla principal del campo, el usuario accede a la sección de finanzas mediante una pestaña claramente identificada como "Finanzas", ubicada en el menú lateral o directamente dentro de la card del campo.
+El usuario tiene la opción de agregar un nuevo dato. Los campos a completar incluyen:
+
+- Fecha de registro: Fecha de registro de inicio del proceso.
+- Costo Total: El costo total de los procesos realizados en el campo.
+- Ingreso Total: El ingreso total por proceso de plantacion.
+- Ganancias: Las ganancias obtenidas del proceso.
+
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/finances.png" />
+
+Video: https://shorturl.at/Y5MGc
+
+**Registro de proceso de riego en la tabla "Irrigation"**
+
+El flujo representa el  registrar y visualizar los datos relacionados con el riego de sus campos, lo que les permite un mejor control sobre el uso del agua y las fechas programadas para futuras irrigaciones. Estos registros se almacenan en la tabla llamada "Irrigation".
+En la pantalla de riego, se presenta un botón prominente llamado "Add" que abre un formulario de ingreso de datos. Se abre un formulario donde el usuario debe llenar la siguiente información:
+
+- Fecha de riego: Selecciona mediante un calendario.
+- Duracion: Cantidad de tiempo que dura el riego.
+- Trabajadores: Los trabajadores involucrados con el proceso
+
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/irrigation.png" />
+
+Video: https://shorturl.at/GkG2u
+
+**Registro de cosecha realizada en la tabla "Harvest"**
+
+El registro de la cosecha es un proceso que permite rastrear las cantidades recolectadas y sus valores comerciales. Los datos se almacenan en una tabla denominada "Harvest". En esta tabla, el usuario puede registrar la fecha de la cosecha, el peso total recolectado, y el precio por unidad de peso.
+
+- Fecha de la cosecha: Se selecciona desde un calendario.
+- Peso total: Ingresado en kilogramos o la unidad de peso utilizada por el agricultor
+- Precio por unidad de peso: El precio que se espera recibir por cada unidad del peso total cosechado.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/harvest.png" />
+
+Video: https://shorturl.at/Vioq8
+
+**Registro de proceso de plantación de producto en el campo.**
+
+El registro del proceso de plantación sigue un flujo secuencial. Este enfoque guía a los agricultores a través de un formulario simple y ordenado, permitiendo que la información esencial del proceso de plantación sea registrada de manera clara y concisa. Además, la tabla que almacena esta información les permite acceder rápidamente a los datos de plantaciones anteriores.
+
+Desde la pantalla principal de AgroControl, el usuario selecciona el campo en el que desea registrar la plantación. En la vista de ese campo, se presenta una opción en el menú o en las cards de acciones rápidas llamada "Create Planting".
+
+El formulario contiene los siguientes campos esenciales para el registro:
+
+- Fecha de inicio: Se especifica el inicio del proceso de plantación 
+- Semillas plantadas: Descripción de las semillas utilizadas
+- Cantidad: Especifica la cantidad utilizada para el proceso
+- Costo: Especifica el costo total del uso de las semillas
+- Workers: Ingresar los workers involucrados en el proceso
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/planting.png" />
+
+Video: https://t.ly/ZSkcb
+
+**Registro y visualizacion de trabajadores relacionados a los procesos del campo, en la tabla "Workers".**
+
+El manejo de los trabajadores es un aspecto clave en la gestión agrícola. AgroControl permite a los agricultores registrar a los trabajadores asignados a sus campos, ingresando información básica como el nombre, el teléfono, y el documento de identidad de cada trabajador.
+El sistema utiliza un enfoque jerárquico y secuencial para la gestión de los trabajadores. Los usuarios pueden registrar la información de sus trabajadores de manera sencilla y visualizarla en una tabla organizada, permitiendo tanto la actualización como la eliminación de registros.
+
+El formulario permite registrar los siguientes datos básicos de cada trabajador:
+
+- Nombre del trabajador.
+- Teléfono de contacto.
+- Documento de identidad.
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/workers.png" />
+
+Video: https://shorturl.at/3LBmG  
 
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+La arquitectura de software basada en el dominio, un enfoque que centra el diseño y desarrollo del software en el conocimiento del dominio específico del negocio, se presenta en esta sección. Este método facilita la comunicación entre desarrolladores y expertos del dominio y permite la creación de sistemas más alineados con las necesidades y procesos comerciales. A continuación se presentan los diagramas y contextos delimitados que conforman la arquitectura de software de nuestro proyecto.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Context%20Diagram.png">
+### 4.6.1. Software Architecture Context Diagram.  
+El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Context%20Diagram.png">
    
 ### 4.6.2. Software Architecture Container Diagrams.
+Las aplicaciones web, las bases de datos, los microservicios y cómo se comunican entre sí se muestran en los diagramas de contenedores. Estos diagramas destacan las responsabilidades y las interacciones de cada contenedor, ofreciendo una visión general de la arquitectura del sistema.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Container%20Diagram.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Container%20Diagram.png">
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams.  
+Los diagramas de componentes de la arquitectura de software se presentan en esta sección. Estos diagramas muestran los diversos componentes del sistema, sus funciones y cómo interactúan entre sí.
 
 #### Login and Registration Bounded Context
 
@@ -1616,35 +1832,54 @@ https://www.figma.com/proto/HTzIits3PdFPQu3q9SWsZQ/App-Web?node-id=150-1654&node
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png?raw=true">
 
 ## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png?raw=true" />
+El diseño orientado a objetos (OOD) organiza el software en torno a objetos que combinan datos y funciones. Basado en principios como la abstracción, encapsulamiento, herencia y polimorfismo, OOD facilita la creación de sistemas modulares, reutilizables y fáciles de mantener.  
+
+### 4.7.1. Class Diagrams.  
+Los diagramas de clases representan la estructura de un sistema orientado a objetos, mostrando clases, atributos, métodos y sus relaciones, facilitando la comprensión de la arquitectura del software.  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" />
+
 ### 4.7.2. Class Dictionary.
-**User**
+
+**User**  
 Clase representa a los usuarios del sistema
-**Farmer**
+
+**Farmer**  
 Representa a los usuarios agricultores
-**Distributor**
+**Distributor**  
 Representa a los usuarios distribuidores
-**Field**
+
+**Field**  
 Representa la tierra de cultivo del usuario "Farmer"
-**IrrigationSchedule**
+
+**IrrigationSchedule**  
 Representa la funcion de horario de riego de un campo
-**FertilizationSchedule**
+
+**FertilizationSchedule**  
 Representa la funcion de horario de fertilizacion de un campo
-**FumigationSchedule**
+
+**FumigationSchedule**  
 Representa la funcion de horario de fumigación de un campo
-**Harvest**
+
+**Harvest**  
 Representa la cosecha realizada en un campo
-**Product**
+
+**Product**  
 Representa un producto disponible en la tienda de un distribuidor
-**Offer**
+
+**Offer**  
 Representa una oferta especial en la tienda de un distribuidor
-**Subscription**
+
+**Subscription**  
 Representa la suscripción de un usuario, que define el acceso a funcionalidades
-**UserFactory**
-Instancias para "Farmer" y "Distributor"
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+
+**UserFactory**  
+Instancias para "Farmer" y "Distributor"  
+
+## 4.8. Database Design.  
+### 4.8.1. Database Diagram.  
+Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
+
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" />
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1876,7 +2111,6 @@ Configuraciones de donde y como deployeamos el proyecto
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 
-
 <table>
      <tr> 
         <th>  Sprint #  </th>
@@ -1938,7 +2172,7 @@ Configuraciones de donde y como deployeamos el proyecto
           <td> 11 <td>
       </tr>
 
-  </table>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -1980,7 +2214,7 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1995,18 +2229,167 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 * GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
 * Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1">
 
-<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1">
 
-<img src="https://github.com/W3bW0rks/project-report/blob/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+En el siguiente apartado, se presentará el sprint planning 2, donde se mostrará la planificación e implementación del web application. Asimismo, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 20/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Webworks <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Zavala Quedena, Gonzalo Andre
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+          Principe Godoy, Johan
+          <br>
+          Espino Flores, Alejandro
+          <br>
+	        Aiquipa Poma, Sebastian Andres
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Se logró implementar el landing page y se desplegó en Vercel<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> 
+          En este sprint como equipo logramos desplegar la landing page de forma adecuada  debido a la correcta division de 
+          tareas y el cumplimiento de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
+          los objetivos para el sprint 2.
+        <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td> 
+            En este sprint se planea desarrollar el web application con el framework Angular, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link 
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td> 11 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 30 <td>
+      </tr>
+
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
+![Tablero Trello Sprint Backlog 2](https://imgur.com/qDSnzzw.jpg)
+Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">USer Story</td><td colspan="6" valign="top">Work-item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / in Process / To - Review / (Done) )</td></tr>
+<tr><td colspan="1" valign="top">E2-US102</td><td colspan="1" valign="top">Formulario de login</td><td colspan="1" valign="top">T1</td><td colspan="1" valign="top">Interfaz de usuario del inicio de sesión de cuentas</td><td colspan="1" valign="top">Implementar interfaz de los formularios para inicio de sesión tanto para productores agricolas y distribuidores</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombres</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US101</td><td colspan="1" rowspan="2" valign="top">Crear campos de cultivo</td><td colspan="1" valign="top">T2</td><td colspan="1" valign="top">Formulario crear campo de cultivo</td><td colspan="1" valign="top">Implementar interfaz del formulario que permita la creación del campo de cultivo</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T3</td><td colspan="1" valign="top">Interfaz del campo de cultivo</td><td colspan="1" valign="top">Implementar interfaz para poder visualizar todos los campos que ha creado el producto agricola</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">E3-US102</td><td colspan="1" valign="top">Barra de navegación del productor agricola</td><td colspan="1" valign="top">T4</td><td colspan="1" valign="top">Toolbar de navegación del productor agricola</td><td colspan="1" valign="top">Implementar una interfaz que permita la navegación dentro del web application para los productores agricolas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top"><p></p><p>E3-US103</p></td><td colspan="1" rowspan="2" valign="top">Pantalla de inicio del proceso agricola</td><td colspan="1" valign="top">T5</td><td colspan="1" valign="top">Pantalla de inicio del proceso agricola</td><td colspan="1" valign="top">Implementar interfaz de la planteacion y procesos agricolas que ha implementado el usuario</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T6</td><td colspan="1" valign="top">Formulario de planteacion</td><td colspan="1" valign="top">Implementar interfaz del formulario para poder registrar la semilla que se siembra</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US104</td><td colspan="1" rowspan="2" valign="top">Programacion de fecha de riego de cultivos </td><td colspan="1" valign="top">T7</td><td colspan="1" valign="top">Formulario de Riego</td><td colspan="1" valign="top">Implementar una interfaz de formulario que permite crear las fechas de riego</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T8</td><td colspan="1" valign="top">Lista de fechas de riego</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todas las fechas de riego creadas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US106</td><td colspan="1" rowspan="2" valign="top">Programacion de fechas de tratamiento</td><td colspan="1" valign="top">T9</td><td colspan="1" valign="top">Formulario de Tratamiento</td><td colspan="1" valign="top">Implementar una interfaz de formulario que permita crear fechas de tratamiento</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T10</td><td colspan="1" valign="top">Lista de fechas de tratamiento</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todas las fechas de tratamiento creados</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US107</td><td colspan="1" rowspan="2" valign="top">Proceso de recolección de la cosecha</td><td colspan="1" valign="top">T11</td><td colspan="1" valign="top">Interfaz de fecha de cosecha</td><td colspan="1" valign="top">Implementar una opción en la lista que permita crear fechas de cosechas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombres</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T12</td><td colspan="1" valign="top">Lista de fechas cosechas</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todas las fechas de cosecha creadas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">E3-US108</td><td colspan="1" rowspan="2" valign="top">Proceso de análisis financiero de los cultivos</td><td colspan="1" valign="top">T13</td><td colspan="1" valign="top">Formulario de finanzas</td><td colspan="1" valign="top">Implementar una opcion en las lista que permita crear datos financieros</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombres</td><td colspan="1" valign="top">estados</td></tr>
+<tr><td colspan="1" valign="top">T14</td><td colspan="1" valign="top">Lista de datos financieros</td><td colspan="1" valign="top">Implementar una lista que permita visualizar todos los datos financieros creados</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="6" valign="top">E5-US101</td><td colspan="1" rowspan="6" valign="top">Preferencia de idioma</td><td colspan="1" valign="top">T15</td><td colspan="1" valign="top">Opción Ingles-Español en pantallas de crear campos de cultivos</td><td colspan="1" valign="top">Implementar i18n para las pantallas de la creacion de campos de cultivos</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T16</td><td colspan="1" valign="top">Opcion Ingles-Español en pantalla de inicio de proceso agricolas</td><td colspan="1" valign="top">Implementar i18n para las pantallas de inicio de los proceso agricolas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T17</td><td colspan="1" valign="top">Opcion Ingles-Español en pantallas de programación de fechas de riego</td><td colspan="1" valign="top">Implementar i18n para las pantallas de programación de fechas de riego</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T18</td><td colspan="1" valign="top">Opcion Ingles-Español en pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">Implementar i18n para las pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T19</td><td colspan="1" valign="top">Opcion Ingles-Español en pantallas de programación de finanzas</td><td colspan="1" valign="top">Implementar i18n para las pantallas de finanzas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T20</td><td colspan="1" valign="top">Opcion Ingles-Español en la barra de navegación de los productores agricolas</td><td colspan="1" valign="top">Implementar i18n para la barra de navegacion de los productores agricolas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="1" valign="top">E5-US102</td><td colspan="1" rowspan="1" valign="top">Página no encontrada</td><td colspan="1" valign="top">T21</td><td colspan="1" valign="top">Interfaz de error 404</td><td colspan="1" valign="top">Implementar una interfaz de error 404 cuando se accede a un link inexistente o incorrecto</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" rowspan="7"  valign="top">E6-US101</td><td colspan="1" rowspan="7" valign="top">Crear API Fake</td><td colspan="1" valign="top">T22</td><td colspan="1" valign="top">Informacion del API Fake</td><td colspan="1" valign="top">Implementar en la API fake informacion que se adecue a la base de datos</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T23</td><td colspan="1" valign="top">API fake en pantallas de crear campos de cultivos</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de crear campos de cultivos</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T24</td><td colspan="1" valign="top">API fake en pantallas de inicio del proceso agricola</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de inicio del proceso agricola</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T25</td><td colspan="1" valign="top">API fake en pantallas de programacion de fechas de riego</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de programacion de fechas de riego</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T26</td><td colspan="1" valign="top">API fake en pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de programación de fechas de tratamiento</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T27</td><td colspan="1" valign="top">API fake en pantallas de programación de fechas de cultivo</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de programación de fechas de cultivo</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+<tr><td colspan="1" valign="top">T28</td><td colspan="1" valign="top">API fake en pantallas de finanzas</td><td colspan="1" valign="top">Conectar la API fake con las pantallas de finanzas</td><td colspan="1" valign="top">horas</td><td colspan="1" valign="top">nombre</td><td colspan="1" valign="top">estado</td></tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                | Branch                            | Commit ID | Commit Message                                             | Commit Message Body | Commited On(Date) |
+|---------------------------|-----------------------------------|-----------|------------------------------------------------------------|---------------------|-------------------|
+| agrocontrol-front-end     | feature/crop-treatment-form       | 1f5b64e   | refactor: improve styles for responsiveness                | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/crop-treatment-table      | 7fea01d   | refactor(fields): changes.                                 | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/fields-form               | 7fea01d   | feat(main): add routing to main component.                 | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/harvest-scheduler         | 7fea01d   | feat(agricultural-process): add harvest service            | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/home-agricultural-process | 1f5b64e   | feat: update some of information of app archives           | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/irrigation-form           | 84ed335   | feat(main): add routing to main component.                 | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/login                     | 7fea01d   | feat(main): add login to routing.                          | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/pop-up-irrigation         | 01d4b8c   | Merge branch 'develop' into feature/crop-treatments-table  | -                   | 03/09/2024        |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web como primera instancia, por lo que no se evidencia de testing.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review  
+
+Despliegue de aplicación Angular generando carpeta <b>dlist</b> en directorio browser.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/serverDeployed.png"/>
+
+Generando la carpeta <b>dlist</b> para posteriormente el despliegue.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image2.png"/>
+
+Subiendo el archivo deploy a nuestro hosting  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/netlify.png"/>
+
+Verificando carga completa de nuestro proyecto subido a nuestro hosting
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/webApplicationInNetlify.png"/>
+
+Aplicación Web desplegada luego de ser subida a nuestro hosting
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image.png"/>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+A continuación, se presenta la documentación de los servicios utilizados. En esta oportunidad se ha usado el api Fake (https://localhost:3000/api/v1) para obtener los datos necesarios para verificar el funcionamiento de la aplicación web.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/evidence.png"/>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
