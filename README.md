@@ -2352,18 +2352,29 @@ Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https:
 | agrocontrol-front-end     | feature/login                     | 7fea01d   | feat(main): add login to routing.                          | -                   | 05/09/2024        |
 | agrocontrol-front-end     | feature/pop-up-irrigation         | 01d4b8c   | Merge branch 'develop' into feature/crop-treatments-table  | -                   | 03/09/2024        |
 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web como primera instancia, por lo que no se evidencia de testing.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review  
 
 Despliegue de aplicación Angular generando carpeta <b>dlist</b> en directorio browser.  
-<img src="/assets/chapter-5-images/sprint2/serverDeployed.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/serverDeployed.png"/>
 
-<img src="/assets/chapter-5-images/sprint2/image2.png"/>
-<img src="/assets/chapter-5-images/sprint2/netlify.png"/>
-<img src="/assets/chapter-5-images/sprint2/webApplicationInNetlify.png"/>
-<img src="/assets/chapter-5-images/sprint2/image.png"/>
+Generando la carpeta <b>dlist</b> para posteriormente el despliegue.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image2.png"/>
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
-#### 5.2.2.5. Execution Evidence for Sprint Review
+Subiendo el archivo deploy a nuestro hosting  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/netlify.png"/>
+
+Verificando carga completa de nuestro proyecto subido a nuestro hosting
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/webApplicationInNetlify.png"/>
+
+Aplicación Web desplegada luego de ser subida a nuestro hosting
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image.png"/>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+A continuación, se presenta la documentación de los servicios utilizados. En esta oportunidad se ha usado el api de Fake (https://localhost:3000/api/v1) para obtener los datos necesarios para verificar el funcionamiento de la aplicación web.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
