@@ -955,6 +955,49 @@ Ambos segmentos comparten una necesidad de **gestionar relaciones con proveedore
 
 Estas coincidencias y diferencias subrayan la interdependencia entre la producción y la distribución en el sector agrícola, destacando la importancia de desarrollar soluciones que aborden las necesidades específicas de cada segmento, al tiempo que facilitan una colaboración efectiva entre ellos.
 
+
+### 2.3.2. User Task Matrix
+
+En esta sección, se presentan los User Journey Maps para cada User Persona. Estos mapas ilustran el recorrido actual de los usuarios, mostrando sus interacciones y experiencias sin una solución tecnológica. Cada mapa está vinculado a su User Persona correspondiente, permitiendo visualizar claramente cómo se desarrollan sus tareas y desafíos en la situación actual. A continuación, se incluirán las imágenes de los diagramas elaborados en la herramienta correspondiente.  
+
+| **Task**                             | **Productor Agrícola - Frecuencia** | **Productor Agrícola - Importancia** | **Distribuidor - Frecuencia** | **Distribuidor - Importancia** |
+|--------------------------------------|------------------------------------|--------------------------------------|-------------------------------|-------------------------------|
+| Monitorear el clima                  | High                               | High                                 |                               |                               |
+| Planificar la siembra                | Medium                             | High                                 |                               |                               |
+| Aplicar fertilizantes                | Medium                             | High                                 |                               |                               |
+| Supervisar el crecimiento de cultivos| High                               | High                                 |                               |                               |
+| Registrar la cosecha                 | Low                                | High                                 |                               |                               |
+| Realizar análisis de suelo           | Low                                | Medium                               |                               |                               |
+| Mantener el equipo agrícola          | Low                                | Medium                               |                               |                               |
+| Controlar inventario                 |                                    |                                      | High                          | High                          |
+| Programar rutas de entrega           |                                    |                                      | High                          | High                          |
+| Coordinar con proveedores            |                                    |                                      | Medium                        | High                          |
+| Realizar pedidos a proveedores       |                                    |                                      | Medium                        | High                          |
+| Revisar informes de ventas           |                                    |                                      | Low                           | Medium                       |
+| Gestionar la logística de transporte |                                    |                                      | High                          | High                          |
+| Evaluar el desempeño de entrega      |                                    |                                      | Low                           | Medium                       |
+
+### Explicación del User Task Matrix
+
+El User Task Matrix presenta las tareas clave de los segmentos de Productor Agrícola y Distribuidor, destacando la frecuencia y la importancia de cada actividad para sus operaciones diarias.
+
+**Tareas con Mayor Frecuencia e Importancia:**
+
+- **Productor Agrícola:**
+	- **Monitorear el clima:** Es una tarea de alta frecuencia y alta importancia, ya que las condiciones climáticas impactan directamente en la planificación de riego y fumigación, afectando la salud de los cultivos y el rendimiento general.
+	- **Supervisar el crecimiento de los cultivos:** Esta tarea también es prioritaria, ya que permite al productor identificar problemas tempranamente y tomar decisiones informadas para corregir cualquier desvío en el crecimiento esperado.
+
+- **Distribuidor:**
+	- **Controlar inventario:** Es una tarea de alta frecuencia y alta importancia porque la gestión precisa del inventario es fundamental para evitar pérdidas por falta de stock o exceso de productos, asegurando la continuidad del negocio.
+	- **Programar rutas de entrega:** La eficiencia en la planificación de entregas impacta directamente en la satisfacción del cliente y en la reducción de costos operativos, lo cual la convierte en una tarea crucial para el distribuidor.
+
+**Principales Diferencias:**
+- Las tareas del **Productor Agrícola** se enfocan en la gestión directa de los cultivos, el control de procesos de siembra, riego, fertilización y la supervisión constante del crecimiento de las plantas. Estas tareas son clave para optimizar la producción y reducir costos operativos.
+- En contraste, las tareas del **Distribuidor** se centran más en la logística y la coordinación con proveedores, donde la precisión en el control del inventario y la optimización de rutas son esenciales para el buen funcionamiento del negocio y la satisfacción del cliente.
+
+**Coincidencias:**
+- Ambas User Personas comparten la necesidad de procesos eficientes y organizados para gestionar sus operaciones, ya sea en el campo o en la distribución. Ambos segmentos requieren información en tiempo real y sistemas que faciliten la toma de decisiones informadas para optimizar sus recursos y mejorar su productividad.
+
 ### 2.3.3. User Journey Mapping
 
 La sección de User Journey Maps muestra el recorrido completo de los usuarios de AgroControl, abarcando desde el primer contacto con la app hasta su abandono. Este mapeo destaca las acciones, metas, emociones, y problemas experimentados por los productores agrícolas y distribuidores, así como oportunidades para mejorar su experiencia.
