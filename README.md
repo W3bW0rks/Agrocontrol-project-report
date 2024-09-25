@@ -2383,6 +2383,27 @@ Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https:
 </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                | Branch                            | Commit ID | Commit Message                                             | Commit Message Body | Commited On(Date) |
+|---------------------------|-----------------------------------|-----------|------------------------------------------------------------|---------------------|-------------------|
+| agrocontrol-front-end     | feature/crop-treatment-form       | 1f5b64e   | refactor: improve styles for responsiveness                | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/crop-treatment-table      | 7fea01d   | refactor(fields): changes.                                 | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/fields-form               | 7fea01d   | feat(main): add routing to main component.                 | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/harvest-scheduler         | 7fea01d   | feat(agricultural-process): add harvest service            | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/home-agricultural-process | 1f5b64e   | feat: update some of information of app archives           | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/irrigation-form           | 84ed335   | feat(main): add routing to main component.                 | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/login                     | 7fea01d   | feat(main): add login to routing.                          | -                   | 05/09/2024        |
+| agrocontrol-front-end     | feature/pop-up-irrigation         | 01d4b8c   | Merge branch 'develop' into feature/crop-treatments-table  | -                   | 03/09/2024        |
+
+
+Despliegue de aplicación Angular generando carpeta <b>dlist</b> en directorio browser.  
+<img src="/assets/chapter-5-images/sprint2/serverDeployed.png"/>
+
+<img src="/assets/chapter-5-images/sprint2/image2.png"/>
+<img src="/assets/chapter-5-images/sprint2/netlify.png"/>
+<img src="/assets/chapter-5-images/sprint2/webApplicationInNetlify.png"/>
+<img src="/assets/chapter-5-images/sprint2/image.png"/>
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
