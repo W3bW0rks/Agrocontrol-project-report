@@ -49,7 +49,7 @@ URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
         <strong>André Arroyo:</strong><br>
         <em>TB1:</em> Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas C4 del capítulo 4, y en el capítulo 5 se elaboraron los apartados 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
-        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional. Estos diseños siguen las directrices del Capítulo IV: "Product Design", incluyendo guías de estilo y una sólida arquitectura de la información.
+        <em>TB1:</em>  Presenté los diseños de mockups y wireframes de la landing page y la aplicación web de manera clara y estructurada, asegurando que los diferentes miembros del equipo, independientemente de su nivel técnico, comprendieran la propuesta visual y funcional. En reuniones de seguimiento, expuse los principios de diseño y arquitectura de la información, facilitando la toma de decisiones alineadas con las guías de estilo del proyecto. Además, durante las presentaciones a stakeholders, utilicé un lenguaje accesible y objetivos concretos para destacar la importancia de cada componente, fomentando un entendimiento común y alineación con los objetivos del proyecto.
       </td>
       <td></td>
     </tr>
@@ -66,7 +66,7 @@ URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
         <strong>André Arroyo:</strong><br>
         <em>TB1:</em> Para esta entrega me dediqué al desarrollo del capítulo 3, que nos permitió comprender mejor a nuestros segmentos objetivos y obtener los requerimientos de software. Elaboré los diagramas C4 para entender el backend, y documenté las tecnologías usadas en el proyecto, así como la elaboración de la landing page.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
-        <em>TB1:</em> Desarrollé el mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional que sigue las pautas de diseño y arquitectura de la información.
+        <em>TB1:</em>Documenté el desarrollo del mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional que sigue las pautas de diseño y arquitectura de la información. En los informes, detallé cada componente del diseño con un lenguaje objetivo y accesible, facilitando la comprensión para públicos de diferentes especialidades. Además, incluí guías de estilo y explicaciones de la arquitectura de la información para garantizar que los lectores, sin importar su nivel técnico, comprendieran la justificación y funcionalidad de las decisiones de diseño.
       </td>
       <td></td>
     </tr>
