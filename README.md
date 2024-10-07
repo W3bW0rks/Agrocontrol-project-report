@@ -1787,35 +1787,36 @@ La arquitectura de software basada en el dominio, un enfoque que centra el dise�
 
 ### 4.6.1. Software Architecture Context Diagram.  
 El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Context%20Diagram.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Context%20Diagram.png">
    
 ### 4.6.2. Software Architecture Container Diagrams.
 Las aplicaciones web, las bases de datos, los microservicios y cómo se comunican entre sí se muestran en los diagramas de contenedores. Estos diagramas destacan las responsabilidades y las interacciones de cada contenedor, ofreciendo una visión general de la arquitectura del sistema.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/86565a482a768881d3025ce9ee6de32b9003f71c/assets/chapter%204-C4%20model/Container%20Diagram.png">
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Container%20Diagram.png">
 
 ### 4.6.3. Software Architecture Components Diagrams.  
 Los diagramas de componentes de la arquitectura de software se presentan en esta sección. Estos diagramas muestran los diversos componentes del sistema, sus funciones y cómo interactúan entre sí.
 
-#### Login and Registration Bounded Context
+#### IAM Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20UserContext.png?raw=true">
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-IAM%20Context.png">
 
-#### Payment Bounded Context
+#### Fiedl Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20PaymentContext.png?raw=true">
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-Field%20Context.png">
 
-#### Calendar Bounded Context
+#### Agricultrual Process Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20CalendarContext.png?raw=true">
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-AgriculturalProcess%20Context.png">
 
-#### Product Bounded Context
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20ProductContext.png?raw=true">
+#### Store Bounded Context
 
-#### Offer Bounded Context
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-Store%20Context.png">
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter%204-C4%20model/Component%20Diagram%20-%20OfferContext.png?raw=true">
+#### Subscription Bounded Context
+
+<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-Subscription%20Context.png">
 
 #### Financial Bounded Context
 
