@@ -1138,8 +1138,6 @@ Redactamos historias de usuarios que nos ayuden a generar funciones del software
 |E6-US122|Obtener fechas de financiamiento atraves de la APIRESTful|**Como** desarrollador **quiero** obtener las fechas de financiamiento atraves de la API **para** mostrar los datos en la aplicación|<p>**Escenario 1: Obtener informacion de la fechas de financiamiento**</p><p>**Dado que** el endpoint "api/v1/finances/{agriculturalProcessId} esta disponible</p><p>**Cuando** envia la solicitud GET con los siguientes datos: agriculturalProcessId</p><p>**Entonces** recibe una respuesta con estado 200 y recibe un recurso treatment con los siguientes datos: financesId, fecha financiamiento, costo total, ingresos totales, ganacia </p>|6|
 |E6-US123|Eliminar fechas de financiamiento atraves de la APIRESTful|**Como** desarrollador **quiero** eliminar fechas de financiamiento atraves de la API **para** eliminar los datos en la aplicación|<p>**Escenario 1: Eliminar fecha de financiamiento**</p><p>**Dado que** el endpoint "api/v1/finances/{financesId} esta disponible</p><p>**Cuando** envia la solicitud DELETE con los siguientes datos: id</p><p>**Entonces** recibe una respuesta con estado 200 con el mensaje "La fecha de financiamiento ha sido eliminada exitosamente"</p>|6|
 
-
-
 ## 3.3. Impact Mapping.
 A continuación, toca analizar cómo se relacionan nuestras metas de negocios con los principales entregables de nuestro proyecto. Se eligieron las user stories de mayor importancia para el proceso de nuestro aplicativo y su impacto a futuro.
 
@@ -1816,7 +1814,7 @@ El diagrama de contexto del sistema muestra la relación entre el sistema y los 
 ### 4.6.2. Software Architecture Container Diagrams.
 Las aplicaciones web, las bases de datos, los microservicios y cómo se comunican entre sí se muestran en los diagramas de contenedores. Estos diagramas destacan las responsabilidades y las interacciones de cada contenedor, ofreciendo una visión general de la arquitectura del sistema.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Container%20Diagram.png">
+<img src="">
 
 ### 4.6.3. Software Architecture Components Diagrams.  
 Los diagramas de componentes de la arquitectura de software se presentan en esta sección. Estos diagramas muestran los diversos componentes del sistema, sus funciones y cómo interactúan entre sí.
@@ -1825,7 +1823,11 @@ Los diagramas de componentes de la arquitectura de software se presentan en esta
 
 <img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-IAM%20Context.png">
 
-#### Fiedl Bounded Context
+#### Profile Bounded Context
+
+<img src="">
+
+#### Field Bounded Context
 
 <img src="https://github.com/W3bW0rks/project-report/blob/c6f5c9a756aec6fa878ecd9cb9e67caac12c1e1b/assets/chapter%204-C4%20model/Component%20Diagram-Field%20Context.png">
 
