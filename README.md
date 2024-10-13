@@ -1814,7 +1814,7 @@ El diagrama de contexto del sistema muestra la relación entre el sistema y los 
 ### 4.6.2. Software Architecture Container Diagrams.
 Las aplicaciones web, las bases de datos, los microservicios y cómo se comunican entre sí se muestran en los diagramas de contenedores. Estos diagramas destacan las responsabilidades y las interacciones de cada contenedor, ofreciendo una visión general de la arquitectura del sistema.
 
-<img src="">
+<img src="https://github.com/W3bW0rks/Agrocontrol-project-report/blob/0de251a461915aaf7a6e4334f8282bf172533b52/assets/chapter%204-C4%20model/Container%20Diagram.png">
 
 ### 4.6.3. Software Architecture Components Diagrams.  
 Los diagramas de componentes de la arquitectura de software se presentan en esta sección. Estos diagramas muestran los diversos componentes del sistema, sus funciones y cómo interactúan entre sí.
@@ -1825,7 +1825,7 @@ Los diagramas de componentes de la arquitectura de software se presentan en esta
 
 #### Profile Bounded Context
 
-<img src="">
+<img src="https://github.com/W3bW0rks/Agrocontrol-project-report/blob/0de251a461915aaf7a6e4334f8282bf172533b52/assets/chapter%204-C4%20model/Component%20Diagram-Profile%20Context.png">
 
 #### Field Bounded Context
 
