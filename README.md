@@ -2449,7 +2449,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Goal</td>
           <td style="text-align: justify"> 
-           Para este sprint nos centraremos en finalizar las vistas de Store, Subscription, Login y Register en el frontend, además de desarrollar los endpoints correspondientes a los contextos de Proceso de Agricultural Process, Profiles, Fields y Subscriptions en el backend. Consideramos que esto permitirá a los usuarios disfrutar de una plataforma más completa y funcional, al integrar características clave tanto en el frontend como en el backend. Sabremos que hemos alcanzado el objetivo cuando los usuarios puedan utilizar estas vistas y los endpoints gestionen correctamente la información en cada uno de los bounded contexts.
+           En este sprint nos enfocaremos en completar las vistas de Store, Subscription, Login y Register en el frontend, además de desarrollar los endpoints correspondientes a los bounded contexts de Agricultural Process, Profiles, Fields y Subscriptions en el backend. También añadiremos un vídeo "About" del producto y sobre el equipo en la Landing Page de la aplicación. Creemos que esto proporcionará a los usuarios una plataforma más completa y funcional, integrando características clave tanto en el frontend como en el backend. Sabremos que hemos cumplido con el objetivo cuando los usuarios puedan interactuar con estas vistas y los endpoints gestionen la información correctamente en cada uno de los bounded contexts.
           <td>
       </tr>
        <tr>
