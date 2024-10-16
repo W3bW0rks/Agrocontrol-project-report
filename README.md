@@ -2288,7 +2288,7 @@ En el siguiente apartado, se presentará el sprint planning 2, donde se mostrar�
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
-        <td> 
+        <td style="text-align: justify"> 
           En este sprint como equipo logramos desplegar la landing page de forma adecuada  debido a la correcta division de 
           tareas y el cumplimiento de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
           los objetivos para el sprint 2.
@@ -2299,7 +2299,7 @@ En el siguiente apartado, se presentará el sprint planning 2, donde se mostrar�
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 2 Goal</td>
-          <td> 
+          <td style="text-align: justify"> 
             En este sprint se planea desarrollar el web application con el framework Angular, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link 
           <td>
       </tr>
@@ -2390,6 +2390,78 @@ A continuación, se presenta la documentación de los servicios utilizados. En e
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+En el siguiente apartado, se presentará el sprint planning 3, donde se mostrará la planificación e implementación del back end en la web application. Además, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 16/10/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad presencial en la Universidad <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Webworks <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Zavala Quedena, Gonzalo Andre
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+          Principe Godoy, Johan
+          <br>
+          Espino Flores, Alejandro
+          <br>
+	        Holguin Gamarra, Hardie
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td> Se logró la implementaicón del fronted de la Aplicación Web y su conexión con una fake api, esta fue desplegada en Netlify<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td style="text-align: justify"> 
+          En este sprint como equipo logramos desplegar la Aplicación Web consumiendo una fake api de forma adecuada  debido a la correcta division de tareas y aporte de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
+          los objetivos para el sprint 3.
+        <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td style="text-align: justify"> 
+           Para este sprint nos centraremos en finalizar las vistas de Store, Subscription, Login y Register en el frontend, además de desarrollar los endpoints correspondientes a los contextos de Proceso de Agricultural Process, Profiles, Fields y Subscriptions en el backend. Consideramos que esto permitirá a los usuarios disfrutar de una plataforma más completa y funcional, al integrar características clave tanto en el frontend como en el backend. Sabremos que hemos alcanzado el objetivo cuando los usuarios puedan utilizar estas vistas y los endpoints gestionen correctamente la información en cada uno de los bounded contexts.
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td> 11 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 30 <td>
+      </tr>
+
+</table>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
