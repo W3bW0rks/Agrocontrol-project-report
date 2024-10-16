@@ -2449,7 +2449,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Goal</td>
           <td style="text-align: justify"> 
-           En este sprint nos enfocaremos en completar las vistas de Store, Subscription, Login y Register en el frontend, además de desarrollar los endpoints correspondientes a los bounded contexts de Agricultural Process, Profiles, Fields y Subscriptions en el backend. También añadiremos un vídeo "About" del producto y sobre el equipo en la Landing Page de la aplicación. Creemos que esto proporcionará a los usuarios una plataforma más completa y funcional, integrando características clave tanto en el frontend como en el backend. Sabremos que hemos cumplido con el objetivo cuando los usuarios puedan interactuar con estas vistas y los endpoints gestionen la información correctamente en cada uno de los bounded contexts.
+          Nuestro enfoque en este sprint es mejorar la eficiencia en la gestión agrícola y ofrecer un control más preciso sobre las operaciones diarias a través de nuevas vistas y funcionalidades para monitoreo financiero y planificación de actividades. Creemos que esto proporcionará a los productores una mayor capacidad para gestionar sus recursos y tomar decisiones estratégicas. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos durante el ciclo agrícola, permitiéndoles ajustar sus operaciones en tiempo real. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados y organizar sus actividades clave mediante un calendario integrado en el sistema.
           <td>
       </tr>
        <tr>
