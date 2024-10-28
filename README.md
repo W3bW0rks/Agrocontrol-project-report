@@ -2433,11 +2433,11 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
          <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
-        <td> Se logró la implementaicón del fronted de la Aplicación Web y su conexión con una fake api, esta fue desplegada en Netlify<td>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Se logró la implementación del fronted de la Aplicación Web y su conexión con una fake api, esta fue desplegada en Netlify<td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
         <td style="text-align: justify"> 
           En este sprint como equipo logramos desplegar la Aplicación Web consumiendo una fake api de forma adecuada  debido a la correcta division de tareas y aporte de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
           los objetivos para el sprint 3.
@@ -2449,7 +2449,10 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Goal</td>
           <td style="text-align: justify"> 
-          Nuestro enfoque en este sprint es mejorar la eficiencia en la gestión agrícola y ofrecer un control más preciso sobre las operaciones diarias a través de nuevas vistas y funcionalidades para monitoreo financiero y planificación de actividades. Creemos que esto proporcionará a los productores una mayor capacidad para gestionar sus recursos y tomar decisiones estratégicas. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos durante el ciclo agrícola, permitiéndoles ajustar sus operaciones en tiempo real. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados y organizar sus actividades clave mediante un calendario integrado en el sistema.
+            Nuestro enfoque en este sprint es optimizar la eficiencia en la gestión agrícola y ofrecer un control más preciso sobre las operaciones diarias, 
+            mediante nuevas vistas y funcionalidades para el monitoreo financiero y la planificación de actividades. Creemos que esto proporcionará a los productores una 
+            herramienta integral para gestionar sus recursos de forma estratégica, dándoles la flexibilidad necesaria para tomar decisiones 
+informadas en cada etapa del ciclo agrícola. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos en tiempo real, lo que les permitirá ajustar sus operaciones según sus necesidades y oportunidades emergentes. También buscamos que la plataforma les ofrezca un calendario integrado para organizar actividades clave, como la siembra, el riego y la cosecha, promoviendo una gestión más ordenada y previsora de sus recursos. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados, que incluyan ingresos y costos desglosados por actividad, y puedan planificar y visualizar sus actividades agrícolas de forma intuitiva y eficiente dentro del sistema. Esta funcionalidad no solo facilitará una gestión precisa, sino que también aumentará la confianza de los agricultores en la plataforma como una herramienta esencial para el éxito de su operación agrícola.
           <td>
       </tr>
        <tr>
@@ -2498,17 +2501,17 @@ Ocupación: _____
 ![Imagen de entrevista](image.jpg)
 {texto}
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
+| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
+|-----------------------------------------------|---------------|---------|
+| Visibilidad del estado del sistema            |               | {texto} |
+| Coincidencia entre el sistema y el mundo real |               | {texto} |
+| Control y libertad del usuario                |               | {texto} |
+| Consistencia y estándares                     |               | {texto} |
+| Prevención de errores                         |               | {texto} |
+| Mostrar antes que recordar                    |               | {texto} |
+| Flexibilidad y eficiencia de uso              |               | {texto} |
+| Diseño estético y minimalista                 |               | {texto} |
+| Comunicar errores con facilidad               |               | {texto} |
+| Ayuda y documentación                         |               | {texto} |
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
