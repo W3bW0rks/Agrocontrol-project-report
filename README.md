@@ -313,7 +313,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
     </tr>
     <tr align="center">
         <td rowspan="3">
-                        <img src="https://imgur.com/a/Gbl8iBa" alt=""  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/profileImages/hardie.jpg" alt=""  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
