@@ -2513,5 +2513,63 @@ Ocupación: _____
 | Diseño estético y minimalista                 |               | {texto} |
 | Comunicar errores con facilidad               |               | {texto} |
 | Ayuda y documentación                         |               | {texto} |
+
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
+
+
+# Conclusiones
+
+<p style="text-align: justify"> 
+En conclusión, AgroControl nace de un análisis profundo de las necesidades de los agricultores, basado en investigaciones
+detalladas y retroalimentación directa de usuarios clave. Hemos identificado áreas críticas en la gestión de recursos agrícolas,
+la planificación de actividades y el control financiero, y hemos diseñado estrategias específicas para optimizar estos 
+procesos dentro de la plataforma. 
+</p>
+
+<p style="text-align: justify"> 
+La inclusión de funcionalidades como el monitoreo de ingresos y gastos, el acceso a reportes 
+financieros detallados y un calendario integrado para la organización de actividades permite a los usuarios gestionar sus 
+operaciones de manera ágil y fundamentada en datos. Estas mejoras están orientadas a aumentar la eficiencia y precisión en 
+la administración del ciclo agrícola, generando un impacto directo en la productividad y rentabilidad de los agricultores. 
+</p>
+
+<p style="text-align: justify"> 
+Nuestro enfoque ágil, basado en sprints manejables, facilita la adaptación continua a las necesidades emergentes del sector, 
+permitiendo la incorporación de feedback de los usuarios en cada etapa del desarrollo. Este proceso asegura que cada nueva 
+funcionalidad agregue valor tangible y sea implementada de manera eficiente y transparente. 
+</p>
+
+<p style="text-align: justify"> 
+Además, la aplicación de Domain-Driven Design (DDD) ha sido fundamental para estructurar los contextos específicos de negocio 
+de AgroControl, asegurando una separación de preocupaciones adecuada y una representación precisa de la lógica agrícola en cada 
+módulo. Esta metodología nos ha permitido construir una plataforma sólida y adaptable que responde de manera eficiente a los 
+crecientes desafíos del sector agrícola y facilita tanto el mantenimiento como la evolución de AgroControl. 
+</p>
+
+<p style="text-align: justify"> En definitiva, AgroControl se posiciona como una herramienta integral que no solo agiliza las 
+tareas diarias de los agricultores, sino que también les brinda una visión estratégica de sus operaciones, contribuyendo así 
+al crecimiento sostenible y al éxito en el sector agrícola. 
+</p>
+
+# Video About-the-Team
+En esta sección se presenta el video "About the Team", en el cual describimos el proceso de desarrollo llevado a cabo
+para la aplicación web y la API. También este proyecto nos permitió, como equipo, ampliar nuestras skills en el
+desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
+aplicación web completa.
+
+Video About-the-Team: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
+
+# Bibliografía
+
+Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved from https://bit.ly/4fmPE7k
+
+Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and
+Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
+
+# Anexos
+| Sección        | Enlace al video |
+|----------------|-----------------|
+| Vídeo Sprint 1 |
+| Vídeo Sprint 2 |                 |
+| Vídeo Sprint 3 |                 |
