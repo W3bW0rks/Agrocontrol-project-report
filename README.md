@@ -2452,7 +2452,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
             Nuestro enfoque en este sprint es optimizar la eficiencia en la gestión agrícola y ofrecer un control más preciso sobre las operaciones diarias, 
             mediante nuevas vistas y funcionalidades para el monitoreo financiero y la planificación de actividades. Creemos que esto proporcionará a los productores una 
             herramienta integral para gestionar sus recursos de forma estratégica, dándoles la flexibilidad necesaria para tomar decisiones 
-informadas en cada etapa del ciclo agrícola. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos en tiempo real, lo que les permitirá ajustar sus operaciones según sus necesidades y oportunidades emergentes. También buscamos que la plataforma les ofrezca un calendario integrado para organizar actividades clave, como la siembra, el riego y la cosecha, promoviendo una gestión más ordenada y previsora de sus recursos. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados, que incluyan ingresos y costos desglosados por actividad, y puedan planificar y visualizar sus actividades agrícolas de forma intuitiva y eficiente dentro del sistema. Esta funcionalidad no solo facilitará una gestión precisa, sino que también aumentará la confianza de los agricultores en la plataforma como una herramienta esencial para el éxito de su operación agrícola.
+            informadas en cada etapa del ciclo agrícola. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos en tiempo real, lo que les permitirá ajustar sus operaciones según sus necesidades y oportunidades emergentes. También buscamos que la plataforma les ofrezca un calendario integrado para organizar actividades clave, como la siembra, el riego y la cosecha, promoviendo una gestión más ordenada y previsora de sus recursos. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados, que incluyan ingresos y costos desglosados por actividad, y puedan planificar y visualizar sus actividades agrícolas de forma intuitiva y eficiente dentro del sistema. Esta funcionalidad no solo facilitará una gestión precisa, sino que también aumentará la confianza de los agricultores en la plataforma como una herramienta esencial para el éxito de su operación agrícola.
           <td>
       </tr>
        <tr>
@@ -2473,19 +2473,25 @@ informadas en cada etapa del ciclo agrícola. El impacto esperado es que los agr
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+4. ¿Qué le parece la propuesta de AgroControl para la gestión agrícola y logística en el sector?
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+**Entrevistas segmento Agricultor**
+1. ¿Qué funcionalidades de AgroControl le resultan más útiles para gestionar su operación agrícola? ¿Por qué?
+2. ¿Cómo organiza actualmente sus actividades diarias y recursos en el ciclo agrícola? ¿Utiliza alguna herramienta en particular?
+3. ¿Qué opina sobre la funcionalidad de monitoreo financiero para visualizar ingresos y gastos en cada ciclo agrícola?
+4. ¿Le resulta útil el calendario integrado para planificar sus actividades agrícolas? ¿Qué tipo de actividades organizaría en él?
+5. ¿Considera que la interfaz de AgroControl es intuitiva y fácil de usar? ¿Qué aspectos mejoraría?
+6. ¿Encuentra clara y precisa la información proporcionada sobre el estado de su inventario? ¿Qué sugerencias tiene para mejorarla?
+7. ¿Confía en tomar decisiones basadas en los datos que ofrece AgroControl? ¿Por qué o por qué no?
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+**Entrevistas segmento Distribuidor**
+1. ¿Qué funcionalidades de AgroControl considera más útiles para mejorar la relación con sus clientes agricultores?
+2. ¿Cómo realiza actualmente el seguimiento de las solicitudes y las entregas de productos a los agricultores? ¿Qué aspectos mejoraría con AgroControl?
+3. ¿Le resulta útil contar con datos financieros y de rendimiento para planificar mejor sus envíos y pedidos?
+4. ¿Siente que la plataforma le proporciona información suficiente para anticiparse a las necesidades de sus clientes?
+5. ¿Cómo podríamos mejorar la visibilidad de sus productos y servicios dentro de AgroControl?
+6. ¿Qué mejoras le gustaría ver en la plataforma para optimizar la comunicación y coordinación con los agricultores?
+
 ### 5.3.2. Registro de Entrevistas.
 **Segmento 1**  
 Nombre: _____
@@ -2500,6 +2506,7 @@ Edad: _ años
 Ocupación: _____  
 ![Imagen de entrevista](image.jpg)
 {texto}
+
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
 |-----------------------------------------------|---------------|---------|
