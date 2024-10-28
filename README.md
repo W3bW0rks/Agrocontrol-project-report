@@ -2508,18 +2508,18 @@ Ocupación: _____
 {texto}
 
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
-|-----------------------------------------------|---------------|---------|
-| Visibilidad del estado del sistema            |               | {texto} |
-| Coincidencia entre el sistema y el mundo real |               | {texto} |
-| Control y libertad del usuario                |               | {texto} |
-| Consistencia y estándares                     |               | {texto} |
-| Prevención de errores                         |               | {texto} |
-| Mostrar antes que recordar                    |               | {texto} |
-| Flexibilidad y eficiencia de uso              |               | {texto} |
-| Diseño estético y minimalista                 |               | {texto} |
-| Comunicar errores con facilidad               |               | {texto} |
-| Ayuda y documentación                         |               | {texto} |
+| HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
+|-----------------------------------------------|-----------------|---------|
+| Visibilidad del estado del sistema            |                 | {texto} |
+| Coincidencia entre el sistema y el mundo real |                 | {texto} |
+| Control y libertad del usuario                |                 | {texto} |
+| Consistencia y estándares                     |                 | {texto} |
+| Prevención de errores                         |                 | {texto} |
+| Mostrar antes que recordar                    |                 | {texto} |
+| Flexibilidad y eficiencia de uso              |                 | {texto} |
+| Diseño estético y minimalista                 |                 | {texto} |
+| Comunicar errores con facilidad               |                 | {texto} |
+| Ayuda y documentación                         |                 | {texto} |
 
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
@@ -2573,6 +2573,9 @@ Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved fr
 
 Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and
 Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
+
+Wikifarmer. (n.d.). ¿Qué es el control biológico y cómo utilizarlo en la agricultura? Wikifarmer. 
+Retrieved from https://bit.ly/3NKKdTW
 
 # Anexos
 | Sección        | Enlace al video |
