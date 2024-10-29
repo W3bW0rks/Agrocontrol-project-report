@@ -1187,6 +1187,28 @@ Captura del tablero de Product Backlog en Trello:
 |24|E4-US102|Análisis de producto de la tienda|**Como** distribuidor **quiero** crear productos en la tienda virtual **para** poder venderlos|5|
 |25|E4-US103|Proceso de análisis financiero de la tienda|**Como** distribuidor **quiero** un análisis financiero **para** visualizar la utilidad de mi tienda|5|
 |26|E4-US104|Ofertas de la tienda de distribuidores|**Como** distribuidor **quiero** crear ofertas **para** captar el interés de mi público|3|
+|27|E6-US102|Registrar usuario atraves de la APIRESTful|**Como** desarrollador **quiero** registrar al usuario atraves de la API **para** persistir su informacion en la base de datos|3|
+|28|E6-US103|Iniciar sesion del usuario atraves de la APIRESTful|**Como** desarrollador **quiero** logear al usuario atraves de la API **para** brindarle acceso a la aplicación|3|
+|29|E6-US104|Obtener informacion del usuario atraves de la APIRESTful|**Como** desarrollador **quiero** obtener informacion del usuario atraves de la API **para** mostrar los datos en la aplicación|3|
+|30|E6-US105|Crear plantación atraves de la APIRESTful|**Como** desarrollador **quiero** crear la plantacion atraves de la API **para** registrarlo en la base de datos|3|
+|31|E6-US106|Obtener informacion de la plantación atraves de la APIRESTful|**Como** desarrollador **quiero** obtener la informacion de la plantación atraves de la API **para** mostrar los datos en la aplicación|3|
+|32|E6-US107|Terminar la plantación atraves de la APIRESTful|**Como** desarrollador **quiero** terminar la plantacion atraves de la API **para** mostrar los datos en la aplicación|3|
+|33|E6-US108|Agregar trabajador atraves de la APIRESTful|**Como** desarrollador **quiero** agregar trabajadores atraves de la API **para** registrarlo en la base de datos|3|
+|34|E6-US109|Obtener trabajador atraves de la APIRESTful|**Como** desarrollador **quiero** obtener información de los trabajadores atraves de la API **para** registrarlo en la base de datos|3|
+|35|E6-US110|Eliminar Trabajador atraves de la APIRESTful|**Como** desarrollador **quiero** eliminar trabajadores atraves de la API **para** eliminar los datos en la aplicación|3|
+|36|E6-US111|Editar Trabajador atraves de la APIRESTful|**Como** desarrollador **quiero** editar la informacion de los trabajadores atraves de la API **para** mostrar la modificación de datos en la aplicación|3|
+|37|E6-US112|Crear fechas de irrigación atraves de la APIRESTful|**Como** desarrollador **quiero** crear fechas de irrigación atraves de la API **para** registrarlo en la base de datos|3|
+|38|E6-US113|Obtener fechas de irrigación atraves de la APIRESTful|**Como** desarrollador **quiero** obtener las fechas de irrigación atraves de la API **para** mostrar los datos en la aplicación|3|
+|39|E6-US114|Eliminar fechas de irrigación atraves de la APIRESTful|**Como** desarrollador **quiero** eliminar fechas de irrigación atraves de la API **para** eliminar los datos en la aplicación|3|
+|40|E6-US115|Agregar fechas de tratamiento atraves de la APIRESTful|**Como** desarrollador **quiero** agregar fechas de tratamiento atraves de la API **para** registrarlo en la base de datos|3|
+|41|E6-US116|Obtener fechas de tratamiento atraves de la APIRESTful|**Como** desarrollador **quiero** obtener las fechas de irrigación atraves de la API **para** mostrar los datos en la aplicación|3|
+|42|E6-US117|Eliminar fechas de tratamiento|**Como** desarrollador **quiero** eliminar fechas de irrigación atraves de la API **para** eliminar los datos en la aplicación|3|
+|43|E6-US118|Crear fechas de cosecha atraves de la APIRESTful|**Como** desarrollador **quiero** crear fechas de cosecha atraves de la API **para** registrarlo en la base de datos|3|
+|44|E6-US119|Obtener fechas de cosecha atraves de la APIRESTful|**Como** desarrollador **quiero** obtener las fechas de irrigación atraves de la API **para** mostrar los datos en la aplicación|3|
+|45|E6-US120|Eliminar fechas de cosecha atraves de la APIRESTful|**Como** desarrollador **quiero** eliminar fechas de cosecha atraves de la API **para** eliminar los datos en la aplicación|3|
+|45|E6-US121|Crear fechas de financiamiento atraves de la APIRESTful|**Como** desarrollador **quiero** crear fechas de financiamiento atraves de la API **para** registrarlo en la base de datos|3|
+|45|E6-US122|Obtener fechas de financiamiento atraves de la APIRESTful|**Como** desarrollador **quiero** obtener las fechas de financiamiento atraves de la API **para** mostrar los datos en la aplicación|3|
+|45|E6-US123|Eliminar fechas de financiamiento atraves de la APIRESTful|**Como** desarrollador **quiero** eliminar fechas de financiamiento atraves de la API **para** eliminar los datos en la aplicación|3|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
