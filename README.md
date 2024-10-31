@@ -56,8 +56,7 @@ Reporte de la elaboracion de la TB1te la TB1
          <strong>Johan Príncipe:</strong><br>
          <em>TB1:</em> Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos. Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto.<br><br>
          <em>TP:</em> Al diseñar e implementar formularios y vistas del proyecto, presenté informes claros que destacan los avances de este. Durante reuniones de seguimiento, fomente la retroalimentación, asegurando que mis compañeros entiendan la importancia de cada componente, para fortalecer colaboración y el compromiso con los objetivos del proyecto.<br><br>
-        <strong>Sebastián Aiquipa:</strong><br>
-        <em>TB1:</em> Para la presente entrega se diseño y definio los estilos a llevar para la elaboracion del producto. Se busco que la interaccion del usuario con la plataforma sea clara e intuitiva, facilitando el uso de las funcionalidades que se ofrece. Tambien, se represento los diferentes flujos que llegara a realizar el usuario, beneficiando al entendimiento de las relaciones entre los wireframes y  mockups.<br><br>
+        <em>TB2: </em>Para esta entrega, comuniqué y expresé de manera clara el objetivo a lograr. Asimismo, compartí conocimientos para apoyar y aprender junto a mi equipo.<br><br>
         <strong>André Arroyo:</strong><br>
         <em>TB1:</em> Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas C4 del capítulo 4, y en el capítulo 5 se elaboraron los apartados 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
@@ -79,8 +78,7 @@ Reporte de la elaboracion de la TB1te la TB1
          <strong>Johan Príncipe:</strong><br>
         <em>TB1:</em> Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran fácilmente tomados en cuenta para el desarrollo de la aplicación.<br><br>
 	<em>TB1:</em> Redacté los informes de progreso sobre el diseño de formularios y vistas, presenté las mejoras del proyecto para que sean comprensibles. Esto facilita la toma de decisiones y asegura que todos estén alineados con los objetivos del proyecto.<br><br>
-        <strong>Sebastián Aiquipa:</strong><br>
-        <em>TB1:</em> Para esta entrega se desarrollo los diferentes diseños UI/UX de la plataforma. Se considero las principales necesidades del usuario. Para el diseño, se busco uno atractivo y coherente, además de funcional e intuitivo, facilitando la interaccion del usuario con las diferentes funcionalidades que ofrece la plataforma. <br><br>
+        <em>TB2:</em>Se documentó los diferentes archivos dentro del backend para un mejor entendimiento de las funciones de este. Además, se mostraron los resultados de manera eficiente dentro del reporte de la aplicación.<br><br>
         <strong>André Arroyo:</strong><br>
         <em>TB1:</em> Para esta entrega me dediqué al desarrollo del capítulo 3, que nos permitió comprender mejor a nuestros segmentos objetivos y obtener los requerimientos de software. Elaboré los diagramas C4 para entender el backend, y documenté las tecnologías usadas en el proyecto, así como la elaboración de la landing page.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
