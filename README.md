@@ -3270,7 +3270,7 @@ para la aplicación web y la API. También este proyecto nos permitió, como equ
 desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
 aplicación web completa.
 
-Video About-the-Team: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
+Video About-the-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/EUVsfzttwbRLgrIILQVy5asBCsexE3pkIv7LOwUIJF8DLg?e=3nuLfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
