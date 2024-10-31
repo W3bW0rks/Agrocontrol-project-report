@@ -3084,7 +3084,7 @@ En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gh
 ### 5.2.3.5 Execution Evidence for Sprint Review.  
 
 Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
-La aplicación web sigue siendo accesible a través del siguiente enlace: https://agro-control-upc.netlify.app/  
+La aplicación web sigue siendo accesible a través del siguiente enlace: http://agrocontrol-frontend.vercel.app/
 
 En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
 Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/  
@@ -3227,7 +3227,7 @@ Ocupación: _____
 | Ayuda y documentación                         |                 | {texto} |
 
 ## 5.4. Video About-the-Product.
-https://upcedupe-my.sharepoint.com/personal/u202220250_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202220250%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%20the%20product%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9f3e879f%2D35f0%2D4dbf%2D8873%2D474719705f38&isDarkMode=false
+https://shorturl.at/HQwUM
 <p> <img src ="./assets\chapter-5-images\abouttheproduct.jpeg"/>
 
 
@@ -3271,7 +3271,7 @@ para la aplicación web y la API. También este proyecto nos permitió, como equ
 desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
 aplicación web completa.
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/EUVsfzttwbRLgrIILQVy5asBCsexE3pkIv7LOwUIJF8DLg?e=3nuLfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://shorturl.at/6KM2i
 
 # Bibliografía
 
