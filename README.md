@@ -24,7 +24,7 @@
 # Project Report Collaboration Insights
 Link de la organizacion: https://github.com/orgs/W3bW0rks/repositories  
 Link del reporte: https://github.com/W3bW0rks/project-report  
-Link Landing Page: https://agrocontrol-landing-page-upc.vercel.app/ 
+Link Landing Page: https://agrocontrol-landing-page-upc.vercel.app   
 URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
 
 Reporte de la elaboracion de la TB1te la TB1
@@ -2803,7 +2803,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> develop  </th>
-   <th> e6b16d934cda1a5acf605d3fea2c97f74d69d4ce  </th>
+   <th> e6b16d9 </th>
    <th>  Initial commit </th>
    <th> </th>
    <th> 10/10/24  </th>
@@ -2812,7 +2812,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/store  </th>
-   <th> bd4512ec0853b5f4410577d61b00e986227d7d47  </th>
+   <th> bd4512  </th>
    <th>  feat(store): add product command and query service implementations.  </th>
    <th> </th>
    <th> 15/10/24  </th>
@@ -2821,7 +2821,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th>  feature/store  </th>
-   <th>  f9b1e44c6e325a2d5f951215c29888ba2dcac364  </th>
+   <th>  f9b1e4  </th>
    <th>  feat(store): add payment inbound service.</th>
    <th> </th>
    <th> 15/10/24  </th>
@@ -2830,7 +2830,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/store  </th>
-   <th> 5d29de400b2b6718fdcfcb9c6c4a0f80621938cb  </th>
+   <th> 5d29de4  </th>
    <th>  feat(store): add interface layer resource and transform types. </th>
    <th> </th>
    <th> 15/10/24  </th>
@@ -2839,7 +2839,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/subscriptions  </th>
-   <th> 85dad561c33a65902c860b1ffdfe8e841189f405  </th>
+   <th> 85dad5  </th>
    <th> feat(payments): add payment command and query service implementations. </th>
    <th> </th>
    <th> 15/10/24  </th>
@@ -2848,7 +2848,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/subscriptions  </th>
-   <th> 7c84d25f95aeb8f99dfee14576cfa44bddf9d645  </th>
+   <th> 7c84d25  </th>
    <th>  feat(payments): add payment inbound service. </th>
    <th> </th>
    <th> 20/10/24   </th>
@@ -2857,7 +2857,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/subscriptions  </th>
-   <th> 5ef95013d54b07b8a7bbf73dda6cdc9f0cf94151  </th>
+   <th> 5ef950  </th>
    <th>  fix: add missing @EnableJpaAuditing annotation.  </th>
    <th> </th>
    <th> 20/10/24 </th>
@@ -2866,7 +2866,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/payments  </th>
-   <th> 29b94477cc9d373e0de8e1e569da736474d90057  </th>
+   <th> 29b944  </th>
    <th> feat(payments): add payment outbound service  </th>
    <th> </th>
    <th> 20/10/24  </th>
@@ -2875,7 +2875,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/payments  </th>
-   <th> 3755a9a1398243f3080231d60c6e8c1dc24f9810  </th>
+   <th> 3755a9  </th>
    <th> feat(payments): add payment command and query service implementations.  </th>
    <th> </th>
    <th> 20/10/24  </th>
@@ -2884,7 +2884,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/payments  </th>
-   <th> 29b94477cc9d373e0de8e1e569da736474d90057  </th>
+   <th> 29b944  </th>
    <th> feat(payments): add payment outbound service  </th>
    <th> </th>
    <th> 20/10/24  </th>
@@ -2893,7 +2893,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/payments  </th>
-   <th> 28ef78818b727a9962d323cf5f6e8b580022f7a8  </th>
+   <th> 28ef78  </th>
    <th>  feat(payments): add interface layer resource and transform types  </th>
    <th> </th>
    <th> 20/10/24  </th>
@@ -2902,7 +2902,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/iam-and-profile  </th>
-   <th> 1d200c8844efcdebc13363f892365394e0356797  </th>
+   <th> 1d200c8  </th>
    <th>  feat: dependencies of security and jwt added  </th>
    <th> </th>
    <th> 10/10/24  </th>
@@ -2911,7 +2911,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/iam-and-profile  </th>
-   <th> 37fce55af9a87a212632cf58841efd21d2d86bb8  </th>
+   <th> 37fce5  </th>
    <th> feat: commandservices, queryservices and eventhandlers of iam added  </th>
    <th> </th>
    <th> 10/10/24   </th>
@@ -2920,7 +2920,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/iam-and-profile  </th>
-   <th> 11386b2abb8b609b2a2a22780b4b55aa837f98fc  </th>
+   <th> 11386b2  </th>
    <th> feat: controllers of iam and profile added  </th>
    <th> </th>
    <th> 10/10/24  </th>
@@ -2929,7 +2929,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/iam-and-profile  </th>
-   <th> 68968ac4ca67ac198e8c777ac544e9b4d7eb9452  </th>
+   <th> 68968a  </th>
    <th> feat(iam): add transctional of services and documentation in controller </th>
    <th> </th>
    <th> 10/10/24  </th>
@@ -2938,7 +2938,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/iam-and-profile  </th>
-   <th> 4799f6fe092c5bf67a52ddda3f73ce36cc316ed1  </th>
+   <th> 4799f6  </th>
    <th> feat(iam): change username for email in User  </th>
    <th> </th>
    <th> 10/10/24  </th>
@@ -2948,7 +2948,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/finances  </th>
-   <th> 435f464acd5320b71734ee8ee73e4ec6c8f0794b  </th>
+   <th> 435f46  </th>
    <th> feat(finances): add finance aggregate, commands, queries, repository, services, controller, etc.  </th>
    <th> </th>
    <th> 30/10/24  </th>
@@ -2957,7 +2957,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields  </th>
-   <th> a1df68691058c5c0dfef0199bb64736729d5930b </th>
+   <th> a1df68 </th>
    <th>  feat(monetization): added queries with params and search by id  </th>
    <th> </th>
    <th> 29/05/24  </th>
@@ -2967,7 +2967,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields </th>
-   <th> 8e137d473ea73367d841a6f3b897783a38f469e8 </th>
+   <th> 8e137d </th>
    <th>  feat(field): add field aggregate.  </th>
    <th> </th>
    <th> 25/05/24  </th>
@@ -2977,7 +2977,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields </th>
-   <th> bc55cd42ebf7101cc2b349679ab382d2dc0e3dc5 </th>
+   <th> bc55cd </th>
    <th>  feat(field): added UpdateFieldCommandFromResourceAssembler transform.  </th>
    <th> </th>
    <th> 25/05/24  </th>
@@ -2986,7 +2986,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields </th>
-   <th> 9a4b7636ef86e5db1fe8c9c6ebad3ec804a98d98 </th>
+   <th> 9a4b76 </th>
    <th>  fix(field): fixed Field Command and Query Implementation.  </th>
    <th> </th>
    <th> 25/05/24  </th>
@@ -2995,7 +2995,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields </th>
-   <th> eb6572a4d4998a2adb52abba2a425bd4ab30387c </th>
+   <th> eb6572 </th>
    <th>  fix(field): fixed GetFieldsByProducerIdQuery query. </th>
    <th> </th>
    <th> 25/05/24  </th>
@@ -3004,7 +3004,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields  </th>
-   <th> 3496ff6d5772d912afd3a2393a05e2d307dd26e9 </th>
+   <th> 3496ff </th>
    <th>  fix(field): remove GetAllFieldsQuery. </th>
    <th> </th>
    <th> 25/05/24  </th>
@@ -3013,7 +3013,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/fields  </th>
-   <th> 65544794f66c79800b51450063a73424288413ac </th>
+   <th> 655447 </th>
    <th>  feat(workers): added commands, queries, resources, etc </th>
    <th> </th>
    <th> 25/05/24  </th>
@@ -3022,7 +3022,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <tr> 
    <th> Agrocontrol-backend </th>
    <th> feature/agriculturalProcess  </th>
-   <th> 40a6195ecb684cfaa53192883753d7c76eb7fd76 </th>
+   <th> 40a619 </th>
    <th> feat(agricultural-processes): add agricultural process inbound service. </th>
    <th> </th>
    <th> 15/10/24  </th>
@@ -3031,7 +3031,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th>  feature/agriculturalProcess </th>
-   <th> 9707b910342c9640c5adc4ff92a742c22cab36f4 </th>
+   <th> 9707b9 </th>
    <th> feat(agricultural-processes): add GetAgriculturalProcessByFieldIdQuery. </th>
    <th> </th>
    <th> 15/10/24  </th>
@@ -3040,7 +3040,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th>  feature/agriculturalProcess  </th>
-   <th> 87e64f47976db71e0720505e65a22ee0eddc2760 </th>
+   <th> 87e64f </th>
    <th> fix(agricultural-processes): manage of list in AgriculturalProcessesController. </th>
    <th> </th>
    <th> 15/10/24   </th>
@@ -3049,7 +3049,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
   <tr> 
    <th> Agrocontrol-backend </th>
    <th>  feature/agriculturalProcess  </th>
-   <th> c1f0679f363fa44a17b88b0bfede32cda92801c9 </th>
+   <th> c1f067 </th>
    <th> feat: added dependecies </th>
    <th> </th>
    <th> 15/10/24   </th>
@@ -3058,7 +3058,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th>  feature/agriculturalProcess  </th>
-   <th> 016b7a500a42bd5d6e48650ad94e9a5e4bbd5e55 </th>
+   <th> 016b7a </th>
    <th> feat(agricultural-processes): add query to retrieve activities by type of an agricultural process. </th>
    <th> </th>
    <th> 15/10/24   </th>
@@ -3067,7 +3067,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-backend </th>
    <th>  feature/agriculturalProcess  </th>
-   <th> 9b20f8d64fd89aa14b783c5cfcfb7fb99e5722f6 </th>
+   <th> 9b20f8 </th>
    <th> feat(agricultural-processes): add harvest entity. </th>
    <th> </th>
    <th> 26/10/24  </th>
