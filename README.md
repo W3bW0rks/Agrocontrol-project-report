@@ -2943,43 +2943,37 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
 
 
   <tr>
-   <th style="text-align:center;"> <strong> fields Bounded Context </strong> </th>
+   <th> <strong> fields Bounded Context </strong> </th>
     <th> <strong> /api/v1/fields | /api/v1/workers </strong> </th>
     <th> <img src=""> </th>
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> finances Bounded Context </strong> </th>
+   <th> <strong> finances Bounded Context </strong> </th>
     <th> <strong> /api/v1/finances </strong> </th>
     <th> <img src=""> </th>
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> iam Bounded Context </strong> </th>
+   <th> <strong> iam Bounded Context </strong> </th>
     <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
     <th> <img src=""> </th>
   </tr>
 
 <tr>
-   <th style="text-align:center;"> <strong> payments Bounded Context </strong> </th>
+   <th> <strong> payments Bounded Context </strong> </th>
     <th> <strong> /api/v1/payments </strong> </th>
     <th> <img src=""> </th>
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> iam Bounded Context </strong> </th>
-    <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
-    <th> <img src=""> </th>
-  </tr>
-
-  <tr>
-   <th style="text-align:center;"> <strong> profiles Bounded Context </strong> </th>
+   <th> <strong> profiles Bounded Context </strong> </th>
     <th> <strong> /api/v1/profiles </strong> </th>
     <th> <img src=""> </th>
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> store Bounded Context </strong> </th>
+   <th> <strong> store Bounded Context </strong> </th>
     <th> <strong> /api/v1/products </strong> </th>
     <th> <img src=""> </th>
   </tr>
@@ -3000,6 +2994,10 @@ En este sprint, se ha desarrollado la API de la aplicación web, utilizando las 
 </ul>
 
 ### 5.2.3.8 Team Collaboration Insights during Sprint.  
+
+A continuación se mostrarán el gráfico de insights durante el sprint:
+
+<img src="./assets/collaboration insights/insights-sprint3.jpg"/>
 
 
 ## 5.3. Validation Interviews.
