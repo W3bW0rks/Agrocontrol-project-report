@@ -2615,153 +2615,162 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 
 
  <tr> 
-   <th>  API </th>
+   <th> Agrocontrol-backend </th>
    <th> develop  </th>
    <th> e6b16d934cda1a5acf605d3fea2c97f74d69d4ce  </th>
    <th>  Initial commit </th>
    <th> </th>
-   <th> 26/05/24  </th>
+   <th> 10/10/24  </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> develop  </th>
-   <th> 56972ab39ff47512701f4555bef4d45de9fadf05  </th>
-   <th>  feat: inicial commit </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/store  </th>
+   <th> bd4512ec0853b5f4410577d61b00e986227d7d47  </th>
+   <th>  feat(store): add product command and query service implementations.  </th>
    <th> </th>
-   <th> 26/05/24  </th>
+   <th> 15/10/24  </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> develop  </th>
-   <th> ff8939db21eb7502d3a46ef9ba3d945f97429446  </th>
-   <th>  chore: Create .gitignore </th>
+   <th> Agrocontrol-backend </th>
+   <th>  feature/store  </th>
+   <th>  f9b1e44c6e325a2d5f951215c29888ba2dcac364  </th>
+   <th>  feat(store): add payment inbound service.</th>
    <th> </th>
-   <th> 26/05/24  </th>
+   <th> 15/10/24  </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> 2f795ef5deeef4a45dbfec66105d34086aceed9e  </th>
-   <th>  chore/refactor(US12): Added dependencies and refactor project </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/store  </th>
+   <th> 5d29de400b2b6718fdcfcb9c6c4a0f80621938cb  </th>
+   <th>  feat(store): add interface layer resource and transform types. </th>
    <th> </th>
-   <th> 01/06/24  </th>
+   <th> 15/10/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> 2592016520263a70af29252dbe925b12f86b5218  </th>
-   <th>  feat(content): Added Snake Case class </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/subscriptions  </th>
+   <th> 85dad561c33a65902c860b1ffdfe8e841189f405  </th>
+   <th> feat(payments): add payment command and query service implementations. </th>
    <th> </th>
-   <th> 01/06/24  </th>
+   <th> 15/10/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> bae9d5603a183e18b6041b96e297e68ddf5ed236  </th>
-   <th>  feat(shared): Added domain.model files </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/subscriptions  </th>
+   <th> 7c84d25f95aeb8f99dfee14576cfa44bddf9d645  </th>
+   <th>  feat(payments): add payment inbound service. </th>
    <th> </th>
-   <th> 06/06/24  </th>
+   <th> 20/10/24   </th>
  </tr>
 
    <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> d4ef5f974a5b7b6762b30167efa50c338985c7b6  </th>
-   <th>  feat(shared): Update infrastructure  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/subscriptions  </th>
+   <th> 5ef95013d54b07b8a7bbf73dda6cdc9f0cf94151  </th>
+   <th>  fix: add missing @EnableJpaAuditing annotation.  </th>
    <th> </th>
-   <th> 06/06/24  </th>
- </tr>
-
-  <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> b112927e9792f13a11fdbf21f68b18635ecfac05  </th>
-   <th>  feat(content): Update domain model files  </th>
-   <th> </th>
-   <th> 06/06/24  </th>
+   <th> 20/10/24 </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> 76a3cb7b78087f7b88e8ed53e0d77ba4284ac3ca  </th>
-   <th>  feat(content): Added domain services  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 29b94477cc9d373e0de8e1e569da736474d90057  </th>
+   <th> feat(payments): add payment outbound service  </th>
    <th> </th>
-   <th> 06/06/24  </th>
+   <th> 20/10/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US12  </th>
-   <th> 60eddb940eb36f69321e66cc560273a410477fb4  </th>
-   <th>  feat(content): Added interfaces rest files  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 3755a9a1398243f3080231d60c6e8c1dc24f9810  </th>
+   <th> feat(payments): add payment command and query service implementations.  </th>
    <th> </th>
-   <th> 07/06/24  </th>
+   <th> 20/10/24  </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US13  </th>
-   <th> efa511eeca7cce5fbaf0cd7019fc5bd698858f90  </th>
-   <th>  feat: Add US13  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 29b94477cc9d373e0de8e1e569da736474d90057  </th>
+   <th> feat(payments): add payment outbound service  </th>
    <th> </th>
-   <th> 07/06/24  </th>
+   <th> 20/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 28ef78818b727a9962d323cf5f6e8b580022f7a8  </th>
+   <th>  feat(payments): add interface layer resource and transform types  </th>
+   <th> </th>
+   <th> 20/10/24  </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US13  </th>
-   <th> a56626a82f46f2bd1aed42fdcdd70c0c00ff41f5  </th>
-   <th>  fix: fix pwd in app.properties  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 1d200c8844efcdebc13363f892365394e0356797  </th>
+   <th>  feat: dependencies of security and jwt added  </th>
    <th> </th>
-   <th> 07/06/24  </th>
+   <th> 10/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 37fce55af9a87a212632cf58841efd21d2d86bb8  </th>
+   <th> feat: commandservices, queryservices and eventhandlers of iam added  </th>
+   <th> </th>
+   <th> 10/10/24   </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> a4f3cca04a5b49290b5365f98f927434e3b9946d  </th>
-   <th>  chore: Initial config  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 11386b2abb8b609b2a2a22780b4b55aa837f98fc  </th>
+   <th> feat: controllers of iam and profile added  </th>
    <th> </th>
-   <th> 28/05/24  </th>
+   <th> 10/10/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 6ac4130b055769f6105edd0b9f5f43a82661964c  </th>
-   <th>  docs(monetization): added java docs for aggregates roots  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 68968ac4ca67ac198e8c777ac544e9b4d7eb9452  </th>
+   <th> feat(iam): add transctional of services and documentation in controller </th>
    <th> </th>
-   <th> 28/05/24  </th>
+   <th> 10/10/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 1b4f4beb54d4bf292bbe2c8646ad7e742a2e8ffe  </th>
-   <th>  feat(monetization): added create commands records  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 4799f6fe092c5bf67a52ddda3f73ce36cc316ed1  </th>
+   <th> feat(iam): change username for email in User  </th>
    <th> </th>
-   <th> 28/05/24  </th>
+   <th> 10/10/24  </th>
  </tr>
 
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> b89a20c02b0b116ce8afff2748e6349dbc4cb16a  </th>
-   <th>  feat(monetization): added proyect solution and their configuring by snake case  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/finances  </th>
+   <th> 435f464acd5320b71734ee8ee73e4ec6c8f0794b  </th>
+   <th> feat(finances): add finance aggregate, commands, queries, repository, services, controller, etc.  </th>
    <th> </th>
-   <th> 29/05/24  </th>
+   <th> 30/10/24  </th>
  </tr>
 
 <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields  </th>
    <th> a1df68691058c5c0dfef0199bb64736729d5930b </th>
    <th>  feat(monetization): added queries with params and search by id  </th>
    <th> </th>
@@ -2770,157 +2779,112 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 8f4d0fdf539acdd0644fb72fce246d94de3f6e90 </th>
-   <th>  feat(monetization/controller): added crud method into controller  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> 8e137d473ea73367d841a6f3b897783a38f469e8 </th>
+   <th>  feat(field): add field aggregate.  </th>
    <th> </th>
-   <th> 29/05/24  </th>
+   <th> 25/05/24  </th>
  </tr>
 
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 655e756b7d4c47d82bd657850748811b60932369 </th>
-   <th>  feat(monetization/controller): added subscription controller and crud methods  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> bc55cd42ebf7101cc2b349679ab382d2dc0e3dc5 </th>
+   <th>  feat(field): added UpdateFieldCommandFromResourceAssembler transform.  </th>
    <th> </th>
-   <th> 30/05/24  </th>
+   <th> 25/05/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 1e6207a68550944d1426ab9f2b67d426c4937e09 </th>
-   <th>  feat(monetization/SubscriptionController): implemented put method and query for find all active subscriptions  </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> 9a4b7636ef86e5db1fe8c9c6ebad3ec804a98d98 </th>
+   <th>  fix(field): fixed Field Command and Query Implementation.  </th>
    <th> </th>
-   <th> 30/05/24  </th>
+   <th> 25/05/24  </th>
  </tr>
 
    <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 25cf599c8eeb9df9f949942dfbe6b9037ad9756e </th>
-   <th>  refactor(monetization/commision/domain): refactor data atributes as value objects for improve the maintence </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> eb6572a4d4998a2adb52abba2a425bd4ab30387c </th>
+   <th>  fix(field): fixed GetFieldsByProducerIdQuery query. </th>
    <th> </th>
-   <th> 03/06/24  </th>
+   <th> 25/05/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 805e1678735bbe41d77eff17f5cedf895dab371f </th>
-   <th>  refactor(monetization/interfaces/rest): implemented other command methods for crud operations </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields  </th>
+   <th> 3496ff6d5772d912afd3a2393a05e2d307dd26e9 </th>
+   <th>  fix(field): remove GetAllFieldsQuery. </th>
    <th> </th>
-   <th> 03/06/24  </th>
+   <th> 25/05/24  </th>
  </tr>
 
    <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> b47a333be964ee7d087a1c2431a2ebc675e0dd5a </th>
-   <th>  chore: configured open api </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields  </th>
+   <th> 65544794f66c79800b51450063a73424288413ac </th>
+   <th>  feat(workers): added commands, queries, resources, etc </th>
    <th> </th>
-   <th> 03/06/24  </th>
+   <th> 25/05/24  </th>
  </tr>
 
    <tr> 
-   <th>  API </th>
-   <th> feature/US15  </th>
-   <th> 5654e16b1601ebf87b20b6d58c021389be7eec39 </th>
-   <th> fix(monetization): fixed aggregates id for openapi documentation </th>
+   <th> Agrocontrol-backend </th>
+   <th> feature/agriculturalProcess  </th>
+   <th> 40a6195ecb684cfaa53192883753d7c76eb7fd76 </th>
+   <th> feat(agricultural-processes): add agricultural process inbound service. </th>
    <th> </th>
-   <th> 04/06/24  </th>
+   <th> 15/10/24  </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US19  </th>
-   <th> 54824af1dd989d48257964cdf276d12014dccde6 </th>
-   <th> feat: added file shared </th>
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess </th>
+   <th> 9707b910342c9640c5adc4ff92a742c22cab36f4 </th>
+   <th> feat(agricultural-processes): add GetAgriculturalProcessByFieldIdQuery. </th>
    <th> </th>
-   <th> 03/06/24  </th>
+   <th> 15/10/24  </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US19  </th>
-   <th> a018bc9037e52e21f5dc20591300868580c41f81 </th>
-   <th> feat: added bounded context monetization </th>
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> 87e64f47976db71e0720505e65a22ee0eddc2760 </th>
+   <th> fix(agricultural-processes): manage of list in AgriculturalProcessesController. </th>
    <th> </th>
-   <th> 03/06/24  </th>
+   <th> 15/10/24   </th>
  </tr>
 
   <tr> 
-   <th>  API </th>
-   <th> feature/US19  </th>
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
    <th> c1f0679f363fa44a17b88b0bfede32cda92801c9 </th>
    <th> feat: added dependecies </th>
    <th> </th>
-   <th> 04/06/24  </th>
+   <th> 15/10/24   </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US23  </th>
-   <th> 93c293cce0779b7af7667d37bbee87d4ce7cfce2 </th>
-   <th> feat: Add Reader API controller </th>
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> 016b7a500a42bd5d6e48650ad94e9a5e4bbd5e55 </th>
+   <th> feat(agricultural-processes): add query to retrieve activities by type of an agricultural process. </th>
    <th> </th>
-   <th> 27/05/24  </th>
+   <th> 15/10/24   </th>
  </tr>
 
  <tr> 
-   <th>  API </th>
-   <th> feature/US23  </th>
-   <th> 954ba3bc635d54427e9dff4f9ef9b1ac6d0a915c </th>
-   <th> chore: Add dependency and corrected package location </th>
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> 9b20f8d64fd89aa14b783c5cfcfb7fb99e5722f6 </th>
+   <th> feat(agricultural-processes): add harvest entity. </th>
    <th> </th>
-   <th> 29/05/24  </th>
- </tr>
-
-  <tr> 
-   <th>  API </th>
-   <th> feature/US24  </th>
-   <th> 13cdf77b78adb76fa7240b577d637c1760c1c566 </th>
-   <th> feat: add PayPal's dependencies </th>
-   <th> </th>
-   <th> 05/06/24  </th>
- </tr>
-
-  <tr> 
-   <th>  API </th>
-   <th> feature/US24  </th>
-   <th> 80b56e66d662ba82a0205a630ccadaed3a82c139 </th>
-   <th> feat: add PayPal API configuration </th>
-   <th> </th>
-   <th> 06/06/24  </th>
- </tr>
-
- <tr> 
-   <th>  API </th>
-   <th> feature/US24  </th>
-   <th> ce486d5eca033579205a7d6c22c03b5fa57d1d17 </th>
-   <th> feat: add POST method to create a payment </th>
-   <th> </th>
-   <th> 07/06/24  </th>
- </tr>
-
-  <tr> 
-   <th>  API </th>
-   <th> feature/US24  </th>
-   <th> 68cce9e6446ffb445b5365f95e37643ba3f0cf96 </th>
-   <th> feat: add GET methods to cancel a payment and to approve one </th>
-   <th> </th>
-   <th> 07/06/24  </th>
- </tr>
-
-   <tr> 
-   <th>  API </th>
-   <th> feature/US24  </th>
-   <th> b9d24224cf13b3776300b41be973200391662b01 </th>
-   <th> docs: add documentation </th>
-   <th> </th>
-   <th> 07/06/24  </th>
+   <th> 26/10/24  </th>
  </tr>
 
  </table>
