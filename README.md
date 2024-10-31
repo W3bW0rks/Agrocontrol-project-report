@@ -3097,44 +3097,44 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
   <tr>
    <th style="text-align:center;"> <strong> agriculturalProcess Bounded Context </strong> </th>
     <th> <strong> /api/v1/agricultural-processes </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/agricultural-process.png"> </th>
   </tr>
 
 
   <tr>
    <th> <strong> fields Bounded Context </strong> </th>
     <th> <strong> /api/v1/fields | /api/v1/workers </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/fields.png"> </th>
   </tr>
 
   <tr>
    <th> <strong> finances Bounded Context </strong> </th>
     <th> <strong> /api/v1/finances </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/finances.png"> </th>
   </tr>
 
   <tr>
    <th> <strong> iam Bounded Context </strong> </th>
     <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Authentication.png"> </th>
   </tr>
 
 <tr>
    <th> <strong> payments Bounded Context </strong> </th>
     <th> <strong> /api/v1/payments </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Payments.png"> </th>
   </tr>
 
   <tr>
    <th> <strong> profiles Bounded Context </strong> </th>
     <th> <strong> /api/v1/profiles </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/PROFILES.png"> </th>
   </tr>
 
   <tr>
    <th> <strong> store Bounded Context </strong> </th>
     <th> <strong> /api/v1/products </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/sprint3/products.png"> </th>
   </tr>
 
 </table>
