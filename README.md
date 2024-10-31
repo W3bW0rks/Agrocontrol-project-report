@@ -2500,7 +2500,528 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
           <td> 30 <td>
       </tr>
 
+</table>  
+
+ ### 5.2.3.2 Sprint BackLog 3  
+ En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.  
+ 
+ Enlace de Trello: https://shorturl.at/YbuJM  
+
+ <table style="height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+    <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+    <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+     <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+    <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+    <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+
+   <tr>
+      <th> EX-USY  </th>
+     <th colspan="3"> User Story </th>
+      <th> W23  </th>
+     <th> Bounded Context </th>
+     <th>  Functionality </th>
+     <th>  Story Points </th>
+     <th> Owner name</th> 
+     <th> To Do</th>
+   </tr>
+</table>  
+
+### 5.2.3.3 Development Evidence for Sprint Review.  
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+
+ <tr> 
+   <th>  API </th>
+   <th> develop  </th>
+   <th> e6b16d934cda1a5acf605d3fea2c97f74d69d4ce  </th>
+   <th>  Initial commit </th>
+   <th> </th>
+   <th> 26/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> develop  </th>
+   <th> 56972ab39ff47512701f4555bef4d45de9fadf05  </th>
+   <th>  feat: inicial commit </th>
+   <th> </th>
+   <th> 26/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> develop  </th>
+   <th> ff8939db21eb7502d3a46ef9ba3d945f97429446  </th>
+   <th>  chore: Create .gitignore </th>
+   <th> </th>
+   <th> 26/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 2f795ef5deeef4a45dbfec66105d34086aceed9e  </th>
+   <th>  chore/refactor(US12): Added dependencies and refactor project </th>
+   <th> </th>
+   <th> 01/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 2592016520263a70af29252dbe925b12f86b5218  </th>
+   <th>  feat(content): Added Snake Case class </th>
+   <th> </th>
+   <th> 01/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> bae9d5603a183e18b6041b96e297e68ddf5ed236  </th>
+   <th>  feat(shared): Added domain.model files </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> d4ef5f974a5b7b6762b30167efa50c338985c7b6  </th>
+   <th>  feat(shared): Update infrastructure  </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> b112927e9792f13a11fdbf21f68b18635ecfac05  </th>
+   <th>  feat(content): Update domain model files  </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 76a3cb7b78087f7b88e8ed53e0d77ba4284ac3ca  </th>
+   <th>  feat(content): Added domain services  </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 60eddb940eb36f69321e66cc560273a410477fb4  </th>
+   <th>  feat(content): Added interfaces rest files  </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US13  </th>
+   <th> efa511eeca7cce5fbaf0cd7019fc5bd698858f90  </th>
+   <th>  feat: Add US13  </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US13  </th>
+   <th> a56626a82f46f2bd1aed42fdcdd70c0c00ff41f5  </th>
+   <th>  fix: fix pwd in app.properties  </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> a4f3cca04a5b49290b5365f98f927434e3b9946d  </th>
+   <th>  chore: Initial config  </th>
+   <th> </th>
+   <th> 28/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 6ac4130b055769f6105edd0b9f5f43a82661964c  </th>
+   <th>  docs(monetization): added java docs for aggregates roots  </th>
+   <th> </th>
+   <th> 28/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 1b4f4beb54d4bf292bbe2c8646ad7e742a2e8ffe  </th>
+   <th>  feat(monetization): added create commands records  </th>
+   <th> </th>
+   <th> 28/05/24  </th>
+ </tr>
+
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> b89a20c02b0b116ce8afff2748e6349dbc4cb16a  </th>
+   <th>  feat(monetization): added proyect solution and their configuring by snake case  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+<tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> a1df68691058c5c0dfef0199bb64736729d5930b </th>
+   <th>  feat(monetization): added queries with params and search by id  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 8f4d0fdf539acdd0644fb72fce246d94de3f6e90 </th>
+   <th>  feat(monetization/controller): added crud method into controller  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 655e756b7d4c47d82bd657850748811b60932369 </th>
+   <th>  feat(monetization/controller): added subscription controller and crud methods  </th>
+   <th> </th>
+   <th> 30/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 1e6207a68550944d1426ab9f2b67d426c4937e09 </th>
+   <th>  feat(monetization/SubscriptionController): implemented put method and query for find all active subscriptions  </th>
+   <th> </th>
+   <th> 30/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 25cf599c8eeb9df9f949942dfbe6b9037ad9756e </th>
+   <th>  refactor(monetization/commision/domain): refactor data atributes as value objects for improve the maintence </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 805e1678735bbe41d77eff17f5cedf895dab371f </th>
+   <th>  refactor(monetization/interfaces/rest): implemented other command methods for crud operations </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> b47a333be964ee7d087a1c2431a2ebc675e0dd5a </th>
+   <th>  chore: configured open api </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 5654e16b1601ebf87b20b6d58c021389be7eec39 </th>
+   <th> fix(monetization): fixed aggregates id for openapi documentation </th>
+   <th> </th>
+   <th> 04/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US19  </th>
+   <th> 54824af1dd989d48257964cdf276d12014dccde6 </th>
+   <th> feat: added file shared </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US19  </th>
+   <th> a018bc9037e52e21f5dc20591300868580c41f81 </th>
+   <th> feat: added bounded context monetization </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US19  </th>
+   <th> c1f0679f363fa44a17b88b0bfede32cda92801c9 </th>
+   <th> feat: added dependecies </th>
+   <th> </th>
+   <th> 04/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US23  </th>
+   <th> 93c293cce0779b7af7667d37bbee87d4ce7cfce2 </th>
+   <th> feat: Add Reader API controller </th>
+   <th> </th>
+   <th> 27/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US23  </th>
+   <th> 954ba3bc635d54427e9dff4f9ef9b1ac6d0a915c </th>
+   <th> chore: Add dependency and corrected package location </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> 13cdf77b78adb76fa7240b577d637c1760c1c566 </th>
+   <th> feat: add PayPal's dependencies </th>
+   <th> </th>
+   <th> 05/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> 80b56e66d662ba82a0205a630ccadaed3a82c139 </th>
+   <th> feat: add PayPal API configuration </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> ce486d5eca033579205a7d6c22c03b5fa57d1d17 </th>
+   <th> feat: add POST method to create a payment </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> 68cce9e6446ffb445b5365f95e37643ba3f0cf96 </th>
+   <th> feat: add GET methods to cancel a payment and to approve one </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> b9d24224cf13b3776300b41be973200391662b01 </th>
+   <th> docs: add documentation </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+ </table>
+
+
+
+### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+
+En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gherkin, ya que no fueron necesarias.
+
+### 5.2.3.5 Execution Evidence for Sprint Review.  
+
+Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
+La aplicación web sigue siendo accesible a través del siguiente enlace: https://agro-control-upc.netlify.app/  
+
+En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
+Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/  
+
+### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de monetización, colaboración, usuario y contenido.  
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/Agrocontrol-backend  
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> agriculturalProcess Bounded Context </strong> </th>
+    <th> <strong> /api/v1/agricultural-processes </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> fields Bounded Context </strong> </th>
+    <th> <strong> /api/v1/fields | /api/v1/workers </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> finances Bounded Context </strong> </th>
+    <th> <strong> /api/v1/finances </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> iam Bounded Context </strong> </th>
+    <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> payments Bounded Context </strong> </th>
+    <th> <strong> /api/v1/payments </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> iam Bounded Context </strong> </th>
+    <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> profiles Bounded Context </strong> </th>
+    <th> <strong> /api/v1/profiles </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> store Bounded Context </strong> </th>
+    <th> <strong> /api/v1/products </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
 </table>
+
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
+
+En este sprint, se ha desarrollado la API de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.  
+
+<ul>
+
+<li> Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.</li>
+<li> Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.</li>
+<li> GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta destinada a probar y documentar nuestra API.</li>
+
+</ul>
+
+### 5.2.3.8 Team Collaboration Insights during Sprint.  
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
