@@ -3227,7 +3227,7 @@ Ocupación: _____
 | Ayuda y documentación                         |                 | {texto} |
 
 ## 5.4. Video About-the-Product.
-[URL del video about the product](https://upcedupe-my.sharepoint.com/personal/u202220250_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202220250%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%20the%20product%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9f3e879f%2D35f0%2D4dbf%2D8873%2D474719705f38&isDarkMode=false)
+https://upcedupe-my.sharepoint.com/personal/u202220250_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202220250%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%20the%20product%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9f3e879f%2D35f0%2D4dbf%2D8873%2D474719705f38&isDarkMode=false
 <p> <img src ="./assets\chapter-5-images\abouttheproduct.jpeg"/>
 
 
@@ -3271,7 +3271,7 @@ para la aplicación web y la API. También este proyecto nos permitió, como equ
 desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
 aplicación web completa.
 
-[URL del video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/EUVsfzttwbRLgrIILQVy5asBCsexE3pkIv7LOwUIJF8DLg?e=3nuLfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/EUVsfzttwbRLgrIILQVy5asBCsexE3pkIv7LOwUIJF8DLg?e=3nuLfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
