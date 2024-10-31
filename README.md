@@ -2522,95 +2522,254 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
  
  Enlace de Trello: https://shorturl.at/YbuJM  
 
- <table style="height:100px;"> 
+ <table style="height:1000px;"> 
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 3 </th>
    </tr>
-   <tr >
+   <tr>
      <th colspan="4"> User Story </th>
      <th colspan="7"> Work-Item /Task</th>
    </tr>
    <tr>
-     <th > Id </th>
+     <th> Id </th>
      <th colspan="3"> Title </th>
      <th> Id </th>
-     <th > Title </th>
-     <th> Description </th>
+     <th> Bounded Context </th>
+     <th> Functionality </th>
      <th> Estimation (Hours) </th>
      <th> Assigned To </th> 
-     <th> Status (To-do / In-Process / To- Review / Done) </th>
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
    </tr>
-     <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
-   </tr>
-    <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
-   </tr>
-    <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
-   </tr>
-     <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
-   </tr>
-    <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
-   </tr>
-    <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
-   </tr>
-
    <tr>
-      <th> EX-USY  </th>
-     <th colspan="3"> User Story </th>
-      <th> W23  </th>
-     <th> Bounded Context </th>
-     <th>  Functionality </th>
-     <th>  Story Points </th>
-     <th> Owner name</th> 
-     <th> To Do</th>
+      <th> E6-US02 </th>
+      <th colspan="3"> Register User </th>
+      <th> W23 </th>
+      <th> iam </th>
+      <th> Implementar registro de usuario a través del API </th>
+      <th> 4 </th>
+      <th> André Arroyo </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US03 </th>
+      <th colspan="3"> User Login </th>
+      <th> W23 </th>
+      <th> iam </th>
+      <th> Crear funcionalidad de inicio de sesión mediante el API </th>
+      <th> 3 </th>
+      <th> André Arroyo </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US04 </th>
+      <th colspan="3"> Get User Information </th>
+      <th> W23 </th>
+      <th> iam </th>
+      <th> Implementar endpoint para obtener información del usuario </th>
+      <th> 3 </th>
+      <th> André Arroyo </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US05 </th>
+      <th colspan="3"> Create Planting Record </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Crear registro de plantación a través de API </th>
+      <th> 5 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US06 </th>
+      <th colspan="3"> Get Plantation Registration Information </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Implementar endpoint para obtener información de plantación </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US07 </th>
+      <th colspan="3"> End Planting Cycle </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Función para finalizar ciclo de plantación </th>
+      <th> 6 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US08 </th>
+      <th colspan="3"> Add Worker Record </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Crear registro de trabajador a través del API </th>
+      <th> 3 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US09 </th>
+      <th colspan="3"> Get Worker Registration </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Obtener información de registro de trabajadores </th>
+      <th> 3 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US10 </th>
+      <th colspan="3"> Delete Worker Record </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Eliminar registro de trabajador a través del API </th>
+      <th> 4 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US11 </th>
+      <th colspan="3"> Edit Worker Record </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Implementar edición de registro de trabajador </th>
+      <th> 4 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US12 </th>
+      <th colspan="3"> Create Irrigation Dates </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Crear fechas de irrigación mediante el API </th>
+      <th> 5 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US13 </th>
+      <th colspan="3"> Get Irrigation Dates </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Obtener fechas de irrigación de un campo </th>
+      <th> 3 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US14 </th>
+      <th colspan="3"> Delete Irrigation </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Función para eliminar registros de irrigación </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US15 </th>
+      <th colspan="3"> Add Treatment </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Crear registro de tratamiento para los cultivos </th>
+      <th> 6 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US16 </th>
+      <th colspan="3"> Get Treatment </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Obtener información de tratamientos aplicados </th>
+      <th> 3 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US17 </th>
+      <th colspan="3"> Delete Treatment </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Función para eliminar tratamientos de cultivos </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US18 </th>
+      <th colspan="3"> Create Harvest </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Implementar registro de cosecha a través del API </th>
+      <th> 6 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US19 </th>
+      <th colspan="3"> Get Harvest </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Obtener información de cosechas registradas </th>
+      <th> 3 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US20 </th>
+      <th colspan="3"> Delete Harvest </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Eliminar registros de cosechas </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US21 </th>
+      <th colspan="3"> Create Financing </th>
+      <th> W23 </th>
+      <th> finances </th>
+      <th> Crear registro de financiamiento a través del API </th>
+      <th> 5 </th>
+      <th> Gonzalo Quedena </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US22 </th>
+      <th colspan="3"> Get Financing </th>
+      <th> W23 </th>
+      <th> finances </th>
+      <th> Obtener información de financiamiento </th>
+      <th> 3 </th>
+      <th> Gonzalo Quedena </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US23 </th>
+      <th colspan="3"> Delete Financing </th>
+      <th> W23 </th>
+      <th> finances </th>
+      <th> Función para eliminar registros de financiamiento </th>
+      <th> 4 </th>
+      <th> Gonzalo Quedena </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US24 </th>
+      <th colspan="3"> Process Payment Subscription </th>
+      <th> W23 </th>
+      <th> payment </th>
+      <th> Implementar el procesamiento de pagos internamente en el sistema </th>
+      <th> 7 </th>
+      <th> Hardie Olguin </th>
+      <th> Done </th>
    </tr>
 </table>  
 
