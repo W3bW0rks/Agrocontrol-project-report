@@ -24,7 +24,7 @@
 # Project Report Collaboration Insights
 Link de la organizacion: https://github.com/orgs/W3bW0rks/repositories  
 Link del reporte: https://github.com/W3bW0rks/project-report  
-Link Landing Page: https://agrocontrol-landing-page.vercel.app/index.html  
+Link Landing Page: https://agrocontrol-landing-page-upc.vercel.app/ 
 URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
 
 Reporte de la elaboracion de la TB1te la TB1
@@ -32,7 +32,7 @@ Reporte de la elaboracion de la TB1te la TB1
 * Se generaron los artefactos necesarios utilizando las herramientas recomendadas, obteniendo enlaces de imagen desde la carpeta "assets" ubicada en la rama develop del repositorio del informe.
 * Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 1, cuyo enfoque es la Landing Page.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/main/assets/collaboration%20insights/collaborators.png?raw=true" alt="github-collaborators"/>
+<img src=".\assets\collaboration insights\report-insights.jpeg"/>
 
 <br/>
 
