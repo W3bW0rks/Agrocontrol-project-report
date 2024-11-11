@@ -3073,8 +3073,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <th> 26/10/24  </th>
  </tr>
 
- </table>
-
+ </table>  
 
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
@@ -3169,6 +3168,78 @@ En este sprint, se ha desarrollado la API de la aplicación web, utilizando las 
 A continuación se mostrarán el gráfico de insights durante el sprint:
 
 <img src="./assets/collaboration insights/insights-sprint3.jpg"/>
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+En el siguiente apartado, se presentará el sprint planning 4, donde se mostrará la planificacióndel despliegue back end y conexión con la web application. Además, se mostrarán los avances del proyecto e insights de colaboración a través de Github.  
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 11/11/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 17:45 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Webworks <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Zavala Quedena, Gonzalo Andre
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+          Principe Godoy, Johan
+          <br>
+          Espino Flores, Alejandro
+          <br>
+	        Holguin Gamarra, Hardie
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td> Se logró la implementación del blackend de la Aplicación Web<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
+        <td style="text-align: justify"> 
+          En este sprint como equipo logramos el desarrollo del API de la Aplicación Web elaborando de forma adecuada la distribución de desarrollo por cada Bounded Context con una correcta division de tareas y aporte de cada uno. Como equipo esperamos poder cumplir con los objetivos para el sprint 4.
+        <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td style="text-align: justify"> 
+          Nuestro enfoque para este sprint es desplegar el API de la aplicación backend y asegurar la integración efectiva entre el frontend y el backend. Adicionalmente, trabajaremos en una nueva versión de las funcionalidades existentes, para completar y optimizar cada aspecto de la plataforma, mejorando así la gestión agrícola y ofreciendo un control más preciso sobre las operaciones diarias. Creemos que estos avances permitirán a los agricultores y usuarios del sistema incrementar la eficiencia en sus operaciones, logrando una gestión integral y estratégica de sus recursos. La conexión del frontend con el backend garantiza una experiencia de usuario fluida, aprovechando al máximo las capacidades del API para integrar AgroControl con otras plataformas y herramientas tecnológicas. Esto proporcionará a los usuarios la flexibilidad necesaria para tomar decisiones informadas en cada etapa del ciclo agrícola. El impacto esperado es que los usuarios puedan interactuar fácilmente con el sistema, visualizando sus datos financieros y operativos en tiempo real. Esto se confirmará cuando los usuarios experimenten mejoras significativas en la integración y el funcionamiento de la plataforma, accediendo a las funcionalidades de manera eficiente y obteniendo reportes financieros detallados con ingresos y costos desglosados por actividad.
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td> 11 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 30 <td>
+      </tr>
+
+</table>  
+
 
 
 ## 5.3. Validation Interviews.
