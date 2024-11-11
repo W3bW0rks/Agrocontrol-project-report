@@ -3240,6 +3240,12 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
 
 </table>  
 
+ #### 5.2.4.2 Sprint BackLog 4
+ En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.  
+ 
+Enlace de Trello: https://shorturl.at/W22e7  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-5-images/sprint-backlog-4.png" alt="sprint-backlog-4"/>  
 
 
 ## 5.3. Validation Interviews.
