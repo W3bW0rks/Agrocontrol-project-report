@@ -3247,6 +3247,24 @@ Enlace de Trello: https://shorturl.at/W22e7
 
 <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-5-images/sprint-backlog-4.png" alt="sprint-backlog-4"/>  
 
+### 5.2.4.3 Development Evidence for Sprint Review.  
+
+### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+
+### 5.2.4.5 Execution Evidence for Sprint Review.  
+
+Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.  
+
+La aplicación web sigue siendo accesible a través del siguiente enlace: http://agrocontrol-frontend.vercel.app/  
+
+En la Landing Page se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
+
+Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/  
+
+Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma XYZ para su despliegue.
+
+Se puede acceder a nuestra API desde el siguiente link:
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
