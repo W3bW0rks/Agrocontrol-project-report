@@ -549,10 +549,10 @@ En Lean UX Canvas facilitamos la colaboración y el enfoque en el usuario en el 
 <img src="./assets/chapter-1-images/LeanUXCanvas-2.png" width=600px/>
 
 ## 1.3. Segmentos Objetivo
-| **Tipo de usuario**   | **Geográfico**                                                                                                  | **Psicográfico**                                                                                      | **Demográfico**                                                                                                           |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| **Productor Agrícola** | Ubicado en áreas rurales o periurbanas con actividad agrícola. Pueden encontrarse en distintas regiones dependiendo del tipo de cultivo (por ejemplo, regiones de cultivo de granos, frutas, o verduras). | Motivado por la optimización de sus procesos, la mejora de la rentabilidad y la sostenibilidad. Puede valorar la tecnología como una herramienta para mejorar su trabajo. | - **Edad:** Adultos entre 30 y 60 años. <br> - **Educación:** Desde formación técnica en agricultura hasta educación universitaria en áreas relacionadas con ciencias agrícolas. |
-| **Distribuidor**       | Puede estar ubicado en cualquier parte del mundo, dado que la distribución puede abarcar tanto áreas locales como internacionales. | Enfocado en la eficiencia logística, la optimización de rutas y el control de inventarios. Valora las herramientas que faciliten la planificación y gestión de la cadena de suministro. | - **Edad:** Adultos entre 25 y 55 años. <br> - **Educación:** Formación en logística o áreas relacionadas con la gestión de la cadena de suministro. |
+| **Tipo de usuario**    | **Geográfico**                                                                                                                                                                                            | **Psicográfico**                                                                                                                                                                        | **Demográfico**                                                                                                                                                                  |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Productor Agrícola** | Ubicado en áreas rurales o periurbanas con actividad agrícola. Pueden encontrarse en distintas regiones dependiendo del tipo de cultivo (por ejemplo, regiones de cultivo de granos, frutas, o verduras). | Motivado por la optimización de sus procesos, la mejora de la rentabilidad y la sostenibilidad. Puede valorar la tecnología como una herramienta para mejorar su trabajo.               | - **Edad:** Adultos entre 30 y 60 años. <br> - **Educación:** Desde formación técnica en agricultura hasta educación universitaria en áreas relacionadas con ciencias agrícolas. |
+| **Distribuidor**       | Puede estar ubicado en cualquier parte del mundo, dado que la distribución puede abarcar tanto áreas locales como internacionales.                                                                        | Enfocado en la eficiencia logística, la optimización de rutas y el control de inventarios. Valora las herramientas que faciliten la planificación y gestión de la cadena de suministro. | - **Edad:** Adultos entre 25 y 55 años. <br> - **Educación:** Formación en logística o áreas relacionadas con la gestión de la cadena de suministro.                             |
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
@@ -937,14 +937,15 @@ En esta sección se analizan las características comunes identificadas en las e
 ### 2.3.1. User Personas
 En esta sección se presentarán las fichas de User Persona, las cuales son representaciones ficticias de los usuarios basadas en los hallazgos obtenidos a partir de las entrevistas realizadas. Estas fichas se centran en los segmentos objetivos identificados, incluyendo productores agrícolas y distribuidores. La elaboración de estas User Personas se fundamenta en el análisis de las características comunes y necesidades detectadas en las entrevistas, así como en la observación de la competencia. Al comprender mejor a nuestros usuarios, podremos diseñar soluciones más efectivas y alineadas con sus expectativas y desafíos, lo que resulta fundamental para el desarrollo de nuestra aplicación. Cada ficha incluirá detalles sobre las características demográficas, motivaciones, frustraciones y necesidades específicas de cada arquetipo, asegurando que nuestras decisiones de diseño se basen en información relevante y real.
 
-**Segmento Productor Agricola:**
-Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
+**Segmento Productor Agricola:**  
 
-El perfil de María Rodríguez, una distribuidora, resalta la necesidad de mejorar la gestión de inventarios y la planificación de entregas, motivada por el deseo de incrementar ventas y optimizar su negocio. Por otro lado, Juan Pérez, un productor agrícola, refleja las preocupaciones de los agricultores en la automatización de procesos como riego y fumigación, buscando reducir costos y mejorar la eficiencia operativa. Ambos perfiles fueron construidos para guiar el diseño del sistema, asegurando que la plataforma AgroControl responda adecuadamente a sus necesidades específicas y se alinee con las mejores prácticas del mercado.
+Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
 
 <img src="./assets/Chapter-2/UserPerson1.png" alt="Segmento 1 user persona">
 
-**Segmento Distribuidor:**
+**Segmento Distribuidor:**  
+
+El perfil de María Rodríguez, una distribuidora, resalta la necesidad de mejorar la gestión de inventarios y la planificación de entregas, motivada por el deseo de incrementar ventas y optimizar su negocio. Por otro lado, Juan Pérez, un productor agrícola, refleja las preocupaciones de los agricultores en la automatización de procesos como riego y fumigación, buscando reducir costos y mejorar la eficiencia operativa. Ambos perfiles fueron construidos para guiar el diseño del sistema, asegurando que la plataforma AgroControl responda adecuadamente a sus necesidades específicas y se alinee con las mejores prácticas del mercado.
 
 <img src="./assets/Chapter-2/UserPerson2.png" alt="Segmento 2 user persona">
 
@@ -1014,15 +1015,17 @@ El journey de los **Distribuidores** inicia al conocer la app en ferias o a trav
 
 En esta sección se presentan los Empathy Maps para cada User Persona, que ayudan a entender sus experiencias y emociones. Se colocó al User Persona en el centro y se recolectaron observaciones del equipo sobre lo que necesita hacer, dice y siente. También se identificaron sus preocupaciones y cómo nuestra solución puede ayudar. A continuación, se incluyen las capturas de los Empathy Maps realizados.
 
-**Segmento Productor Agricola:**
+**Segmento Productor Agricola:**  
+Juan Pérez es un productor agrícola que ha trabajado en la agricultura toda su vida, heredando el negocio familiar. Aunque cuenta con experiencia en producción, su conocimiento en tecnología es limitado. Sus objetivos incluyen optimizar procesos agrícolas, mantener un registro detallado de costos y aprovechar la tecnología para supervisar actividades de forma remota. Juan busca mejorar la eficiencia de sus cultivos, reducir costos operativos y contar con informes detallados. Se enfrenta a frustraciones como la falta de información actualizada y problemas de planificación.  
 
 <img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona1.png?raw=true" alt="Segmento Productor Agricola">
-
-**Segmento Distribuidor:**
+    
+**Segmento Distribuidor:**  
+María Rodríguez es propietaria de una tienda de insumos agrícolas con experiencia en ventas y distribución. Con estudios en administración, su enfoque es utilizar la tecnología para mejorar la eficiencia de su negocio. Sus metas son automatizar la gestión de inventarios, obtener datos para ajustar estrategias y mantener una comunicación eficaz con proveedores. María está motivada por incrementar ventas, mejorar la satisfacción del cliente y expandir su negocio. Enfrenta retos como la pérdida de ventas por errores en inventario y la falta de visibilidad en tiempo real del mercado.  
 
 <img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor"><br/>
   
-En esta sección, el equipo presenta los Empathy Maps realizados para los User Personas de AgroControl utilizando la herramienta UXPressia. Estos mapas permiten capturar una comprensión detallada de los usuarios al explorar lo que piensan, sienten, ven, oyen, dicen y hacen, junto con sus pains (dolores) y gains (beneficios). A continuación, se detalla el proceso de elaboración para cada uno de los User Personas.
+En esta sección, el equipo presenta los Empathy Maps realizados para los User Personas de AgroControl utilizando la herramienta UX Pressia. Estos mapas permiten capturar una comprensión detallada de los usuarios al explorar lo que piensan, sienten, ven, oyen, dicen y hacen, junto con sus pains (dolores) y gains (beneficios). A continuación, se detalla el proceso de elaboración para cada uno de los User Personas.
 
 **Proceso de Elaboración:**
 
@@ -2486,7 +2489,8 @@ A continuación, se presenta la documentación de los servicios utilizados. En e
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-### 5.2.3. Sprint 3
+### 5.2.3. Sprint 3  
+
 #### 5.2.3.1. Sprint Planning 3
 En el siguiente apartado, se presentará el sprint planning 3, donde se mostrará la planificación e implementación del back end en la web application. Además, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
 
