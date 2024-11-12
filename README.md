@@ -954,19 +954,19 @@ El perfil de María Rodríguez, una distribuidora, resalta la necesidad de mejor
 
 En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Personas realizan para cumplir sus objetivos. Se consideran dos segmentos: productores agrícolas y distribuidores. Las tareas identificadas son realizadas independientemente de la existencia de soluciones de software.
 
-| **Task**                                   | **Productor Agrícola**  |             	| **Distribuidor** |                |
-|--------------------------------------------|-------------------------|----------------|------------------|----------------|
-|                                            | **Frequency**           | **Importance** | **Frequency**    | **Importance** |
-| Monitorear el clima                        | High                    | High        	| Medium           | High           |
-| Comunicar con compradores                  | Medium                  | Medium      	| Medium           | Medium         |
-| Controlar inventario                       | Low                     | High        	| High             | High           |
-| Planificar la siembra                      | Medium                  | High        	| Low              | Medium         |
-| Supervisar el crecimiento de los cultivos  | High                    | High        	| Low              | Medium         |
-| Realizar pedidos a proveedores             | -                       | -           	| Medium           | High           |
-| Registrar gastos e ingresos                | Medium                  | High        	| High             | High           |
-| Evaluar el rendimiento de los productos    | Medium                  | Medium      	| Medium           | Medium         |
-| Gestionar relaciones con proveedores       | Low                     | Medium      	| High             | High           |
-| Analizar tendencias de ventas              | Low                     | Medium      	| High             | High           |
+| **Task**                                  | **Productor Agrícola** | 	              | **Distribuidor** |                |
+|-------------------------------------------|------------------------|----------------|------------------|----------------|
+|                                           | **Frequency**          | **Importance** | **Frequency**    | **Importance** |
+| Monitorear el clima                       | High                   | High        	  | Medium           | High           |
+| Comunicar con compradores                 | Medium                 | Medium      	  | Medium           | Medium         |
+| Controlar inventario                      | Low                    | High        	  | High             | High           |
+| Planificar la siembra                     | Medium                 | High        	  | Low              | Medium         |
+| Supervisar el crecimiento de los cultivos | High                   | High        	  | Low              | Medium         |
+| Realizar pedidos a proveedores            | -                      | -           	  | Medium           | High           |
+| Registrar gastos e ingresos               | Medium                 | High        	  | High             | High           |
+| Evaluar el rendimiento de los productos   | Medium                 | Medium      	  | Medium           | Medium         |
+| Gestionar relaciones con proveedores      | Low                    | Medium      	  | High             | High           |
+| Analizar tendencias de ventas             | Low                    | Medium      	  | High             | High           |
 
 ### Explicación
 
@@ -1015,60 +1015,60 @@ El journey de los **Distribuidores** inicia al conocer la app en ferias o a trav
 
 En esta sección se presentan los Empathy Maps para cada User Persona, que ayudan a entender sus experiencias y emociones. Se colocó al User Persona en el centro y se recolectaron observaciones del equipo sobre lo que necesita hacer, dice y siente. También se identificaron sus preocupaciones y cómo nuestra solución puede ayudar. A continuación, se incluyen las capturas de los Empathy Maps realizados.
 
-**Segmento Productor Agricola:**  
+#### **Segmento Productor Agricola:**  
 Juan Pérez es un productor agrícola que ha trabajado en la agricultura toda su vida, heredando el negocio familiar. Aunque cuenta con experiencia en producción, su conocimiento en tecnología es limitado. Sus objetivos incluyen optimizar procesos agrícolas, mantener un registro detallado de costos y aprovechar la tecnología para supervisar actividades de forma remota. Juan busca mejorar la eficiencia de sus cultivos, reducir costos operativos y contar con informes detallados. Se enfrenta a frustraciones como la falta de información actualizada y problemas de planificación.  
 
 <img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona1.png?raw=true" alt="Segmento Productor Agricola">
     
-**Segmento Distribuidor:**  
+#### **Segmento Distribuidor:**  
 María Rodríguez es propietaria de una tienda de insumos agrícolas con experiencia en ventas y distribución. Con estudios en administración, su enfoque es utilizar la tecnología para mejorar la eficiencia de su negocio. Sus metas son automatizar la gestión de inventarios, obtener datos para ajustar estrategias y mantener una comunicación eficaz con proveedores. María está motivada por incrementar ventas, mejorar la satisfacción del cliente y expandir su negocio. Enfrenta retos como la pérdida de ventas por errores en inventario y la falta de visibilidad en tiempo real del mercado.  
 
-<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor"><br/>
-  
-En esta sección, el equipo presenta los Empathy Maps realizados para los User Personas de AgroControl utilizando la herramienta UX Pressia. Estos mapas permiten capturar una comprensión detallada de los usuarios al explorar lo que piensan, sienten, ven, oyen, dicen y hacen, junto con sus pains (dolores) y gains (beneficios). A continuación, se detalla el proceso de elaboración para cada uno de los User Personas.
+<img src="https://github.com/W3bW0rks/project-report/blob/b19d7523cc2561ed74134142440c2b8ca12f87f1/assets/chapter-2-images/EmpathyMapUserPersona2.png?raw=true" alt="Segmento Distribuidor"><br/>  
 
-**Proceso de Elaboración:**
+#### **Proceso de Elaboración:**
 
 1. **Preparación y Enfoque en el User Persona**: Cada mapa comenzó con la identificación del User Persona en el centro:
-	- **Juan Pérez**: Productor agrícola en Lima, enfocado en mejorar la gestión de su campo y la adopción de nuevas tecnologías.
-	- **Carlos Ramírez**: Distribuidor de insumos agrícolas que busca optimizar la logística de su negocio y satisfacer mejor a sus clientes.
+- **Juan Pérez**: Productor agrícola en Lima, enfocado en mejorar la gestión de su campo y la adopción de nuevas tecnologías.
+- **Carlos Ramírez**: Distribuidor de insumos agrícolas que busca optimizar la logística de su negocio y satisfacer mejor a sus clientes.  
 
-2. **Captura de Observaciones**: Para cada User Persona, se recopilaron observaciones del equipo en las secciones del Empathy Map:
+2. **Captura de Observaciones**:  
+   Para cada User Persona, se recopilaron observaciones del equipo en las secciones del Empathy Map:
 
-	- **¿Con quién estamos empatizando?**: Juan es un agricultor con desafíos en la gestión eficiente del campo, mientras que Carlos se enfoca en la distribución efectiva de productos agrícolas.
+    - **¿Con quién estamos empatizando?**:  
+      Juan es un agricultor con desafíos en la gestión eficiente del campo, mientras que Carlos se enfoca en la distribución efectiva de productos agrícolas.
 
-	- **¿Qué necesitan hacer?**:
-		- **Juan**: Gestionar eficientemente el campo, controlar los costos y acceder a herramientas para monitorear los cultivos.
-		- **Carlos**: Mantener el control del inventario, coordinar con clientes y programar entregas de manera eficiente.
+    - **¿Qué necesitan hacer?**:
+        - **Juan**: Gestionar eficientemente el campo, controlar los costos y acceder a herramientas para monitorear los cultivos.
+        - **Carlos**: Mantener el control del inventario, coordinar con clientes y programar entregas de manera eficiente.
 
-	- **¿Qué están viendo?**:
-		- **Juan**: Observa un clima impredecible y una competencia que utiliza tecnología avanzada.
-		- **Carlos**: Percibe una creciente demanda de productos y competencia que optimiza la logística.
+    - **¿Qué están viendo?**:
+        - **Juan**: Observa un clima impredecible y una competencia que utiliza tecnología avanzada.
+        - **Carlos**: Percibe una creciente demanda de productos y competencia que optimiza la logística.
 
-	- **¿Qué están escuchando?**:
-		- **Juan**: Escucha consejos de otros productores y preocupaciones sobre la planificación de recursos.
-		- **Carlos**: Recibe comentarios de clientes sobre la rapidez de las entregas y sugerencias de su equipo.
+    - **¿Qué están escuchando?**:
+        - **Juan**: Escucha consejos de otros productores y preocupaciones sobre la planificación de recursos.
+        - **Carlos**: Recibe comentarios de clientes sobre la rapidez de las entregas y sugerencias de su equipo.
 
-	- **¿Qué están diciendo?**:
-		- **Juan**: Expresa dificultades para obtener datos que guíen sus decisiones agrícolas.
-		- **Carlos**: Habla sobre la necesidad de mejorar el control del inventario y la organización de las entregas.
+    - **¿Qué están diciendo?**:
+        - **Juan**: Expresa dificultades para obtener datos que guíen sus decisiones agrícolas.
+        - **Carlos**: Habla sobre la necesidad de mejorar el control del inventario y la organización de las entregas.
 
-	- **¿Qué están haciendo?**:
-		- **Juan**: Supervisa el campo y busca formas de reducir costos.
-		- **Carlos**: Supervisa la entrada y salida de productos, negociando y ajustando rutas de entrega.
+    - **¿Qué están haciendo?**:
+        - **Juan**: Supervisa el campo y busca formas de reducir costos.
+        - **Carlos**: Supervisa la entrada y salida de productos, negociando y ajustando rutas de entrega.
 
-	- **¿Cómo se sienten y qué piensan?**:
-		- **Juan**: Siente la necesidad de innovar para reducir costos, pero enfrenta ansiedad por la adopción de nuevas tecnologías.
-		- **Carlos**: Siente presión por mejorar la eficiencia y teme perder clientes por problemas logísticos.
+    - **¿Cómo se sienten y qué piensan?**:
+        - **Juan**: Siente la necesidad de innovar para reducir costos, pero enfrenta ansiedad por la adopción de nuevas tecnologías.
+        - **Carlos**: Siente presión por mejorar la eficiencia y teme perder clientes por problemas logísticos.
 
 3. **Identificación de Pains y Gains**:
-	- **Pains**:
-		- **Juan**: Tiempo limitado y dificultad para centralizar información y optimizar procesos.
-		- **Carlos**: Problemas para mantener un control preciso del inventario y gestionar múltiples pedidos.
+    - **Pains**:
+        - **Juan**: Tiempo limitado y dificultad para centralizar información y optimizar procesos.
+        - **Carlos**: Problemas para mantener un control preciso del inventario y gestionar múltiples pedidos.
 
-	- **Gains**:
-		- **Juan**: Incremento de la productividad y mejora en el uso de los recursos.
-		- **Carlos**: Mejor control del inventario y reducción del estrés operativo.
+    - **Gains**:
+        - **Juan**: Incremento de la productividad y mejora en el uso de los recursos.
+        - **Carlos**: Mejor control del inventario y reducción del estrés operativo.
 
 Estos Empathy Maps proporcionan una guía visual y detallada sobre las necesidades y desafíos de los usuarios, ayudando a AgroControl a desarrollar soluciones más alineadas con sus expectativas y mejorar la experiencia del usuario en la plataforma.
 
@@ -1077,11 +1077,13 @@ Estos Empathy Maps proporcionan una guía visual y detallada sobre las necesidad
 
 En esta sección se presentan los As-Is Scenario Maps para cada User Persona, que muestran cómo interactúan actualmente con sus procesos. El equipo siguió un proceso que incluyó preparación, lluvia de ideas individual y revisión. Se identificaron las fases del proceso y se etiquetaron áreas donde se necesita aprender más. A continuación, se incluyen las capturas de los As-Is Scenario Maps elaborados.
 
-**Segmento Productor Agricola:**
+### **Segmento Productor Agricola:**  
+El productor agrícola realiza la siembra, riego y fumigación con métodos básicos, reflexionando sobre las condiciones del suelo y el clima. Su principal preocupación es lograr una buena cosecha y distribución, enfrentando frustraciones y estrés por la eficiencia y los costos.  
 
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-2-images/AsIsScenarioMappingUserPersona1.jpg?raw=true" alt="Segmento 1 user persona">
 
-**Segmento Distribuidor:**
+### **Segmento Distribuidor:**  
+El distribuidor gestiona inventarios y ventas de manera manual, centrando sus esfuerzos en mejorar la eficiencia y satisfacción del cliente. Se enfrenta a desafíos como la rotación de inventario y ajustes en las estrategias de ventas, sintiendo estrés y frustración por la rentabilidad.   
 
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-2-images/AsIsScenarioMappingUserPersona2.jpg?raw=true" alt="Segmento 2 user persona">
 
@@ -1089,18 +1091,18 @@ En esta sección se presentan los As-Is Scenario Maps para cada User Persona, qu
 
 En esta sección se presenta un glosario de términos utilizados en el dominio agrícola, con definiciones claras y sin ambigüedades. Este glosario facilita la comunicación entre los miembros del equipo y los stakeholders, asegurando un entendimiento común de los conceptos relevantes al problema y la solución.
 
-| **Term (English)**       | **Término (Español)**        | **Definition (Definición en Español)**                                                       |
-|--------------------------|------------------------------|----------------------------------------------------------------------------------------------|
-| **Crop Management**      | **Gestión de Cultivos**      | Conjunto de prácticas para optimizar el crecimiento, riego, y protección de los cultivos.    |
-| **Inventory Control**    | **Control de Inventario**    | Proceso de monitoreo y regulación de los insumos y productos almacenados para la distribución.|
-| **Supply Chain**         | **Cadena de Suministro**     | Serie de procesos involucrados en la producción y distribución de productos agrícolas.       |
-| **Yield Analysis**       | **Análisis de Rendimiento**  | Evaluación de la producción obtenida de los cultivos para optimizar las futuras cosechas.    |
-| **Soil Analysis**        | **Análisis de Suelo**        | Estudio de las propiedades del suelo para determinar su fertilidad y necesidad de insumos.   |
-| **Logistics Management** | **Gestión Logística**        | Organización y control de las rutas de entrega y transporte de productos agrícolas.          |
-| **Sustainability**       | **Sostenibilidad**           | Prácticas agrícolas enfocadas en minimizar el impacto ambiental y asegurar la viabilidad a largo plazo.|
-| **Resource Optimization**| **Optimización de Recursos** | Uso eficiente de agua, fertilizantes y mano de obra para maximizar la producción agrícola.   |
-| **Pest Control**         | **Control de Plagas**        | Métodos para prevenir o eliminar plagas que afectan los cultivos, garantizando la salud de las plantas. |
-| **Market Trends**        | **Tendencias del Mercado**   | Análisis de los cambios y patrones de demanda en el sector agrícola para ajustar la producción. |
+| **Term (English)**        | **Término (Español)**        | **Definition (Definición en Español)**                                                                  |
+|---------------------------|------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Crop Management**       | **Gestión de Cultivos**      | Conjunto de prácticas para optimizar el crecimiento, riego, y protección de los cultivos.               |
+| **Inventory Control**     | **Control de Inventario**    | Proceso de monitoreo y regulación de los insumos y productos almacenados para la distribución.          |
+| **Supply Chain**          | **Cadena de Suministro**     | Serie de procesos involucrados en la producción y distribución de productos agrícolas.                  |
+| **Yield Analysis**        | **Análisis de Rendimiento**  | Evaluación de la producción obtenida de los cultivos para optimizar las futuras cosechas.               |
+| **Soil Analysis**         | **Análisis de Suelo**        | Estudio de las propiedades del suelo para determinar su fertilidad y necesidad de insumos.              |
+| **Logistics Management**  | **Gestión Logística**        | Organización y control de las rutas de entrega y transporte de productos agrícolas.                     |
+| **Sustainability**        | **Sostenibilidad**           | Prácticas agrícolas enfocadas en minimizar el impacto ambiental y asegurar la viabilidad a largo plazo. |
+| **Resource Optimization** | **Optimización de Recursos** | Uso eficiente de agua, fertilizantes y mano de obra para maximizar la producción agrícola.              |
+| **Pest Control**          | **Control de Plagas**        | Métodos para prevenir o eliminar plagas que afectan los cultivos, garantizando la salud de las plantas. |
+| **Market Trends**         | **Tendencias del Mercado**   | Análisis de los cambios y patrones de demanda en el sector agrícola para ajustar la producción.         |
 
 
 # Capítulo III: Requirements Specification
@@ -1109,10 +1111,14 @@ Cada una de estas subsecciones contribuye a definir los requisitos de manera cla
 ## 3.1. To-Be Scenario Mapping.
 En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta empleada para su desarrollo ha sido Miro.
 
-Segmento 1: Productor agricola  
+### Segmento 1: Productor agricola  
+El uso de registros detallados en cada fase de producción, desde la siembra hasta la distribución, permite planificar con eficiencia y optimizar el uso de recursos como agua y fertilizantes. Esto no solo mejora la productividad y el control operativo, sino que también reduce el estrés y genera satisfacción al ofrecer una mejor organización y resultados visibles.  
+
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Productores%20Agricola.jpg?raw=true"/>  
 
-Segmento 2: Distribuidor  
+### Segmento 2: Distribuidor  
+La plataforma facilita una gestión eficiente del inventario, controlando el stock en tiempo real y mejorando las ventas a través de herramientas de promoción efectivas. Además, el análisis detallado de ventas permite tomar decisiones informadas, superando las expectativas y aumentando la rentabilidad, lo que motiva un uso continuado del sistema.  
+
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/Chapter%203/To-Be%20Scenario%20Mapping%20Distribuidor.jpg?raw=true"/>
 
 ## 3.2. User Stories.
