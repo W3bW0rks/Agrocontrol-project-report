@@ -42,13 +42,13 @@ TB1: Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiend
 
 <img src=".\assets\chapter-5-images\overviewSprint1.png"/>
 
-TP: Se han cumplido las tareas designadas para la entrega del TP1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
+TP: Se han cumplido las tareas designadas para la entrega del TP, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
 
 * Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio.
 * Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
 * Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
 
-TB2: Se han cumplido las tareas asignadas para la entrega del TP2, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.  
+TB2: Se han cumplido las tareas asignadas para la entrega del TB2, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.  
 
 * Se prepararon y estructuraron los contenidos asignados a cada miembro del equipo en formato Markdown.
 * Se realizaron commits para asegurar el seguimiento del progreso en el repositorio.
@@ -58,12 +58,12 @@ TB2: Se han cumplido las tareas asignadas para la entrega del TP2, las cuales ha
 
 <img src=".\assets\collaboration insights\report-insights.jpeg"/>  
 
-TP: Se han cumplido las tareas asignadas para la entrega del TP3, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
+TP: Se han cumplido las tareas asignadas para la entrega del TP, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
 * Se prepararon y estructuraron los contenidos asignados a cada miembro del equipo en formato Markdown.
 * Se realizaron commits para asegurar el seguimiento del progreso en el repositorio.
 * Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
 * Se llevaron a cabo reuniones para coordinar el avance de los componentes del informe.
-* Se comunicaron los progresos del Sprint 4, que se centró en el despliegue completo de la aplicación, incluyendo tanto el backend como el frontend.
+* Se comunicaron los progresos del Sprint 4, que se centró en el despliegue completo de la aplicación, incluyendo tanto el backend como el frontend.    
 
 <br/>
 
