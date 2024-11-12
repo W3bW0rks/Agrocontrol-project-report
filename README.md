@@ -3365,9 +3365,12 @@ Ocupación: _____
 | Comunicar errores con facilidad               |                 | {texto} |
 | Ayuda y documentación                         |                 | {texto} |
 
-## 5.4. Video About-the-Product.
-https://shorturl.at/HQwUM
-<p> <img src ="./assets\chapter-5-images\abouttheproduct.jpeg"/>
+## 5.4. Video About-the-Product.  
+Esta sección se centra en proporcionar un recurso audiovisual que ofrece una visión general del producto. El video está diseñado para mostrar las características clave, beneficios y potenciales usos del producto de manera atractiva y comprensible. A través de imágenes en movimiento y narraciones, el objetivo es captar la atención de la audiencia y servir como una herramienta efectiva para la promoción y educación sobre el producto.  
+
+LINK DEL VIDEO ABOUT-THE-PRODUCT: https://shorturl.at/HQwUM  
+
+<img src ="\assets\chapter-5-images\abouttheproduct.jpeg"/>
 
 
 # Conclusiones
@@ -3410,7 +3413,7 @@ para la aplicación web y la API. También este proyecto nos permitió, como equ
 desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
 aplicación web completa.
 
-https://shorturl.at/6KM2i
+LINK DEL VÍDEO ABOUT-THE-TEAM: https://shorturl.at/6KM2i
 
 # Bibliografía
 
