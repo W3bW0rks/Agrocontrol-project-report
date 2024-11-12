@@ -2562,7 +2562,7 @@ En el siguiente apartado, se presentar√° el sprint planning 3, donde se mostrar√
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-          <td> 11 <td>
+          <td> 28 <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -3273,7 +3273,7 @@ En el siguiente apartado, se presentar√° el sprint planning 4, donde se mostrar√
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Velocity </td>
-          <td> 11 <td>
+          <td> 25 <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
