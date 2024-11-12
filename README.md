@@ -241,7 +241,9 @@ TP: Se han cumplido las tareas asignadas para la entrega del TP, las cuales han 
 [Anexos](#anexos)  
 
 # Capítulo I: Introducción
-## 1.1. Startup Profile
+## 1.1. Startup Profile  
+Sección donde presentamos al Startup y a los miembros que la conforman.  
+
 ### 1.1.1. Descripción de la Startup
 Nuestra startup está enfocada en la gestión del ciclo agrícola, con el objetivo de facilitar y optimizar las actividades de productores agricolas y distribuidores. A través de un sistema integral, abarcamos todas las etapas clave del proceso agrícola, desde el sembrío hasta la distribución. Este sistema proporciona herramientas que permiten gestionar y supervisar de manera eficiente cada fase del ciclo productivo, incluyendo la siembra, riego, fumigación, recolección y distribución de productos.
 
