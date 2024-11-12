@@ -1284,15 +1284,15 @@ Descripcion del porque estos elementos seran importantes
 ### Colores
 La paleta de colores de **AgroControl** se compone de cuatro colores principales:
 
-| Color Name      | Hex Code | RGB             | Uso Principal                        |
-|-----------------|----------|-----------------|--------------------------------------|
-| White           | #FFFFFF  | rgb(255, 255, 255) | Texto en fondos oscuros, fondos secundarios |
-| Midnight Green  | #043A3A  | rgb(4, 58, 58)    | Fondos primarios, encabezados         |
-| Emerald         | #2FB95D  | rgb(47, 185, 93)  | Botones, elementos destacados         |
-| Davy's Gray     | #525252  | rgb(82, 82, 82)   | Texto en fondos claros, bordes       |
+| Color Name     | Hex Code | RGB                | Uso Principal                               |
+|----------------|----------|--------------------|---------------------------------------------|
+| White          | #FFFFFF  | rgb(255, 255, 255) | Texto en fondos oscuros, fondos secundarios |
+| Midnight Green | #043A3A  | rgb(4, 58, 58)     | Fondos primarios, encabezados               |
+| Emerald        | #2FB95D  | rgb(47, 185, 93)   | Botones, elementos destacados               |
+| Davy's Gray    | #525252  | rgb(82, 82, 82)    | Texto en fondos claros, bordes              |
 
 <p align="center">
-  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/colors.png?raw=true" alt="colors-style-guidelines">
+  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/colors.png?raw=true" alt="colors-style-guidelines" style="width: 800px">
 </p>
 
 ### Tipografía
@@ -1314,12 +1314,10 @@ Se emplean dos fuentes principales en toda la identidad visual de AgroControl:
 El logotipo principal de **AgroControl** está compuesto por las palabras "Agro" y "Control". La palabra "Agro" se muestra en color blanco (#FFFFFF) y la palabra "Control" en color esmeralda (#2FB95D). El logotipo se presenta en dos variaciones principales:
 
 1. **Color completo:** Utilizado en fondos claros.
-2. **Versión invertida:** Utilizado en fondos oscuros, con la palabra "Agro" en blanco y "Control" en esmeralda.
-
-
+2. **Versión invertida:** Utilizado en fondos oscuros, con la palabra "Agro" en blanco y "Control" en esmeralda.  
 
 <p align="center">
-  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/logo-agro.png?raw=true" alt="logo-agrocontrol">
+  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/logo-agro.png?raw=true" alt="logo-agrocontrol" style="width: 800px">
 </p>
 
 ## Background
@@ -1448,47 +1446,48 @@ la pagina donde te registras y ves info del web app (te manda al web app)
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-![Hero](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Hero.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Hero.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 2. Agricultores - Wireframe
 Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
 
-![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Agricultores%20-%20Wireframe.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Agricultores%20-%20Wireframe.png?raw=true" style="width: 800px"/>  
 ---
 
 ## 3. Distribuidores - Wireframe
 En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
 
-![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Distribuidores-wireframe.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Distribuidores-wireframe.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 4. Gallery
 Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
 
-![Gallery](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Gallery.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Gallery.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 5. Plan Agricultor
 Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
 
-![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Plan%20Agricultor.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Plan%20Agricultor.png?raw=true" style="width: 800px"/>  
+
 ---
 
 ## 6. Plan Distribuidor
 Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
 
-![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Plan%20Distribuidor.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Plan%20Distribuidor.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 7. Testimonial
-La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.
+La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.  
 
-![Testimonial](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Testimonial.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Testimonial.png?raw=true" style="width: 800px"/>  
 
 ---
 
@@ -1496,14 +1495,14 @@ La sección de testimoniales muestra opiniones y comentarios de usuarios satisfe
 ## 8. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-![Contact Us](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Contact%20Us.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Contact%20Us.png?raw=true" style="width: 800px"/>  
 
 ---
 
 ## 9. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
-![Footer](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Footer.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Wireframes/desktop/Footer.png?raw=true" style="width: 800px"/>
 
 ---
 
@@ -1513,49 +1512,49 @@ Mockup es todo lo relacionado al diseño de la pagina
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-![Hero](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Hero.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Hero.png?raw=true" style="width: 800px"/>  
 
 ---
 
 ## 2. Agricultores - Wireframe
 Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
 
-![Agricultores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Agricultores.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Agricultores.png?raw=true" style="width: 800px"/>  
 
 ---
 
 ## 3. Distribuidores - Wireframe
 En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
 
-![Distribuidores Wireframe](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Distribuidores.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Distribuidores.png?raw=true" style="width: 800px"/>  
 
 ---
 
 ## 4. Gallery
 Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
 
-![Gallery](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Gallery.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Gallery.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 5. Plan Agricultor
 Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
 
-![Plan Agricultor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan-Agricultor.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan-Agricultor.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 6. Plan Distribuidor
 Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
 
-![Plan Distribuidor](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan%20Distribuidor.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan%20Distribuidor.png?raw=true" style="width: 800px"/>
 
 ---
 
 ## 7. Testimonial
 La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.
 
-![Testimonial](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_testimonial.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_testimonial.png?raw=true" style="width: 800px"/>
 
 ---
 
@@ -1563,14 +1562,14 @@ La sección de testimoniales muestra opiniones y comentarios de usuarios satisfe
 ## 8. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-![Contact Us](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_form.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_form.png?raw=true" style="width: 800px"/>  
 
 ---
 
 ## 9. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
-![Footer](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_footer.png?raw=true)
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_footer.png?raw=true" style="width: 800px"/>  
 
 
 ## 4.4. Web Applications UX/UI Design.
@@ -1588,67 +1587,67 @@ Enlace Figma: https://shorturl.at/EgCQ3
 **Inicio Sesion**  
 La primera pantalla que interactua el usuario. En esta, el usuario podra iniciar sesion en AgroControl. Ademas de opciones de regsitrarse, sino cuenta con una subscripcion, y opciones de recuperacion de contraseña.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Wireframe/Registro.png" />  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Wireframe/Registro.png" style="width: 800px"/>  
 
 **Registro usuario**
 
 La pantalla de registro, permite al usuario crear un cuenta en AgroControl. Mediante un formulario, se le solicita sus datos personales. Ademas, define el rol que cumple, ya sea "Agricultor" o "Distribuidor, con sus respectivos planes.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/SignUpView.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/SignUpView.png" style="width: 800px"/>
 
 **Fields**  
 
 Pantalla de control y visualizacion de los fields registrados por el usuario. En el se puede crear un nuevo campo o "Field" e interactuar con la tarjeta para visualizar los procesos activos y las funcionalidades de la plataforma.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png?raw=true" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Web%20Application%20Wireframe/fieldAgro%20(1).png?raw=true" style="width: 800px"/>
 
 **Home Field**
 
 Pantalla donde se visualiza un panel de control de los diferentes procesos en funcionamiento. En el podemos diferenciar los principales funcionamientos que ofrece la plataforma, como el comienzo de una plantacion, añadir a trabajadores, agendar horarios de riego, fertilizacion y fumigacion.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field.png" style="width: 800px"/>
 
 **Home Field Menu**
 
 Barra lateral de navegacion. En el se visualiza las funcionalidades de la plataforma. Nos permite dirigirnos a vistas más detalladas de cada proceso.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field-menu.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Home-Field-menu.png" style="width: 800px"/>
 
 **Irrigation**
 
 Pantalla de registro y creacion de procesos de riego. Los datos que se visualizan son el día de inicio de proceso, horas demandadas y los trabajadores involucrados.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Irrigation-list.png" />    
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Irrigation-list.png" style="width: 800px"/>    
 
 **Fumigation & Fertilization**  
 
 Pantalla de registro y creacion de procesos de fumigación y fertilización. Los datos que se visualizan son el dia de inicio del proceso, horas que tomara el trabajo, el tipo de proceso, ya sea "Fertilization" o "Fumigation", y los trabajadores involucrados.    
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Fumigation-list.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Fumigation-list.png" style="width: 800px"/>
 
 **Harvest**
 
 Pantalla de registro de cosecha en la tabla "Harvest". Sirve como control de las cosechas realizadas en el "Field". Los datos identificados son el dia de registro, el peso de la cosecha y el precio por unidad.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Harvest-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Harvest-Agro.png" style="width: 800px"/>
 
 **Finances**
 
 Pantalla de registro de la finanzas del field del usuario. Nos permite visualizar las ganacias y la cantidad vendido de cosecha en una fecha determinada. Podemos visualizar los datos de fecha de registro, costo total y ganancias.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/financiero-Agro.png" style="width: 800px"/>
 
 **Workers**
 
 Pantalla de registro de trabajadroes. En el nos permite visualizar y manejar los trabajadores que esten relacionados a nuestro field. Los datos solicitados son el nombre del trabajador, numero telefonico y el numero de documento de identidad.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Workers-list.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Workers-list.png" style="width: 800px"/>
 
 **Store**
 
 Pantalla de la tienda virtual de la aplicacion AgroControl. Nos muestra los diferentes objetos publicados por los usuarios, ya sean "Agricultores" o "Distribuidores".  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/344d49bb9e4dc40ee69f94f0b529b05318981346/assets/chapter-4-images/Web%20Application%20Wireframe/Tienda-Agro.png" style="width: 800px"/>
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -1659,43 +1658,43 @@ Enlace Lucidchart: https://shorturl.at/MMpXU
 
 En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Harvest-wire.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Harvest-wire.png" style="width: 800px"/>
 
 **Crear nueva plantacion en "Planting"**
 
 Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Planting-wire.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Planting-wire.png" style="width: 800px"/>
 
 **Crear nuevo "Field"**
 
 La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Field-wire.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Field-wire.png" style="width: 800px"/>
 
 **Agregar nuevos datos de finanzas en "Finances"**
 
 Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Finances-wire.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Finances-wire.png" style="width: 800px"/>
 
 **Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**
 
 Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Fum-Fert.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/Fum-Fert.png" style="width: 800px"/>
 
 **Agregar nuevo proceso de riego en "Irrigation"**
 
 Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/irrigation-wire.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/irrigation-wire.png" style="width: 800px"/>
 
 **Agregar nuevo trabajador de cultivo en "Workers"**
 
 Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/worker-wire.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Applications%20Wireflow%20Diagrams/worker-wire.png" style="width: 800px"/>
 
 
 ### 4.4.3. Web Applications Mock-ups.
@@ -1705,51 +1704,51 @@ Link Figma: https://shorturl.at/EgCQ3
 **Inicio Sesion**
 La pantalla de inicio de sesión de AgroControl está diseñada con simplicidad y accesibilidad en mente. Es el primer punto de contacto del usuario con la aplicación AgroControl.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Registro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Registro.png" style="width: 800px"/>
 
 **Registro usuario**  
 La pantalla de registro de AgroControl permite a los usuarios seleccionar su rol de Agricultor o Distribuidor mediante dos radio buttons.   
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/SignUp-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/SignUp-Agro.png" style="width: 800px"/>
 
 **Fields**  
 La pantalla de Fields permite al usuario registra y visualizar los campos a su disposición. En el podemos ver los nombres, el tamaño y la localización de esta.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Agro.png" style="width: 800px"/>
 
 **Home Field**  
 Pantalla de visualización de datos principales como el inicio de una plantación con sus datos respectivos, además de los horarios registrados para los procesos de riego, fertilización y fumigación. 
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field.png" />  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field.png" style="width: 800px"/>  
 
 **Home Field Menu**  
 Se visualiza en la zona derecha un menú de navegación donde nos permite visualizar y dirigirnos a las diferentes funcionalidades de la aplicación.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field-menu.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Home-Field-menu.png" style="width: 800px"/>
 
 **Irrigation**  
-Pantalla de visualización y registro de procesos de riego. Se puede monitorear el horario de inicio del proceso, las horas destinadas y los trabajadores involucrados.
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Irrigation-list.png" />
+Pantalla de visualización y registro de procesos de riego. Se puede monitorear el horario de inicio del proceso, las horas destinadas y los trabajadores involucrados.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Irrigation-list.png" style="width: 800px"/>
 
 **Fumigation & Fertilization**  
 La pantalla Fumigation & Fertilization permite visualizar y monitorear los diferentes procesos agendados. Se registra el día y las horas dedicadas para el proceso.   
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Fumigation-list.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Fumigation-list.png" style="width: 800px"/>
 
 **Harvest**  
 Pantalla Harvest permite registrar las cosechas realizadas, con el peso de la cosecha y el precio por unidad.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Harvest-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Harvest-Agro.png" style="width: 800px"/>
 
-**Finances**
-En Finances se puede visualizar una tabla que permite registrar y monitorear el día de registro de las ganancias generadas por la venta de los productos vendidos. 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" />  
+**Finances**  
+En Finances se puede visualizar una tabla que permite registrar y monitorear el día de registro de las ganancias generadas por la venta de los productos vendidos.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/financiero-Agro.png" style="width: 800px"/>  
 
 **Workers**  
 Pantalla de visualización de trabajadores registrados al Field. Se registra el nombre, su número telefónico y documento de identidad.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Workers-list.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Workers-list.png" style="width: 800px"/>
 
 **Store**  
 Pantalla de la tienda interna de los usuarios. En ella podemos ver los productos publicados por Agricultores y Distribuidores, y realizar compras de estos.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Mockup/Tienda-Agro.png" style="width: 800px"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
@@ -1757,31 +1756,31 @@ Enlace LucidChart: https://shorturl.at/MMpXU
 
 **Agregar nueva cosecha en tabla "Harvest"**  
 En este flujo especificamos el proceso de agregar los datos de la cosecha realizada en nuestro "Field". Registramos el nombre del producto cosechado, la fecha en que fue realizada, el peso total recogido y el precio por unidad.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Harvest-uflow.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Harvest-uflow.png" style="width: 800px"/>
 
 **Crear nueva plantacion en "Planting"**  
 Este flujo muestra el proceso de inicio de una plantacion, que se esta realizando en un "Field". Registramos el producto a plantar y la fecha de inicio del proceso. Por ultimo es mostrado en el Panel principal en una tabla.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Planting-uflow.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/Planting-uflow.png" style="width: 800px"/>
 
 **Crear nuevo "Field"**  
 La primera funcionalidad que interactua el usuario. En este flujo se crea un campo "Field", con los datos del nombre, el tamaño del campo en hectareas y la locacion del campo. Por ultimo se visualizara en el Inicio, los diferentes campos registrados.   
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/field-uflow.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/field-uflow.png" style="width: 800px"/>
 
 **Agregar nuevos datos de finanzas en "Finances"**  
 Funcionalidad de agregar y monitorear las finanzas relacionadas al campo trabajado. Los datos ingresados son la fecha del registro, el costo total, el ingreso total y las ganancias. Estos datos se visualizaran en la tabla "Finances", permitiendo un control sencillo.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/finances-uflow.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/finances-uflow.png" style="width: 800px"/>
 
 **Agregar nuevo proceso de fumigacion y fertilizacion en "Fumigation & Fertilization"**  
-Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/fum-fer-uflow.png" />
+Funcionalidad de agregar y monitorear los procesos de fumigacion y fertilizacion realizados en el campo trabajado. Los datos son registrados en la tabla "Fumigation & Fertilization" para un control total. Esto nos permite conocer la fecha en la cual se realizara el proceso, el tipo de proceso "Fumigation" o "Fertilization", las horas trabajadas, los trabajadores involucrados y los productos utilizados.  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/fum-fer-uflow.png" style="width: 800px"/>
 
 **Agregar nuevo proceso de riego en "Irrigation"**  
 Funcionalidad de agregar y monitorear los procesos de riego planificados para el campo. Se agregan a la tabla "Irrigation" y se muestran los procesos registrados para tener un control total. Los datos solicitados son la fecha programada del proceso, las horas demandadas y los trabajadores involucrados.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-uflow.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/irrigation-uflow.png" style="width: 800px"/>
 
 **Agregar nuevo trabajador de cultivo en "Workers"**  
 Funcionalidad de registro de trabajadores relacionados al campo del usuario. En el tenemos un control de los trabajadores involucrados en los diferentes procesos del campo, además de contar con sus datos personales. Esto nos permite la facil asignacion de trabajadores a diferentes procesos.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/worker-uflow.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/9b51cc4cf35477c3392a697c19f3193db85e49e8/assets/chapter-4-images/Web%20Application%20Userflow/worker-uflow.png" style="width: 800px"/>
 
 ## 4.5. Web Applications Prototyping.
 
@@ -1797,7 +1796,7 @@ El formulario de creación de campo incluye los siguientes campos obligatorios:
 
 Después de crear un campo, el usuario regresa a la pantalla principal, donde los campos registrados se muestran en formato de cards. Están diseñadas con un estilo claro y visualmente atractivo, organizadas en grillas que responde a los diferentes tamaños de pantalla. Los usuarios pueden interactuar con las cards para ver más detalles de los procesos o eliminarlo.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/create_field.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/create_field.png" style="width: 800px"/>
 
 Video: https://shorturl.at/D5nOI
 
@@ -1813,7 +1812,7 @@ El presente prototipo se evidencia el flujo de registro del proceso de fumigacio
 
 Despues de crear el proceso, se visualiza en la tabla "Fumigation & Fertilization".
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/fumigation.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/fumigation.png" style="width: 800px"/>
 
 Video: https://shorturl.at/iygAV
 
@@ -1829,7 +1828,7 @@ El usuario tiene la opción de agregar un nuevo dato. Los campos a completar inc
 - Ganancias: Las ganancias obtenidas del proceso.
 
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/finances.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/finances.png" style="width: 800px"/>
 
 Video: https://shorturl.at/Y5MGc
 
@@ -1843,7 +1842,7 @@ En la pantalla de riego, se presenta un botón prominente llamado "Add" que abre
 - Trabajadores: Los trabajadores involucrados con el proceso
 
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/irrigation.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/irrigation.png" style="width: 800px"/>
 
 Video: https://shorturl.at/GkG2u
 
@@ -1855,7 +1854,7 @@ El registro de la cosecha es un proceso que permite rastrear las cantidades reco
 - Peso total: Ingresado en kilogramos o la unidad de peso utilizada por el agricultor
 - Precio por unidad de peso: El precio que se espera recibir por cada unidad del peso total cosechado.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/harvest.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/harvest.png" style="width: 800px"/>
 
 Video: https://shorturl.at/Vioq8
 
@@ -1873,7 +1872,7 @@ El formulario contiene los siguientes campos esenciales para el registro:
 - Costo: Especifica el costo total del uso de las semillas
 - Workers: Ingresar los workers involucrados en el proceso
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/planting.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/planting.png" style="width: 800px"/>
 
 Video: https://t.ly/ZSkcb
 
@@ -1888,7 +1887,7 @@ El formulario permite registrar los siguientes datos básicos de cada trabajador
 - Teléfono de contacto.
 - Documento de identidad.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/workers.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/ba80989bf80107d8f9f6680811cea813a54b5600/assets/chapter-4-images/Web%20Application%20Prototyping/workers.png" style="width: 800px"/>
 
 Video: https://shorturl.at/3LBmG  
 
@@ -1897,43 +1896,43 @@ La arquitectura de software basada en el dominio, un enfoque que centra el dise�
 
 ### 4.6.1. Software Architecture Context Diagram.  
 El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Context%20Diagram.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Context%20Diagram.png" style="width: 800px"/>
    
 ### 4.6.2. Software Architecture Container Diagrams.
 Las aplicaciones web, las bases de datos, los microservicios y cómo se comunican entre sí se muestran en los diagramas de contenedores. Estos diagramas destacan las responsabilidades y las interacciones de cada contenedor, ofreciendo una visión general de la arquitectura del sistema.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Container%20Diagram.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Container%20Diagram.png" style="width: 800px"/>
 
 ### 4.6.3. Software Architecture Components Diagrams.  
 Los diagramas de componentes de la arquitectura de software se presentan en esta sección. Estos diagramas muestran los diversos componentes del sistema, sus funciones y cómo interactúan entre sí.
 
 #### IAM Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-IAM%20Context.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-IAM%20Context.png" style="width: 800px">
 
 #### Profile Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Profile%20Context.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Profile%20Context.png" style="width: 800px">
 
 #### Field Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Field%20Context.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Field%20Context.png" style="width: 800px">
 
 #### Agricultrual Process Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-AgriculturalProcess%20Context.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-AgriculturalProcess%20Context.png" style="width: 800px">
 
 
 #### Store Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Store%20Context.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Store%20Context.png" style="width: 800px">
 
 #### Subscription Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Subscription%20Context.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram-Subscription%20Context.png" style="width: 800px">
 
 #### Financial Bounded Context
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png">
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter%204-C4%20model/Component%20Diagram%20-%20FinancialContext.png" style="width: 800px">
 
 ## 4.7. Software Object-Oriented Design.
 El diseño orientado a objetos (OOD) organiza el software en torno a objetos que combinan datos y funciones. Basado en principios como la abstracción, encapsulamiento, herencia y polimorfismo, OOD facilita la creación de sistemas modulares, reutilizables y fáciles de mantener.  
@@ -1941,7 +1940,7 @@ El diseño orientado a objetos (OOD) organiza el software en torno a objetos que
 ### 4.7.1. Class Diagrams.  
 Los diagramas de clases representan la estructura de un sistema orientado a objetos, mostrando clases, atributos, métodos y sus relaciones, facilitando la comprensión de la arquitectura del software.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" />
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" style="width: 800px"/>
 
 ### 4.7.2. Class Dictionary.
 
@@ -1984,7 +1983,7 @@ Instancias para "Farmer" y "Distributor"
 ### 4.8.1. Database Diagram.  
 Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" />
+<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" style="width: 800px"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -2318,7 +2317,7 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/d64dbc887ef135023a4ee13adeff39df2de6859f/assets/chapter-5-images/AgroControlLanding.png" alt="AgroControl LandingPage image" style="width: 800px;">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2333,17 +2332,17 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 * GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
 * Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/0040420883e6b904559ca7c1c48f5215cda5359a/assets/chapter-5-images/deployvercel.png" alt="Deployment in vercel" style="width: 800px;">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/overviewSprint1.png" alt="Overview Sprint 1" style="width: 800px;">   
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/networkGraphSprint1.png" alt="Overview Sprint 1" style="width: 800px;">  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1">
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/cf440bdbdfb55ae8d162a6c882e10620c285751c/assets/chapter-5-images/contributorsSprint1.png" alt="Overview Sprint 1" style="width: 800px;">   
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
@@ -2418,10 +2417,11 @@ En el siguiente apartado, se presentará el sprint planning 2, donde se mostrar�
 
 </table>
 
-#### 5.2.2.2. Sprint Backlog 2
-En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
-![Tablero Trello Sprint Backlog 2](https://imgur.com/qDSnzzw.jpg)
-Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)
+#### 5.2.2.2. Sprint Backlog 2  
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.  
+<img src="https://imgur.com/qDSnzzw.jpg" style="width: 1200px;"/>  
+Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)  
+
 <table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
 <tr><td colspan="2" valign="top">USer Story</td><td colspan="6" valign="top">Work-item / Task</td></tr>
 <tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / in Process / To - Review / (Done) )</td></tr>
@@ -2474,23 +2474,23 @@ En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web
 #### 5.2.2.5. Execution Evidence for Sprint Review  
 
 Despliegue de aplicación Angular generando carpeta <b>dlist</b> en directorio browser.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/serverDeployed.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/serverDeployed.png" style="width: 500px;"/>
 
 Generando la carpeta <b>dlist</b> para posteriormente el despliegue.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image2.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image2.png" style="width: 500px;"/>
 
 Subiendo el archivo deploy a nuestro hosting  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/netlify.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/netlify.png" style="width: 500px;"/>
 
-Verificando carga completa de nuestro proyecto subido a nuestro hosting
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/webApplicationInNetlify.png"/>
+Verificando carga completa de nuestro proyecto subido a nuestro hosting  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/webApplicationInNetlify.png" style="width: 700px;"/>
 
-Aplicación Web desplegada luego de ser subida a nuestro hosting
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image.png"/>
+Aplicación Web desplegada luego de ser subida a nuestro hosting  
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/image.png" style="width: 700px;"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 A continuación, se presenta la documentación de los servicios utilizados. En esta oportunidad se ha usado el api Fake (https://localhost:3000/api/v1) para obtener los datos necesarios para verificar el funcionamiento de la aplicación web.  
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/evidence.png"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/evidence.png" style="width: 700px;"/>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint  
