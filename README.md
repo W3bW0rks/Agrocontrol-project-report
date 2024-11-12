@@ -40,7 +40,7 @@ TB1: Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiend
 * Se generaron los artefactos necesarios utilizando las herramientas recomendadas, obteniendo enlaces de imagen desde la carpeta "assets" ubicada en la rama develop del repositorio del informe.
 * Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 1, cuyo enfoque es la Landing Page.  
 
-<img src=".\assets\chapter-5-images\overviewSprint1.png"/>
+<img src=".\assets\chapter-5-images\overviewSprint1.png" style="width: 700px;"/>
 
 TP: Se han cumplido las tareas designadas para la entrega del TP, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
 
@@ -56,7 +56,7 @@ TB2: Se han cumplido las tareas asignadas para la entrega del TB2, las cuales ha
 * Se llevaron a cabo reuniones para coordinar el avance de los componentes del informe.
 * Se comunicaron los progresos del Sprint 3, que se centró en el desarrollo de la API.  
 
-<img src=".\assets\collaboration insights\report-insights.jpeg"/>  
+<img src=".\assets\collaboration insights\report-insights.jpeg" style="width: 700px;"/>  
 
 TP: Se han cumplido las tareas asignadas para la entrega del TP, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
 * Se prepararon y estructuraron los contenidos asignados a cada miembro del equipo en formato Markdown.
@@ -2493,7 +2493,14 @@ A continuación, se presenta la documentación de los servicios utilizados. En e
 <img src="https://raw.githubusercontent.com/W3bW0rks/project-report/refs/heads/develop/assets/chapter-5-images/sprint2/evidence.png"/>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint  
+A continuación se mostrarán el gráfico de insights durante el sprint:  
+
+Gráfico que representa la colaboración del equipo en la creación de landing page.  
+<img src="./assets/collaboration insights/sprint3/insights-landing.png" alt="insights-landing" style="width: 700px;"/>  
+
+Gráfico que muestra los insights de colaboración del equipo en el desarrollo del frontend.  
+<img src="./assets/collaboration insights/sprint3/insights-frontend.png" alt="insights-fronted" style="width: 700px;"/>
 
 ### 5.2.3. Sprint 3  
 
@@ -3206,10 +3213,16 @@ En este sprint, se ha desarrollado la API de la aplicación web, utilizando las 
 </ul>
 
 ### 5.2.3.8 Team Collaboration Insights during Sprint.  
+A continuación se mostrarán el gráfico de insights durante el sprint:  
 
-A continuación se mostrarán el gráfico de insights durante el sprint:
+Gráfico que ilustra la colaboración del equipo en el desarrollo del backend durante el sprint.  
+<img src="./assets/collaboration insights/sprint4/insights-backend.png" alt="insights-backend" style="width: 700px;"/>
 
-<img src="./assets/collaboration insights/insights-sprint3.jpg"/>
+Gráfico que muestra los insights de colaboración del equipo en el desarrollo del frontend.  
+<img src="./assets/collaboration insights/sprint4/insights-fronted.png" alt="insights-fronted" style="width: 700px;"/>
+
+Gráfico que representa la colaboración del equipo en la creación de landing page.  
+<img src="./assets/collaboration insights/sprint4/insights-landing.png" alt="insights-landing" style="width: 700px;"/>
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
