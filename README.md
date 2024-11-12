@@ -34,12 +34,36 @@ Link del reporte: https://github.com/W3bW0rks/project-report
 Link Landing Page: https://agrocontrol-landing-page-upc.vercel.app   
 URL del repositorio GitHub: https://github.com/orgs/W3bW0rks/repositories
 
-Reporte de la elaboracion de la TB1 te la TB1
+TB1: Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios y el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto.  
+
 * Los contenidos asignados a cada miembro fueron redactados y organizados en formato Markdown, y se realizaron commits para asegurar el avance en el repositorio.
 * Se generaron los artefactos necesarios utilizando las herramientas recomendadas, obteniendo enlaces de imagen desde la carpeta "assets" ubicada en la rama develop del repositorio del informe.
-* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 1, cuyo enfoque es la Landing Page.
+* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 1, cuyo enfoque es la Landing Page.  
 
-<img src=".\assets\collaboration insights\report-insights.jpeg"/>
+<img src=".\assets\chapter-5-images\overviewSprint1.png"/>
+
+TP: Se han cumplido las tareas designadas para la entrega del TP1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
+
+* Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio.
+* Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+* Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
+
+TB2: Se han cumplido las tareas asignadas para la entrega del TP2, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.  
+
+* Se prepararon y estructuraron los contenidos asignados a cada miembro del equipo en formato Markdown.
+* Se realizaron commits para asegurar el seguimiento del progreso en el repositorio.
+* Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+* Se llevaron a cabo reuniones para coordinar el avance de los componentes del informe.
+* Se comunicaron los progresos del Sprint 3, que se centró en el desarrollo de la API.  
+
+<img src=".\assets\collaboration insights\report-insights.jpeg"/>  
+
+TP: Se han cumplido las tareas asignadas para la entrega del TP3, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo.
+* Se prepararon y estructuraron los contenidos asignados a cada miembro del equipo en formato Markdown.
+* Se realizaron commits para asegurar el seguimiento del progreso en el repositorio.
+* Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+* Se llevaron a cabo reuniones para coordinar el avance de los componentes del informe.
+* Se comunicaron los progresos del Sprint 4, que se centró en el despliegue completo de la aplicación, incluyendo tanto el backend como el frontend.
 
 <br/>
 
