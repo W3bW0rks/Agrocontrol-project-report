@@ -3500,7 +3500,14 @@ Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using J
 Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 
 Wikifarmer. (n.d.). ¿Qué es el control biológico y cómo utilizarlo en la agricultura? Wikifarmer. 
-Retrieved from https://bit.ly/3NKKdTW
+Retrieved from https://bit.ly/3NKKdTW  
+
+Conventional Commits. (n.d.). The Conventional Commits Specification. Licensed under Creative Commons - 
+CC BY 3.0. Retrieved from https://www.conventionalcommits.org/en/v1.0.0/  
+
+Angular. (n.d.). Angular Documentation. Retrieved from https://angular.dev/  
+
+TypeScript. (n.d.). TypeScript: Typed JavaScript at Any Scale. Retrieved from https://www.typescriptlang.org/  
 
 # Anexos
 | Sección        | Enlace al video |
