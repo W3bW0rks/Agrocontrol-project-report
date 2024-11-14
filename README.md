@@ -3304,7 +3304,71 @@ Enlace de Trello: https://shorturl.at/W22e7
 
 #### 5.2.4.3 Development Evidence for Sprint Review.  
 
-#### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review.  
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin.  
+
+Link de acceso a las pruebas de aceptación:  
+https://github.com/W3bW0rks/AgroControl-acceptance-tests  
+
+<table>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td>AgroControl-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>415dffa9d7a1fadc4d03a3d796d7db0fec2cbc50</td>
+        <td>chore: add feature files for user stories in epic-01.</td>
+        <td></td>
+        <td style="text-align: center">14/11/2024</td>
+    </tr>
+    <tr>
+        <td>AgroControl-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>978238abcf35daff21e2be86a822510a6652f541</td>
+        <td>chore: add feature files for user stories in epic-02.</td>
+        <td></td>
+        <td style="text-align: center">14/11/2024</td>
+    </tr>
+    <tr>
+        <td>AgroControl-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>712ad00248f7171ded0bf68319c12220c5225391</td>
+        <td>chore: add feature files for user stories in epic-03.</td>
+        <td></td>
+        <td style="text-align: center">14/11/2024</td>
+    </tr>
+    <tr>
+        <td>AgroControl-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>aa7f5e01589a95d4998d42febfc2ffd819009b43</td>
+        <td>chore: add feature files for user stories in epic-04.</td>
+        <td></td>
+        <td style="text-align: center">14/11/2024</td>
+    </tr>
+    <tr>
+        <td>AgroControl-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>28c070df1d6994ed46fded897c26879d284e0ebe</td>
+        <td>chore: add feature files for user stories in epic-05.</td>
+        <td></td>
+        <td style="text-align: center">14/11/2024</td>
+    </tr>
+    <tr>
+        <td>AgroControl-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>34dd7f24760b4ef44f433a8f4a80626d79ff737a</td>
+        <td>chore: add feature files for technical stories in epic-06.</td>
+        <td></td>
+        <td style="text-align: center">14/11/2024</td>
+    </tr>
+</table>
 
 #### 5.2.4.5 Execution Evidence for Sprint Review.  
 
