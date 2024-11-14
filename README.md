@@ -3508,8 +3508,40 @@ Angular. (n.d.). Angular Documentation. Retrieved from https://angular.dev/
 TypeScript. (n.d.). TypeScript: Typed JavaScript at Any Scale. Retrieved from https://www.typescriptlang.org/  
 
 # Anexos
-| Sección        | Enlace al video |
-|----------------|-----------------|
-| Vídeo Sprint 1 |
-| Vídeo Sprint 2 |                 |
-| Vídeo Sprint 3 |                 |
+
+### Anexo A. Products Deployed.  
+
+| Product      | Enlace                                                |
+|--------------|-------------------------------------------------------|
+| Backend      | [este enlace](https://www.jetbrains.com/es-es/rider/) |
+| Frontend     | https://aquaengine-upc.netlify.app                    |
+| Landing Page | https://aqua-engine-landing-page.vercel.app/?lang=en  |
+
+### Anexo B. Web tools
+
+| Web Tool                            | Enlace                                               |
+|-------------------------------------|------------------------------------------------------|
+| Figma Landing Page                  | https://shorturl.at/469a3                            |
+| Web Applications Mock-ups           | https://shorturl.at/bkFTA                            |
+
+### Anexo C. Github Repositories
+
+Link de la Organización WebWorks: https://github.com/orgs/W3bW0rks
+
+| Repositorios               | Enlace                                                 |
+|----------------------------|--------------------------------------------------------|
+| AgroControl BackEnd        | https://github.com/W3bW0rks/Agrocontrol-backend        |
+| AgroControl FrontEnd       | https://github.com/W3bW0rks/Agrocontrol-frontend       |
+| AgroControl Landing Page   | https://github.com/W3bW0rks/Agrocontrol-landing-page   |
+| AgroControl Project Report | https://github.com/W3bW0rks/Agrocontrol-project-report |
+
+### Anexo D. Videos
+
+| Sección                 | Enlace al video           |
+|-------------------------|---------------------------|
+| Vídeo Sprint 1          |                           |
+| Vídeo Sprint 2          | https://shorturl.at/iAEH1 |
+| Vídeo Sprint 3          | https://shorturl.at/AenaU |
+| Vídeo Sprint 4          |                           |
+| Vídeo About the Team    | https://shorturl.at/6KM2i |
+| Vídeo About the Product | https://shorturl.at/HQwUM |
