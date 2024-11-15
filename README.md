@@ -3511,7 +3511,19 @@ para la aplicación web y la API. También este proyecto nos permitió, como equ
 desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
 aplicación web completa.
 
-LINK DEL VÍDEO ABOUT-THE-TEAM: https://shorturl.at/6KM2i
+## Timings del Video
+
+- **[0:00 - 1:25] Introducción del Proyecto**: Explicación general del proyecto y sus objetivos.
+- **[1:25 - 3:45] Herramientas usadas**: Descripción de las herramientas utilizadas en el desarrollo del proyecto.
+- **[3:45 - 4:42] Testimonio de Johan Príncipe**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[4:42 - 5:30] Testimonio de Andre Arroyo**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[5:30 - 6:56] Testimonio de Gonzalo Quedena**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[6:56 - 7:38] Testimonio de Hardie Holguin**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[7:38 - 8:56] Testimonio de Alejandro**: Experiencia y aprendizajes en el desarrollo del proyecto.  
+
+LINK DEL VÍDEO ABOUT-THE-TEAM: https://shorturl.at/6KM2i  
+
+<img src="assets/chapter-5-images/about-the-team.png" alt="video-about-the-team"/>
 
 # Bibliografía
 
@@ -3537,8 +3549,8 @@ TypeScript. (n.d.). TypeScript: Typed JavaScript at Any Scale. Retrieved from ht
 | Product      | Enlace                                                |
 |--------------|-------------------------------------------------------|
 | Backend      | [este enlace](https://www.jetbrains.com/es-es/rider/) |
-| Frontend     | https://aquaengine-upc.netlify.app                    |
-| Landing Page | https://aqua-engine-landing-page.vercel.app/?lang=en  |
+| Frontend     | http://agrocontrol-frontend.vercel.app/               |
+| Landing Page | https://agrocontrol-landing-page-upc.vercel.app/      |
 
 ### Anexo B. Web tools
 
