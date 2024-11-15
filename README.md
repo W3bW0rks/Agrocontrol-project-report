@@ -3463,6 +3463,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
     <th> <strong> /api/v1/payment-product </strong> </th>
     <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Payments.png"> </th>
   </tr>
+  </table>
 
 
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
