@@ -3304,6 +3304,59 @@ Enlace de Trello: https://shorturl.at/W22e7
 
 #### 5.2.4.3 Development Evidence for Sprint Review.     
 
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+
+ 
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/payment-product </th>
+   <th> 9391c8a  </th>
+   <th>  refactor: change behavior of creation of activities.  </th>
+   <th> </th>
+   <th> 15/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/payment-product  </th>
+   <th> d8a7ced  </th>
+   <th>  refactor: add activity id to url path of endpoint in execute action of activity.</th>
+   <th> </th>
+   <th> 15/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d1ae  </th>
+   <th> refactor: improve behavior when creating an agricultural process to navigate to seeding form. Also, add methods to change states of agricultural activity.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-landing-page </th>
+   <th>  feature/main  </th>
+   <th> ae0ac52  </th>
+   <th> feat: add team members to the "about the team" section, v-en.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+ </table>  
+
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.  
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin.  
@@ -3388,6 +3441,29 @@ Se puede acceder a nuestra API desde el siguiente link:
 [Este es el link de la API](https://agrocontrol-api.herokuapp.com/)
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.  
+
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de monetización, colaboración, usuario y contenido.  
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/Agrocontrol-backend  
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Payment-Product Bounded Context </strong> </th>
+    <th> <strong> /api/v1/payment-product </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Payments.png"> </th>
+  </tr>
+
 
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
 
