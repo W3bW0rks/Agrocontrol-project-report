@@ -3511,7 +3511,7 @@ para la aplicación web y la API. También este proyecto nos permitió, como equ
 desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia en la creación de una 
 aplicación web completa.
 
-## Timings del Video
+#### Timings del Video
 
 - **[0:00 - 1:25] Introducción del Proyecto**: Explicación general del proyecto y sus objetivos.
 - **[1:25 - 3:45] Herramientas usadas**: Descripción de las herramientas utilizadas en el desarrollo del proyecto.
