@@ -3302,7 +3302,7 @@ Enlace de Trello: https://shorturl.at/W22e7
 
 <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-5-images/sprint-backlog-4.png" alt="sprint-backlog-4"/>  
 
-#### 5.2.4.3 Development Evidence for Sprint Review.  
+#### 5.2.4.3 Development Evidence for Sprint Review.     
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.  
 
@@ -3385,7 +3385,30 @@ https://agrocontrol-landing-page-upc.vercel.app/
 Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma XYZ para su despliegue.
 
 Se puede acceder a nuestra API desde el siguiente link:
+[Este es el link de la API](https://agrocontrol-api.herokuapp.com/)
 
+### 5.2.4.6 Services Documentation Evidence for Sprint Review.  
+
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
+
+### 5.2.3.8 Team Collaboration Insights during Sprint.  
+
+En esta sección se presentan gráficos que reflejan los insights de colaboración del equipo durante el Sprint 4, mostrando un mayor avance en el desarrollo de las distintas áreas del proyecto. Cada gráfico destaca una fase específica, ilustrando cómo los miembros del equipo han intensificado su colaboración y contribución en esta etapa avanzada.  
+
+- **Insights de Colaboración en el Desarrollo del Backend**  
+  Este gráfico ilustra la colaboración del equipo en el desarrollo de backend durante el Sprint 4, mostrando un incremento en la contribución y especialización de cada miembro. Refleja tanto la distribución de tareas como los patrones de colaboración más intensivos que se han dado en esta fase avanzada del backend.
+
+<img src="./assets/collaboration insights/sprint4/updated/backend.png" alt="insights-backend" style="width: 600px;"/>
+
+- **Insights de Colaboración en el Desarrollo del Frontend**  
+  Este gráfico muestra la colaboración del equipo en el desarrollo del frontend, donde se observa un aumento en el nivel de participación y coordinación entre los miembros. Los datos reflejan la asignación más detallada de tareas e interacciones frecuentes, destacando el progreso logrado en esta área clave del proyecto durante el Sprint 4.  
+
+<img src="./assets/collaboration insights/sprint4/updated/frontend.png" alt="insights-fronted" style="width: 600px;"/>
+
+- **Insights de Colaboración en el Desarrollo de la Landing Page**  
+  En este gráfico se representa la colaboración del equipo en la creación de la landing page durante el Sprint 4. Aquí se observa una mayor sincronización en los roles y un progreso significativo en las tareas asignadas a cada miembro, resaltando la dedicación e interacción que han llevado al avance de esta parte del proyecto.  
+
+<img src="./assets/collaboration insights/sprint4/updated/landing.png" alt="insights-landing" style="width: 600px;"/>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
