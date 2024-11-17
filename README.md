@@ -2022,24 +2022,32 @@ Instancias para "Farmer" y "Distributor"
 Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
 
 #### Agricultural Process
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/agriculturalprocessdb.jpeg"style="width: 800px"/>
 
 #### Fields
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/fieldsdb.jpeg"style="width: 800px"/>
 
 #### Profiles
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/profilesdb.jpeg"style="width: 800px"/>
 
 #### IAM
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/IAM.jpeg"style="width: 800px"/>
 
 #### Finances
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/financesdb.jpeg"style="width: 800px"/>
 
 #### Subscription
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/subscriptiondb.jpeg"style="width: 800px"/>
 
 #### Store
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/storedb.jpeg"style="width: 800px"/>
 
 #### Payment
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/paymentdb.jpeg"style="width: 800px"/>
 
 #### Diagram class
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" style="width: 800px"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/DB%20DIAGRAM.png"style="width: 800px"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
