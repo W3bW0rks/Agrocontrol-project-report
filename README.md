@@ -24,9 +24,14 @@
 | 0.0.8   | 23/09/2024 | Gonzalo Quedena   | Unión de los capítulos 1, 2, 3, 4, 5 y sus secciones respectivas               |
 | 0.0.9   | 15/10/2024 | Gonzalo Quedena   | Desarrollo Sprint 3 & Secciones 5.2.3.1, 5.2.3.2, 5.2.3.3                      |
 | 0.1.0   | 18/10/2024 | Hardie Holguin    | Desarrollo Sprint 3 & Secciones 5.2.3.4, 5.2.3.5, 5.2.3.6                      |
-| 0.1.1   | 19/10/2024 | Alejandro Espino  | Desarrollo Sprint 3 & Secciones 5.2.3.7, 5.2.3.8,                              |
+| 0.1.1   | 19/10/2024 | Alejandro Espino  | Desarrollo Sprint 3 & Secciones 5.2.3.7, 5.2.3.8                               |
 | 0.1.2   | 20/10/2024 | Hardie Holguin    | Video about the product                                                        |
-
+| 0.1.3   | 5/11/2024  | Gonzalo Quedena   | Expansión de Conclusiones y Bibliografías                                      |
+| 0.1.4   | 5/11/2024  | Gonzalo Quedena   | Agregación de enlaces en los Anexos                                            |
+| 0.1.5   | 6/11/2024  | Gonzalo Quedena   | Desarrollo Sprint 4 & Secciones 5.2.4.8                                        |
+| 0.1.6   | 10/11/2024 | Hardie Holguin    | Desarrollo Sprint 4 & Secciones 5.2.4.3, 5.2.4.6, 5.3.3.                       |
+| 0.1.6   | 16/11/2024 | Alejandro Espino  | Desarrollo Sprint 4 & Secciones 5.2.3.7, 5.2.4.5, 5.2.4.2                      |
+| 0.1.6   | 16/11/2024 | Andre Alonso      | Mejora de los User Stories                                                     |
 
 # Project Report Collaboration Insights
 Link de la organizacion: https://github.com/orgs/W3bW0rks/repositories  
@@ -290,7 +295,7 @@ Ser la plataforma líder en gestión agrícola, reconocida por nuestra capacidad
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Gonzalo Andre Zavala Quedena
+            Gonzalo Quedena
         </td>
     </tr>
     <tr>
@@ -4164,6 +4169,7 @@ En esta sección se presentan gráficos que reflejan los insights de colaboraci�
 6. ¿Qué mejoras le gustaría ver en la plataforma para optimizar la comunicación y coordinación con los agricultores?
 
 ### 5.3.2. Registro de Entrevistas.
+
 **Segmento 1**  
 Nombre: _____
 Edad: _ años
@@ -4173,43 +4179,95 @@ Ocupación: _____
 
 **Segmento 2: Distribuidores**
 
-Entrevistas #01: **William Ramos** (**28 años - Miraflores**) - **17 de noviembre del 2024** 
+Entrevistas #01: **William Ramos** (**28 años - Miraflores**) - **17 de noviembre del 2024**  
 
-<img src="https://github.com/W3bW0rks/Agrocontrol-project-report/blob/777e7a075ad24b8c6a662b6b8ecc3d2506f28e71/assets/interview-heuristics/entrevista-heuristica-william.png">
+**Servicios:** 
+- Google Chrome
+- TikTok
+- Instagram
 
-Registro de entrevista:<br>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/interview-heuristics/entrevista-heuristica-william.png" width="800px">
+
+**Registro de entrevista:**  
+<p align="justify">
 Durante la entrevista con William Ramos Vicente, un distribuidor de 28 años que reside en el distrito de Miraflores, se obtuvieron valiosos insights sobre su experiencia utilizando Agrocontrol. La conversación permitió identificar las áreas donde la plataforma aporta mayor valor y las oportunidades de mejora para ajustarse mejor a las necesidades de los distribuidores y sus clientes.
+</p>
 
+<p align="justify">
 William destacó desde el inicio que Agrocontrol es una herramienta prometedora, especialmente porque automatiza procesos clave como la creación de inventarios en línea y los análisis financieros. Estas funciones no solo le ahorran tiempo, sino que también eliminan la necesidad de realizar cálculos manuales, algo que antes manejaba en papel o con Excel. Según su experiencia, estas características le permiten tener un control más preciso sobre las ganancias y la gestión de su tienda, algo que consideró muy valioso.
+</p>
 
+<p align="justify">
 Cuando se le preguntó sobre las funcionalidades más útiles para mejorar la relación con sus clientes agricultores, William señaló que un sistema que conecte de manera fluida a los distribuidores con los clientes sería crucial. En su opinión, la posibilidad de mostrar información clave como precios, disponibilidad de productos y otros detalles en tiempo real facilita la transparencia y la toma de decisiones. Además, comentó que un dashboard con datos consolidados sobre ganancias, pérdidas y estadísticas clave es esencial para mantener todo bien organizado y mapeado.
+</p>
 
+<p align="justify">
 Actualmente, William realiza el seguimiento de solicitudes y entregas mediante Excel, un método que considera eficiente pero ya anticuado y propenso a errores. Explicó que este sistema, aunque funcional, ha causado problemas en la actualización de inventarios. Relató un caso concreto donde la falta de sincronización en sus registros resultó en una pérdida de tiempo y dinero al aceptar pedidos para productos que ya no estaban en stock. Según William, Agrocontrol resuelve este problema al mantener un historial de ventas e inventarios actualizado y accesible en todo momento, lo que describe como un gran alivio para su trabajo diario.
+</p>
 
+<p align="justify">
 En cuanto a las áreas de mejora para la plataforma, William sugirió incorporar un apartado que permita vincular redes sociales como Facebook, Instagram y TikTok. Consideró que esta funcionalidad ayudaría a aumentar la visibilidad de los productos y servicios de los distribuidores, ofreciendo así una herramienta adicional para captar clientes y fortalecer la relación con ellos. También mencionó que, aunque la plataforma es bastante intuitiva, sería útil ajustar ciertos términos en la interfaz. Específicamente, propuso cambiar "cantidad" por "stock" en algunas secciones, ya que esto evitaría confusiones para usuarios menos experimentados.
+</p>
 
+<p align="justify">
 En términos generales, William expresó una opinión muy positiva sobre Agrocontrol. Valora la plataforma como una herramienta eficiente y bien diseñada que optimiza significativamente la gestión de su negocio. A pesar de las pequeñas áreas de mejora mencionadas, considera que Agrocontrol está en una posición excelente para resolver los desafíos cotidianos de los distribuidores y fortalecer la conexión con sus clientes agricultores. La claridad y precisión en el manejo de inventarios, junto con la automatización de procesos financieros, son aspectos que él destaca como fundamentales para recomendar la plataforma a otros usuarios.
+</p>
+
+Entrevistas #02: *Gabriel Bernal* (*25 años - Lima) - **17 de noviembre del 2024*
+
+**Servicios:** 
+- WhatsApp Web
+- Mozilla Firefox   
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/interview-heuristics/entrevista-heuristica-bernal.jpg" width="800px">  
+
+**Registro de entrevista:**  
+<p align="justify">
+En la entrevista con Gabriel Bernal, un distribuidor de 25 años residente en Lima, se obtuvieron perspectivas clave sobre su experiencia con la plataforma Agrocontrol. La conversación permitió identificar las funcionalidades más valoradas, los beneficios observados, y las mejoras potenciales que podrían optimizar aún más el uso de la plataforma para distribuidores.
+</p>
+
+<p align="justify">
+Gabriel destacó que una de las funcionalidades más útiles de Agrocontrol es la capacidad de gestionar y visualizar detalles específicos como el precio por unidad y el stock disponible de los productos. Según él, estas herramientas simplifican la gestión diaria al eliminar procesos manuales y ofrecer información precisa que facilita el control del inventario y el cálculo de ganancias. Esto representa un gran avance frente a los métodos tradicionales que emplea actualmente, como el uso de hojas de cálculo manuales. Gabriel mencionó que este sistema manual puede generar retrasos y falta de claridad en la información, lo que Agrocontrol podría resolver al centralizar y automatizar los datos relacionados con las solicitudes y entregas.
+</p>
+
+<p align="justify">
+Entre las áreas de mejora, Gabriel sugirió que Agrocontrol incorpore métricas más avanzadas y herramientas basadas en inteligencia artificial. Estas podrían incluir guías generativas o análisis predictivos que ayuden a los distribuidores a tomar decisiones más informadas, como anticiparse a las tendencias de consumo o recibir alertas automáticas basadas en patrones de compra. También señaló que contar con datos financieros detallados y métricas de rendimiento es esencial para optimizar recursos y planificar envíos y pedidos de manera más efectiva.
+</p>
+
+<p align="justify">
+Sobre la visibilidad de sus productos, Gabriel propuso que la plataforma integre opciones como promociones destacadas, catálogos personalizados y herramientas para campañas de marketing digital dirigidas específicamente a agricultores. Estas funcionalidades ayudarían a fortalecer la relación con los clientes y a captar nuevos mercados de manera más eficiente.
+</p>
+
+<p align="justify">
+En cuanto a la comunicación y coordinación con los agricultores, Gabriel destacó la necesidad de implementar un sistema de chat directo o mensajería en la plataforma. Además, consideró valioso incluir notificaciones automáticas sobre pedidos y la capacidad de programar reuniones o visitas directamente desde la aplicación. Estas mejoras, según él, añadirían un valor significativo a la experiencia del usuario y mejorarían la relación entre distribuidores y agricultores.
+</p>
+
+<p align="justify">
+En general, Gabriel expresó una opinión positiva sobre Agrocontrol, resaltando su potencial para transformar los procesos de gestión en el sector agrícola. Aunque mencionó algunas áreas de mejora, consideró que la plataforma ya proporciona una base sólida y eficiente para distribuidores, especialmente en lo relacionado con la gestión de inventarios y la planificación financiera. Sus sugerencias apuntan a convertir a Agrocontrol en una herramienta aún más robusta y adaptada a las necesidades del mercado.
+</p>
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
-|-----------------------------------------------|-----------------|---------|
-| Visibilidad del estado del sistema            |                 | {texto} |
-| Coincidencia entre el sistema y el mundo real |                 | {texto} |
-| Control y libertad del usuario                |                 | {texto} |
-| Consistencia y estándares                     |                 | {texto} |
-| Prevención de errores                         |                 | {texto} |
-| Mostrar antes que recordar                    |                 | {texto} |
-| Flexibilidad y eficiencia de uso              |                 | {texto} |
-| Diseño estético y minimalista                 |                 | {texto} |
-| Comunicar errores con facilidad               |                 | {texto} |
-| Ayuda y documentación                         |                 | {texto} |
+
+| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA                                                                                                                                             |
+|-----------------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Visibilidad del estado del sistema            | ✅              | Agrocontrol permite ver detalles específicos como stock y precios en tiempo real, proporcionando claridad sobre el estado actual de inventarios. |
+| Coincidencia entre el sistema y el mundo real | ✅              | La plataforma usa una terminología cercana al usuario, aunque se sugirió cambiar "cantidad" por "stock" para evitar confusiones.                 |
+| Control y libertad del usuario                | ✅              | El sistema permite gestionar inventarios y visualizar datos financieros, proporcionando control sobre las operaciones.                           |
+| Consistencia y estándares                     | ✅              | Los usuarios destacan la interfaz intuitiva, aunque con sugerencias menores para mejorar la consistencia de términos.                            |
+| Prevención de errores                         | ✅              | La actualización en tiempo real de datos reduce el riesgo de errores en la gestión de inventarios, según lo observado por los usuarios.          |
+| Mostrar antes que recordar                    | ✅              | La automatización de procesos y visualización directa de datos permite al usuario no depender de la memoria para tareas clave.                   |
+| Flexibilidad y eficiencia de uso              | ✅              | Los usuarios son favorecidos con la capacidad de manejar tanto inventarios como análisis financieros desde una única plataforma.                 |
+| Diseño estético y minimalista                 | ✅              | No se mencionaron preocupaciones específicas sobre la estética; sin embargo, la interfaz parece ser suficiente para una gestión eficiente.       |
+| Comunicar errores con facilidad               | ❌              | Aunque se mencionaron deseos de comunicación de errores, como alertas automáticas, no se cubrió explícitamente si esto está implementado.        |
+| Ayuda y documentación                         | ❌              | No se discutió si existen recursos de ayuda o documentación accesibles, pero sería beneficioso proveer estos según las necesidades planteadas.   |  
 
 ## 5.4. Video About-the-Product.  
 Esta sección se centra en proporcionar un recurso audiovisual que ofrece una visión general del producto. El video está diseñado para mostrar las características clave, beneficios y potenciales usos del producto de manera atractiva y comprensible. A través de imágenes en movimiento y narraciones, el objetivo es captar la atención de la audiencia y servir como una herramienta efectiva para la promoción y educación sobre el producto.  
 
 LINK DEL VIDEO ABOUT-THE-PRODUCT: https://shorturl.at/HQwUM  
 
-<img src ="\assets\chapter-5-images\abouttheproduct.jpeg"/>
+<img src ="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-5-images/abouttheproduct.jpeg" width="700px" height="300px"/>
 
 
 # Conclusiones  
