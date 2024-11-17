@@ -2022,13 +2022,16 @@ Instancias para "Farmer" y "Distributor"
 Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
 
 #### Agricultural Process
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/agriculturalprocessdb.jpeg"style="width: 800px"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/agriculturalprocessdb.jpeg"
+style="width: 800px"/>
 
 #### Fields
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/fieldsdb.jpeg"style="width: 800px"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/fieldsdb.jpeg"
+style="width: 800px"/>
 
 #### Profiles
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/profilesdb.jpeg"style="width: 800px"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/profilesdb.jpeg"
+style="width: 800px"/>
 
 #### IAM
 <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/IAM.jpeg"style="width: 800px"/>
@@ -3626,10 +3629,138 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-frontend </th>
    <th>  feature/master  </th>
-   <th> b79d1ae  </th>
+   <th> b7977ae  </th>
    <th> refactor: improve behavior when creating an agricultural process to navigate to seeding form. Also, add methods to change states of agricultural activity.</th>
    <th> </th>
    <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b3e33e  </th>
+   <th> refactor: remove unused components and optimize imports.</th>
+   <th> </th>
+   <th> 10/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> bda21ae  </th>
+   <th>feat: add product stored model and service, add finance service and changes in few components.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7343e  </th>
+   <th>refactor: remove unused components and add message when not fields found of user.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d21  </th>
+   <th>feat: add resource form working and change name of methods in services.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79dg4e  </th>
+   <th>refactor: change name of link to CropTreatment table.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7943ae  </th>
+   <th>feat(finances): add finance model.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79123e  </th>
+   <th>feat(finances): add finance service.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7331ae  </th>
+   <th>feat(finances): add finance table and finance view.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b5341ae  </th>
+   <th>feat: add products of producer component and view.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b74321ae  </th>
+   <th>feat(subscriptions): add subscription-summary component.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d1ae  </th>
+   <th>feat(subscriptions): add subscription payment component.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b73b2ae  </th>
+   <th>feat(profile-management): add profile-detail component.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d1ae  </th>
+   <th>feat: add produts store.</th>
+   <th> </th>
+   <th> 09/11/24  </th>
+ </tr>
+
+  
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7825ae  </th>
+   <th>feat: add views for distributor role.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
  </tr>
 
   <tr> 
@@ -3638,9 +3769,102 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <th> ae0ac52  </th>
    <th> feat: add team members to the "about the team" section, v-en.</th>
    <th> </th>
-   <th> 14/11/24  </th>
+   <th> 10/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th>  4d3b29b  </th>
+   <th> feat: add logic of PaymentProduct Controller.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> a24d1ae  </th>
+   <th>refactor: changes in sidenav to show link depending of user role.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 5a82507  </th>
+   <th> refactor: add description when adding a resource to an agricultural activity.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> f1f37b1  </th>
+   <th> refactor: add product name in payment product.</th>
+   <th> </th>
+   <th> 09/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> f97b200  </th>
+   <th> refactor: remove acl of products, move product payment to store bounded context and change the behavior when creating a payment product.</th>
+   <th> </th>
+   <th> 15/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 1992630  </th>
+   <th> feat: add acl for store and workers, and change payment product to increase quantity of existing product.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 0ccde83  </th>
+   <th> refactor(store): improve acl to get product name by id.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 16f7b3b </th>
+   <th> feat: add get all products from store query and optimize imports.</th>
+   <th> </th>
+   <th> 15/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 4adc4c2 </th>
+   <th> fix: query to get products not owned by user id.</th>
+   <th> </th>
+   <th> 10/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 6c5b95c </th>
+   <th> refactor: remove unused annotation.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
  </tr>
  </table>  
+ 
+ 
+ 
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.  
 
