@@ -4182,14 +4182,12 @@ Ocupación: _____
 
 **Segmento 2: Distribuidores**
 
-**Entrevista 1**  
-Nombre: William Ramos Vicente<br>
-Edad: 27 años<br>
-Ocupación: Distribuidor<br>
-![Imagen de entrevista](image.jpg)
+Entrevistas #01: **William Ramos** (**28 años - Miraflores**) - **17 de noviembre del 2024** 
+
+<img src="https://github.com/W3bW0rks/Agrocontrol-project-report/blob/777e7a075ad24b8c6a662b6b8ecc3d2506f28e71/assets/interview-heuristics/entrevista-heuristica-william.png">
 
 Registro de entrevista:<br>
-Durante la entrevista con William Ramos Vicente, un distribuidor de 27 años que reside en el distrito de Miraflores, se obtuvieron valiosos insights sobre su experiencia utilizando Agrocontrol. La conversación permitió identificar las áreas donde la plataforma aporta mayor valor y las oportunidades de mejora para ajustarse mejor a las necesidades de los distribuidores y sus clientes.
+Durante la entrevista con William Ramos Vicente, un distribuidor de 28 años que reside en el distrito de Miraflores, se obtuvieron valiosos insights sobre su experiencia utilizando Agrocontrol. La conversación permitió identificar las áreas donde la plataforma aporta mayor valor y las oportunidades de mejora para ajustarse mejor a las necesidades de los distribuidores y sus clientes.
 
 William destacó desde el inicio que Agrocontrol es una herramienta prometedora, especialmente porque automatiza procesos clave como la creación de inventarios en línea y los análisis financieros. Estas funciones no solo le ahorran tiempo, sino que también eliminan la necesidad de realizar cálculos manuales, algo que antes manejaba en papel o con Excel. Según su experiencia, estas características le permiten tener un control más preciso sobre las ganancias y la gestión de su tienda, algo que consideró muy valioso.
 
