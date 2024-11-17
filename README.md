@@ -1940,7 +1940,45 @@ El diseño orientado a objetos (OOD) organiza el software en torno a objetos que
 ### 4.7.1. Class Diagrams.  
 Los diagramas de clases representan la estructura de un sistema orientado a objetos, mostrando clases, atributos, métodos y sus relaciones, facilitando la comprensión de la arquitectura del software.  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/project-report/93c1bd5d575f1957ec7ebba5333f426b15195b1b/assets/chapter-4-images/Diagrams/Diagrama%20de%20Clases%20-%20AgroControl.png" style="width: 800px"/>
+#### Agricultural Process
+
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/agricultural-process.png" style="width: 800px"/>
+
+#### Fields
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/fields.png" style="width: 800px"/>
+
+
+#### Profiles
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/profiles.png" style="width: 800px"/>
+
+#### IAM
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/iam.png" style="width: 800px"/>
+
+#### Finances
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/finances.png" style="width: 800px"/>
+
+#### Subscription
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/subscription.png" style="width: 800px"/>
+
+#### Store
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/store.png" style="width: 800px"/>
+
+#### Payment
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/payment.png" style="width: 800px"/>
+
+#### Diagram class
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-4-images/Diagrams/Class%20Diagram/ClassDiagram.png" style="width: 800px"/>
+
+
 
 ### 4.7.2. Class Dictionary.
 
@@ -3296,7 +3334,228 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
 </table>  
 
  #### 5.2.4.2 Sprint BackLog 4
- En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.  
+ En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.
+
+<table style="height:1000px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Bounded Context </th>
+     <th> Functionality </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+      <th colspan="3"> Backend API Deployment </th>
+      <th> W01 </th>
+      <th> shared </th>
+      <th> Deploy backend API </th>
+      <th> 6 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+      <th colspan="3"> Payment View Development </th>
+      <th> W02 </th>
+      <th> subscription </th>
+      <th> Develop UI for payment module </th>
+      <th> 8 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+      <th colspan="3"> Improve view for the dealer </th>
+      <th> W03 </th>
+      <th> profiles-management </th>
+      <th> Improve dealer's user interface view </th>
+      <th> 5 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+      <th colspan="3"> Implement product sales view </th>
+      <th> W04 </th>
+      <th> store </th>
+      <th> Develop UI for product sales </th>
+      <th> 7 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US05 </th>
+      <th colspan="3"> Implement product sales </th>
+      <th> W05 </th>
+      <th> store </th>
+      <th> Implement product sales logic </th>
+      <th> 6 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US06 </th>
+      <th colspan="3"> Connecting the product sales view to the API </th>
+      <th> W06 </th>
+      <th> store </th>
+      <th> Integrate product sales view with backend API </th>
+      <th> 4 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US07 </th>
+      <th colspan="3"> Add members for the About the Team section </th>
+      <th> W07 </th>
+      <th> Landing Page </th>
+      <th> Add team member profiles to About section </th>
+      <th> 3 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US08 </th>
+      <th colspan="3"> Connect plan view to API </th>
+      <th> W08 </th>
+      <th> subscription </th>
+      <th> Integrate plan view with API </th>
+      <th> 4 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US09 </th>
+      <th colspan="3"> Frontend Page Deployment </th>
+      <th> W09 </th>
+      <th> shared </th>
+      <th> Deploy frontend pages </th>
+      <th> 6 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US10 </th>
+      <th colspan="3"> Get crop fields per user </th>
+      <th> W10 </th>
+      <th> fields </th>
+      <th> Retrieve crop fields for each user </th>
+      <th> 5 </th>
+      <th>Alejandro Espino Flores </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US11 </th>
+      <th colspan="3"> Replace connection to fake API with connection to the API </th>
+      <th> W11 </th>
+      <th> shared </th>
+      <th> Replace fake API connection with real API </th>
+      <th> 4 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US12 </th>
+      <th colspan="3"> Landing Page Deployment </th>
+      <th> W12 </th>
+      <th> shared </th>
+      <th> Deploy landing page for the application </th>
+      <th> 4 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US13 </th>
+      <th colspan="3"> Implement Sign In view </th>
+      <th> W13 </th>
+      <th> profile-management </th>
+      <th> Develop UI for user sign-in </th>
+      <th> 6 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US14 </th>
+      <th colspan="3"> Implement Sign Up view </th>
+      <th> W14 </th>
+      <th> profile-management </th>
+      <th> Develop UI for user registration </th>
+      <th> 6 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US15 </th>
+      <th colspan="3"> Delete crop fields by user </th>
+      <th> W15 </th>
+      <th> fields </th>
+      <th> Allow deletion of crop fields for specific users </th>
+      <th> 5 </th>
+      <th> Alejandro Espino Flores</th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US16 </th>
+      <th colspan="3"> Implement Token Service </th>
+      <th> W16 </th>
+      <th> iam </th>
+      <th> Implement token service for authentication </th>
+      <th> 5 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US17 </th>
+      <th colspan="3"> Implement communication between bounded context store and profiles </th>
+      <th> W17 </th>
+      <th> store </th>
+      <th> Establish communication between store and profiles </th>
+      <th> 6 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US18 </th>
+      <th colspan="3"> Implement get unfinished agricultural process query </th>
+      <th> W18 </th>
+      <th> agriculturalProcess </th>
+      <th> Develop query for unfinished agricultural processes </th>
+      <th> 5 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US19 </th>
+      <th colspan="3"> Update message of successful-registration-dialog </th>
+      <th> W19 </th>
+      <th> profile-management </th>
+      <th> Update successful registration message in dialog </th>
+      <th> 2 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US20 </th>
+      <th colspan="3"> Change style for logging out </th>
+      <th> W20 </th>
+      <th> profile-management </th>
+      <th> Update logout style for consistency </th>
+      <th> 3 </th>
+      <th> </th>
+      <th> Done </th>
+   </tr>
+</table>
  
 Enlace de Trello: https://shorturl.at/W22e7  
 
