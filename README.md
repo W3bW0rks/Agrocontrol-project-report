@@ -4294,11 +4294,11 @@ TypeScript. (n.d.). TypeScript: Typed JavaScript at Any Scale. Retrieved from ht
 
 ### Anexo A. Products Deployed.  
 
-| Product      | Enlace                                                |
-|--------------|-------------------------------------------------------|
-| Backend      | [este enlace](https://www.jetbrains.com/es-es/rider/) |
-| Frontend     | http://agrocontrol-frontend.vercel.app/               |
-| Landing Page | https://agrocontrol-landing-page-upc.vercel.app/      |
+| Product      | Enlace                                                                                                |
+|--------------|-------------------------------------------------------------------------------------------------------|
+| Backend      | https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html |
+| Frontend     | http://agrocontrol-frontend.vercel.app/                                                               |
+| Landing Page | https://agrocontrol-landing-page-upc.vercel.app/                                                      |
 
 ### Anexo B. Web tools
 
