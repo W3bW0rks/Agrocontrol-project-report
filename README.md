@@ -2021,6 +2021,24 @@ Instancias para "Farmer" y "Distributor"
 ### 4.8.1. Database Diagram.  
 Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
 
+#### Agricultural Process
+
+#### Fields
+
+#### Profiles
+
+#### IAM
+
+#### Finances
+
+#### Subscription
+
+#### Store
+
+#### Payment
+
+#### Diagram class
+
 <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" style="width: 800px"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
