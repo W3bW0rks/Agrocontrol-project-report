@@ -3423,8 +3423,12 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
 
 </table>  
 
- #### 5.2.4.2 Sprint BackLog 4
- En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.
+#### 5.2.4.2 Sprint BackLog 4
+En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.  
+
+Enlace de Trello: https://shorturl.at/W22e7  
+
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/sprint4/Trello%20sprint%20backlog4.png" alt="sprint-backlog-4"/>  
 
 <table style="height:1000px;"> 
    <tr>
@@ -3645,11 +3649,7 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
       <th> </th>
       <th> Done </th>
    </tr>
-</table>
- 
-Enlace de Trello: https://shorturl.at/W22e7  
-
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/sprint4/Trello%20sprint%20backlog4.png" alt="sprint-backlog-4"/>  
+</table>  
 
 #### 5.2.4.3 Development Evidence for Sprint Review.     
 
@@ -4008,11 +4008,11 @@ https://agrocontrol-landing-page-upc.vercel.app/
 Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma Azure para su despliegue.
 
 Se puede acceder a nuestra API desde el siguiente link:
-[Este es el link de la API](https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
+https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.  
 
-En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de monetización, colaboración, usuario y contenido.  
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD. En el alcance del sprint, se ha desarrollado el bounded context de pagos de producto.
 
 Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/Agrocontrol-backend  
 
@@ -4038,15 +4038,9 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
 
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 
-La aplicación se desplegó utilizando **Azure** para la base de datos y el backend, y **Vercel** para el frontend. Azure garantiza escalabilidad y seguridad en la base de datos y backend, mientras que Vercel optimiza el rendimiento y la gestión del frontend.
+La aplicación se desplegó utilizando **Azure** para la base de datos y el backend, y **Vercel** para el frontend. Azure garantiza escalabilidad y seguridad en la base de datos y backend, mientras que Vercel optimiza el rendimiento y la gestión del frontend.  
 
----
-
-# Despliegue de la Aplicación
-
----
-
-## 1. Base de Datos
+#### 1. Base de Datos
 
 El despliegue de la base de datos se realizó mediante **Azure for MySQL Flexible Servers**, siguiendo los pasos descritos a continuación:
 
@@ -4054,78 +4048,76 @@ El despliegue de la base de datos se realizó mediante **Azure for MySQL Flexibl
 
 Se configuró un servidor en Azure para gestionar la base de datos, asegurando flexibilidad y escalabilidad.
 
-![Servidor para la Base de Datos](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/SERVER%20FOR%20DEPLOYMENT.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/SERVER%20FOR%20DEPLOYMENT.png" width="700px">
 
-### 1.2 Configuración de la Base de Datos
+##### 1.2 Configuración de la Base de Datos
 
 Se realizaron las configuraciones necesarias para garantizar la conectividad y la seguridad de la base de datos.
 
-![Configuraciones de la Base de Datos](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/configurations%20for%20database.png)  
-![Configuraciones Adicionales](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/configurations%20for%20database2.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/configurations%20for%20database.png" width="700px">  
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/configurations%20for%20database2.png" width="700px">
 
-### 1.3 Despliegue de la Base de Datos
+##### 1.3 Despliegue de la Base de Datos
 
 Finalmente, se realizó el despliegue exitoso de la base de datos en Azure.
 
-![Despliegue de la Base de Datos](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/deployingdatabase.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/deployingdatabase.png" width="700px">
 
 ---
 
-## 2. Backend
+#### 2. Backend
 
 El backend, desarrollado en **Java** utilizando frameworks como Spring Boot, fue desplegado utilizando **Azure App Services**, permitiendo un entorno optimizado para aplicaciones basadas en JVM (Java Virtual Machine). A continuación, se describen los pasos del proceso:
 
-### 2.1 Creación de la Aplicación Web
+##### 2.1 Creación de la Aplicación Web
 
 Se creó la aplicación web en Azure, configurando los recursos necesarios para soportar un entorno de ejecución de Java.
 
-![Creación de la Web App](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Creating%20web%20app.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Creating%20web%20app.png" width="700px">
 
-### 2.2 Autorización del Repositorio
+##### 2.2 Autorización del Repositorio
 
 Se autorizó el repositorio de código fuente para integrar el despliegue continuo mediante pipelines configurados en Azure DevOps.
 
-![Autorización del Repositorio](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Authorizing%20Repositories.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Authorizing%20Repositories.png" width="700px">
 
-### 2.3 Configuración de la Aplicación Web
+##### 2.3 Configuración de la Aplicación Web
 
 Antes de iniciar el despliegue, se realizaron todas las configuraciones necesarias, como la asignación de variables de entorno para conectar el backend a la base de datos.
 
-![Configuraciones de la Web App](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Authorizing%20Repositories.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Authorizing%20Repositories.png" width="700px">
 
-### 2.4 Despliegue del Backend
+##### 2.4 Despliegue del Backend
 
 El backend se desplegó en Azure utilizando las configuraciones establecidas, asegurando la compatibilidad con el entorno de ejecución de Java.
 
-![Despliegue del Backend](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Deploying%20backend.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Deploying%20backend.png" width="700px">
 
-### 2.5 Validación del Despliegue
+##### 2.5 Validación del Despliegue
 
 El backend fue desplegado exitosamente y se confirmó su funcionamiento mediante la URL generada, incluyendo un punto de acceso a la API a través de Swagger UI.
 
-![Vista del Backend](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/bACKENDdeployedView.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/bACKENDdeployedView.png" width="700px">
 
-- **URL del backend**: https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html
+- **URL del backend**: [https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html](https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
 
 ---
 
-## 3. Frontend
+#### 3. Frontend
 
 El frontend fue desplegado utilizando **Vercel**, aprovechando su infraestructura global para un rendimiento óptimo. A continuación, se detalla el proceso:
 
-### 3.1 Despliegue del Frontend
+##### 3.1 Despliegue del Frontend
 
 Se realizó el despliegue del frontend, desarrollado con tecnologías web modernas, con las configuraciones necesarias para asegurar su integración con el backend y la base de datos.
 
-![Despliegue del Frontend](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/FrontEnd%20deployment.png)
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/FrontEnd%20deployment.png" width="700px">
 
-### 3.2 Validación del Despliegue
+##### 3.2 Validación del Despliegue
 
 El frontend fue desplegado exitosamente y está disponible en la siguiente URL:
 
-- **URL del frontend**: https://agrocontrol-frontend.vercel.app
-
-
+- **URL del frontend**: [https://agrocontrol-frontend.vercel.app](https://agrocontrol-frontend.vercel.app)
 
 ### 5.2.3.8 Team Collaboration Insights during Sprint.  
 
