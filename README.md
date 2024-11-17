@@ -3362,7 +3362,7 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
         <th> Sprint 4 </th>
      </tr>
      <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+        <td style="font-weight: bold;" colspan="7"> Sprint Planning Background</td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
@@ -3374,13 +3374,13 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
      </tr>
      <tr>
        <td style="font-weight: bold;"> Location </td>
-       <td> Discord <td>
+       <td> Discord </td>
      </tr>
-      <tr>
+     <tr>
         <td style="font-weight: bold;"> Prepared By </td>
-        <td> Webworks <td>
+        <td> Webworks </td>
      </tr>
-        <tr>
+     <tr>
         <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
         <td> Zavala Quedena, Gonzalo Andre
         <br>
@@ -3390,18 +3390,18 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
           <br>
           Espino Flores, Alejandro
           <br>
-	        Holguin Gamarra, Hardie
-         <td>
+            Holguin Gamarra, Hardie
+        </td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
-        <td> Se logró la implementación del blackend de la Aplicación Web<td>
+        <td> Se logró la implementación del backend de la Aplicación Web </td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
         <td style="text-align: justify"> 
-          En este sprint como equipo logramos el desarrollo del API de la Aplicación Web elaborando de forma adecuada la distribución de desarrollo por cada Bounded Context con una correcta division de tareas y aporte de cada uno. Como equipo esperamos poder cumplir con los objetivos para el sprint 4.
-        <td>
+          Durante este sprint, como equipo conseguimos brindar a los usuarios una información más detallada sobre los desarrolladores y una mejora en el proceso de pago, lo que facilita el acceso a la aplicación web. También ampliamos la funcionalidad del perfil del usuario, lo que enriqueció su experiencia. Reflejamos una adecuada distribución de desarrollo por cada Bounded Context y una correcta división de tareas con aportes significativos de cada miembro del equipo. Estos logros fortalecen la confianza de los usuarios en AgroControl y su interacción con la plataforma. Como equipo, continuamos comprometidos a cumplir con nuestros objetivos futuros.
+        </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
@@ -3410,17 +3410,16 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
           <td style="font-weight: bold;"> Sprint 4 Goal</td>
           <td style="text-align: justify"> 
             Nuestro objetivo es proporcionar a los usuarios información más detallada sobre los desarrolladores, mejorar el proceso de pago para facilitar el acceso a la aplicación web, y ampliar la funcionalidad del perfil de usuario para una experiencia más enriquecedora. Creemos que esto ofrecerá a los usuarios un conocimiento más profundo de las personas detrás del producto, lo cual fortalecerá la confianza en AgroControl. Además, el proceso de pago optimizado permitirá a los usuarios gestionar sus transacciones de manera más sencilla y eficiente. La ampliación de las funcionalidades del perfil les otorgará una vista más completa y personalizable de su información en la plataforma. Esto se confirmará cuando los usuarios puedan acceder fácilmente a información detallada sobre los desarrolladores desde el sitio web, realicen pagos para acceder a la aplicación web sin inconvenientes, y gestionen y visualicen su perfil enriquecido con información personalizada directamente desde la web, mejorando así su interacción global con la plataforma.
-          <td>
+          </td>
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Velocity </td>
-          <td> 25 <td>
+          <td> 25 </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 30 <td>
+          <td> 30 </td>
       </tr>
-
 </table>  
 
 #### 5.2.4.2 Sprint BackLog 4
@@ -3456,7 +3455,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> shared </th>
       <th> Deploy backend API </th>
       <th> 6 </th>
-      <th> </th>
+      <th> Johan Príncipe Godoy </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3466,7 +3465,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> subscription </th>
       <th> Develop UI for payment module </th>
       <th> 8 </th>
-      <th> </th>
+      <th> Gonzalo Andre Zavala Quedena </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3476,7 +3475,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> profiles-management </th>
       <th> Improve dealer's user interface view </th>
       <th> 5 </th>
-      <th> </th>
+      <th> André Alonso Arroyo Ormeño </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3486,7 +3485,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> store </th>
       <th> Develop UI for product sales </th>
       <th> 7 </th>
-      <th> </th>
+      <th> Alejandro Espino Flores </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3496,7 +3495,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> store </th>
       <th> Implement product sales logic </th>
       <th> 6 </th>
-      <th> </th>
+      <th> Hardie Holguín Gamarra </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3506,7 +3505,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> store </th>
       <th> Integrate product sales view with backend API </th>
       <th> 4 </th>
-      <th> </th>
+      <th> Johan Príncipe Godoy </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3516,7 +3515,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> Landing Page </th>
       <th> Add team member profiles to About section </th>
       <th> 3 </th>
-      <th> </th>
+      <th> André Alonso Arroyo Ormeño </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3526,7 +3525,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> subscription </th>
       <th> Integrate plan view with API </th>
       <th> 4 </th>
-      <th> </th>
+      <th> Gonzalo Andre Zavala Quedena </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3536,7 +3535,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> shared </th>
       <th> Deploy frontend pages </th>
       <th> 6 </th>
-      <th> </th>
+      <th> Hardie Holguín Gamarra </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3546,7 +3545,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> fields </th>
       <th> Retrieve crop fields for each user </th>
       <th> 5 </th>
-      <th>Alejandro Espino Flores </th>
+      <th> Alejandro Espino Flores </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3556,7 +3555,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> shared </th>
       <th> Replace fake API connection with real API </th>
       <th> 4 </th>
-      <th> </th>
+      <th> Johan Príncipe Godoy </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3566,7 +3565,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> shared </th>
       <th> Deploy landing page for the application </th>
       <th> 4 </th>
-      <th> </th>
+      <th> André Alonso Arroyo Ormeño </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3576,7 +3575,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> profile-management </th>
       <th> Develop UI for user sign-in </th>
       <th> 6 </th>
-      <th> </th>
+      <th> Gonzalo Andre Zavala Quedena </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3586,7 +3585,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> profile-management </th>
       <th> Develop UI for user registration </th>
       <th> 6 </th>
-      <th> </th>
+      <th> Hardie Holguín Gamarra </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3596,7 +3595,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> fields </th>
       <th> Allow deletion of crop fields for specific users </th>
       <th> 5 </th>
-      <th> Alejandro Espino Flores</th>
+      <th> Alejandro Espino Flores </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3606,7 +3605,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> iam </th>
       <th> Implement token service for authentication </th>
       <th> 5 </th>
-      <th> </th>
+      <th> Johan Príncipe Godoy </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3616,7 +3615,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> store </th>
       <th> Establish communication between store and profiles </th>
       <th> 6 </th>
-      <th> </th>
+      <th> Hardie Holguín Gamarra </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3626,7 +3625,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> agriculturalProcess </th>
       <th> Develop query for unfinished agricultural processes </th>
       <th> 5 </th>
-      <th> </th>
+      <th> Alejandro Espino Flores </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3636,7 +3635,7 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> profile-management </th>
       <th> Update successful registration message in dialog </th>
       <th> 2 </th>
-      <th> </th>
+      <th> Gonzalo Andre Zavala Quedena </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -3646,10 +3645,10 @@ Enlace de Trello: https://shorturl.at/W22e7
       <th> profile-management </th>
       <th> Update logout style for consistency </th>
       <th> 3 </th>
-      <th> </th>
+      <th> André Alonso Arroyo Ormeño </th>
       <th> Done </th>
    </tr>
-</table>  
+</table>
 
 #### 5.2.4.3 Development Evidence for Sprint Review.     
 
