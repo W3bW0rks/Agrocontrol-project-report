@@ -3559,7 +3559,7 @@ En el siguiente apartado, se presentar√° el sprint planning 4, donde se mostrar√
  
 Enlace de Trello: https://shorturl.at/W22e7  
 
-<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-5-images/sprint-backlog-4.png" alt="sprint-backlog-4"/>  
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/sprint4/Trello%20sprint%20backlog4.png" alt="sprint-backlog-4"/>  
 
 #### 5.2.4.3 Development Evidence for Sprint Review.     
 
