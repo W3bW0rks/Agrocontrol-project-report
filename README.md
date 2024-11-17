@@ -4180,12 +4180,26 @@ Ocupación: _____
 ![Imagen de entrevista](image.jpg)  
 {texto mucho}
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
+**Segmento 2: Distribuidores**
+
+**Entrevista 1**  
+Nombre: William Ramos Vicente<br>
+Edad: 27 años<br>
+Ocupación: Distribuidor<br>
 ![Imagen de entrevista](image.jpg)
-{texto}
+
+Registro de entrevista:<br>
+Durante la entrevista con William Ramos Vicente, un distribuidor de 27 años que reside en el distrito de Miraflores, se obtuvieron valiosos insights sobre su experiencia utilizando Agrocontrol. La conversación permitió identificar las áreas donde la plataforma aporta mayor valor y las oportunidades de mejora para ajustarse mejor a las necesidades de los distribuidores y sus clientes.
+
+William destacó desde el inicio que Agrocontrol es una herramienta prometedora, especialmente porque automatiza procesos clave como la creación de inventarios en línea y los análisis financieros. Estas funciones no solo le ahorran tiempo, sino que también eliminan la necesidad de realizar cálculos manuales, algo que antes manejaba en papel o con Excel. Según su experiencia, estas características le permiten tener un control más preciso sobre las ganancias y la gestión de su tienda, algo que consideró muy valioso.
+
+Cuando se le preguntó sobre las funcionalidades más útiles para mejorar la relación con sus clientes agricultores, William señaló que un sistema que conecte de manera fluida a los distribuidores con los clientes sería crucial. En su opinión, la posibilidad de mostrar información clave como precios, disponibilidad de productos y otros detalles en tiempo real facilita la transparencia y la toma de decisiones. Además, comentó que un dashboard con datos consolidados sobre ganancias, pérdidas y estadísticas clave es esencial para mantener todo bien organizado y mapeado.
+
+Actualmente, William realiza el seguimiento de solicitudes y entregas mediante Excel, un método que considera eficiente pero ya anticuado y propenso a errores. Explicó que este sistema, aunque funcional, ha causado problemas en la actualización de inventarios. Relató un caso concreto donde la falta de sincronización en sus registros resultó en una pérdida de tiempo y dinero al aceptar pedidos para productos que ya no estaban en stock. Según William, Agrocontrol resuelve este problema al mantener un historial de ventas e inventarios actualizado y accesible en todo momento, lo que describe como un gran alivio para su trabajo diario.
+
+En cuanto a las áreas de mejora para la plataforma, William sugirió incorporar un apartado que permita vincular redes sociales como Facebook, Instagram y TikTok. Consideró que esta funcionalidad ayudaría a aumentar la visibilidad de los productos y servicios de los distribuidores, ofreciendo así una herramienta adicional para captar clientes y fortalecer la relación con ellos. También mencionó que, aunque la plataforma es bastante intuitiva, sería útil ajustar ciertos términos en la interfaz. Específicamente, propuso cambiar "cantidad" por "stock" en algunas secciones, ya que esto evitaría confusiones para usuarios menos experimentados.
+
+En términos generales, William expresó una opinión muy positiva sobre Agrocontrol. Valora la plataforma como una herramienta eficiente y bien diseñada que optimiza significativamente la gestión de su negocio. A pesar de las pequeñas áreas de mejora mencionadas, considera que Agrocontrol está en una posición excelente para resolver los desafíos cotidianos de los distribuidores y fortalecer la conexión con sus clientes agricultores. La claridad y precisión en el manejo de inventarios, junto con la automatización de procesos financieros, son aspectos que él destaca como fundamentales para recomendar la plataforma a otros usuarios.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
