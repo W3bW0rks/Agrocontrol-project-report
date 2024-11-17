@@ -93,9 +93,10 @@ TP: Se han cumplido las tareas asignadas para la entrega del TP, las cuales han 
         <em>TP:</em> En esta fase, compartí los avances del capítulo 3 en reuniones de equipo, explicando las nuevas user stories orientadas al front-end, accesibilidad, y la configuración de una API simulada (fake API). Realicé una presentación del navbar y el componente de inicio (home) para los procesos agrícolas, destacando su funcionalidad y cómo cada elemento facilita la usabilidad del sistema. La explicación estructurada de cada componente y su impacto permitió a todos los miembros del equipo, sin importar su especialidad, comprender su relevancia dentro del proyecto y alinear sus esfuerzos.<br><br>
         <em>TB2:</em> Para esta entrega, presenté las nuevas user stories relacionadas con el backend. En particular, abordé mis tareas en los contextos de IAM y Profile, destacando la implementación de aspectos de seguridad como JWT, la encriptación de contraseñas y la proteccion de rutas mediante guard. En reuniones técnicas, adapté la explicación para que los miembros del equipo pudieran entender el rol de estos elementos en la seguridad y su impacto en la integración del sistema. Esta comunicación efectiva ayudó a lograr una comprensión compartida de las medidas de seguridad implementadas.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
-        <em>TB1:</em>  Presenté los diseños de mockups y wireframes de la landing page y la aplicación web de manera clara y estructurada, asegurando que los diferentes miembros del equipo, independientemente de su nivel técnico, comprendieran la propuesta visual y funcional. En reuniones de seguimiento, expuse los principios de diseño y arquitectura de la información, facilitando la toma de decisiones alineadas con las guías de estilo del proyecto. Además, durante las presentaciones a stakeholders, utilicé un lenguaje accesible y objetivos concretos para destacar la importancia de cada componente, fomentando un entendimiento común y alineación con los objetivos del proyecto.<br><br>
-        <em>TP:</em> Durante la implementación de las vistas y formularios para la sección de fields, presenté los avances del proyecto de manera clara y estructurada en reuniones de equipo. Realicé demostraciones de las funcionalidades y expliqué el propósito y funcionamiento de cada vista, promoviendo un ambiente de colaboración en el que mis compañeros podían ofrecer retroalimentación. Esto aseguró que todos comprendieran la importancia de cada componente en el contexto del proyecto y fortaleció la alineación con los objetivos establecidos.<br><br>
-        <em>TB2:</em>En la desarrollo del backend, me encargué de la implementación de endpoints. En presentaciones y reuniones técnicas, comuniqué los detalles de cada endpoint, resaltando su funcionalidad y su integración con el sistema general. Adapté mi comunicación para que tanto colegas técnicos como aquellos de otras áreas pudieran comprender el impacto de estos desarrollos, asegurando que todos los involucrados en el proyecto compartieran una visión común sobre los resultados alcanzados.<br><br>
+        <em>TB1:</em>  En el marco del desarrollo del proyecto, comuniqué de manera clara y objetiva los diseños de mockups y wireframes de la landing page y la aplicación web a un público diverso, incluyendo stakeholders y miembros del equipo con diferentes niveles de especialización. Mis presentaciones fueron estructuradas, destacando los principios de diseño y arquitectura de la información, lo que permitió una comprensión común de los aspectos visuales y funcionales. Esto facilitó la toma de decisiones alineadas con los objetivos del proyecto, fomentando una visión compartida.<br><br>
+        <em>TP:</em> Durante la implementación de vistas y formularios para la sección de fields, presenté avances del proyecto en reuniones de equipo, destacando de manera objetiva el propósito y la funcionalidad de cada componente desarrollado. Mi comunicación estuvo adaptada a un público diverso en cuanto a especialidades, promoviendo un ambiente colaborativo que permitió integrar retroalimentación y fortalecer la alineación con los objetivos establecidos.<br><br>
+        <em>TB2:</em>En el desarrollo del backend, expliqué de manera estructurada y objetiva la funcionalidad de los endpoints implementados durante reuniones técnicas y presentaciones. Adapté mi lenguaje para que tanto miembros técnicos como de otras áreas comprendieran los resultados y su impacto en el sistema general. Esto aseguró que los involucrados en el proyecto compartieran una visión alineada, facilitando el avance del desarrollo y la integración de los componentes.<br><br>
+         <em>TF:</em>Durante esta fase, desarrollé el backend y gestioné el deployment completo del sistema, asegurando su correcto funcionamiento en producción. Además, participé en la implementación de partes clave del frontend. En cada presentación y reunión técnica, comuniqué de manera objetiva los resultados de estos desarrollos, adaptando mi lenguaje para audiencias de diferentes especialidades y niveles jerárquicos. Esto garantizó que todos los participantes comprendieran el impacto de las implementaciones y los beneficios alcanzados en el marco del proyecto, fomentando una visión compartida y alineada.<br><br>
         <strong>Hardie Holguin:</strong><br>
         <em>TB2:</em> En el desarrollo de los servicios backend, presenté los endpoints de manejo de payment, explicando su funcionalidad y los datos implicados en cada proceso. Durante las reuniones, adapté el lenguaje técnico para que pudieran entender los beneficios y el impacto de estos servicios en el proyecto. Esta claridad ayudó a unificar la visión entre todos los involucrados, promoviendo una colaboración efectiva y orientada a los objetivos del sistema.<br><br>
       </td>
@@ -117,9 +118,10 @@ TP: Se han cumplido las tareas asignadas para la entrega del TP, las cuales han 
         <em>TP:</em> En esta fase, amplié el capítulo 3 agregando user stories que cubren aspectos del front-end, accesibilidad y la configuración de una API simulada (fake API). Además, implementé el navbar y el componente de inicio (home) específico para los procesos agrícolas. Documenté cada componente desarrollado y su funcionalidad para asegurar una comprensión clara del impacto de estas implementaciones.<br><br>
         <em>TB2:</em> En esta entrega, agregué nuevas user stories para el desarrollo del backend. El equipo dividió el backend por bounded contexts; se me asignaron los contextos de IAM y Profile. En ellos, abordé aspectos de seguridad, incluyendo la implementación de JWT y la encriptación de contraseñas, y documenté cada endpoint implementado, especificando su integración en el front-end. Este enfoque facilitó la comprensión de la arquitectura de seguridad y la integración entre el backend y el frontend.<br><br>
         <strong>Alejandro Espino Flores:</strong><br>
-        <em>TB1:</em> Documenté el desarrollo del mockup y wireframe de la landing page y la aplicación web, asegurando una estructura visual clara y funcional que sigue las pautas de diseño y arquitectura de la información. En los informes, detallé cada componente del diseño con un lenguaje objetivo y accesible, facilitando la comprensión para públicos de diferentes especialidades. Además, incluí guías de estilo y explicaciones de la arquitectura de la información para garantizar que los lectores, sin importar su nivel técnico, comprendieran la justificación y funcionalidad de las decisiones de diseño.<br><br>
-        <em>TP:</em> Durante la implementación de las vistas y formularios para la sección de fields, documenté los avances de manera detallada y clara, asegurando que cada reporte incluyera una descripción funcional de los componentes desarrollados y su relevancia dentro del proyecto. Además, elaboré documentos que explicaban el flujo de datos y la interacción de las vistas con el resto del sistema, facilitando la comprensión de los componentes tanto para el equipo técnico como para los colaboradores de otras áreas. Esta documentación promovió la alineación en el equipo y permitió un seguimiento eficiente de los progresos.<br><br>
-        <em>TB2:</em> En el desarrollo del backend, fui responsable de la implementación de los endpoints para fields y worker. Redacté informes técnicos en los que describí la funcionalidad de cada endpoint, incluyendo detalles sobre la estructura de datos y ejemplos de uso. Estos documentos fueron diseñados para ser accesibles a miembros de diferentes especialidades y niveles jerárquicos, de modo que todos los involucrados pudieran entender el impacto y la utilidad de los endpoints en el contexto general del proyecto. La claridad en la comunicación escrita facilitó una integración fluida y la cooperación entre equipos.<br><br>
+        <em>TB1:</em> Documenté el desarrollo del mockup y wireframe de la landing page y la aplicación web, empleando un lenguaje claro y objetivo para detallar los componentes visuales y funcionales. En los informes, expliqué las decisiones de diseño y arquitectura de la información de manera estructurada, asegurando que públicos de diferentes especialidades y niveles jerárquicos pudieran comprender las justificaciones y funcionalidades propuestas. Además, incluí guías de estilo y explicaciones de la arquitectura de la información para alinear las expectativas del equipo y otros colaboradores con los objetivos del proyecto.<br><br>
+        <em>TP:</em>Durante la implementación de las vistas y formularios para la sección de fields, documenté los avances con un enfoque claro y detallado, asegurando que cada reporte incluyera una descripción funcional de los componentes desarrollados y su interacción con el sistema. Elaboré informes explicativos sobre el flujo de datos y la integración de las vistas, adaptando el contenido para que fuera comprensible para miembros técnicos y colaboradores de otras áreas. Esta documentación escrita promovió la alineación del equipo y facilitó el seguimiento del progreso en el proyecto.<br><br>
+        <em>TB2:</em> En el desarrollo del backend, fui responsable de la implementación de endpoints para las entidades fields y worker. Redacté informes técnicos detallados que describían la funcionalidad de cada endpoint, incluyendo su estructura de datos, ejemplos de uso, y el impacto de cada desarrollo en el sistema general. Estos documentos fueron diseñados con objetividad y claridad, permitiendo a miembros de diferentes especialidades y niveles jerárquicos comprender el propósito y la utilidad de los endpoints en el marco del proyecto. La precisión en la comunicación escrita facilitó la integración técnica y la colaboración entre equipos.<br><br>
+         <em>TF:</em> Durante esta fase, desarrollé el backend, gestioné el deployment completo del sistema y participé en la implementación de partes clave del frontend. Redacté informes técnicos detallados en los que describí los resultados obtenidos y las decisiones tomadas, adaptando el lenguaje para que fueran comprensibles para públicos de diferentes especialidades y niveles jerárquicos. Los documentos incluían explicaciones claras sobre la funcionalidad del backend, las configuraciones realizadas durante el deployment y las interacciones entre el frontend y backend. Esta comunicación escrita objetiva facilitó la comprensión de los resultados por parte de todos los involucrados, promoviendo la alineación y colaboración en el proyecto.<br><br>
         <strong>Hardie Holguin:</strong><br>
         <em>TB2:</em> Documenté de manera detallada la implementación de los endpoints para el manejo de payment. Redacté informes claros y comprensibles que incluían ejemplos de uso y estructura de datos, asegurando que tanto los equipos técnicos como otros colaboradores pudieran comprender el impacto y utilidad de cada desarrollo. Esta documentación facilitó la alineación del equipo en relación con las metas del proyecto y promovió una comprensión compartida de los resultados alcanzados.<br><br>
 <br><br>
@@ -1982,64 +1984,134 @@ Los diagramas de clases representan la estructura de un sistema orientado a obje
 
 ### 4.7.2. Class Dictionary.
 
-**User**  
-Clase representa a los usuarios del sistema
+# 4.7.2. Class Dictionary
 
-**Farmer**  
-Representa a los usuarios agricultores
-**Distributor**  
-Representa a los usuarios distribuidores
+## Subscription
+Clase que representa la suscripción de un usuario, que define el acceso a funcionalidades específicas.
+- **PlanTypes**: Enumeración que categoriza los planes como **Basic**, **Premium** o **Standard**.
 
-**Field**  
-Representa la tierra de cultivo del usuario "Farmer"
+---
 
-**IrrigationSchedule**  
-Representa la funcion de horario de riego de un campo
+## PaymentProduct
+Clase que representa los productos asociados a pagos realizados por los usuarios.
 
-**FertilizationSchedule**  
-Representa la funcion de horario de fertilizacion de un campo
+---
 
-**FumigationSchedule**  
-Representa la funcion de horario de fumigación de un campo
+## Product
+Clase que representa un producto disponible en la tienda de un distribuidor.
 
-**Harvest**  
-Representa la cosecha realizada en un campo
+---
 
-**Product**  
-Representa un producto disponible en la tienda de un distribuidor
+## Distributor
+Clase que representa los distribuidores, incluyendo su información personal y empresarial.
 
-**Offer**  
-Representa una oferta especial en la tienda de un distribuidor
+---
 
-**Subscription**  
-Representa la suscripción de un usuario, que define el acceso a funcionalidades
+## Producer
+Clase que representa a los productores agrícolas, con datos como ubicación y contacto.
 
-**UserFactory**  
-Instancias para "Farmer" y "Distributor"  
+---
+
+## Payment
+Clase que gestiona los pagos realizados por los usuarios, incluyendo detalles de tarjetas de crédito.
+
+---
+
+## User
+Clase que representa a los usuarios del sistema y sus roles asociados.
+
+---
+
+## Role
+Clase que define los roles disponibles en el sistema, como **Admin**, **Agricultural Producer** y **Distributor**.
+
+---
+
+## Finance
+Clase que registra las transacciones financieras relacionadas con los procesos agrícolas.
+
+---
+
+## Field
+Clase que representa la tierra de cultivo del usuario **Farmer**.
+
+---
+
+## Worker
+Clase que representa a los trabajadores asociados a un productor.
+
+---
+
+## AgriculturalProcess
+Clase que gestiona los procesos agrícolas, incluyendo actividades como siembra, riego, fertilización, fumigación y cosecha.
+- **AgriculturalActivityManager**: Clase que gestiona las actividades agrícolas.
+- **Resource**: Clase que detalla los recursos utilizados en las actividades.
+- **ActivityType**: Enumeración que categoriza actividades como **Seeding**, **Irrigation**, **Harvest**, entre otras.
+
+---
+
+## AgriculturalActivity
+Clase que detalla una actividad agrícola específica dentro de un proceso.
+
+---
+
+## IrrigationSchedule
+Clase que representa la función de horario de riego de un campo.
+
+---
+
+## FertilizationSchedule
+Clase que representa la función de horario de fertilización de un campo.
+
+---
+
+## FumigationSchedule
+Clase que representa la función de horario de fumigación de un campo.
+
+---
+
+## Harvest
+Clase que representa la cosecha realizada en un campo.
+
+---
+
+## Offer
+Clase que representa una oferta especial en la tienda de un distribuidor.
+
+---
+
 
 ## 4.8. Database Design.  
 ### 4.8.1. Database Diagram.  
 Visualizamos la estructura de una base de datos, mostrando entidades, atributos y relaciones, lo que ayuda a comprender la organización y el flujo de información en el sistema.  
 
 #### Agricultural Process
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/agriculturalprocessdb.jpeg" style="width: 800px"/>
 
 #### Fields
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/fieldsdb.jpeg" style="width: 800px"/>
 
 #### Profiles
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/profilesdb.jpeg" style="width: 800px"/>
 
 #### IAM
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/IAM.jpeg" style="width: 800px"/>
 
 #### Finances
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/financesdb.jpeg" style="width: 800px"/>
 
 #### Subscription
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/subscriptiondb.jpeg" style="width: 800px"/>
 
 #### Store
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/storedb.jpeg" style="width: 800px"/>
 
 #### Payment
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/paymentdb.jpeg" style="width: 800px"/>
 
 #### Diagram class
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Diagrams/AgroControl-DataBase.png?raw=true" style="width: 800px"/>
+<img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/main/assets/chapter-4-images/Diagrams/DB%20DIAGRAM.png" style="width: 800px"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -3618,10 +3690,138 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
  <tr> 
    <th> Agrocontrol-frontend </th>
    <th>  feature/master  </th>
-   <th> b79d1ae  </th>
+   <th> b7977ae  </th>
    <th> refactor: improve behavior when creating an agricultural process to navigate to seeding form. Also, add methods to change states of agricultural activity.</th>
    <th> </th>
    <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b3e33e  </th>
+   <th> refactor: remove unused components and optimize imports.</th>
+   <th> </th>
+   <th> 10/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> bda21ae  </th>
+   <th>feat: add product stored model and service, add finance service and changes in few components.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7343e  </th>
+   <th>refactor: remove unused components and add message when not fields found of user.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d21  </th>
+   <th>feat: add resource form working and change name of methods in services.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79dg4e  </th>
+   <th>refactor: change name of link to CropTreatment table.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7943ae  </th>
+   <th>feat(finances): add finance model.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79123e  </th>
+   <th>feat(finances): add finance service.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7331ae  </th>
+   <th>feat(finances): add finance table and finance view.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b5341ae  </th>
+   <th>feat: add products of producer component and view.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b74321ae  </th>
+   <th>feat(subscriptions): add subscription-summary component.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d1ae  </th>
+   <th>feat(subscriptions): add subscription payment component.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b73b2ae  </th>
+   <th>feat(profile-management): add profile-detail component.</th>
+   <th> </th>
+   <th> 14/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b79d1ae  </th>
+   <th>feat: add produts store.</th>
+   <th> </th>
+   <th> 09/11/24  </th>
+ </tr>
+
+  
+
+  <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> b7825ae  </th>
+   <th>feat: add views for distributor role.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
  </tr>
 
   <tr> 
@@ -3630,9 +3830,102 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <th> ae0ac52  </th>
    <th> feat: add team members to the "about the team" section, v-en.</th>
    <th> </th>
-   <th> 14/11/24  </th>
+   <th> 10/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th>  4d3b29b  </th>
+   <th> feat: add logic of PaymentProduct Controller.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-frontend </th>
+   <th>  feature/master  </th>
+   <th> a24d1ae  </th>
+   <th>refactor: changes in sidenav to show link depending of user role.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 5a82507  </th>
+   <th> refactor: add description when adding a resource to an agricultural activity.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> f1f37b1  </th>
+   <th> refactor: add product name in payment product.</th>
+   <th> </th>
+   <th> 09/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> f97b200  </th>
+   <th> refactor: remove acl of products, move product payment to store bounded context and change the behavior when creating a payment product.</th>
+   <th> </th>
+   <th> 15/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 1992630  </th>
+   <th> feat: add acl for store and workers, and change payment product to increase quantity of existing product.</th>
+   <th> </th>
+   <th> 12/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 0ccde83  </th>
+   <th> refactor(store): improve acl to get product name by id.</th>
+   <th> </th>
+   <th> 11/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 16f7b3b </th>
+   <th> feat: add get all products from store query and optimize imports.</th>
+   <th> </th>
+   <th> 15/11/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 4adc4c2 </th>
+   <th> fix: query to get products not owned by user id.</th>
+   <th> </th>
+   <th> 10/11/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/main  </th>
+   <th> 6c5b95c </th>
+   <th> refactor: remove unused annotation.</th>
+   <th> </th>
+   <th> 13/11/24  </th>
  </tr>
  </table>  
+ 
+ 
+ 
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.  
 
@@ -3712,10 +4005,10 @@ En la Landing Page se incorporaron los videos "about the product" y "about the t
 Link de acceso al Landing Page:  
 https://agrocontrol-landing-page-upc.vercel.app/   
 
-Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma XYZ para su despliegue.
+Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma Azure para su despliegue.
 
 Se puede acceder a nuestra API desde el siguiente link:
-[Este es el link de la API](https://agrocontrol-api.herokuapp.com/)
+[Este es el link de la API](https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.  
 
@@ -3743,7 +4036,96 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
   </table>
 
 
-### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.
+
+La aplicación se desplegó utilizando **Azure** para la base de datos y el backend, y **Vercel** para el frontend. Azure garantiza escalabilidad y seguridad en la base de datos y backend, mientras que Vercel optimiza el rendimiento y la gestión del frontend.
+
+---
+
+# Despliegue de la Aplicación
+
+---
+
+## 1. Base de Datos
+
+El despliegue de la base de datos se realizó mediante **Azure for MySQL Flexible Servers**, siguiendo los pasos descritos a continuación:
+
+### 1.1 Creación del Servidor de Base de Datos
+
+Se configuró un servidor en Azure para gestionar la base de datos, asegurando flexibilidad y escalabilidad.
+
+![Servidor para la Base de Datos](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/SERVER%20FOR%20DEPLOYMENT.png)
+
+### 1.2 Configuración de la Base de Datos
+
+Se realizaron las configuraciones necesarias para garantizar la conectividad y la seguridad de la base de datos.
+
+![Configuraciones de la Base de Datos](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/configurations%20for%20database.png)  
+![Configuraciones Adicionales](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/configurations%20for%20database2.png)
+
+### 1.3 Despliegue de la Base de Datos
+
+Finalmente, se realizó el despliegue exitoso de la base de datos en Azure.
+
+![Despliegue de la Base de Datos](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/deployingdatabase.png)
+
+---
+
+## 2. Backend
+
+El backend, desarrollado en **Java** utilizando frameworks como Spring Boot, fue desplegado utilizando **Azure App Services**, permitiendo un entorno optimizado para aplicaciones basadas en JVM (Java Virtual Machine). A continuación, se describen los pasos del proceso:
+
+### 2.1 Creación de la Aplicación Web
+
+Se creó la aplicación web en Azure, configurando los recursos necesarios para soportar un entorno de ejecución de Java.
+
+![Creación de la Web App](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Creating%20web%20app.png)
+
+### 2.2 Autorización del Repositorio
+
+Se autorizó el repositorio de código fuente para integrar el despliegue continuo mediante pipelines configurados en Azure DevOps.
+
+![Autorización del Repositorio](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Authorizing%20Repositories.png)
+
+### 2.3 Configuración de la Aplicación Web
+
+Antes de iniciar el despliegue, se realizaron todas las configuraciones necesarias, como la asignación de variables de entorno para conectar el backend a la base de datos.
+
+![Configuraciones de la Web App](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Authorizing%20Repositories.png)
+
+### 2.4 Despliegue del Backend
+
+El backend se desplegó en Azure utilizando las configuraciones establecidas, asegurando la compatibilidad con el entorno de ejecución de Java.
+
+![Despliegue del Backend](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/Deploying%20backend.png)
+
+### 2.5 Validación del Despliegue
+
+El backend fue desplegado exitosamente y se confirmó su funcionamiento mediante la URL generada, incluyendo un punto de acceso a la API a través de Swagger UI.
+
+![Vista del Backend](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/bACKENDdeployedView.png)
+
+- **URL del backend**: https://agrocontrol-backend-hedvhpeedaf9d7da.canadacentral-01.azurewebsites.net/swagger-ui/index.html
+
+---
+
+## 3. Frontend
+
+El frontend fue desplegado utilizando **Vercel**, aprovechando su infraestructura global para un rendimiento óptimo. A continuación, se detalla el proceso:
+
+### 3.1 Despliegue del Frontend
+
+Se realizó el despliegue del frontend, desarrollado con tecnologías web modernas, con las configuraciones necesarias para asegurar su integración con el backend y la base de datos.
+
+![Despliegue del Frontend](https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/deployment/FrontEnd%20deployment.png)
+
+### 3.2 Validación del Despliegue
+
+El frontend fue desplegado exitosamente y está disponible en la siguiente URL:
+
+- **URL del frontend**: https://agrocontrol-frontend.vercel.app
+
+
 
 ### 5.2.3.8 Team Collaboration Insights during Sprint.  
 
@@ -3798,12 +4180,24 @@ Ocupación: _____
 ![Imagen de entrevista](image.jpg)  
 {texto mucho}
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Segmento 2: Distribuidores**
+
+Entrevistas #01: **William Ramos** (**28 años - Miraflores**) - **17 de noviembre del 2024** 
+
+<img src="https://github.com/W3bW0rks/Agrocontrol-project-report/blob/777e7a075ad24b8c6a662b6b8ecc3d2506f28e71/assets/interview-heuristics/entrevista-heuristica-william.png">
+
+Registro de entrevista:<br>
+Durante la entrevista con William Ramos Vicente, un distribuidor de 28 años que reside en el distrito de Miraflores, se obtuvieron valiosos insights sobre su experiencia utilizando Agrocontrol. La conversación permitió identificar las áreas donde la plataforma aporta mayor valor y las oportunidades de mejora para ajustarse mejor a las necesidades de los distribuidores y sus clientes.
+
+William destacó desde el inicio que Agrocontrol es una herramienta prometedora, especialmente porque automatiza procesos clave como la creación de inventarios en línea y los análisis financieros. Estas funciones no solo le ahorran tiempo, sino que también eliminan la necesidad de realizar cálculos manuales, algo que antes manejaba en papel o con Excel. Según su experiencia, estas características le permiten tener un control más preciso sobre las ganancias y la gestión de su tienda, algo que consideró muy valioso.
+
+Cuando se le preguntó sobre las funcionalidades más útiles para mejorar la relación con sus clientes agricultores, William señaló que un sistema que conecte de manera fluida a los distribuidores con los clientes sería crucial. En su opinión, la posibilidad de mostrar información clave como precios, disponibilidad de productos y otros detalles en tiempo real facilita la transparencia y la toma de decisiones. Además, comentó que un dashboard con datos consolidados sobre ganancias, pérdidas y estadísticas clave es esencial para mantener todo bien organizado y mapeado.
+
+Actualmente, William realiza el seguimiento de solicitudes y entregas mediante Excel, un método que considera eficiente pero ya anticuado y propenso a errores. Explicó que este sistema, aunque funcional, ha causado problemas en la actualización de inventarios. Relató un caso concreto donde la falta de sincronización en sus registros resultó en una pérdida de tiempo y dinero al aceptar pedidos para productos que ya no estaban en stock. Según William, Agrocontrol resuelve este problema al mantener un historial de ventas e inventarios actualizado y accesible en todo momento, lo que describe como un gran alivio para su trabajo diario.
+
+En cuanto a las áreas de mejora para la plataforma, William sugirió incorporar un apartado que permita vincular redes sociales como Facebook, Instagram y TikTok. Consideró que esta funcionalidad ayudaría a aumentar la visibilidad de los productos y servicios de los distribuidores, ofreciendo así una herramienta adicional para captar clientes y fortalecer la relación con ellos. También mencionó que, aunque la plataforma es bastante intuitiva, sería útil ajustar ciertos términos en la interfaz. Específicamente, propuso cambiar "cantidad" por "stock" en algunas secciones, ya que esto evitaría confusiones para usuarios menos experimentados.
+
+En términos generales, William expresó una opinión muy positiva sobre Agrocontrol. Valora la plataforma como una herramienta eficiente y bien diseñada que optimiza significativamente la gestión de su negocio. A pesar de las pequeñas áreas de mejora mencionadas, considera que Agrocontrol está en una posición excelente para resolver los desafíos cotidianos de los distribuidores y fortalecer la conexión con sus clientes agricultores. La claridad y precisión en el manejo de inventarios, junto con la automatización de procesos financieros, son aspectos que él destaca como fundamentales para recomendar la plataforma a otros usuarios.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
