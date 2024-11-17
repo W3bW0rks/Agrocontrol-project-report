@@ -3287,7 +3287,7 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
 <table>
      <tr> 
         <th>  Sprint #  </th>
-        <th> Sprint 3 </th>
+        <th> Sprint 4 </th>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
@@ -3337,7 +3337,7 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Goal</td>
           <td style="text-align: justify"> 
-          Nuestro enfoque para este sprint es desplegar el API de la aplicación backend y asegurar la integración efectiva entre el frontend y el backend. Adicionalmente, trabajaremos en una nueva versión de las funcionalidades existentes, para completar y optimizar cada aspecto de la plataforma, mejorando así la gestión agrícola y ofreciendo un control más preciso sobre las operaciones diarias. Creemos que estos avances permitirán a los agricultores y usuarios del sistema incrementar la eficiencia en sus operaciones, logrando una gestión integral y estratégica de sus recursos. La conexión del frontend con el backend garantiza una experiencia de usuario fluida, aprovechando al máximo las capacidades del API para integrar AgroControl con otras plataformas y herramientas tecnológicas. Esto proporcionará a los usuarios la flexibilidad necesaria para tomar decisiones informadas en cada etapa del ciclo agrícola. El impacto esperado es que los usuarios puedan interactuar fácilmente con el sistema, visualizando sus datos financieros y operativos en tiempo real. Esto se confirmará cuando los usuarios experimenten mejoras significativas en la integración y el funcionamiento de la plataforma, accediendo a las funcionalidades de manera eficiente y obteniendo reportes financieros detallados con ingresos y costos desglosados por actividad.
+            Nuestro objetivo es proporcionar a los usuarios información más detallada sobre los desarrolladores, mejorar el proceso de pago para facilitar el acceso a la aplicación web, y ampliar la funcionalidad del perfil de usuario para una experiencia más enriquecedora. Creemos que esto ofrecerá a los usuarios un conocimiento más profundo de las personas detrás del producto, lo cual fortalecerá la confianza en AgroControl. Además, el proceso de pago optimizado permitirá a los usuarios gestionar sus transacciones de manera más sencilla y eficiente. La ampliación de las funcionalidades del perfil les otorgará una vista más completa y personalizable de su información en la plataforma. Esto se confirmará cuando los usuarios puedan acceder fácilmente a información detallada sobre los desarrolladores desde el sitio web, realicen pagos para acceder a la aplicación web sin inconvenientes, y gestionen y visualicen su perfil enriquecido con información personalizada directamente desde la web, mejorando así su interacción global con la plataforma.
           <td>
       </tr>
        <tr>
