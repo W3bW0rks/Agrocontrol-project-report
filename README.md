@@ -4197,14 +4197,7 @@ En esta sección se presentan gráficos que reflejan los insights de colaboraci�
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2: Distribuidores**
+**Segmento: Distribuidores**
 
 Entrevistas #01: **William Ramos** (**28 años - Miraflores**) - **17 de noviembre del 2024**  
 
